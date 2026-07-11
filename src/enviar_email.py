@@ -74,6 +74,9 @@ def enviar_aviso() -> None:
     paso = "desconocido"
     if ARCHIVO_ESTADO.exists():
         paso = ARCHIVO_ESTADO.read_text(encoding="utf-8").strip() or paso
+    # Fuera de GitHub Actions solo puede ser una prueba manual: se marca en el
+    # asunto para que nunca se confunda con un fallo real del periódico
+    prueba = "" if os.environ.get("GITHUB_ACTIONS") == "true" else "[Prueba local] "
     html = f"""
     <div style="font-family:Arial,sans-serif;max-width:600px;margin:0 auto;padding:24px;">
       <h2 style="color:#b3261e;">⚠️ El Primer Café no se ha publicado hoy</h2>
@@ -85,7 +88,7 @@ def enviar_aviso() -> None:
       un 429 de la API...), puedes relanzarlo a mano desde esa página con
       «Run workflow».</p>
     </div>"""
-    _enviar("⚠️ El Primer Café no se ha publicado hoy", html)
+    _enviar(f"⚠️ {prueba}El Primer Café no se ha publicado hoy", html)
 
 
 if __name__ == "__main__":
