@@ -13,7 +13,7 @@
   <header class="cabecera">
     <p class="antetitulo">Hemeroteca</p>
     <h1 class="masthead"><a href="index.html">El Primer Café</a></h1>
-    <p class="fecha-edicion">{{ ediciones | length }} edición{{ 'es' if ediciones | length != 1 else '' }} publicadas</p>
+    <p class="fecha-edicion">{{ ediciones | length }} {{ 'edición publicada' if ediciones | length == 1 else 'ediciones publicadas' }}</p>
   </header>
 
   <ul class="hemeroteca-lista">
