@@ -33,23 +33,32 @@ URL_PERIODICO = os.environ.get(
 
 
 def _enviar(asunto: str, html: str) -> None:
+    """EMAIL_DESTINO admite varias direcciones separadas por comas; cada
+    destinatario recibe su propio email (sin ver al resto)."""
     clave = os.environ.get("RESEND_API_KEY")
-    destino = os.environ.get("EMAIL_DESTINO")
-    if not clave or not destino:
+    destinos = [d.strip() for d in os.environ.get("EMAIL_DESTINO", "").split(",")
+                if d.strip()]
+    if not clave or not destinos:
         raise RuntimeError(
             "Faltan las variables RESEND_API_KEY y/o EMAIL_DESTINO"
         )
-    respuesta = requests.post(
-        URL_API,
-        json={"from": REMITENTE, "to": [destino], "subject": asunto, "html": html},
-        headers={"Authorization": f"Bearer {clave}"},
-        timeout=30,
-    )
-    if respuesta.status_code >= 300:
-        raise RuntimeError(
-            f"Resend devolvió HTTP {respuesta.status_code}: {respuesta.text[:300]}"
+    errores = []
+    for destino in destinos:
+        respuesta = requests.post(
+            URL_API,
+            json={"from": REMITENTE, "to": [destino],
+                  "subject": asunto, "html": html},
+            headers={"Authorization": f"Bearer {clave}"},
+            timeout=30,
         )
-    print(f"Email enviado a {destino}: {asunto}")
+        if respuesta.status_code >= 300:
+            errores.append(
+                f"{destino}: HTTP {respuesta.status_code} {respuesta.text[:200]}"
+            )
+        else:
+            print(f"Email enviado a {destino}: {asunto}")
+    if errores:
+        raise RuntimeError("Resend falló con: " + "; ".join(errores))
 
 
 def enviar_resumen(periodico: dict) -> None:
