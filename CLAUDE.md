@@ -44,8 +44,18 @@ a paso y no des nada por sabido.
   español (recopilar, generar, publicar).
 - Windows local: stdout se reconfigura a UTF-8 en cada `__main__`; `tzdata` está
   en requirements porque zoneinfo lo necesita en Windows.
-- Sin frameworks en la web: HTML + CSS puro (`docs/estilo.css`), serif Georgia
-  en titulares, mobile-first, paleta papel/café (#fbf8f2 / #8a5a2b).
+- Sin frameworks en la web: HTML + CSS puro (`docs/estilo.css`), mobile-first.
+  Sistema de diseño (rediseño jul-2026, skills Snowden): Fraunces (serif
+  variable, Google Fonts) para masthead/titulares + Instrument Sans para
+  cuerpo; paleta papel #f8f3ea / tinta #211d17 / UN solo acento café #7c4a23;
+  grano de papel (SVG feTurbulence en capa fija pointer-events:none); SIN
+  emojis en la UI (secciones numeradas 01-06 estilo FT); "Por qué importa"
+  como bloque con filete café; "Concepto del día" como placa espresso oscura
+  #251d14 (el único card de la página); animación solo de entrada
+  (cabecera/índice/esencial, 700ms cubic-bezier(0.23,1,0.32,1)) con
+  prefers-reduced-motion y hover tras @media (hover:hover).
+- Cada edición archiva también su JSON en `docs/ediciones/<fecha>.json`:
+  para rediseñar, re-renderizar desde ahí (nunca reconstruir del HTML).
 
 ## Probar
 

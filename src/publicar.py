@@ -65,6 +65,11 @@ def publicar(periodico: dict) -> Path:
     ruta_edicion.write_text(
         plantilla.render(raiz="../", **contexto), encoding="utf-8"
     )
+    # El JSON de cada edición se archiva junto al HTML: permite re-renderizar
+    # ediciones antiguas cuando cambie el diseño de las plantillas
+    (CARPETA_EDICIONES / f"{fecha}.json").write_text(
+        json.dumps(periodico, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
     # La portada solo se sobrescribe si esta edición es la más reciente
     if fecha == fechas[-1]:

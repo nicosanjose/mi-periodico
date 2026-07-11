@@ -27,7 +27,7 @@ ARCHIVO_CONCEPTOS = RAIZ / "config" / "conceptos_usados.json"
 BLOQUES = [
     {
         "id": "geopolitica",
-        "titulo": "🌍 Geopolítica e internacional",
+        "titulo": "Geopolítica e internacional",
         "cuantas": "3-4",
         "criterio": (
             "Prioriza lo que un estudiante de Relaciones Internacionales "
@@ -37,7 +37,7 @@ BLOQUES = [
     },
     {
         "id": "economia",
-        "titulo": "📈 Economía y mercados",
+        "titulo": "Economía y mercados",
         "cuantas": "3-4",
         "criterio": (
             "Incluye contexto de mercados si hay movimiento relevante: qué "
@@ -46,7 +46,7 @@ BLOQUES = [
     },
     {
         "id": "tecnologia",
-        "titulo": "🤖 IA y tecnología",
+        "titulo": "IA y tecnología",
         "cuantas": "2-3",
         "criterio": (
             "Prioriza IA, lanzamientos importantes y lo que afecte a la "
@@ -55,13 +55,13 @@ BLOQUES = [
     },
     {
         "id": "espana",
-        "titulo": "🇪🇸 España",
+        "titulo": "España",
         "cuantas": "2-3",
         "criterio": "Política y economía nacional; evita sucesos y deportes.",
     },
     {
         "id": "cultura",
-        "titulo": "🎭 Cultura y ciencia",
+        "titulo": "Cultura y ciencia",
         "cuantas": "1-2",
         "criterio": "Noticias o hallazgos genuinamente interesantes.",
     },
