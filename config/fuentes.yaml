@@ -1,0 +1,53 @@
+# Fuentes RSS de El Primer Café
+# ------------------------------
+# Cada bloque tiene una lista de fuentes. Para añadir o quitar una fuente,
+# edita este archivo: no hace falta tocar ningún código.
+#   nombre: cómo se citará el medio en el periódico
+#   url:    la dirección del feed RSS
+#
+# Los bloques (geopolitica, economia, tecnologia, espana, cultura) alimentan
+# las secciones del periódico en ese orden.
+
+geopolitica:
+  - nombre: The Guardian World
+    url: https://www.theguardian.com/world/rss
+  - nombre: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+  - nombre: El País Internacional
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
+  - nombre: Politico Europe
+    url: https://www.politico.eu/feed/
+
+economia:
+  - nombre: Expansión
+    url: https://e00-expansion.uecdn.es/rss/portada.xml
+  - nombre: Financial Times
+    url: https://www.ft.com/rss/home
+  - nombre: Cinco Días
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/cincodias.elpais.com/portada
+  - nombre: The Guardian Business
+    url: https://www.theguardian.com/business/rss
+
+tecnologia:
+  - nombre: TechCrunch
+    url: https://techcrunch.com/feed/
+  - nombre: The Verge
+    url: https://www.theverge.com/rss/index.xml
+  - nombre: Xataka
+    url: https://www.xataka.com/feedburner.xml
+  - nombre: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+
+espana:
+  - nombre: El País
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
+  - nombre: El Mundo
+    url: https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml
+  - nombre: El Confidencial
+    url: https://rss.elconfidencial.com/espana/
+
+cultura:
+  - nombre: El País Cultura
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada
+  - nombre: BBC Science
+    url: https://feeds.bbci.co.uk/news/science_and_environment/rss.xml

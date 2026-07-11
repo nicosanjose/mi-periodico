@@ -1,0 +1,57 @@
+# El Primer Café — contexto del proyecto
+
+Periódico personal diario 100% automatizado y 100% gratuito de Nico. Se publica
+solo cada mañana (~6:30 Madrid) vía GitHub Actions: RSS → Gemini → web estática
+en GitHub Pages + email por Resend. Nico no programa: explica los cambios paso
+a paso y no des nada por sabido.
+
+- **Web:** https://nicosanjose.github.io/mi-periodico/ (Pages sirve `docs/` de `main`)
+- **Repo:** nicosanjose/mi-periodico (público; es PERSONAL, no de Snowden)
+- **Email:** Resend, remitente `onboarding@resend.dev` → solo puede enviar al email
+  de la cuenta de Nico (sin dominio verificado). Secrets: `GEMINI_API_KEY`,
+  `RESEND_API_KEY`, `EMAIL_DESTINO`.
+
+## Arquitectura y decisiones clave
+
+- `src/diario.py` orquesta todo y aplica DOS GUARDAS: hora Madrid 06:00-08:59
+  (el cron dispara 04:25 y 05:25 UTC para cubrir verano/invierno + retrasos de
+  GitHub) e idempotencia (si `docs/ediciones/<hoy>.html` existe, no repite).
+  `FORZAR=true` o `--forzar` se las salta (es el default del workflow_dispatch).
+- `src/llm.py` es la ÚNICA capa que conoce al proveedor (Gemini REST v1beta,
+  `gemini-2.5-flash`, sin SDK). Cambiar de proveedor = reescribir solo este
+  archivo manteniendo el contrato `llamar_llm(prompt) -> str` (texto JSON).
+  Backoff exponencial 20/60/180s ante 429 y 5xx.
+- `src/generar.py`: el LLM NUNCA escribe URLs; cita IDs de artículos (`geo1`,
+  `eco2`...) y `_resolver_fuentes()` pone los enlaces reales. Validación
+  estricta del JSON con 1 reintento citando el error. Los bloques y el prompt
+  editorial viven en `BLOQUES` y `PLANTILLA_PROMPT` al principio del archivo.
+- El concepto del día se acumula en `config/conceptos_usados.json` (el workflow
+  lo commitea junto a `docs/`); la validación rechaza repetidos.
+- `src/publicar.py`: Jinja2 desde `plantillas/`; fecha en español con mapas
+  propios (sin locale); número de edición = posición cronológica del archivo en
+  `docs/ediciones/`. `index.html` solo se sobrescribe si la edición es la más
+  reciente. `raiz` ("" o "../") ajusta rutas relativas portada/archivo.
+- Feeds en `config/fuentes.yaml`: un feed caído se loguea y se sigue. OJO:
+  Reuters cerró sus RSS públicos; se usan The Guardian World/Business en su lugar.
+- Si cualquier paso falla, el workflow manda email de aviso (`--aviso`); el paso
+  actual queda apuntado en `_trabajo/estado.txt`.
+- `_trabajo/` es efímero y está en .gitignore (artículos del día, periodico.json,
+  capturas de verificación).
+
+## Convenciones
+
+- Código, comentarios, logs y commits en español. Nombres de archivo/función en
+  español (recopilar, generar, publicar).
+- Windows local: stdout se reconfigura a UTF-8 en cada `__main__`; `tzdata` está
+  en requirements porque zoneinfo lo necesita en Windows.
+- Sin frameworks en la web: HTML + CSS puro (`docs/estilo.css`), serif Georgia
+  en titulares, mobile-first, paleta papel/café (#fbf8f2 / #8a5a2b).
+
+## Probar
+
+- Local sin API keys: `python src/recopilar.py` (RSS reales) y
+  `python src/publicar.py` (si hay `_trabajo/periodico.json`).
+- Local completo: exportar los 3 secrets y `python src/diario.py --forzar`.
+- En GitHub: pestaña Actions → "El Primer Café diario" → Run workflow.
+- Verificación visual: capturas Playwright (`channel="chrome"`) como en
+  `_trabajo/capturas.py`.

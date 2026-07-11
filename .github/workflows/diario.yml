@@ -1,0 +1,72 @@
+# El Primer Café — publicación diaria automática
+#
+# El cron dispara dos veces (04:25 y 05:25 UTC) para cubrir el horario de
+# verano e invierno de Madrid: src/diario.py comprueba la hora local y solo
+# publica en la ventana 06:00-08:59, y solo si la edición de hoy no existe
+# aún (así el segundo disparo se autodescarta).
+#
+# También se puede lanzar a mano desde la pestaña Actions ("Run workflow"),
+# que por defecto fuerza la publicación aunque no sea la hora.
+
+name: El Primer Café diario
+
+on:
+  schedule:
+    - cron: '25 4,5 * * *'
+  workflow_dispatch:
+    inputs:
+      forzar:
+        description: 'Publicar aunque no sea la hora o ya exista la edición de hoy'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: diario
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Generar y publicar la edición de hoy
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
+          FORZAR: ${{ github.event_name == 'workflow_dispatch' && inputs.forzar }}
+        run: python src/diario.py
+
+      - name: Subir la edición al repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs config/conceptos_usados.json
+          if git diff --cached --quiet; then
+            echo "Nada nuevo que subir."
+          else
+            git commit -m "Edición $(date -u +%F)"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Avisar por email si algo ha fallado
+        if: failure()
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          EMAIL_DESTINO: ${{ secrets.EMAIL_DESTINO }}
+        run: python src/enviar_email.py --aviso

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>El Primer Café</title>
+</head>
+<body style="margin:0;padding:0;background-color:#f3ecdf;">
+  <div style="max-width:600px;margin:0 auto;padding:24px 16px;">
+
+    <div style="background-color:#fbf8f2;border:1px solid #e6ddce;padding:28px 24px;">
+
+      <div style="text-align:center;border-bottom:3px double #1d1a16;padding-bottom:16px;">
+        <p style="margin:0 0 6px;font-family:Arial,sans-serif;font-size:11px;letter-spacing:3px;color:#6e675c;">TU BRIEFING DIARIO</p>
+        <h1 style="margin:0;font-family:Georgia,'Times New Roman',serif;font-size:34px;color:#1d1a16;">☕ El Primer Café</h1>
+        <p style="margin:8px 0 0;font-family:Arial,sans-serif;font-size:13px;color:#6e675c;">{{ fecha_larga }} · Edición n.º {{ numero }}</p>
+      </div>
+
+      <div style="padding:20px 0 4px;">
+        {% for titular in titulares %}
+        <div style="padding:12px 0;border-bottom:1px solid #e6ddce;">
+          <p style="margin:0 0 4px;font-family:Georgia,'Times New Roman',serif;font-size:17px;font-weight:bold;color:#1d1a16;line-height:1.35;">{{ loop.index }}. {{ titular.titular }}</p>
+          <p style="margin:0;font-family:Arial,sans-serif;font-size:14px;color:#4a443b;line-height:1.5;">{{ titular.resumen }}</p>
+        </div>
+        {% endfor %}
+      </div>
+
+      <div style="text-align:center;padding:26px 0 10px;">
+        <a href="{{ url_periodico }}" style="display:inline-block;background-color:#8a5a2b;color:#ffffff;font-family:Arial,sans-serif;font-size:15px;font-weight:bold;text-decoration:none;padding:13px 30px;border-radius:4px;">Leer el periódico completo →</a>
+      </div>
+
+      <p style="text-align:center;margin:14px 0 0;font-family:Arial,sans-serif;font-size:12px;color:#6e675c;">
+        Con las noticias completas, el contexto de cada una y el concepto del día.<br>
+        <a href="{{ url_periodico }}hemeroteca.html" style="color:#8a5a2b;">Hemeroteca</a>
+      </p>
+
+    </div>
+
+    <p style="text-align:center;font-family:Arial,sans-serif;font-size:11px;color:#9a927f;margin:14px 0 0;">
+      El Primer Café se escribe solo cada mañana a partir de fuentes RSS.
+    </p>
+
+  </div>
+</body>
+</html>

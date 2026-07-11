@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>El Primer Café — {{ fecha_larga }}</title>
+<meta name="description" content="Briefing diario personal: geopolítica, economía, tecnología, España y cultura, explicados con contexto.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>☕</text></svg>">
+<link rel="stylesheet" href="{{ raiz }}estilo.css">
+</head>
+<body>
+<div class="pagina">
+
+  <header class="cabecera">
+    <p class="antetitulo">Tu briefing diario · 10 minutos</p>
+    <h1 class="masthead"><a href="{{ raiz }}index.html">El Primer Café</a></h1>
+    <p class="fecha-edicion">{{ fecha_larga }} · Edición n.º {{ numero }}</p>
+  </header>
+
+  <nav class="indice" aria-label="Índice del día">
+    {% for bloque in periodico.bloques -%}
+    <a href="#{{ bloque.id }}">{{ bloque.titulo }}</a>
+    {% endfor -%}
+    <a href="#concepto">💡 Concepto del día</a>
+  </nav>
+
+  <section class="esencial">
+    <h2>En 30 segundos</h2>
+    <ol>
+      {% for titular in periodico.titulares_portada -%}
+      <li><strong>{{ titular.titular }}.</strong> {{ titular.resumen }}</li>
+      {% endfor %}
+    </ol>
+  </section>
+
+  <main>
+    {% for bloque in periodico.bloques %}
+    <section class="bloque" id="{{ bloque.id }}">
+      <h2 class="bloque-titulo">{{ bloque.titulo }}</h2>
+      {% for noticia in bloque.noticias %}
+      <article class="noticia">
+        <h3>{{ noticia.titular }}</h3>
+        <p>{{ noticia.que_ha_pasado }}</p>
+        <p><span class="etiqueta">Por qué importa</span> {{ noticia.por_que_importa }}</p>
+        <p class="fuentes">Fuente{{ 's' if noticia.fuentes | length > 1 else '' }}:
+          {% for fuente in noticia.fuentes -%}
+          <a href="{{ fuente.url }}" target="_blank" rel="noopener">{{ fuente.nombre }}</a>{{ " · " if not loop.last else "" }}
+          {%- endfor %}
+        </p>
+      </article>
+      {% endfor %}
+    </section>
+    {% endfor %}
+
+    <section class="concepto" id="concepto">
+      <p class="sobretitulo">💡 Concepto del día</p>
+      <h2>{{ periodico.concepto_del_dia.termino }}</h2>
+      <p>{{ periodico.concepto_del_dia.explicacion }}</p>
+      <p class="ejemplo"><strong>Ejemplo real:</strong> {{ periodico.concepto_del_dia.ejemplo }}</p>
+    </section>
+  </main>
+
+  <footer class="pie">
+    <p><a href="{{ raiz }}hemeroteca.html">📚 Hemeroteca</a> — todas las ediciones anteriores</p>
+    <p>El Primer Café se escribe solo cada mañana a partir de fuentes RSS.<br>
+    Los enlaces llevan siempre a los artículos originales.</p>
+    <a class="subir" href="#top" onclick="window.scrollTo({top:0,behavior:'smooth'});return false;">↑ Volver arriba</a>
+  </footer>
+
+</div>
+</body>
+</html>

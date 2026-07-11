@@ -1,0 +1,243 @@
+/* El Primer Café — hoja de estilos
+   Estética de periódico digital sobrio (referencia FT / Morning Brew).
+   Mobile-first, tipografía serif en titulares, sans en cuerpo. */
+
+:root {
+  --papel: #fbf8f2;
+  --tinta: #1d1a16;
+  --gris: #6e675c;
+  --cafe: #8a5a2b;
+  --cafe-oscuro: #5c3d1d;
+  --regla: #e6ddce;
+  --crema: #f3ecdf;
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--papel);
+  color: var(--tinta);
+  font-family: var(--sans);
+  font-size: 17px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+.pagina {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 0 20px 64px;
+}
+
+a { color: var(--cafe); }
+a:hover { color: var(--cafe-oscuro); }
+
+/* ---------- Cabecera ---------- */
+
+.cabecera {
+  text-align: center;
+  padding: 28px 0 18px;
+  border-bottom: 3px double var(--tinta);
+}
+
+.antetitulo {
+  margin: 0 0 6px;
+  font-size: 12px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gris);
+}
+
+.masthead {
+  margin: 0;
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: clamp(38px, 9vw, 56px);
+  letter-spacing: -0.01em;
+  line-height: 1.05;
+}
+
+.masthead a { color: var(--tinta); text-decoration: none; }
+
+.fecha-edicion {
+  margin: 10px 0 0;
+  font-size: 14px;
+  color: var(--gris);
+}
+
+/* ---------- Índice del día ---------- */
+
+.indice {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--regla);
+}
+
+.indice a {
+  font-size: 13.5px;
+  text-decoration: none;
+  color: var(--tinta);
+  background: var(--crema);
+  border: 1px solid var(--regla);
+  border-radius: 999px;
+  padding: 5px 12px;
+  white-space: nowrap;
+}
+
+.indice a:hover { border-color: var(--cafe); color: var(--cafe-oscuro); }
+
+/* ---------- En 30 segundos ---------- */
+
+.esencial {
+  margin: 28px 0 8px;
+  padding: 18px 20px 6px;
+  background: var(--crema);
+  border-left: 3px solid var(--cafe);
+}
+
+.esencial h2 {
+  margin: 0 0 10px;
+  font-family: var(--serif);
+  font-size: 19px;
+}
+
+.esencial ol { margin: 0 0 14px; padding-left: 20px; }
+
+.esencial li { margin-bottom: 10px; font-size: 15.5px; line-height: 1.5; }
+
+.esencial li strong { font-family: var(--serif); font-size: 16px; }
+
+/* ---------- Bloques y noticias ---------- */
+
+.bloque { padding-top: 34px; }
+
+.bloque-titulo {
+  margin: 0 0 4px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--tinta);
+  font-family: var(--serif);
+  font-size: 24px;
+  letter-spacing: -0.01em;
+}
+
+.noticia {
+  padding: 22px 0;
+  border-bottom: 1px solid var(--regla);
+}
+
+.noticia:last-child { border-bottom: none; }
+
+.noticia h3 {
+  margin: 0 0 10px;
+  font-family: var(--serif);
+  font-size: 21.5px;
+  line-height: 1.3;
+  letter-spacing: -0.01em;
+}
+
+.noticia p { margin: 0 0 10px; }
+
+.etiqueta {
+  display: inline-block;
+  margin-right: 4px;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--cafe);
+}
+
+.fuentes {
+  font-size: 13.5px;
+  color: var(--gris);
+}
+
+.fuentes a { color: var(--gris); text-underline-offset: 3px; }
+.fuentes a:hover { color: var(--cafe-oscuro); }
+
+/* ---------- Concepto del día ---------- */
+
+.concepto {
+  margin-top: 40px;
+  padding: 24px 22px;
+  background: #fff;
+  border: 1px solid var(--regla);
+  border-top: 3px solid var(--cafe);
+}
+
+.concepto .sobretitulo {
+  margin: 0 0 4px;
+  font-size: 12px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--cafe);
+  font-weight: 700;
+}
+
+.concepto h2 {
+  margin: 0 0 10px;
+  font-family: var(--serif);
+  font-size: 24px;
+}
+
+.concepto .ejemplo {
+  margin-top: 12px;
+  padding: 12px 14px;
+  background: var(--crema);
+  font-size: 15.5px;
+}
+
+.concepto .ejemplo strong { color: var(--cafe-oscuro); }
+
+/* ---------- Hemeroteca ---------- */
+
+.hemeroteca-lista { list-style: none; margin: 24px 0; padding: 0; }
+
+.hemeroteca-lista li {
+  border-bottom: 1px solid var(--regla);
+}
+
+.hemeroteca-lista a {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  padding: 14px 2px;
+  text-decoration: none;
+  color: var(--tinta);
+}
+
+.hemeroteca-lista a:hover { background: var(--crema); }
+
+.hemeroteca-lista .num {
+  font-size: 13px;
+  color: var(--gris);
+  white-space: nowrap;
+}
+
+/* ---------- Pie ---------- */
+
+.pie {
+  margin-top: 48px;
+  padding-top: 18px;
+  border-top: 3px double var(--tinta);
+  text-align: center;
+  font-size: 13.5px;
+  color: var(--gris);
+}
+
+.pie a { color: var(--gris); }
+
+.subir {
+  display: block;
+  margin-top: 10px;
+  text-decoration: none;
+}
