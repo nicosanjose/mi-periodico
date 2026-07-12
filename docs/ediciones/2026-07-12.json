@@ -1,0 +1,245 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Fallece el influyente senador republicano Lindsey Graham a los 71 años",
+      "resumen": "Su repentina muerte deja un vacío clave en el Congreso de EE. UU. y debilita el ala moderada que apoyaba la ayuda militar a Ucrania."
+    },
+    {
+      "titular": "Máxima tensión en el estrecho de Ormuz ante el cruce de amenazas entre EE. UU. e Irán",
+      "resumen": "Washington despliega fuerzas militares para garantizar la libre navegación tras las afirmaciones de Teherán de haber bloqueado esta vía clave para el petróleo mundial."
+    },
+    {
+      "titular": "El trágico incendio de Almería deja 12 víctimas mortales y miles de hectáreas arrasadas",
+      "resumen": "Los equipos de emergencia buscan desaparecidos en Los Gallardos mientras Pedro Sánchez prepara una visita oficial a la zona cero del desastre."
+    },
+    {
+      "titular": "El Gobierno se juega en el Congreso la senda de déficit para los Presupuestos de 2027",
+      "resumen": "La votación de este martes pondrá a prueba la estabilidad de la mayoría parlamentaria y marcará el rumbo de las cuentas públicas exigidas por Bruselas."
+    },
+    {
+      "titular": "Apple capitaliza el fracaso de su coche autónomo con chips de IA ultrarrápidos",
+      "resumen": "El desarrollo técnico del cancelado vehículo ha permitido a la compañía dominar el procesamiento de inteligencia artificial local en sus nuevos dispositivos."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "El fallecimiento del senador Lindsey Graham altera el equilibrio político en Washington",
+          "que_ha_pasado": "El influyente senador republicano por Carolina del Sur, Lindsey Graham, ha fallecido repentinamente a los 71 años tras una breve enfermedad. Graham, un veterano de la política exterior estadounidense, pasó de ser un duro crítico de Donald Trump a convertirse en uno de sus aliados más cercanos en el Congreso.",
+          "por_que_importa": "Graham representaba un puente fundamental entre el sector tradicional del Partido Republicano, partidario de mantener el liderazgo global de EE. UU., y la corriente aislacionista de Trump. Su desaparición debilita el apoyo bipartidista a Ucrania en el Senado, justo cuando Kiev afronta una profunda reestructuración gubernamental y necesita asegurar el flujo de ayuda militar.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/us-news/live/2026/jul/12/lindsey-graham-dies-sudden-illness-trump-politics-live"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/european-leaders-mourn-us-senator-lindsey-graham/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-12/muere-el-senador-republicano-lindsey-graham-fiel-aliado-de-trump.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/2855aa69-7bce-4921-9c80-66e0f78d2575"
+            }
+          ]
+        },
+        {
+          "titular": "EE. UU. e Irán miden sus fuerzas en el estrecho de Ormuz tras reanudarse las hostilidades",
+          "que_ha_pasado": "El gobierno de Irán asegura haber bloqueado el estrecho de Ormuz en respuesta a los recientes ataques contra su territorio, una afirmación desmentida por Donald Trump, quien sostiene que la vía marítima sigue abierta. El Pentágono ha declarado que sus fuerzas militares están posicionadas y preparadas para defender la libre navegación en la zona.",
+          "por_que_importa": "El estrecho de Ormuz es la arteria de tránsito de crudo más importante del planeta, por donde circula aproximadamente el 20% del consumo mundial de petróleo. Una interrupción real del tráfico marítimo o una escalada militar directa en el golfo Pérsico dispararía los precios de la energía a nivel global, desestabilizando los mercados financieros y amenazando los esfuerzos occidentales por controlar la inflación.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-12/estados-unidos-afirma-que-sus-fuerzas-estan-preparadas-y-posicionadas-para-defender-el-estrecho-de-ormuz.html"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5bcb587a-e74a-4a34-9d18-c52520bd7b05"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/politica/2026/07/12/6a53b026468aeb16248b4584.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/internacional/2026-07-12/estados-unidos-afirma-que-sus-fuerzas-estan-preparadas-y-posicionadas-para-defender-el-estrecho-de-ormuz.html"
+            }
+          ]
+        },
+        {
+          "titular": "La dimisión de la viceprimera ministra Svyrydenko abre una remodelación clave en el Gobierno ucraniano",
+          "que_ha_pasado": "Yulia Svyrydenko ha dimitido de su cargo como viceprimera ministra y ministra de Economía de Ucrania en el marco de una profunda remodelación gubernamental anunciada por el presidente Volodímir Zelenski. El ejecutivo ucraniano busca adaptar su estructura política y económica a una nueva fase de la estrategia de defensa frente a Rusia.",
+          "por_que_importa": "Svyrydenko era la principal interlocutora de Kiev con los organismos financieros internacionales y los aliados occidentales para la gestión de la ayuda económica de guerra. Su salida introduce incertidumbre en las reformas fiscales del país y en la planificación de la reconstrucción, en un momento de máxima presión sobre las finanzas públicas de Ucrania.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-replace-prime-minister-government-reshuffle/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Sudáfrica endurece su control migratorio con la deportación de más de 53.000 extranjeros",
+          "que_ha_pasado": "Las autoridades sudafricanas han llevado a cabo la expulsión de más de 53.000 ciudadanos extranjeros indocumentados en una campaña masiva contra la inmigración irregular. La medida se produce tras meses de intensas protestas sociales y tensiones comunitarias en las principales ciudades del país.",
+          "por_que_importa": "Como la economía más desarrollada del sur de África, el país es un imán para millones de migrantes que huyen de crisis económicas y políticas en naciones vecinas como Zimbabue o Mozambique. Sin embargo, el estancamiento económico interno y la falta de empleo han alimentado un peligroso sentimiento xenófobo, obligando al gobierno a adoptar posturas más restrictivas para evitar un estallido de violencia social.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Los inversores frenan las compras en bloque de defensa europea y priorizan la ciberseguridad",
+          "que_ha_pasado": "Los mercados financieros han comenzado a deshacer posiciones masivas en los grandes valores tradicionales del sector de la defensa en Europa, poniendo fin al optimismo generalizado de los últimos años. En contraste, el interés de los inversores y el capital riesgo se mantiene muy fuerte en las empresas emergentes especializadas en seguridad tecnológica.",
+          "por_que_importa": "Este cambio de tendencia refleja una maduración del mercado, donde los analistas empiezan a discriminar entre el armamento convencional y las tecnologías de vanguardia. La guerra moderna depende cada vez más del software, la inteligencia artificial aplicada al combate y la ciberdefensa, áreas donde las startups tecnológicas ofrecen un mayor potencial de crecimiento que los fabricantes tradicionales de hardware militar.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-07-12/las-claves-el-mercado-deja-de-comprar-defensa-europea-en-bloque.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las oficinas resisten como motor de la inversión inmobiliaria en Cataluña pese a la subida de tipos",
+          "que_ha_pasado": "La compraventa de edificios de oficinas lideró la inversión inmobiliaria en Cataluña durante el primer semestre del año, registrando operaciones por un valor total de 1.500 millones de euros. A pesar de mantener el liderazgo del sector, la cifra representa una caída del 9,7% en comparación con el mismo periodo del ejercicio anterior.",
+          "por_que_importa": "La ligera contracción del volumen total responde al encarecimiento de la financiación provocado por los altos tipos de interés de los bancos centrales. No obstante, que las oficinas sigan liderando el mercado demuestra la confianza de los fondos institucionales en la reconversión de los espacios de trabajo hacia modelos más sostenibles y adaptados al empleo híbrido en Barcelona.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/catalunya/2026/07/12/6a53e226e5fdea4f058b4576.html"
+            }
+          ]
+        },
+        {
+          "titular": "Fallece el jeque Hamad bin Khalifa al-Thani, el artífice del milagro económico de Catar",
+          "que_ha_pasado": "El exgobernante de Catar, el jeque Hamad bin Khalifa al-Thani, ha fallecido a los 74 años de edad. Durante su mandato, el pequeño emirato del golfo Pérsico pasó de ser un actor regional menor a convertirse en una de las naciones más ricas y con mayor renta per cápita del planeta.",
+          "por_que_importa": "Hamad bin Khalifa fue el visionario que apostó por la explotación masiva de las reservas de gas natural licuado (GNL) de Catar, rompiendo la dependencia del petróleo. Su estrategia económica no solo financió la modernización del país, sino que le otorgó una enorme influencia geopolítica global a través de fondos soberanos de inversión y la creación de la cadena de televisión Al Jazeera.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "El fallido proyecto de coche autónomo de Apple deja un legado clave en el desarrollo de chips de IA",
+          "que_ha_pasado": "A pesar de la cancelación definitiva de su programa de vehículos autónomos, Apple ha logrado capitalizar la investigación tecnológica del proyecto. Las necesidades de procesamiento en tiempo real del vehículo obligaron a la compañía a diseñar chips con capacidades avanzadas de inteligencia artificial local que ahora integran sus dispositivos comerciales.",
+          "por_que_importa": "En la actual carrera tecnológica, la capacidad de ejecutar modelos de inteligencia artificial directamente en el dispositivo (Edge AI), sin depender de servidores externos, es una ventaja competitiva crucial. El aprendizaje técnico derivado de un fracaso comercial multimillonario ha terminado blindando la arquitectura de silicio de Apple frente a competidores como Google o Microsoft.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
+            }
+          ]
+        },
+        {
+          "titular": "Un desarrollador independiente desafía a la industria al fabricar una GPU funcional en su casa",
+          "que_ha_pasado": "Un creador de hardware independiente ha logrado diseñar y ensamblar una tarjeta de procesamiento gráfico (GPU) operativa en su propio domicilio. El proyecto demuestra que la creación de estos componentes, tradicionalmente reservada a corporaciones con presupuestos millonarios y laboratorios avanzados, es accesible a nivel de usuario.",
+          "por_que_importa": "Aunque el rendimiento de esta GPU casera está lejos de los estándares de Nvidia o AMD, el hito abre la puerta a la democratización del diseño de hardware de computación. En un contexto global marcado por la tensión en las cadenas de suministro de semiconductores, las iniciativas de hardware de código abierto adquieren relevancia como alternativas de soberanía tecnológica.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/componentes/creiamos-que-para-construir-gpu-hacian-falta-laboratorios-millones-maker-esta-montando-casa"
+            }
+          ]
+        },
+        {
+          "titular": "Un estudio revela que las redes sociales prehistóricas evitaron la extinción de los cazadores hace 57.000 años",
+          "que_ha_pasado": "Una investigación científica ha determinado que las comunidades de cazadores-recolectores de la prehistoria sobrevivieron a crisis climáticas gracias a la creación de complejas redes de intercambio social fuera de sus clanes. Estas conexiones permitían compartir recursos y conocimientos técnicos vitales en momentos de escasez.",
+          "por_que_importa": "El hallazgo cuestiona la visión tradicional de que la evolución humana dependía exclusivamente de la adaptación biológica o del acceso a recursos locales directos. Demuestra que la cooperación intergrupal y la conectividad social —los fundamentos de las redes de comunicación modernas— han sido herramientas de supervivencia evolutiva críticas desde los albores de nuestra especie.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/magnet/primera-red-social-historia-tiene-57-000-anos-formaban-cazadores-recolectores-sirvio-para-evitar-extincion"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El devastador incendio de Almería deja 12 muertos y activa una búsqueda masiva de desaparecidos",
+          "que_ha_pasado": "Un incendio forestal de extrema gravedad en Los Gallardos (Almería) ha calcinado más de 7.000 hectáreas y afectado a decenas de viviendas rurales, provocando la muerte de 12 personas. El presidente del Gobierno, Pedro Sánchez, visitará la zona afectada este lunes, mientras más de cien efectivos de emergencias peinan el terreno en busca de desaparecidos.",
+          "por_que_importa": "Esta catástrofe evidencia el peligro creciente de los incendios de interfaz urbano-forestal, donde las viviendas aisladas en zonas rústicas quedan expuestas al fuego. El suceso reabre el debate político sobre la gestión forestal preventiva ante el cambio climático, la ordenación del territorio y la obligatoriedad de planes de autoprotección en propiedades rurales.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-12/ultima-gran-batida-en-los-gallardos-cien-operativos-barren-217-hectareas-quemadas-en-busca-de-vida-o-muerte.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-12/incendio-los-gallardos-almeria-1tps_4388714/"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/directivos/estilo-vida/salud/2026/07/12/6a537e34468aebdd088b458c.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Congreso vota la senda de déficit de 2027 en la primera prueba para los Presupuestos",
+          "que_ha_pasado": "El Congreso de los Diputados acogerá este martes la primera votación de la senda de estabilidad presupuestaria y los objetivos de déficit para el año 2027. Si la propuesta del Ministerio de Hacienda es rechazada por la mayoría parlamentaria, el Gobierno tendrá una segunda oportunidad en el Pleno fijado para el 23 de julio.",
+          "por_que_importa": "La aprobación de los objetivos de estabilidad es el requisito legal indispensable para iniciar la tramitación de los Presupuestos Generales del Estado. Un bloqueo en el Congreso no solo debilitaría la posición de la coalición de gobierno, sino que dificultaría el cumplimiento de las reglas fiscales de la Unión Europea, que exigen una senda estricta de reducción del déficit tras años de flexibilidad por la pandemia.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/07/12/6a53a1f6e5fdea4b0d8b456f.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Sancionado un corredor estadounidense disfrazado de Joker en un rápido sexto encierro de San Fermín",
+          "que_ha_pasado": "El sexto encierro de las fiestas de San Fermín concluyó en un tiempo veloz de dos minutos y 23 segundos, dejando un balance de un herido por asta de toro y ocho traslados por contusiones. La carrera estuvo marcada por la polémica tras ser denunciado un ciudadano estadounidense por correr caracterizado como el personaje del Joker e intentar grabarse durante el recorrido.",
+          "por_que_importa": "La proliferación de conductas temerarias orientadas a la difusión en redes sociales es uno de los principales problemas de seguridad a los que se enfrenta la organización de los encierros. Las ordenanzas municipales prohíben estrictamente el uso de elementos de grabación o disfraces que entorpezcan la carrera, buscando preservar tanto la seguridad de los corredores como la integridad de una tradición centenaria.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-12/el-joker-de-san-fermin-un-villano-verde-en-la-fiesta-del-blanco-y-rojo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Edge AI (Inteligencia Artificial en el dispositivo)",
+    "explicacion": "Consiste en la ejecución de algoritmos de inteligencia artificial directamente en el hardware físico del usuario (como un teléfono móvil, un ordenador o un coche) en lugar de enviar los datos a grandes servidores en la nube para su procesamiento. Esta arquitectura tecnológica elimina la latencia de comunicación, permite el funcionamiento sin conexión a internet, reduce los costes de ancho de banda y mejora la privacidad de los datos, ya que la información sensible no sale del dispositivo de origen.",
+    "ejemplo": "La decisión de Apple de utilizar la tecnología de chips desarrollada para su cancelado coche autónomo con el fin de procesar funciones avanzadas de inteligencia artificial de forma local y privada en sus últimos modelos de smartphone."
+  },
+  "fecha": "2026-07-12"
+}
