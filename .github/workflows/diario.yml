@@ -1,9 +1,12 @@
 # El Primer Café — publicación diaria automática
 #
-# El cron dispara dos veces (04:25 y 05:25 UTC) para cubrir el horario de
-# verano e invierno de Madrid: src/diario.py comprueba la hora local y solo
-# publica en la ventana 06:00-08:59, y solo si la edición de hoy no existe
-# aún (así el segundo disparo se autodescarta).
+# El cron dispara CUATRO veces (04:25, 05:25, 07:25 y 09:25 UTC): los dos
+# primeros cubren el horario de verano/invierno de Madrid y los otros dos
+# son respaldos, porque los cron de GitHub son "best effort" y pueden
+# llegar con horas de retraso o incluso saltarse un disparo (pasó el
+# 12-jul-2026). src/diario.py aplica las guardas: nunca antes de las 06:00
+# de Madrid, y solo si la edición de hoy no existe aún (así, de los cuatro
+# disparos, solo el primero que llegue publica y el resto acaban en segundos).
 #
 # También se puede lanzar a mano desde la pestaña Actions ("Run workflow"),
 # que por defecto fuerza la publicación aunque no sea la hora.
@@ -12,7 +15,7 @@ name: El Primer Café diario
 
 on:
   schedule:
-    - cron: '25 4,5 * * *'
+    - cron: '25 4,5,7,9 * * *'
   workflow_dispatch:
     inputs:
       forzar:

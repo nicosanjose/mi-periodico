@@ -13,10 +13,14 @@ a paso y no des nada por sabido.
 
 ## Arquitectura y decisiones clave
 
-- `src/diario.py` orquesta todo y aplica DOS GUARDAS: hora Madrid 06:00-08:59
-  (el cron dispara 04:25 y 05:25 UTC para cubrir verano/invierno + retrasos de
-  GitHub) e idempotencia (si `docs/ediciones/<hoy>.html` existe, no repite).
-  `FORZAR=true` o `--forzar` se las salta (es el default del workflow_dispatch).
+- `src/diario.py` orquesta todo y aplica DOS GUARDAS: nunca antes de las 06:00
+  de Madrid (SIN tope superior — GOTCHA: los cron de GitHub son best-effort y
+  el 12-jul-2026 llegaron con ~3h de retraso y un disparo perdido; una ventana
+  con techo dejó el día sin periódico) e idempotencia (si
+  `docs/ediciones/<hoy>.html` existe, no repite). El cron dispara 4 veces
+  (04:25, 05:25, 07:25, 09:25 UTC): verano/invierno + 2 respaldos; solo el
+  primero que llegue publica. `FORZAR=true` o `--forzar` salta las guardas
+  (es el default del workflow_dispatch).
 - `src/llm.py` es la ÚNICA capa que conoce al proveedor (Gemini REST v1beta,
   `gemini-2.5-flash`, sin SDK). Cambiar de proveedor = reescribir solo este
   archivo manteniendo el contrato `llamar_llm(prompt) -> str` (texto JSON).
