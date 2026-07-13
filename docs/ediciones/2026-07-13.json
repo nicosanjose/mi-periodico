@@ -1,0 +1,243 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Escalada militar en el estrecho de Ormuz: el petróleo roza los 80 dólares",
+      "resumen": "Los enfrentamientos entre EE. UU. e Irán provocan un repunte del 4% en el crudo Brent y caídas generalizadas en las bolsas mundiales ante el temor de un cierre prolongado de esta vía clave."
+    },
+    {
+      "titular": "La UE se fractura ante posibles sanciones comerciales a los asentamientos de Israel",
+      "resumen": "Los ministros de Exteriores europeos debaten restringir las importaciones de territorios ocupados, una medida de gran calado político que choca con la falta de consenso histórico en Bruselas."
+    },
+    {
+      "titular": "Marruecos detiene al periodista disidente Alí Lmrabet tras viajar desde España",
+      "resumen": "El arresto del informador, crítico con la monarquía alauí y residente en Barcelona, tensa la compleja e interdependiente relación diplomática entre Madrid y Rabat."
+    },
+    {
+      "titular": "Cataluña blindará la educación pública con el 20% de sus nuevos presupuestos",
+      "resumen": "La Generalitat proyecta una partida histórica de 8.356 millones de euros para ampliar plantillas y reforzar competencias básicas, buscando revertir los malos resultados académicos."
+    },
+    {
+      "titular": "El desvío de recursos de Apple Car deja una valiosa herencia en chips de IA",
+      "resumen": "A pesar de la cancelación de su coche autónomo, la investigación de Apple en procesamiento local ha permitido a la firma liderar el rendimiento de los chips de IA en sus dispositivos actuales."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La Unión Europea se divide ante la propuesta de restringir el comercio con asentamientos israelíes",
+          "que_ha_pasado": "Los ministros de Asuntos Exteriores de la Unión Europea se reúnen en Bruselas bajo la presión de un grupo de países miembros que exigen vetar las importaciones de productos procedentes de los asentamientos ilegales israelíes. La propuesta busca castigar económicamente la ocupación de territorios palestinos, aunque la medida requiere un consenso difícil de alcanzar.",
+          "por_que_importa": "Aunque el impacto puramente comercial de este veto sería reducido, las implicaciones legales y diplomáticas son de enorme calado. La iniciativa vuelve a poner de manifiesto la fragmentación interna de la UE en política exterior, donde la regla de la unanimidad suele diluir la capacidad de Bruselas para actuar como un actor geopolítico decisivo en Oriente Próximo.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/why-europe-still-cant-agree-on-israel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Detenido en Marruecos el periodista disidente Alí Lmrabet tras viajar desde Barcelona",
+          "que_ha_pasado": "El periodista marroquí Alí Lmrabet, inhabilitado por las autoridades de su país y residente en España desde hace años, ha sido arrestado tras cruzar la frontera marroquí. Lmrabet, conocido por sus posiciones críticas hacia el régimen alauí, realizaba visitas periódicas a su país de origen a pesar de su situación de disidencia.",
+          "por_que_importa": "Este arresto añade una nueva capa de fricción a las complejas relaciones bilaterales entre España y Marruecos, caracterizadas por una estrecha pero delicada cooperación en materia de control migratorio y seguridad. Para los analistas de la región, el caso ilustra cómo Rabat mantiene una línea de tolerancia cero con la disidencia interna, incluso cuando esta cuenta con proyección y refugio en territorio europeo.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-12/detenido-el-periodista-disidente-marroqui-ali-lmrabet-tras-haber-viajado-desde-espana.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/internacional/2026-07-12/detenido-el-periodista-disidente-marroqui-ali-lmrabet-tras-haber-viajado-desde-espana.html"
+            }
+          ]
+        },
+        {
+          "titular": "El asesinato de una política británica reabre el debate sobre la seguridad de los parlamentarios en el Reino Unido",
+          "que_ha_pasado": "El asesinato de la política del partido Reform UK, Ann Widdecombe, ha sacudido la última semana de mandato del primer ministro Keir Starmer. La policía mantiene abierta una investigación para esclarecer los motivos del crimen, mientras que el líder de la formación, Nigel Farage, ha exigido un aumento inmediato de la seguridad de los representantes públicos.",
+          "por_que_importa": "Este trágico suceso se suma a una preocupante lista de ataques mortales contra políticos británicos en la última década, como los de Jo Cox y David Amess. El fenómeno pone en jaque el modelo democrático tradicional del Reino Unido, caracterizado por la cercanía y accesibilidad de los diputados con sus electores en sus distritos, obligando al Estado a blindar a sus cargos públicos a costa de distanciarles de la ciudadanía.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/politics-at-sam-and-annes/what-does-starmers-last-week-look-like/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El conflicto en el estrecho de Ormuz dispara el petróleo y tiñe de rojo las bolsas globales",
+          "que_ha_pasado": "Estados Unidos ha lanzado nuevos ataques militares contra posiciones iraníes tras la amenaza de Teherán de cerrar el estrecho de Ormuz. Esta escalada bélica ha disparado el precio del barril de Brent cerca de un 4%, rozando los 80 dólares, lo que ha provocado caídas generalizadas en las bolsas internacionales, incluido el Ibex 35.",
+          "por_que_importa": "El estrecho de Ormuz es el punto de estrangulamiento energético más importante del planeta, por donde transita una quinta parte del consumo mundial de petróleo. Una interrupción prolongada en este paso marítimo no solo reavivaría las presiones inflacionistas globales, sino que obligaría a los bancos centrales a mantener los tipos de interés elevados, amenazando la frágil recuperación económica internacional.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/13/6a547ba5468aeb78108b457b.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-13/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "La patronal española propone que la Seguridad Social asuma el coste de las bajas laborales cortas",
+          "que_ha_pasado": "La Confederación Española de Organizaciones Empresariales (CEOE) ha planteado formalmente que la Seguridad Social se haga cargo del pago de las bajas por incapacidad temporal de menos de quince días. En la actualidad, este coste recae directamente sobre las empresas, que denuncian el impacto económico del repunte del absentismo.",
+          "por_que_importa": "La propuesta abre un debate crucial sobre la sostenibilidad financiera del sistema de protección social en España, que ya arrastra un déficit estructural. Aunque la medida aliviaría la tesorería de las pequeñas y medianas empresas, trasladar esta factura al Estado exigiría buscar nuevas vías de ingresos fiscales o arriesgarse a un recorte de otras prestaciones públicas en el futuro.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/legal/2026-07-13/quien-debe-pagar-las-bajas-laborales-cortas-la-ceoe-senala-a-la-seguridad-social.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Congreso de EE. UU. presiona a Jamie Dimon por supuestas presiones al Gobierno británico bajo consejo de Jeffrey Epstein",
+          "que_ha_pasado": "La senadora estadounidense Elizabeth Warren ha exigido explicaciones formales al consejero delegado de JPMorgan, Jamie Dimon, sobre si presionó al Gobierno del Reino Unido siguiendo recomendaciones de Jeffrey Epstein. La investigación se centra en si el banco intentó influir para evitar la aplicación de un impuesto sobre los bonus de los banqueros.",
+          "por_que_importa": "Este requerimiento reaviva el escrutinio sobre las conexiones de la élite de Wall Street con el fallecido delincuente sexual, demostrando que los riesgos reputacionales del pasado siguen activos. Para el sector de la consultoría y el gobierno corporativo, el caso evidencia cómo las fallas éticas de los altos directivos pueden derivar en costosas investigaciones regulatorias y dañar la credibilidad de las mayores instituciones financieras del mundo.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/4f4940cb-5ab4-4c65-bb2c-1503ed4734c1"
+            }
+          ]
+        },
+        {
+          "titular": "El seguro de hogar sufre una caída de rentabilidad por la inflación y el freno inmobiliario",
+          "que_ha_pasado": "Tras dos años de sólido crecimiento, el sector de los seguros multirriesgo de hogar en España experimenta una desaceleración en su rentabilidad durante 2026. Este retroceso se debe a la ralentización en la compraventa de viviendas y al menor margen que tienen las compañías para seguir indexando sus tarifas a la inflación acumulada.",
+          "por_que_importa": "El seguro de hogar actúa como un indicador indirecto de la salud del mercado inmobiliario y del poder adquisitivo de las familias. Esta pérdida de márgenes obligará a las grandes aseguradoras a acelerar sus procesos de digitalización y optimización operativa, un nicho de negocio clave para las consultoras estratégicas que diseñan la reestructuración del sector financiero.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/seguros/2026/07/13/6a549118e5fdeabc048b457a.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "El fallido coche autónomo de Apple deja como herencia sus chips de IA más potentes",
+          "que_ha_pasado": "A pesar de la cancelación definitiva de su proyecto de vehículo autónomo, el desarrollo de este programa obligó a Apple a diseñar procesadores de alto rendimiento capaces de computar inteligencia artificial localmente y en tiempo real. Esta tecnología de semiconductores se ha reciclado para potenciar la actual generación de chips de la compañía para ordenadores y dispositivos móviles.",
+          "por_que_importa": "Este caso es un ejemplo paradigmático de externalidad tecnológica positiva o efecto de derrame (spillover effect), donde un proyecto fallido de miles de millones de dólares genera capacidades de hardware críticas para el negocio principal. En un contexto de carrera por la soberanía de los chips, la capacidad de procesar IA de forma local sin depender de la nube se ha convertido en la mayor ventaja competitiva de Apple.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra"
+            }
+          ]
+        },
+        {
+          "titular": "Un desarrollador independiente desafía a la industria al construir una GPU en su propia casa",
+          "que_ha_pasado": "Un creador de hardware independiente está logrando diseñar y ensamblar una unidad de procesamiento gráfico (GPU) funcional desde su propio domicilio. Este hito rompe con la creencia técnica de que la fabricación de chips gráficos es un terreno exclusivo de corporaciones multinacionales con presupuestos multimillonarios.",
+          "por_que_importa": "Aunque este chip casero no puede competir en rendimiento con los procesadores de gama alta de Nvidia o AMD, demuestra la democratización del conocimiento de ingeniería de semiconductores gracias al software de código abierto y a las herramientas de simulación accesibles. A largo plazo, el auge del hardware libre podría descentralizar el control de la cadena de suministro tecnológico y abrir la puerta a soluciones de computación personalizadas.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/componentes/creiamos-que-para-construir-gpu-hacian-falta-laboratorios-millones-maker-esta-montando-casa"
+            }
+          ]
+        },
+        {
+          "titular": "El sector de los vehículos autónomos se enfrenta a un ultimátum regulatorio y de viabilidad",
+          "que_ha_pasado": "La industria de los robotaxis se encuentra en una encrucijada decisiva debido a las crecientes exigencias de seguridad de los reguladores urbanos y a las dudas de los inversores sobre su rentabilidad a largo plazo. Las principales compañías del sector se ven obligadas a demostrar la infalibilidad de sus sistemas de IA para evitar la retirada de sus licencias operativas.",
+          "por_que_importa": "El despliegue de la movilidad autónoma ha dejado de ser un reto puramente de ingeniería para convertirse en un conflicto de gobernanza urbana y aceptación pública. Para los consultores de transporte y tecnología, el desenlace de este pulso definirá si la inversión masiva en conducción autónoma se traduce en un servicio público viable o si el sector debe pivotar hacia modelos de automatización industrial más acotados.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Cataluña destinará uno de cada cinco euros de sus nuevos presupuestos a la educación",
+          "que_ha_pasado": "El proyecto de presupuestos de la Generalitat de Cataluña contempla una partida récord de 8.356 millones de euros para educación, lo que representa el 20% del gasto total de las cuentas públicas. Los fondos se priorizarán para la ampliación de las plantillas de docentes, la mejora de infraestructuras escolares y el refuerzo de las competencias en lenguas y matemáticas.",
+          "por_que_importa": "Este fuerte desembolso busca revertir los discretos resultados obtenidos por los alumnos catalanes en las últimas evaluaciones internacionales, como el informe PISA. Al priorizar el gasto social en educación y formación profesional, el gobierno autonómico intenta sentar las bases para mejorar la productividad laboral y la competitividad económica de la región a medio y largo plazo.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/sociedad/2026-07-13/8356-milions-els-nous-pressupostos-catalans-dediquen-un-de-cada-cinc-euros-a-leducacio.html"
+            }
+          ]
+        },
+        {
+          "titular": "El alcalde de Móstoles, citado a declarar como investigado por presunto acoso a una exconcejala",
+          "que_ha_pasado": "Manuel Bautista, alcalde de Móstoles por el Partido Popular, ha sido citado por el juzgado para declarar en calidad de investigado el próximo 9 de octubre. La citación responde a una querella por supuesto acoso laboral y prevaricación interpuesta por una antigua concejala de su propio equipo de gobierno.",
+          "por_que_importa": "Este caso de judicialización de la política local no solo desgasta la imagen institucional del segundo municipio más poblado de la Comunidad de Madrid, sino que abre una brecha de inestabilidad en la gobernabilidad del consistorio. Para los partidos, la gestión de estas crisis internas bajo el foco judicial pone a prueba la consistencia de sus códigos éticos y sus estrategias de comunicación en entornos de alta polarización.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-13/alcalde-mostoles-citado-declara-invetigacion-acoso_4388880/"
+            }
+          ]
+        },
+        {
+          "titular": "La Aemet alerta de una semana de contrastes extremos con calor intenso y fuertes tormentas de granizo",
+          "que_ha_pasado": "La Agencia Estatal de Meteorología (Aemet) ha advertido de un escenario meteorológico muy inestable para los próximos días en España. Se prevé la coexistencia de temperaturas extremadamente altas en gran parte del país con tormentas severas y granizadas repentinas durante las tardes, especialmente en el interior peninsular.",
+          "por_que_importa": "La creciente frecuencia y violencia de estos fenómenos meteorológicos contrapuestos es una consecuencia directa del cambio climático en el sur de Europa. Estos contrastes térmicos no solo suponen un desafío para la salud pública y el turismo veraniego, sino que provocan pérdidas millonarias en el sector agrícola debido al granizo y dificultan la planificación de infraestructuras críticas ante inundaciones repentinas.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-13/1qrt-calor-rato-aemet-avisa-llovera-tormentas-granizo-zonas-afectadas_4388874/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El clima extremo pone en jaque la viabilidad de los macrofestivales de música en Europa",
+          "que_ha_pasado": "Las sucesivas cancelaciones de festivales y espectáculos al aire libre en toda Europa debido a olas de calor sin precedentes y tormentas severas están forzando una reestructuración logística y económica del sector cultural. Las aseguradoras y promotoras se enfrentan a pérdidas millonarias por la inestabilidad climática.",
+          "por_que_importa": "Los macroeventos culturales veraniegos, que mueven miles de millones de euros y sostienen el turismo de muchas regiones, se topan con los límites físicos del calentamiento global. Esta situación obligará a una dolorosa mutación del modelo de negocio, que podría implicar el traslado de fechas a la primavera o el otoño, el encarecimiento de las entradas por el coste de los seguros y la necesidad de rediseñar las infraestructuras para proteger al público.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-13/festivales-de-calor-y-tormenta-el-clima-extremo-pone-en-jaque-la-cultura-al-aire-libre.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un incendio forestal de escala excepcional devora el emblemático bosque de Fontainebleau cerca de París",
+          "que_ha_pasado": "Un virulento incendio forestal ha arrasado ya más de 800 hectáreas en el bosque de Fontainebleau, situado a las puertas de la capital francesa. La gravedad del fuego ha obligado a movilizar aviones de extinción desde el sur de Francia, una medida inédita para esta región del norte del país, tradicionalmente más húmeda.",
+          "por_que_importa": "Fontainebleau es uno de los pulmones verdes más importantes de Francia y un símbolo de su patrimonio natural. Que un incendio de esta magnitud ocurra en el norte del país evidencia la rápida desertificación y vulnerabilidad de los ecosistemas forestales templados europeos ante el aumento de las temperaturas globales, trasladando los riesgos de incendios severos del Mediterráneo hacia latitudes más septentrionales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-13/un-incendio-devora-el-bosque-de-fontainebleau-a-las-puertas-de-paris.html"
+            },
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Pre-distribución (Predistribution)",
+    "explicacion": "A diferencia de la redistribución fiscal tradicional, que actúa a posteriori mediante impuestos y subsidios para corregir la desigualdad de ingresos, la pre-distribución se enfoca en estructurar el mercado y las instituciones del Estado a priori para que la riqueza se reparta de forma más equitativa desde el principio. Esto incluye políticas públicas como el fortalecimiento de la negociación colectiva de los sindicatos, la elevación del salario mínimo, la regulación estricta de monopolios o la inversión masiva en educación pública de calidad, interviniendo en las reglas del juego económico antes de que se generen las brechas de renta.",
+    "ejemplo": "El debate actual en Estados Unidos sobre la creación de las denominadas 'cuentas Trump' o las reformas estructurales para evitar la concentración extrema del capital financiero antes de aplicar gravámenes correctores."
+  },
+  "fecha": "2026-07-13"
+}
