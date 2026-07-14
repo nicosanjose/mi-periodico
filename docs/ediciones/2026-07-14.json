@@ -1,0 +1,255 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Escalada militar en Ormuz: EE. UU. bombardea Yemen mientras Trump impone un peaje petrolero",
+      "resumen": "Trump decreta un bloqueo a la navegación iraní y exige un gravamen del 20% al paso de mercancías, disparando el precio del crudo un 5% y sacudiendo los mercados financieros globales."
+    },
+    {
+      "titular": "Japón acomete la mayor reforma de sus servicios secretos desde la Segunda Guerra Mundial",
+      "resumen": "Tokio centralizará su inteligencia bajo un nuevo Consejo Nacional controlado directamente por la primera ministra para afrontar las crecientes tensiones con China y Corea del Norte."
+    },
+    {
+      "titular": "La inteligencia artificial pone en jaque la tradicional facturación por horas de los bufetes",
+      "resumen": "La automatización extrema de tareas jurídicas erosiona el modelo de negocio del 90% del sector legal en Estados Unidos, obligando a replantear el cobro por tiempo de trabajo."
+    },
+    {
+      "titular": "Los hermanos Amodio rozan el 30% de OHLA tras adquirir la participación de Julián Holzer",
+      "resumen": "Los constructores mexicanos refuerzan su control en la firma de infraestructuras española mediante una operación de compra de acciones valorada en casi 44 millones de euros."
+    },
+    {
+      "titular": "La UE acelera su ampliación con conferencias de adhesión clave para Ucrania y los Balcanes",
+      "resumen": "Bajo la presidencia irlandesa, Bruselas celebra reuniones simultáneas con Ucrania, Moldavia, Albania y Montenegro para agilizar su integración por motivos de seguridad colectiva."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Tensión extrema en el Estrecho de Ormuz por el bloqueo y los aranceles de Trump al crudo",
+          "que_ha_pasado": "Estados Unidos ha lanzado su tercera noche consecutiva de ataques aéreos contra objetivos vinculados a Irán, mientras Teherán responde atacando petroleros en el Estrecho de Ormuz con misiles de crucero. Ante esta situación, el presidente Donald Trump ha anunciado un bloqueo de la navegación iraní y la imposición de un peaje del 20% a los cargamentos que crucen este paso clave para financiar la seguridad regional. Como consecuencia inmediata, el barril de crudo Brent ha subido un 5% y las bolsas globales registran caídas generalizadas.",
+          "por_que_importa": "El Estrecho de Ormuz es el punto de estrangulamiento marítimo más crítico del mundo para el suministro global de energía, por donde transita aproximadamente una quinta parte del consumo mundial de petróleo. La decisión de Trump de cobrar un peaje unilateral introduce un precedente geopolítico sin parangón que amenaza con cronificar las presiones inflacionistas globales. Para un consultor, este repunte del crudo obligará a revisar las proyecciones de costes logísticos y tipos de interés, complicando el margen de maniobra de los bancos centrales.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/jul/14/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-trump-latest-news"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/14/6a55ceaa468aeb3a6b8b458b.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-14/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/jul/13/oil-prices-leap-stocks-fall-us-iran-strait-of-hormuz-brent-crude-markets"
+            }
+          ]
+        },
+        {
+          "titular": "Japón centraliza su aparato de inteligencia para adaptarlo a las amenazas del Indo-Pacífico",
+          "que_ha_pasado": "El Gobierno de Japón ha iniciado la reestructuración más profunda de su aparato de inteligencia desde el fin de la Segunda Guerra Mundial. La reforma contempla la creación de un Consejo Nacional de Inteligencia que unificará la gestión de la información bajo el mando directo de la primera ministra.",
+          "por_que_importa": "Este movimiento refleja el abandono definitivo de la tradicional postura pacifista pasiva de Tokio frente al creciente asertivismo militar de China y la inestabilidad en la península de Corea. Al centralizar sus servicios secretos, Japón busca homologarse con sus aliados occidentales y mejorar el intercambio de información estratégica en tiempo real. Es un paso clave en la arquitectura de seguridad del Indo-Pacífico que redefine el equilibrio de poder en Asia Oriental.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-14/japon-emprende-la-mayor-reorganizacion-de-los-servicios-secretos-desde-la-ii-guerra-mundial.html"
+            }
+          ]
+        },
+        {
+          "titular": "La presidencia irlandesa de la UE acelera los procesos de adhesión de cuatro países",
+          "que_ha_pasado": "La presidencia irlandesa del Consejo de la Unión Europea ha convocado cuatro conferencias de adhesión simultáneas en los márgenes del Consejo de Asuntos Generales. Las reuniones bilaterales involucran a Ucrania, Moldavia, Albania y Montenegro, acelerando sus respectivos procesos de integración.",
+          "por_que_importa": "La invasión rusa de Ucrania transformó la ampliación de la UE de un proceso puramente burocrático a un imperativo geopolítico de seguridad colectiva. Dublín busca capitalizar este impulso para evitar que el cansancio de la reforma institucional paralice la integración de los Balcanes Occidentales y el flanco este. Sin embargo, la entrada de nuevos miembros obligará a reconfigurar los fondos de cohesión y la política agraria común, un debate de alta sensibilidad para los actuales socios netos.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/a-super-tuesday-for-a-bigger-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La detención del periodista Ali Lmrabet reabre el debate sobre las libertades en Marruecos",
+          "que_ha_pasado": "El periodista disidente Ali Lmrabet, afincado en España desde hace veinte años tras sufrir censura previa en su país, ha sido detenido por las autoridades marroquíes. Diversas organizaciones de derechos humanos y libertad de prensa han denunciado el arresto como un nuevo ataque a la libertad de expresión.",
+          "por_que_importa": "A pesar de la modernización económica y el desarrollo de infraestructuras que Marruecos proyecta al exterior, el país norteafricano mantiene severas restricciones en materia de libertades civiles. Este arresto tensa la delicada relación diplomática con España, socio comercial clave que a menudo debe equilibrar la defensa de los derechos humanos con la cooperación en control migratorio y antiterrorismo.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-14/la-detencion-del-periodista-disidente-lmrabet-cuestiona-la-libertad-de-prensa-en-marruecos.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La inteligencia artificial amenaza el modelo de facturación por horas en el sector legal",
+          "que_ha_pasado": "La adopción masiva de herramientas de inteligencia artificial generativa está destruyendo la lógica financiera de la hora facturable en el sector legal de Estados Unidos. Actualmente, cerca del 90% del gasto en servicios jurídicos en el país se sigue cobrando bajo este modelo tradicional, que ahora se ve amenazado por la velocidad de la automatización.",
+          "por_que_importa": "El modelo de facturación por horas incentiva la ineficiencia temporal, algo que la IA neutraliza al resolver en minutos tareas que antes requerían días de análisis de asociados júnior. Este cambio forzará a los grandes bufetes y consultoras a migrar hacia modelos basados en el valor aportado o tarifas planas por proyecto. Para el sector de la consultoría de operaciones, representa una oportunidad de oro para rediseñar los flujos de trabajo de sus clientes corporativos.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/legal/2026-07-14/la-ia-rompe-la-aritmetica-de-la-hora-facturable.html"
+            }
+          ]
+        },
+        {
+          "titular": "Ofensiva judicial en EE. UU. para frenar la megafusión de Paramount y Warner",
+          "que_ha_pasado": "Un grupo bipartidista de fiscales generales de varios estados de EE. UU. ha presentado una demanda judicial para bloquear la fusión de 110.000 millones de dólares entre Paramount Skydance y Warner Bros Discovery. Los demandantes argumentan que la operación dañará gravemente la competencia en el sector del entretenimiento y provocará miles de despidos.",
+          "por_que_importa": "Esta acción legal evidencia el creciente escrutinio antimonopolio en los Estados Unidos, que ya no solo proviene de agencias federales como la FTC, sino de coaliciones estatales activas. La consolidación del sector de los medios busca escala frente al dominio de las grandes tecnológicas en el 'streaming', pero se enfrenta al temor político de un oligopolio de contenidos. El desenlace marcará el límite de las megafusiones permitidas en la era digital.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit"
+            }
+          ]
+        },
+        {
+          "titular": "Los hermanos Amodio consolidan su control en OHLA al rozar el 30% del capital",
+          "que_ha_pasado": "Los hermanos Luis y Mauricio Amodio han adquirido el 7,22% de la constructora española OHLA, perteneciente al empresario mexicano Julián Holzer, por un valor de 43,9 millones de euros. Con este movimiento, los empresarios mexicanos incrementarán su participación conjunta en la compañía hasta rozar el 28% del capital.",
+          "por_que_importa": "Esta operación consolida el control de la familia Amodio sobre la histórica constructora española, alejando los rumores de inestabilidad accionarial en un momento clave de reestructuración de deuda. La toma de control de empresas de infraestructuras europeas por parte de capital latinoamericano es una tendencia al alza que busca diversificar riesgos geográficos. Para OHLA, esta estabilidad es vital para seguir compitiendo en licitaciones internacionales de obra civil.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-07-13/los-hermanos-amodio-se-refuerzan-en-ohla-con-la-toma-del-722-del-mexicano-julian-holzer.html"
+            }
+          ]
+        },
+        {
+          "titular": "Incertidumbre ante la desaceleración del consumo interno en China",
+          "que_ha_pasado": "Los indicadores mensuales de la economía china muestran una debilidad de fondo en las ventas minoristas y la inversión privada antes de la publicación oficial del PIB del segundo trimestre. Las presiones deflacionistas y la crisis del sector inmobiliario continúan lastrando la confianza de los consumidores.",
+          "por_que_importa": "La incapacidad de Pekín para reactivar el consumo interno demuestra los límites de su modelo de crecimiento basado únicamente en la exportación industrial y la inversión estatal. Una desaceleración prolongada de la segunda economía mundial reduce la demanda de materias primas y debilita las exportaciones de las multinacionales occidentales. Esto obliga a las firmas de consultoría estratégica a revaluar las cadenas de suministro globales y los planes de expansión de sus clientes en Asia.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/c21b8869-6539-414b-8fe2-255b329b8688"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Hito espacial: China logra recuperar la primera etapa de un cohete reciclable",
+          "que_ha_pasado": "China ha completado con éxito la recuperación de la primera etapa de un cohete espacial tras poner en órbita baja terrestre su carga útil. Este hito tecnológico sitúa al programa aeroespacial de Pekín a la altura de capacidades que hasta ahora solo dominaban las empresas estadounidenses SpaceX y Blue Origin.",
+          "por_que_importa": "La reutilización de cohetes es el factor diferencial que reduce drásticamente los costes de acceso al espacio, habilitando el despliegue rápido de megaconstelaciones de satélites. Al dominar esta técnica, China acelera su carrera por la soberanía satelital frente a Starlink, un elemento crítico tanto para las telecomunicaciones comerciales como para la defensa nacional. La geopolítica del espacio se encamina hacia un duopolio de facto entre Washington y Pekín.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/espacio/china-acaba-lograr-algo-que-solo-sabian-hacer-spacex-blue-origin-recuperar-primera-etapa-cohete-ha-hecho-a-su-manera"
+            }
+          ]
+        },
+        {
+          "titular": "El repliegue de OnePlus: abandono inminente de los mercados de EE. UU. y Europa",
+          "que_ha_pasado": "El fabricante de smartphones OnePlus, propiedad del gigante chino Oppo, se prepara para anunciar su salida definitiva de los mercados de Estados Unidos y Europa. La decisión pondría fin a meses de especulaciones sobre la viabilidad de la marca en los canales occidentales de distribución de telefonía móvil.",
+          "por_que_importa": "La retirada de OnePlus ilustra la creciente dificultad de las marcas de tecnología chinas para operar en mercados occidentales bajo la presión de disputas de patentes y tensiones geopolíticas de seguridad nacional. El mercado europeo y estadounidense de telefonía de gama alta quedará aún más polarizado entre Apple y Samsung, limitando las opciones de los consumidores. Para las consultoras del sector tecnológico, este repliegue obliga a reconfigurar las estrategias de canal y alianzas con operadoras locales.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe"
+            }
+          ]
+        },
+        {
+          "titular": "La fiebre de la IA generativa de vídeo corona a PixVerse con valoración de unicornio",
+          "que_ha_pasado": "La startup de generación de vídeo mediante inteligencia artificial PixVerse ha cerrado una ronda de financiación de 439 millones de dólares, elevando su valoración por encima de los 2.000 millones de dólares. Los fondos se destinarán a la expansión global de su modelo de simulación de entornos físicos y a captar clientes corporativos.",
+          "por_que_importa": "Esta mega-ronda confirma que el apetito de los fondos de inversión por la IA generativa de vídeo sigue intacto, a pesar de los temores de una burbuja tecnológica. PixVerse compite directamente con gigantes como OpenAI (Sora) y Runway en la carrera por dominar la producción audiovisual automatizada. Para las agencias de marketing y consultorías de medios, estas herramientas prometen reducir a una fracción los costes de producción de contenido publicitario.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Fallece el escritor Luis Goytisolo, figura clave de la generación del 50",
+          "que_ha_pasado": "El escritor barcelonés Luis Goytisolo, miembro de la Real Academia Española y galardonado con el Premio Nacional de las Letras Españolas en 2013, ha fallecido a los 91 años. Es célebre por su monumental tetralogía 'Antagonía', considerada una de las cumbres de la novela en español del siglo XX.",
+          "por_que_importa": "Con la muerte de Goytisolo se apaga una de las voces más renovadoras y experimentales de la generación del 50, que transformó la narrativa de posguerra. Su obra 'Antagonía' es un referente absoluto en la metaliteratura y la deconstrucción de la novela tradicional, influyendo a generaciones de escritores hispanohablantes. Su legado subraya la riqueza y la complejidad de la transición cultural española hacia la modernidad.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/cultura/literatura/2026/07/14/6a556915e9cf4ac57b8b4575.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un peligroso y accidentado último encierro cierra los Sanfermines 2026",
+          "que_ha_pasado": "El octavo y último encierro de los Sanfermines 2026, protagonizado por los toros de la ganadería de Jandilla, ha concluido con una carrera rápida y de extrema tensión que ha dejado dos heridos por asta de toro. Los astados completaron el recorrido en dos minutos y veinticinco segundos, provocando numerosas caídas y momentos de peligro en el tramo del ayuntamiento.",
+          "por_que_importa": "Los toros de Jandilla son conocidos históricamente por su velocidad y bravura, lo que suele traducirse en carreras accidentadas. Este último encierro cierra una edición de las fiestas de Pamplona caracterizada por la masiva afluencia de turistas internacionales y el debate recurrente sobre la seguridad de los corredores. Económicamente, los Sanfermines representan el principal motor turístico de Navarra, generando un impacto crucial para la hostelería y el comercio local.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/cultura/2026-07-14/octavo-encierro-de-san-fermin.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/cultura/toros/san-fermin/2026/07/14/6a55d682e85ece461a8b457d.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-14/sanfermines-encierro-jandilla-pamplona-peligro-1tps_4389512/"
+            },
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-14/octavo-encierro-de-san-fermin-en-imagenes.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La intrahistoria de 'Hay Pirineos': el libro de propaganda fascista diseñado por la vanguardia",
+          "que_ha_pasado": "El hallazgo de documentación inédita ha permitido reconstruir el proceso de producción de 'Hay Pirineos', una crónica propagandística escrita en 1939 por Ernesto Giménez Caballero sobre la ocupación franquista de Portbou. Los documentos revelan la sorprendente colaboración de artistas gráficos de primer nivel en la edición de esta obra del fascismo español.",
+          "por_que_importa": "Este descubrimiento aporta una valiosa perspectiva sobre la compleja relación entre vanguardia artística y propaganda totalitaria en la España de posguerra. Demuestra que, más allá de la censura y la represión, el régimen franquista cooptó activamente el talento de diseñadores vanguardistas para legitimar su relato visual. Es una pieza clave para entender la historia del diseño gráfico y la instrumentalización de la cultura en el siglo XX.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-14/las-tripas-de-un-libro-olvidado-del-fascismo-espanol-y-como-artistas-graficos-de-primer-nivel-colaboraron-en-su-produccion.html"
+            }
+          ]
+        },
+        {
+          "titular": "El rescate global del caballo de Przewalski: un viaje de 5.000 kilómetros hacia la libertad",
+          "que_ha_pasado": "Un programa internacional de conservación ha completado con éxito un traslado de casi 5.000 kilómetros para reintroducir ejemplares del caballo de Przewalski en su hábitat natural. Esta especie, considerada el único caballo verdaderamente salvaje que sobrevive en el mundo, llegó a estar declarada extinta en libertad.",
+          "por_que_importa": "El éxito de esta translocación representa un hito en la biología de la conservación y demuestra la viabilidad de recuperar especies mediante la cría en cautividad y la cooperación científica transfronteriza. Además, la reintroducción de estos grandes herbívoros es fundamental para restaurar el equilibrio ecológico de las estepas euroasiáticas, amenazadas por la desertificación y el cambio climático.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c4gynqly2dyo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Mal holandés (Dutch Disease)",
+    "explicacion": "Fenómeno económico en el que la explotación intensiva de un recurso natural abundante (como el petróleo o el gas) provoca una fuerte entrada de divisas, apreciando significativamente la moneda nacional. Esta apreciación encarece las exportaciones de otros sectores clave (como la industria manufacturera o la agricultura), restándoles competitividad en el mercado internacional y provocando una desindustrialización prematura y una excesiva dependencia económica del recurso primario.",
+    "ejemplo": "El impacto histórico en la economía de los Países Bajos tras el descubrimiento de los yacimientos de gas natural de Groninga en 1959, que debilitó gravemente la competitividad de sus exportaciones industriales no energéticas debido a la apreciación del florín."
+  },
+  "fecha": "2026-07-14"
+}
