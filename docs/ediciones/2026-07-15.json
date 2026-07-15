@@ -1,0 +1,247 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EE.UU. e Irán intensifican su enfrentamiento en el estrecho de Ormuz con amenazas a infraestructuras críticas",
+      "resumen": "La escalada armada en el paso marítimo clave para el crudo mundial provoca amenazas de Washington sobre centrales eléctricas iraníes tras cuatro días de combates."
+    },
+    {
+      "titular": "La economía china se desacelera a mínimos históricos mientras fía su recuperación a las exportaciones de tecnología",
+      "resumen": "El parón del consumo interno arrastra el PIB del gigante asiático, que responde inundando el mercado europeo con coches eléctricos y chips de IA."
+    },
+    {
+      "titular": "Google abrirá Android a tiendas de aplicaciones competidoras tras dar por cerrado su litigio con Epic Games",
+      "resumen": "La retirada de los recursos judiciales obliga a Google a permitir tiendas de terceros la próxima semana, transformando el negocio de la distribución móvil."
+    },
+    {
+      "titular": "La Policía Nacional advierte del colapso en la expedición de tarjetas de identidad para extranjeros regularizados",
+      "resumen": "Las oficinas de extranjería están desbordadas debido a la parálisis administrativa y a redes ilegales que acaparan y revenden las citas previas."
+    },
+    {
+      "titular": "El auge de la inteligencia artificial impulsa las previsiones de ASML y la mayor salida a bolsa en China desde 2010",
+      "resumen": "El fabricante holandés eleva su producción de maquinaria avanzada mientras la china CXMT busca captar 10.000 millones de dólares para chips de memoria."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "EE.UU. e Irán intensifican su enfrentamiento en el estrecho de Ormuz con amenazas a infraestructuras críticas",
+          "que_ha_pasado": "Los incidentes armados en el estrecho de Ormuz se han cobrado la vida de un marinero tras ataques a buques petroleros, provocando que Washington y Teherán intercambien fuego por cuarto día consecutivo. El presidente estadounidense, Donald Trump, ha retirado su propuesta de cobrar peajes a los buques en el paso marítimo, pero ha amenazado con bombardear puentes y centrales eléctricas iraníes si el país no regresa a la mesa de negociación.",
+          "por_que_importa": "El estrecho de Ormuz es el cuello de botella más importante del mundo para el suministro de crudo, por donde transita aproximadamente una quinta parte del consumo global de petróleo. La interrupción del tráfico marítimo no solo dispara los costes de transporte y los seguros de las navieras, sino que agrava la incertidumbre sobre el paradero de los 440 kilos de uranio enriquecido al 60% que posee Irán, cuyo control internacional por parte de la ONU se interrumpió tras los bombardeos de 2025.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-14/estados-unidos-e-iran-vuelven-a-la-guerra-abierta-tras-una-semana-de-enfrentamientos-en-ormuz.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "La cúpula de la Unión Europea viaja por sorpresa a Kiev para acelerar la ayuda militar a Ucrania",
+          "que_ha_pasado": "La presidenta de la Comisión Europea, Ursula von der Leyen, acompañada por un grupo de líderes de la Unión, ha realizado una visita no anunciada a la capital ucraniana. El objetivo del viaje es consolidar y agilizar una nueva serie de iniciativas conjuntas de defensa en un momento en que Kiev intensifica la presión en el frente.",
+          "por_que_importa": "Esta visita subraya el giro estratégico de la Unión Europea hacia una integración industrial de defensa más profunda con Ucrania, superando la mera asistencia financiera y de suministro básico. Para los socios comunitarios, blindar la frontera oriental es prioritario ante el desgaste del conflicto y la incertidumbre sobre la continuidad del apoyo militar de otros aliados occidentales como Estados Unidos.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-border-that-vanished-overnight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "China mantiene detenido a un científico estadounidense especializado en el programa nuclear norcoreano",
+          "que_ha_pasado": "La familia del científico estadounidense Chen Youlin ha denunciado que este se encuentra retenido en China desde hace casi dos años bajo acusaciones de espionaje. Youlin es un reputado experto dedicado al análisis de los ensayos nucleares llevados a cabo por el régimen de Corea del Norte.",
+          "por_que_importa": "El arresto de académicos y científicos especializados en áreas de seguridad nacional de terceros países refleja el endurecimiento de la contrainteligencia de Pekín y la creciente desconfianza bilateral entre las dos superpotencias. Este caso complica aún más los canales de diplomacia informal de 'vía segunda' (Track II), esenciales para monitorizar riesgos de proliferación nuclear en la península de Corea en momentos de alta tensión geopolítica.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqx1xdn3g4eo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La economía china se desacelera a mínimos históricos mientras fía su recuperación a las exportaciones de tecnología",
+          "que_ha_pasado": "El Producto Interior Bruto de China ha registrado una fuerte desaceleración en el segundo trimestre, quedando por debajo del objetivo anual fijado por Pekín debido a la debilidad del consumo interno y el encarecimiento del petróleo por el conflicto en Oriente Medio. Para compensar este parón, el gigante asiático ha acelerado su ofensiva comercial en Europa con un volumen récord de exportaciones de vehículos eléctricos y semiconductores para inteligencia artificial.",
+          "por_que_importa": "La debilidad de la demanda interna china demuestra que las medidas de estímulo tradicionales no logran reactivar la confianza del consumidor local, atrapado en una crisis inmobiliaria prolongada. Al inundar los mercados internacionales con productos tecnológicos a bajo coste para sostener su crecimiento, Pekín eleva las tensiones comerciales con la Unión Europea y Estados Unidos, quienes sopesan nuevos aranceles para proteger sus industrias locales.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/macroeconomia/2026/07/15/6a56f882fdddffac3c8b4587.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "La moderación de la inflación en Estados Unidos choca con la inestabilidad energética y el freno del Ibex 35",
+          "que_ha_pasado": "La inflación interanual en Estados Unidos se moderó hasta el 3,5% en junio gracias a una tregua temporal en el conflicto con Irán que abarató los precios de la energía. Sin embargo, la reanudación de los combates ha vuelto a encarecer el crudo, lo que sumado a la postura restrictiva de la Reserva Federal ha frenado las ganancias del Ibex 35, que sigue atascado en el entorno de los 19.300 puntos.",
+          "por_que_importa": "Este escenario evidencia la extrema sensibilidad de la política monetaria y de los mercados financieros a las tensiones geopolíticas en Oriente Medio. Aunque los datos de inflación subyacente daban margen a la Reserva Federal para suavizar los tipos de interés, el rebote del petróleo amenaza con generar presiones inflacionistas de segunda ronda, obligando a los bancos centrales a mantener el dinero caro durante más tiempo del previsto.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/15/6a571f27e5fdea9c048b4584.html"
+            }
+          ]
+        },
+        {
+          "titular": "El auge de la inteligencia artificial impulsa las previsiones de ASML y la mayor salida a bolsa en China desde 2010",
+          "que_ha_pasado": "El fabricante holandés de maquinaria de litografía ASML ha elevado sus previsiones de negocio y planea incrementar la producción de sus sistemas más avanzados para satisfacer la demanda de chips de IA. Paralelamente, el fabricante chino de memorias CXMT busca captar 10.000 millones de dólares en la que promete ser la mayor salida a bolsa en el país asiático en más de quince años.",
+          "por_que_importa": "La cadena de suministro global de semiconductores sigue siendo el principal motor de inversión tecnológica a pesar de las tensiones geopolíticas. Mientras ASML consolida su monopolio de facto en la maquinaria necesaria para los chips más potentes del mundo, el movimiento de CXMT demuestra el esfuerzo de Pekín por lograr la autosuficiencia tecnológica y financiar su propia infraestructura de semiconductores ante las restricciones de exportación occidentales.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/731ec5ef-e9e1-40f5-b0bd-09e71787a938"
+            }
+          ]
+        },
+        {
+          "titular": "Las acciones de IBM se desploman un 25% tras presentar unos resultados trimestrales que arrastran al sector del software",
+          "que_ha_pasado": "IBM ha perdido una cuarta parte de su valor de mercado en una sola sesión bursátil tras emitir una advertencia sobre sus beneficios debido a unos resultados preliminares del segundo trimestre muy inferiores a lo esperado. Este revés ha provocado una oleada de ventas que ha afectado a otros gigantes tecnológicos del sector, incluyendo a Microsoft.",
+          "por_que_importa": "La fuerte corrección de IBM sugiere que el gasto corporativo en servicios de consultoría tecnológica tradicional e integración de sistemas se está ralentizando, a medida que las empresas reasignan sus presupuestos prioritariamente hacia la infraestructura pura de inteligencia artificial generativa. Este tropiezo sirve de advertencia para el sector tecnológico, donde las altas valoraciones exigen un crecimiento constante que no todas las firmas consolidadas están logrando mantener.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/jul/14/ibm-shares-profit-drop-value"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Google abrirá Android a tiendas de aplicaciones competidoras tras dar por cerrado su litigio con Epic Games",
+          "que_ha_pasado": "Google y Epic Games han retirado sus recursos judiciales cruzados en Estados Unidos, lo que obliga al gigante tecnológico a permitir la entrada de tiendas de aplicaciones de terceros dentro de su plataforma móvil Android a partir de la próxima semana. Este acuerdo pone fin a una batalla legal de varios años sobre las comisiones y el control de la distribución de software para móviles.",
+          "por_que_importa": "El fin del monopolio de la Google Play Store en Android representa un cambio tectónico en la economía de las aplicaciones móviles, permitiendo a los desarrolladores evitar la tasa del 30% que cobraba Google y gestionar sus propios sistemas de pago. Este movimiento se alinea con la creciente presión regulatoria global contra las prácticas monopolísticas de las grandes tecnológicas, abriendo la puerta a que Apple enfrente dinámicas similares en su ecosistema cerrado.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play"
+            }
+          ]
+        },
+        {
+          "titular": "OpenAI diseña su primer dispositivo físico: un altavoz sin pantalla capaz de interactuar mediante movimiento",
+          "que_ha_pasado": "OpenAI se encuentra desarrollando un dispositivo doméstico sin pantalla que incorpora elementos mecánicos móviles diseñados para interactuar físicamente con el usuario. El objetivo del proyecto es crear un 'compañero' físico que sirva de encarnación material de su modelo de lenguaje ChatGPT, rompiendo el esquema tradicional de los asistentes de voz estáticos.",
+          "por_que_importa": "Este movimiento marca la entrada de OpenAI en el mercado del hardware de consumo, buscando competir directamente con Alexa de Amazon o Nest de Google mediante una IA conversacional mucho más avanzada y empática. Al dotar al dispositivo de movilidad física, la compañía explora la robótica doméstica y la computación ambiental, un paso clave para integrar la inteligencia artificial en las tareas cotidianas y recopilar datos contextuales del mundo físico.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/robotica-e-ia/openai-quiere-su-propio-alexa-esteroides-su-primer-dispositivo-busca-cambiar-relacion-ia-bloomberg"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/"
+            }
+          ]
+        },
+        {
+          "titular": "Un fallo crítico en el sistema de arranque seguro de Microsoft expone a millones de ordenadores tras una década sin detectar",
+          "que_ha_pasado": "Expertos en ciberseguridad han descubierto que el sistema 'Secure Boot' de Microsoft ha sido vulnerable durante los últimos diez años debido a la falta de revocación de antiguos archivos de soporte ('shims'). Esta brecha permite a atacantes saltarse las protecciones de arranque del sistema operativo con relativa facilidad.",
+          "por_que_importa": "El arranque seguro es la primera línea de defensa de un ordenador, encargada de verificar que no se ejecute software malicioso antes de que cargue el sistema operativo. Que una vulnerabilidad de este calibre haya pasado desapercibida durante una década evidencia las dificultades de gestionar la compatibilidad hacia atrás en sistemas operativos masivos, y obliga a las corporaciones a revisar sus protocolos de actualización ante el riesgo de ataques dirigidos de firmware.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La Policía Nacional advierte del colapso en la expedición de tarjetas de identidad para extranjeros regularizados",
+          "que_ha_pasado": "Altos mandos de la Policía Nacional han alertado al Ministerio del Interior sobre la parálisis en las oficinas de extranjería para tramitar las tarjetas de identificación de los ciudadanos regularizados. El problema se ve agravado por la proliferación de redes ilegales que acaparan el sistema de citas previas en internet para revenderlas posteriormente en el mercado negro.",
+          "por_que_importa": "El colapso administrativo no solo vulnera los derechos de los migrantes que ya han obtenido su regularización legal, impidiéndoles acceder a empleos formales o abrir cuentas bancarias, sino que alimenta una economía sumergida de reventa de citas que el sistema informático público actual es incapaz de frenar. Esta situación pone de manifiesto la falta de recursos y digitalización adecuada en la administración pública española frente a los flujos migratorios actuales.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/07/15/6a566cede9cf4add058b45b1.html"
+            }
+          ]
+        },
+        {
+          "titular": "El recurso de Josu Ternera contra su absolución en Francia retrasa su extradición a España",
+          "que_ha_pasado": "La defensa del exdirigente de ETA Josu Ternera ha presentado un recurso ante el Tribunal Supremo de Francia contra su propia absolución en un juicio reciente en París. Esta estrategia legal paraliza temporalmente su entrega a la justicia española, al impugnar partes de la sentencia que, según sus abogados, dañan su presunción de inocencia en otras causas pendientes.",
+          "por_que_importa": "El uso de recursos procesales en el extranjero es una táctica recurrente de las defensas de antiguos miembros de ETA para dilatar los procesos de entrega y evitar el banquillo en España. Este caso pone a prueba la agilidad de los mecanismos de cooperación judicial europea (como la euroorden) y prolonga el cierre judicial de los crímenes pendientes de resolver de la banda terrorista.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-15/josu-ternera-recurso-francia-eta-1tps_4390168/"
+            }
+          ]
+        },
+        {
+          "titular": "Aliança Catalana arrebata a Junts su estructura local en Cambrils en plena pugna por el liderazgo independentista",
+          "que_ha_pasado": "El partido de extrema derecha independentista Aliança Catalana, liderado por Sílvia Orriols, ha logrado captar a todo el equipo local de Junts per Catalunya en el municipio de Cambrils. Este movimiento se produce tras la publicación de encuestas que apuntan a un fuerte crecimiento de la formación ultra a costa del partido de Carles Puigdemont.",
+          "por_que_importa": "La fuga de cuadros locales de Junts hacia la formación de Orriols evidencia la creciente polarización y fragmentación dentro del bloque independentista catalán. Aliança Catalana capitaliza el descontento de un sector del electorado nacionalista con un discurso centrado en la seguridad y el control migratorio, lo que presiona a Junts a endurecer sus posturas para evitar una fuga masiva de votos en futuros comicios.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-15/recrudece-guerra-alianca-catalana-junts-orriols-roba-equipo-cambrils_4389859/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Christopher Nolan adaptará 'La odisea' en su próximo proyecto cinematográfico tras el triunfo de Oppenheimer",
+          "que_ha_pasado": "El director británico Christopher Nolan ha confirmado que su siguiente película será una adaptación del poema épico griego 'La odisea'. Nolan, reciente ganador del Oscar, ha confesado que este proyecto representa la culminación de un sueño personal y que los temas de esta historia clásica han estado presentes de forma indirecta en toda su filmografía previa.",
+          "por_que_importa": "Tras explorar la física teórica y la historia militar, la incursión de Nolan en el mito homérico promete redefinir el cine de gran presupuesto mediante su característico uso del tiempo no lineal y los efectos prácticos. Este proyecto confirma el estatus de Nolan como uno de los pocos directores capaces de conseguir presupuestos multimillonarios de los estudios de Hollywood para adaptaciones complejas y de corte intelectual.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-07-15/el-largo-viaje-de-christopher-nolan-hasta-la-odisea.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Foro Internacional por la Cultura Palestina en Madrid defiende el arte como herramienta de memoria histórica",
+          "que_ha_pasado": "Madrid ha acogido el Foro Internacional por la Cultura Palestina, un encuentro que ha reunido a creadores y activistas para debatir sobre la producción artística como forma de resistencia. Durante las jornadas se ha denunciado la destrucción del patrimonio en Gaza y Cisjordania, calificándolo de intento de borrar la identidad colectiva del pueblo palestino.",
+          "por_que_importa": "En contextos de conflicto prolongado, la cultura se convierte en un frente geopolítico más, utilizado para preservar la memoria histórica frente a la destrucción física del territorio. La celebración de este foro en España refleja el papel activo que busca jugar la sociedad civil y cultural madrileña en el debate internacional sobre el conflicto de Oriente Medio, utilizando la diplomacia cultural para visibilizar realidades complejas.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-15/la-cultura-palestina-como-forma-de-resistencia-vivimos-un-genocidio-cultural.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Project Finance (Financiación de proyectos)",
+    "explicacion": "Es una estructura de financiación a largo plazo utilizada para grandes proyectos de infraestructura, industriales o de servicios públicos, donde la deuda y el capital propio se reembolsan exclusivamente con el flujo de caja generado por el propio proyecto, en lugar de con los activos o garantías de los promotores. Se caracteriza por ser una financiación 'sin recurso' o 'con recurso limitado', lo que protege el balance de la empresa matriz y traslada el riesgo operativo directamente a una sociedad vehículo (SPV) creada específicamente para el proyecto.",
+    "ejemplo": "La estructuración de deuda para las grandes obras públicas y proyectos energéticos en Madrid, donde firmas legales como Watson Farley & Williams asesoran a consorcios que financian infraestructuras respaldándose únicamente en los futuros peajes o tarifas de uso del activo."
+  },
+  "fecha": "2026-07-15"
+}
