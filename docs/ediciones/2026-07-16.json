@@ -1,0 +1,250 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Escalada militar entre EE. UU. e Irán",
+      "resumen": "Trump ordena nuevos bombardeos en un conflicto de difícil salida que ya impacta en los mercados energéticos globales."
+    },
+    {
+      "titular": "Europa busca blindar su cadena de suministro",
+      "resumen": "Bruselas prepara un plan de emergencia para reducir su crítica dependencia de China en materiales clave para la transición tecnológica."
+    },
+    {
+      "titular": "Gibraltar redefine su estatus comercial",
+      "resumen": "El Peñón pierde sus ventajas para el tránsito de mercancías pero blinda su atractivo como centro financiero y de juego online."
+    },
+    {
+      "titular": "La IA impulsa una ola de salidas a bolsa en el sector energético",
+      "resumen": "Las cotizadas de energía viven su mayor auge de OPVs del siglo ante la masiva demanda de electricidad de los centros de datos."
+    },
+    {
+      "titular": "El Tribunal de Cuentas reprende a Renfe",
+      "resumen": "El órgano fiscalizador detecta graves infracciones de la ley de contratos en la gestión de los trenes alpinos de Madrid."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "EE. UU. intensifica los ataques en Irán mientras Trump se adentra en un conflicto de desgaste",
+          "que_ha_pasado": "El presidente estadounidense, Donald Trump, ha ordenado una nueva oleada de ataques militares sobre posiciones iraníes, advirtiendo a Teherán de que debe moderar su comportamiento. Por su parte, la república islámica mantiene su estrategia de desgaste diplomático y militar, aprovechando la falta de alternativas claras de Washington para presionar de forma efectiva a Teherán.",
+          "por_que_importa": "Este recrudecimiento evidencia el fracaso de la estrategia de 'presión máxima' para disuadir a Irán sin provocar un conflicto abierto. Para un analista de relaciones internacionales, la situación demuestra cómo los actores regionales pueden explotar la reticencia de EE. UU. a enfangarse en otra guerra prolongada en Oriente Medio, obligando a Washington a reaccionar de manera reactiva y con un alto coste político y económico global.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-16/trump-se-enreda-de-nuevo-en-una-guerra-de-iran-sin-salida-clara.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "El retorno de civiles al sur de Líbano consolida la influencia de Hezbolá tras la tregua",
+          "que_ha_pasado": "Miles de desplazados libaneses están regresando a sus hogares en el sur del país aprovechando una frágil pausa en los combates, encontrando un panorama de devastación generalizada. A pesar de la destrucción de sus infraestructuras, la población civil retornada muestra un firme respaldo a la milicia Hezbolá y rechaza cualquier acuerdo de paz formal con el Gobierno de Israel.",
+          "por_que_importa": "El arraigo social y político de Hezbolá en el sur de Líbano demuestra que la vía puramente militar es insuficiente para erradicar su influencia. La reconstrucción de la zona, previsiblemente financiada y gestionada bajo la órbita de la milicia y sus aliados, reforzará su papel de 'Estado dentro del Estado', complicando cualquier intento de estabilización diplomática liderado por el gobierno central libanés o la comunidad internacional.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-16/destruccion-y-promesas-de-mas-guerra-para-quienes-vuelven-al-sur-de-libano-lo-han-bombardeado-todo.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Parlamento Europeo inicia su receso estival marcado por las negociaciones de pasillo para su renovación",
+          "que_ha_pasado": "Los 719 eurodiputados comienzan un receso de seis semanas, pero la actividad política no se detendrá en Bruselas. A su regreso a finales de agosto, la Eurocámara afrontará de inmediato las complejas negociaciones internas para definir el reparto de poder y los cargos clave en la reestructuración de mitad de legislatura.",
+          "por_que_importa": "El diseño institucional de la Unión Europea depende críticamente de estos equilibrios de poder informales que se tejen durante el verano. Las negociaciones determinarán la influencia de las distintas familias políticas en las comisiones clave, lo que a su vez moldeará la agenda legislativa comunitaria en materias críticas como la transición ecológica, la regulación de la IA y la política de defensa común.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/parliament-takes-a-break-the-plotting-begins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La detención del periodista Ali Lmrabet en Marruecos tensa el espacio de la disidencia",
+          "que_ha_pasado": "El periodista disidente Ali Lmrabet, autoexiliado en España desde hace veinte años, ha denunciado haber sufrido malos tratos tras ser detenido durante tres días al regresar a Marruecos. Lmrabet vincula directamente su arresto a sus recientes publicaciones críticas sobre las estructuras de poder fácticas y el denominado 'Estado profundo' marroquí.",
+          "por_que_importa": "Este episodio ilustra los persistentes límites a la libertad de prensa en el reino alauí y el estrecho marcaje a los opositores en el exterior. Para España, la situación de los disidentes marroquíes en su territorio representa un delicado equilibrio diplomático, dado que la cooperación de Rabat en control migratorio y antiterrorismo es una prioridad estratégica para Madrid.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-16/ali-lmrabet-periodista-disidente-me-han-detenido-por-escribir-sobre-el-estado-profundo-en-marruecos.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Las bolsas europeas se estabilizan con la vista puesta en Irán y el debut bursátil de Digi",
+          "que_ha_pasado": "Los mercados financieros del Viejo Continente han logrado estabilizarse tras una semana de volatilidad marcada por las tensiones geopolíticas en Oriente Medio y las caídas en el sector de los semiconductores en Asia. En España, el Ibex consolida posiciones en una jornada protagonizada por el estreno bursátil de la filial de telecomunicaciones Digi Spain Telecom, valorada en unos 1.662 millones de euros.",
+          "por_que_importa": "El comportamiento plano de los parqués refleja la cautela de los inversores ante el riesgo de que el conflicto en Oriente Medio encarezca el crudo y reactive las presiones inflacionistas. Al mismo tiempo, la salida a bolsa de Digi, un operador de bajo coste que ha sacudido el mercado de telecomunicaciones español, pone a prueba el apetito de los inversores por activos de crecimiento en un entorno de tipos de interés todavía restrictivos.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/16/6a58713e468aeb64098b4570.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-16/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las salidas a bolsa de empresas energéticas viven su mayor auge del siglo impulsadas por la IA",
+          "que_ha_pasado": "El mercado de ofertas públicas de venta (OPV) en el sector de la energía está registrando una actividad récord no vista en lo que va de siglo, impulsado por el interés de los inversores en la infraestructura que sostiene la inteligencia artificial. Sin embargo, a pesar de la fuerte captación de capital inicial, la evolución posterior de muchas de estas cotizadas en el mercado secundario está siendo débil.",
+          "por_que_importa": "La fiebre por la IA requiere una cantidad ingente de energía para alimentar los nuevos centros de datos, lo que ha convertido a las firmas de generación y distribución eléctrica en activos estratégicos. Este auge de OPVs demuestra cómo la narrativa tecnológica puede revalorizar sectores tradicionales, aunque la posterior caída de las acciones advierte del riesgo de una sobrevaloración inicial basada en expectativas excesivamente optimistas.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/af8f4659-df0c-4c83-9fcc-8239714d0928"
+            }
+          ]
+        },
+        {
+          "titular": "La brecha de crecimiento entre EE. UU. y Europa reabre el debate sobre el exceso de regulación",
+          "que_ha_pasado": "Diversos análisis plantean si el marco regulatorio de la Unión Europea está actuando como un freno para su expansión económica en comparación con el dinamismo mostrado por Estados Unidos. Mientras Washington prioriza el estímulo y la flexibilidad para fomentar la innovación, Bruselas opta por un enfoque preventivo y normativo que, según los críticos, penaliza la competitividad.",
+          "por_que_importa": "Este debate es crucial para la consultoría estratégica y el diseño de políticas públicas. Si Europa continúa priorizando la estandarización regulatoria sobre el dinamismo empresarial, corre el riesgo de perder el tren de las industrias del futuro (como la IA y las biotecnologías), consolidando su papel como un mercado de consumo regulado pero dependiente de la tecnología estadounidense y asiática.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/opinion/2026/07/16/6a57df49468aeb5d768b4587.html"
+            }
+          ]
+        },
+        {
+          "titular": "El PIB británico resiste con un leve crecimiento en mayo pese al encarecimiento energético",
+          "que_ha_pasado": "La economía del Reino Unido registró una expansión del 0,1 % en el mes de mayo, recuperándose de la caída del 0,1 % experimentada en abril, según datos oficiales. Este incremento se produce a pesar del impacto directo que el conflicto en Irán está teniendo sobre los costes de la energía a nivel global.",
+          "por_que_importa": "Aunque el crecimiento es modesto, muestra la resiliencia del sector servicios británico ante los choques externos. No obstante, la persistencia de tensiones geopolíticas que encarecen el petróleo y el gas limita el margen de maniobra del Banco de Inglaterra para acometer bajadas de tipos de interés agresivas, lo que mantiene bajo presión el coste de la financiación para empresas y hogares.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Bruselas prepara un plan de emergencia ante su extrema dependencia de China en materias primas críticas",
+          "que_ha_pasado": "La Comisión Europea está diseñando una estrategia de respuesta rápida para mitigar el riesgo de desabastecimiento de imanes, chips y materiales procesados esenciales para su industria. El temor de Bruselas es que las tensiones comerciales con Pekín desemboquen en restricciones de exportación que paralicen las cadenas de producción del continente.",
+          "por_que_importa": "La transición verde y digital de la UE es altamente vulnerable a las decisiones geopolíticas de Pekín, que controla el procesamiento de la gran mayoría de las tierras raras del planeta. Para los consultores de operaciones, esto anticipa un escenario de reconfiguración forzosa de las cadenas de suministro hacia el 'friendshoring', lo que elevará los costes de producción pero garantizará la continuidad del negocio frente a shocks geopolíticos.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/empresas-y-economia/europa-depende-china-para-materiales-criticos-bruselas-prepara-equipo-emergencia"
+            }
+          ]
+        },
+        {
+          "titular": "La inteligencia artificial se adentra en la industria pesada con modelos específicos para el sector energético",
+          "que_ha_pasado": "La startup Applied Computing ha cerrado una ronda de financiación de 20 millones de dólares para desarrollar un modelo fundacional de inteligencia artificial diseñado específicamente para plantas petroleras, gasistas y petroquímicas. El objetivo es optimizar el funcionamiento integral de estas complejas infraestructuras industriales mediante IA.",
+          "por_que_importa": "Mientras el gran consumo se enfoca en modelos de lenguaje generales, el verdadero valor para la consultoría industrial reside en la IA especializada en optimización de procesos físicos y seguridad operativa. Este movimiento señala una tendencia clara hacia la verticalización de la IA, donde los modelos entrenados con datos físicos reales transformarán la eficiencia operativa de sectores tradicionalmente lentos en su digitalización.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/"
+            }
+          ]
+        },
+        {
+          "titular": "Greylock limita el tamaño de su nuevo fondo a 1.500 millones para priorizar la cercanía con los fundadores",
+          "que_ha_pasado": "La firma de capital riesgo Greylock ha decidido cerrar su nuevo fondo de inversión en 1.500 millones de dólares, a pesar de contar con la capacidad de haber captado una cifra muy superior. La gestora justifica esta decisión en su estrategia de limitar su cartera a unas 25 inversiones por fondo para poder ofrecer un acompañamiento intensivo a cada startup.",
+          "por_que_importa": "En un mercado de 'venture capital' que a menudo premia el gigantismo de los fondos para generar comisiones de gestión, la decisión de Greylock defiende el modelo clásico de valor añadido. Esta estrategia refleja un cambio de ciclo donde los inversores valoran más la disciplina de capital y el soporte operativo real a los fundadores que el despliegue masivo y desordenado de liquidez.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La ola de calor extremo eleva el riesgo de incendios y moviliza a la UME en Zaragoza",
+          "que_ha_pasado": "La Agencia Estatal de Meteorología (Aemet) ha emitido avisos por temperaturas inusualmente elevadas en gran parte del país, con especial incidencia en el sur y el este peninsular. Esta situación de calor extremo y sequedad ya ha propiciado un grave incendio forestal en la provincia de Zaragoza que ha obligado a evacuar varias localidades y a activar a la Unidad Militar de Emergencias (UME).",
+          "por_que_importa": "Los fenómenos climáticos extremos están dejando de ser anomalías estacionales para convertirse en un factor de riesgo macroeconómico recurrente en España. El impacto directo en el turismo, el sector agrario y el gasto público en emergencias obliga a las administraciones y a las empresas a integrar la resiliencia climática y los planes de contingencia en sus estrategias de negocio a largo plazo.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/aragon/2026/07/16/6a586ac6fdddff070d8b4575.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-16/1qrt-nueva-ola-calor-espana-aemet-avisa-temperaturas-elevadas-peligro_4390833/"
+            }
+          ]
+        },
+        {
+          "titular": "Gibraltar se adapta al nuevo marco comercial perdiendo ventajas aduaneras pero blindando su sector financiero",
+          "que_ha_pasado": "El Peñón de Gibraltar ha dejado de operar bajo su tradicional estatus de puerto libre para el tránsito de mercancías, adaptándose a las nuevas exigencias de control aduanero. No obstante, el nuevo régimen acordado preserva intactas sus ventajas competitivas en servicios financieros, banca y juego online, sectores clave de su economía.",
+          "por_que_importa": "Este acuerdo representa un delicado equilibrio geopolítico post-Brexit. Al ceder en el control de mercancías, el Peñón evita el colapso de su frontera física con España, mientras que la salvaguarda de su régimen fiscal para el capital garantiza que seguirá atrayendo inversión internacional, manteniendo su estatus de hub de servicios de alta rentabilidad en el Mediterráneo occidental.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/macroeconomia/2026/07/16/6a57cd16e9cf4a0c6c8b458d.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Tribunal de Cuentas expedienta a Renfe por graves deficiencias en la contratación de los trenes alpinos",
+          "que_ha_pasado": "El órgano fiscalizador del Estado ha señalado formalmente a Renfe por infringir la ley de contratos del sector público en la puesta en marcha de las infraestructuras ferroviarias destinadas a los trenes alpinos de Madrid. El tribunal acusa a la dirección de la empresa pública de actuar sin la diligencia profesional exigible a un operador de su relevancia.",
+          "por_que_importa": "Este tirón de orejas pone de manifiesto las deficiencias de gestión y gobernanza que arrastran algunas corporaciones públicas españolas. Para el sector de la consultoría de sector público, este caso evidencia la necesidad de reforzar los mecanismos de 'compliance' y auditoría interna en las licitaciones de grandes infraestructuras, donde los retrasos y las malas prácticas contractuales acaban costando millones de euros al contribuyente.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-07-16/el-tribunal-de-cuentas-senala-a-renfe-por-infringir-la-ley-de-contratos-con-los-trenes-alpinos-de-madrid_4378932/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Alemania devuelve un bronce de Picasso expoliado por el nazismo bajo una nueva era de restitución artística",
+          "que_ha_pasado": "El Gobierno alemán devolverá a los herederos del marchante de arte judío Alfred Flechtheim la escultura de bronce 'Fernande', realizada por Pablo Picasso, que fue incautada durante el régimen nacionalsocialista. La devolución ha sido posible gracias a la implementación de una nueva base jurídica diseñada para agilizar y desbloquear los procesos de restitución de obras de arte expoliadas.",
+          "por_que_importa": "Este caso marca un hito legal que podría desencadenar una oleada de reclamaciones en toda Europa. La nueva legislación alemana busca corregir las lagunas jurídicas que permitían a museos e instituciones privadas retener obras de procedencia dudosa, redefiniendo la responsabilidad ética y legal de los Estados en la reparación de los crímenes económicos y culturales del nazismo.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-15/alemania-devolvera-a-una-familia-judia-un-busto-de-picasso-expoliado-por-el-nazismo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Descubren una nueva especie de primate con labios anaranjados en las selvas de la República Democrática del Congo",
+          "que_ha_pasado": "Un equipo de científicos ha identificado una nueva especie de mono caracterizada por sus llamativos labios de color naranja, que habitaba de forma inadvertida en las densas masas forestales de la República Democrática del Congo. El hallazgo ha sorprendido a la comunidad científica debido a lo inusual que resulta descubrir grandes mamíferos desconocidos en pleno siglo XXI.",
+          "por_que_importa": "Este descubrimiento subraya el valor ecológico incalculable de la cuenca del Congo, el segundo pulmón verde del planeta, y la necesidad urgente de proteger estos ecosistemas frente a la deforestación y la minería ilegal. Asimismo, demuestra que la biodiversidad global esconde aún secretos cruciales que podrían perderse antes de ser documentados si no se frena la degradación de sus hábitats naturales.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Friendshoring (Aliados comerciales)",
+    "explicacion": "El 'friendshoring' es una estrategia geopolítica y económica en la que un país restringe su comercio de materiales críticos y la fabricación de bienes tecnológicos a naciones que comparten valores políticos y alianzas de seguridad similares. A diferencia del 'offshoring' (buscar el menor coste) o el 'nearshoring' (buscar la proximidad geográfica), el 'friendshoring' prioriza la resiliencia de la cadena de suministro frente a tensiones geopolíticas, evitando la dependencia de regímenes autoritarios u hostiles.",
+    "ejemplo": "La reciente iniciativa de la Unión Europea para crear un equipo de emergencia que reduzca la dependencia de materias primas críticas procedentes de China, buscando alianzas con socios estratégicos afines."
+  },
+  "fecha": "2026-07-16"
+}
