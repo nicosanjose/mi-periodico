@@ -1,0 +1,236 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EE. UU. e Irán elevan la tensión militar en el estrecho de Ormuz",
+      "resumen": "La escalada armada y el abordaje de buques en la zona disparan los precios del combustible y amenazan con colapsar una de las rutas marítimas más críticas del planeta."
+    },
+    {
+      "titular": "La fiebre de la inteligencia artificial da un paso atrás y arrastra a las bolsas mundiales",
+      "resumen": "La recogida de beneficios en los gigantes de los semiconductores y la tecnología siembra dudas sobre el ritmo de monetización de la IA generativa."
+    },
+    {
+      "titular": "Francia y Alemania buscan reactivar su agenda de defensa común ante la parálisis industrial",
+      "resumen": "Macron y el canciller Merz se reúnen de urgencia para desbloquear el escudo antimisiles europeo y los proyectos conjuntos de armamento."
+    },
+    {
+      "titular": "Andalucía unifica sus clústeres industriales para crear un gigante de la defensa",
+      "resumen": "Los sectores aeroespacial, naval y logístico de la región se alían con el respaldo de la Junta para competir por los millonarios contratos de rearme europeos."
+    },
+    {
+      "titular": "El premio Nobel Demis Hassabis alerta sobre el riesgo de perder el control de la IA",
+      "resumen": "El cofundador de Google DeepMind advierte de que la velocidad del desarrollo tecnológico impide predecir con certeza las consecuencias a medio plazo."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Escalada en el estrecho de Ormuz: EE. UU. e Irán elevan la tensión militar y presionan los precios del crudo",
+          "que_ha_pasado": "Estados Unidos ha lanzado nuevos ataques contra infraestructuras en Yemen y ha abordado un buque en el estrecho de Ormuz, mientras Teherán justifica su estrategia de confrontación para forzar un alivio de las sanciones económicas. Esta inestabilidad ya se está traduciendo en un encarecimiento del transporte marítimo global y del combustible en mercados clave como el estadounidense.",
+          "por_que_importa": "El estrecho de Ormuz es el cuello de botella más crítico para el tránsito global de petróleo y gas licuado. Para un analista de relaciones internacionales, este repunte de tensión evidencia cómo Irán utiliza la disrupción asimétrica de las rutas comerciales como palanca de negociación geopolítica frente a Washington. La combinación de fletes marítimos más caros y desvíos de rutas amenaza con reactivar las presiones inflacionistas en Occidente, complicando los planes de los bancos centrales para relajar los tipos de interés.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/week-ender-did-europe-dodge-a-summer-travel-crisis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/jul/16/us-gas-prices-rise-strait-of-hormuz"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/22fdb2d5-b454-4a65-9aa9-e56371533ccf"
+            }
+          ]
+        },
+        {
+          "titular": "París y Berlín buscan reactivar su agenda de defensa común ante la parálisis de los proyectos conjuntos",
+          "que_ha_pasado": "El canciller alemán, Friedrich Merz, y el presidente francés, Emmanuel Macron, se reúnen en un consejo de ministros conjunto con el foco puesto en el escudo de defensa antimisiles europeo. El encuentro se produce en un momento crítico tras el estancamiento de iniciativas clave como el programa de aviones de combate de nueva generación (FCAS).",
+          "por_que_importa": "La autonomía estratégica de la Unión Europea depende de la sintonía industrial y militar entre sus dos mayores economías. Con la guerra en Ucrania cronificada y la incertidumbre sobre el nivel de compromiso de Estados Unidos con la OTAN a medio plazo, la falta de avances en la integración de defensa debilita la posición geopolítica del continente. Este encuentro busca salvar la brecha entre el enfoque pragmático de compras rápidas de Berlín y la visión de soberanía tecnológica a largo plazo de París.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/merz-und-macrons-letzter-anlauf-fur-europas-nuklearschirm/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Marco Rubio convoca una cumbre internacional contra la extrema izquierda alineada con la agenda MAGA",
+          "que_ha_pasado": "El Departamento de Estado de EE. UU., bajo la iniciativa del secretario Marco Rubio, ha convocado a delegaciones de 66 países a una reunión enfocada en combatir a grupos de extrema izquierda. El plan incluye una partida de tres millones de dólares en ayudas para organizaciones europeas que compartan la visión ideológica del movimiento conservador estadounidense.",
+          "por_que_importa": "Esta iniciativa refleja la institucionalización de la polarización política doméstica estadounidense y su exportación como herramienta de política exterior. Para las cancillerías europeas, la financiación directa de Washington a colectivos ideológicos locales representa un desafío a la soberanía nacional y redefine las relaciones transatlánticas bajo criterios puramente partidistas, rompiendo con el tradicional pragmatismo diplomático bilateral.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-16/rubio-convoca-a-60-paises-a-un-encuentro-para-combatir-a-los-extremistas-de-izquierda-en-todo-el-mundo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La fiebre de la inteligencia artificial da un paso atrás y arrastra a las bolsas globales",
+          "que_ha_pasado": "Los principales índices mundiales, incluidos el Nasdaq y el Ibex 35, han registrado caídas notables debido a una recogida de beneficios generalizada en los valores tecnológicos y de semiconductores. Los resultados de gigantes como Netflix, que no cumplieron con las previsiones más optimistas de Wall Street, han acelerado la retirada de los inversores.",
+          "por_que_importa": "Tras meses de subidas meteóricas impulsadas por la narrativa de la IA generativa, el mercado empieza a exigir retornos tangibles que justifiquen las elevadas valoraciones de las empresas tecnológicas. Esta corrección sugiere que los inversores están transitando del optimismo ciego a un enfoque más selectivo y prudente, lo que podría desviar capital hacia sectores tradicionales más defensivos en un entorno macroeconómico todavía complejo.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/17/6a59c2b6e5fdea26128b458e.html"
+            }
+          ]
+        },
+        {
+          "titular": "La complacencia de los mercados ante las amenazas espaciales de Rusia y China",
+          "que_ha_pasado": "Diversos informes de inteligencia señalan el desarrollo de planes conjuntos entre Moscú y Pekín para neutralizar o deshabilitar satélites de comunicaciones occidentales. A pesar de la gravedad de estas advertencias, los mercados financieros y las grandes tecnológicas continúan ignorando este riesgo geopolítico en sus valoraciones de activos.",
+          "por_que_importa": "La infraestructura satelital es la columna vertebral invisible de la economía digital global, desde los sistemas de navegación GPS hasta la sincronización de transacciones financieras y la conectividad en la nube. Un ataque coordinado en la órbita terrestre baja no solo colapsaría las comunicaciones militares, sino que paralizaría el comercio internacional, revelando una desconexión preocupante entre el análisis de riesgo geopolítico y la asignación de capital en Wall Street.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/e7039185-9c0f-4a55-bb16-3caccb619c00?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La Unión Europea endurece el cerco sobre la elusión de sanciones comerciales",
+          "que_ha_pasado": "Las autoridades europeas están cambiando el foco de su supervisión, pasando del control directo de las exportaciones a la persecución de la elusión de sanciones a través de terceros países. Esto expone a empresas que se consideraban cumplidoras a graves sanciones debido a las actividades de sus distribuidores y clientes finales en la cadena de suministro.",
+          "por_que_importa": "Para las consultoras y los departamentos de cumplimiento normativo (compliance), las reglas de juego han cambiado drásticamente. Ya no basta con verificar la identidad del comprador directo; ahora se exige una trazabilidad total del producto (know your customer's customer). Esto incrementa los costes operativos y obliga a reconfigurar las cadenas de suministro globales, penalizando la exportación hacia mercados puente sospechosos de triangular con Rusia.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/legal/2026-07-17/elusion-de-sanciones-por-que-el-cumplimiento-tradicional-ya-no-bastara.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "SpaceX aborta el lanzamiento de la Starship V3 tras un fallo de encendido",
+          "que_ha_pasado": "La compañía aeroespacial de Elon Musk se vio obligada a suspender el despegue de su prototipo Starship V3 en el último segundo debido a que varios de sus motores no lograron arrancar tras la ignición. La noticia provocó una caída inmediata de más del 4% en las acciones de SpaceX en el mercado secundario, aunque luego recuperaron parte del terreno perdido.",
+          "por_que_importa": "El programa Starship es fundamental no solo para las ambiciones marcianas de Musk, sino para los contratos multimillonarios de la NASA (programa Artemis) y el despliegue de la red Starlink de nueva generación. Cada retraso en el desarrollo de este vector de lanzamiento superpesado tensiona el calendario de la exploración espacial comercial y demuestra que, a pesar de los avances de la ingeniería privada, el acceso fiable al espacio profundo sigue siendo un reto técnico formidable.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/"
+            }
+          ]
+        },
+        {
+          "titular": "Demis Hassabis advierte del riesgo real de perder el control de los sistemas de inteligencia artificial",
+          "que_ha_pasado": "El premio Nobel y cofundador de Google DeepMind, Demis Hassabis, ha alertado públicamente sobre la incertidumbre que rodea al desarrollo acelerado de la inteligencia artificial generativa. Hassabis subrayó que la industria se mueve a una velocidad que impide predecir con certeza las consecuencias a medio plazo de estos sistemas.",
+          "por_que_importa": "Que una de las mentes más brillantes y respetadas del sector haga este llamamiento refuerza la corriente que exige una regulación internacional estricta. Para las empresas de consultoría estratégica, esto anticipa un endurecimiento normativo global (como la plena implementación de la AI Act en Europa) que obligará a auditar no solo la eficiencia de los modelos, sino también su seguridad y alineación ética antes de su despliegue comercial.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/robotica-e-ia/nadie-sabe-certeza-que-va-a-ocurrir-demis-hassabis-premio-nobel-advierte-riesgo-perder-control-ia"
+            }
+          ]
+        },
+        {
+          "titular": "Un ataque de 'ransomware' paraliza la producción de la filial láctea de Coca-Cola en EE. UU.",
+          "que_ha_pasado": "Coca-Cola ha suspendido indefinidamente la producción en las plantas de su división láctea Fairlife tras sufrir un ciberataque de secuestro de datos (ransomware). La compañía está trabajando con expertos en seguridad para evaluar el alcance de la intrusión y restaurar los sistemas afectados.",
+          "por_que_importa": "Este incidente subraya la vulnerabilidad de la tecnología operativa (OT) en la industria manufacturera y de consumo masivo. Los ciberdelincuentes ya no buscan solo robar datos corporativos, sino paralizar la cadena de suministro física para forzar el pago del rescate, lo que eleva la ciberseguridad a una prioridad de continuidad de negocio de primer nivel.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Andalucía unifica sus clústeres industriales para crear un gigante de la defensa",
+          "que_ha_pasado": "Los sectores aeroespacial, naval, logístico y ferroviario de Andalucía han sellado una alianza estratégica, respaldada por la Junta, para actuar bajo una sola voz en el mercado de la defensa. El objetivo es consolidar la región como el principal polo industrial militar del sur de Europa y captar mayores contratos estatales y europeos.",
+          "por_que_importa": "En el actual contexto de rearme europeo, la fragmentación industrial es el mayor enemigo de la competitividad. Al integrar capacidades que van desde los astilleros de Navantia en Cádiz hasta el polo aeronáutico de Sevilla, Andalucía busca competir directamente con los consorcios del norte de España y posicionarse de cara a los fondos del Programa Europeo de Desarrollo Industrial de Defensa (EDIDP).",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-17/la-batalla-por-liderar-la-industria-andaluza-de-defensa-entra-en-una-nueva-fase_4391136/"
+            }
+          ]
+        },
+        {
+          "titular": "El incendio de Lozoyuela calcina 700 hectáreas en Madrid con un sospechoso detenido",
+          "que_ha_pasado": "Un grave incendio forestal ha arrasado más de 700 hectáreas en el municipio madrileño de Lozoyuela, obligando a un despliegue masivo de servicios de emergencia. La Guardia Civil ha detenido al presunto autor del fuego, mientras los equipos de extinción luchan contra el reloj antes de que las condiciones meteorológicas empeoren.",
+          "por_que_importa": "Los incendios forestales en España son cada vez más tempranos y virulentos debido al aumento de las temperaturas medias y las sequías prolongadas. Este suceso vuelve a poner sobre la mesa la necesidad de reformar las políticas de gestión forestal y prevención durante todo el año, así como de endurecer las penas para los delitos medioambientales en un contexto de clara vulnerabilidad climática.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/madrid/2026-07-17/el-incendio-de-lozoyuela-supera-ya-las-700-hectareas-mientras-la-guardia-civil-mantiene-detenido-al-presunto-autor.html"
+            }
+          ]
+        },
+        {
+          "titular": "Burgos elude el impacto financiero del incendio de sus cocheras gracias al modelo de 'renting'",
+          "que_ha_pasado": "La Policía Científica ha confirmado que el espectacular incendio que destruyó parte de las cocheras municipales de Burgos se originó de forma accidental en un autobús gestionado bajo la modalidad de renting. Al no tratarse de un vehículo de propiedad municipal directa, el ayuntamiento evita asumir el millonario coste de reposición, que recaerá sobre la aseguradora de la empresa arrendadora.",
+          "por_que_importa": "Este caso es un ejemplo de manual de los beneficios de la transferencia de riesgos financieros en la gestión pública moderna. Para los consultores de sector público, demuestra cómo el arrendamiento operativo de flotas no solo optimiza el gasto corriente y la renovación tecnológica, sino que actúa como un escudo financiero crucial ante imprevistos catastróficos que de otro modo desestabilizarían los presupuestos locales.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-07-17/el-ayuntamiento-de-burgos-esquiva-la-ruina-el-incendio-de-las-cocheras-se-inicio-en-un-bus-de-renting_4391269/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Christie’s acelera su transformación digital impulsada por el apetito de los jóvenes coleccionistas",
+          "que_ha_pasado": "La casa de subastas Christie’s ha consolidado su estrategia digital para atraer a compradores más jóvenes, especialmente en mercados asiáticos como Corea del Sur. Según su CEO, Bonnie Brennan, este nuevo perfil de cliente está dispuesto a pagar sumas millonarias por objetos de cultura popular contemporánea, como guitarras de músicos legendarios, utilizando plataformas de venta en línea.",
+          "por_que_importa": "El mercado del arte y el coleccionismo de lujo está viviendo un relevo generacional acelerado que rompe con los canales tradicionales de las galerías físicas. La digitalización de las subastas no solo democratiza el acceso global a estas pujas, sino que redefine qué se considera un activo de valor, elevando la memorabilia pop al mismo estatus financiero que las obras de arte clásico.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-17/bonnie-brennan-ceo-de-christies-los-coleccionistas-jovenes-pueden-pagar-un-millon-de-euros-por-una-guitarra-de-jeff-beck.html"
+            }
+          ]
+        },
+        {
+          "titular": "El mito de Ulises se reinventa en el cine con Matt Damon como el nuevo héroe homérico",
+          "que_ha_pasado": "El actor estadounidense Matt Damon se sumará a la lista de grandes intérpretes que han dado vida a Ulises, el astuto protagonista de la 'Odisea'. Esta nueva adaptación cinematográfica sigue la estela de producciones clásicas y modernas que han contado con nombres de la talla de Kirk Douglas, Armand Assante o Sean Bean para encarnar al rey de Ítaca.",
+          "por_que_importa": "La figura de Ulises representa el arquetipo del viaje, la resiliencia y la astucia frente a la fuerza bruta, un relato que sigue resonando con fuerza en la cultura contemporánea. Cada nueva adaptación cinematográfica de los clásicos grecolatinos no solo actualiza el mito para las nuevas audiencias, sino que refleja las tensiones y los valores de la época en la que se produce, demostrando la inmortalidad de la narrativa homérica.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-17/los-multiples-rostros-del-sagaz-ulises.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Mercado de predicciones (Prediction Market)",
+    "explicacion": "Un mercado de predicciones es un mercado financiero creado con el propósito de comerciar con el resultado de eventos futuros. El valor de los contratos refleja la probabilidad que el mercado asigna a que ocurra un evento (por ejemplo, elecciones, decisiones regulatorias o el clima). Al permitir que los participantes arriesguen capital real, estos mercados a menudo resultan más precisos que las encuestas tradicionales o los análisis de expertos, ya que agregan información dispersa de manera eficiente de incentivos económicos.",
+    "ejemplo": "La plataforma de predicciones Kalshi ha comenzado a ofrecer apuestas sobre los resultados de ensayos clínicos de medicamentos y las decisiones de aprobación de la FDA, permitiendo a los inversores cubrir riesgos financieros asociados al sector farmacéutico."
+  },
+  "fecha": "2026-07-17"
+}
