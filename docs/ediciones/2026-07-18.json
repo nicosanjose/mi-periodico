@@ -1,0 +1,246 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Tensión máxima en Ormuz: EE. UU. bombardea Irán por séptima noche consecutiva",
+      "resumen": "Washington intensifica sus ataques para mermar la capacidad militar de Teherán, mientras el bloqueo del estrecho amenaza con desestabilizar el mercado energético global."
+    },
+    {
+      "titular": "Junts enfría la legislatura y advierte a Sánchez de que la amnistía no garantiza su apoyo",
+      "resumen": "La formación independentista desvincula la medida de gracia de la estabilidad del Gobierno y exige el cumplimiento estricto de sus demandas para mantener sus votos."
+    },
+    {
+      "titular": "La fiebre de la inteligencia artificial en Asia dispara los ingresos de Wall Street",
+      "resumen": "La masiva inversión en semiconductores e infraestructura tecnológica en la región reporta ganancias récord a la banca de inversión estadounidense."
+    },
+    {
+      "titular": "Pekín protesta formalmente ante Londres por la nacionalización de British Steel",
+      "resumen": "El Gobierno chino califica la intervención estatal británica de golpe severo para la confianza de sus empresas e inversores en el Reino Unido."
+    },
+    {
+      "titular": "Hito demográfico: los trabajadores latinoamericanos ya superan a los europeos en España",
+      "resumen": "La afiliación a la Seguridad Social de ciudadanos de América Latina rebasa los 1,2 millones de cotizantes, consolidándose como motor clave del mercado laboral."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La escalada militar en el estrecho de Ormuz se intensifica con la séptima noche de ataques de EE. UU.",
+          "que_ha_pasado": "Estados Unidos ha ejecutado su séptima jornada consecutiva de bombardeos contra posiciones militares en Irán para mermar sus capacidades operativas. Por su parte, Teherán denuncia que dos de sus petroleros sufrieron explosiones por minas en el estrecho de Ormuz, un extremo que Washington niega en medio del bloqueo de esta vía marítima clave.",
+          "por_que_importa": "El estrecho de Ormuz es el paso estratégico más crítico del mundo para el comercio de petróleo, canalizando una quinta parte del suministro global. Un bloqueo prolongado o un conflicto abierto directo entre Washington y Teherán amenaza con desestabilizar los mercados energéticos mundiales en un momento de fragilidad inflacionaria, obligando a las potencias occidentales a recalcular sus rutas de suministro y su postura de seguridad en Oriente Medio.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/jul/17/us-launches-seventh-night-of-iran-strikes-as-hormuz-conflict-escalates"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/07/18/6a5b1360e9cf4a296b8b4590.html"
+            }
+          ]
+        },
+        {
+          "titular": "El frente ucraniano castiga de forma desproporcionada a las minorías étnicas y regiones pobres de Rusia",
+          "que_ha_pasado": "El desgaste humano de la invasión de Ucrania no se está distribuyendo de manera uniforme dentro de la Federación Rusa. Los datos demuestran que las bajas en combate afectan mayoritariamente a soldados procedentes de las repúblicas étnicas no rusas y de las provincias económicamente más deprimidas del país.",
+          "por_que_importa": "Esta disparidad geográfica y étnica refleja una estrategia deliberada del Kremlin para evitar el descontento social en los grandes centros urbanos e influyentes como Moscú o San Petersburgo. A largo plazo, la pérdida de población joven en estas regiones periféricas agravará la brecha de desarrollo interno y podría alimentar tensiones identitarias y resentimiento contra el poder central ruso.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-18/la-guerra-de-ucrania-castiga-a-las-minorias-y-a-los-pobres-de-rusia.html"
+            }
+          ]
+        },
+        {
+          "titular": "Israel acelera la colonización con nuevos asentamientos en Gaza y una inyección millonaria en Cisjordania",
+          "que_ha_pasado": "Los ministerios de Defensa y Finanzas de Israel han anunciado la creación de tres nuevos asentamientos en la Franja de Gaza bajo la denominación de puestos 'Nahal'. Paralelamente, el ejecutivo de coalición liderado por Netanyahu ha desbloqueado más de 400 millones de dólares para expandir la construcción de viviendas en la Cisjordania ocupada.",
+          "por_que_importa": "Este movimiento consolida la estrategia de hechos consumados de la extrema derecha israelí, dificultando aún más cualquier solución de dos Estados. La financiación y expansión en territorios palestinos tensa al límite las relaciones con sus aliados occidentales, especialmente EE. UU., y profundiza el aislamiento diplomático de Israel en los foros internacionales.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine"
+            }
+          ]
+        },
+        {
+          "titular": "París y Berlín aceleran las reformas de la Unión Europea ante el temor a un giro político en Francia",
+          "que_ha_pasado": "El canciller alemán Friedrich Merz y el presidente francés Emmanuel Macron se han comprometido a agilizar la agenda de prioridades económicas de la Unión Europea. Aunque ambos enmarcan esta urgencia en la necesidad de mejorar la competitividad continental, la iniciativa busca blindar las estructuras comunitarias antes de una posible victoria electoral de Marine Le Pen.",
+          "por_que_importa": "La parálisis del eje franco-alemán ha ralentizado la toma de decisiones en Bruselas en los últimos años. Este intento de blindaje institucional demuestra la profunda preocupación de las élites europeas por el auge de la extrema derecha euroescéptica, que podría bloquear reformas clave en comercio, defensa y transición ecológica si llega al Elíseo.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/emmanuel-macron-friedrich-merz-france-germany-eu-economic-deals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La fiebre de la inteligencia artificial en Asia dispara los ingresos de la banca de inversión de Wall Street",
+          "que_ha_pasado": "Las masivas inversiones en el sector de los semiconductores y la infraestructura de inteligencia artificial en Asia están impulsando las ganancias de las grandes entidades financieras estadounidenses. La actividad de financiación y asesoría en fusiones tecnológicas ha generado ingresos récord para estas firmas en la región asiática.",
+          "por_que_importa": "El fenómeno evidencia que el desarrollo de la IA no solo beneficia a las grandes tecnológicas de Silicon Valley, sino que dinamiza todo el ecosistema financiero global. Para la banca de inversión, Asia se consolida como el principal motor de crecimiento en operaciones corporativas, impulsado por la reconfiguración de la cadena de suministro de chips y la carrera por la soberanía tecnológica.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Pekín protesta formalmente ante Londres por la nacionalización de British Steel",
+          "que_ha_pasado": "El gobierno chino ha manifestado su 'profundo descontento' tras la decisión del Reino Unido de nacionalizar la siderúrgica British Steel. El Ministerio de Comercio de China argumenta que esta medida intervencionista daña gravemente la confianza de las corporaciones del gigante asiático para invertir en territorio británico.",
+          "por_que_importa": "La disputa subraya la creciente tensión geopolítica en torno a los sectores industriales estratégicos y la seguridad nacional. Para el Reino Unido, asegurar la producción de acero nacional es clave para su autonomía industrial, pero el choque con Pekín complica su política comercial exterior en un momento en que busca revitalizar su economía post-Brexit.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied"
+            }
+          ]
+        },
+        {
+          "titular": "Los trabajadores latinoamericanos superan por primera vez a los europeos en la Seguridad Social española",
+          "que_ha_pasado": "La afiliación de trabajadores procedentes de América Latina ha alcanzado un hito histórico en España al superar los 1,2 millones de cotizantes, situándose por encima de la cifra de trabajadores de origen europeo. Colombia lidera el crecimiento de este contingente laboral, que destaca por su dinamismo y rápida inserción en el mercado de trabajo nacional.",
+          "por_que_importa": "Este cambio demográfico y laboral es fundamental para sostener el sistema de pensiones español y cubrir vacantes en sectores clave como los servicios, la construcción y los cuidados. Además, la afinidad cultural e idiomática facilita una integración más ágil en comparación con otras olas migratorias, redefiniendo las relaciones socioeconómicas de España con la región latinoamericana.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-07-18/los-latinos-impulsan-el-mercado-laboral-espanol-tenemos-ahinco-venimos-con-muchas-ganas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Doce estados de EE. UU. llevan a los tribunales la fusión de 111.000 millones de dólares entre Paramount y Warner Bros",
+          "que_ha_pasado": "Los fiscales generales de doce estados gobernados por demócratas han presentado una demanda para bloquear la gigantesca fusión entre Paramount Skydance y Warner Bros Discovery. La coalición judicial argumenta que la operación de 111.000 millones de dólares vulnera las leyes antimonopolio y perjudicará gravemente la competencia en el sector del entretenimiento.",
+          "por_que_importa": "Esta acción legal refleja la agresiva postura de los reguladores estadounidenses contra la consolidación de los gigantes mediáticos. De prosperar la fusión, se crearía un duopolio de facto en la distribución de contenidos que limitaría las opciones de los consumidores y presionaría a la baja las condiciones de los creadores en la industria del streaming.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/media/2026/jul/17/paramount-warner-bros-merger"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "TikTok prueba una herramienta para detectar y reportar la clonación de identidad mediante inteligencia artificial",
+          "que_ha_pasado": "La plataforma de vídeos cortos ha comenzado a testar con un grupo seleccionado de creadores en Estados Unidos una función que escanea el uso no autorizado de su imagen o voz generadas por IA. Esta herramienta de detección voluntaria permitirá a los usuarios denunciar suplantaciones directamente a la compañía para su retirada.",
+          "por_que_importa": "La proliferación de 'deepfakes' y la clonación de voz sin consentimiento representan uno de los mayores desafíos éticos y legales de la era de la IA generativa. Con esta medida, TikTok sigue los pasos de YouTube para proteger los derechos de propiedad intelectual y de imagen de sus creadores, intentando mitigar el riesgo de desinformación y fraude en su ecosistema.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool"
+            }
+          ]
+        },
+        {
+          "titular": "El Pentágono admite retrasos en el despliegue de su nueva red de satélites de defensa espacial",
+          "que_ha_pasado": "La Agencia de Desarrollo Espacial de los Estados Unidos ha reconocido que el despliegue de su constelación de satélites militares no avanza a la velocidad requerida por el mando estratégico. La urgencia se produce en un contexto de constantes ataques con misiles contra las fuerzas conjuntas en escenarios operativos activos.",
+          "por_que_importa": "La lentitud en la modernización de la infraestructura espacial militar compromete la capacidad de alerta temprana y comunicaciones seguras de las fuerzas aliadas frente a amenazas hipersónicas de rivales como China o Rusia. El retraso evidencia las dificultades burocráticas e industriales del Pentágono para adoptar tecnologías comerciales de ciclo rápido.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/"
+            }
+          ]
+        },
+        {
+          "titular": "Satélites respaldados por Google se lanzan al espacio para la detección temprana de incendios forestales",
+          "que_ha_pasado": "Se ha puesto en órbita la constelación del programa FireSat, un proyecto tecnológico apoyado por Google diseñado específicamente para localizar brotes de incendios forestales con una precisión que los satélites meteorológicos convencionales no pueden alcanzar. El lanzamiento coincide con una severa temporada de incendios y humo denso en Norteamérica.",
+          "por_que_importa": "La detección en los primeros minutos de un incendio es crucial para evitar que se convierta en un desastre incontrolable de gran magnitud. Esta tecnología de observación terrestre de alta resolución demuestra cómo la colaboración entre gigantes tecnológicos y agencias medioambientales puede acelerar la adaptación al cambio climático mediante el uso de datos en tiempo real.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Junts enfría la legislatura y advierte a Sánchez de que la amnistía no garantiza su apoyo parlamentario",
+          "que_ha_pasado": "La cúpula de Junts per Catalunya ha descartado que la aplicación de la ley de amnistía suponga una reconciliación política con el PSOE o un apoyo automático al Gobierno de Pedro Sánchez. La formación independentista ha avisado de que su permanencia en el bloque de investidura dependerá estrictamente del cumplimiento de los compromisos con Cataluña.",
+          "por_que_importa": "Esta postura confirma la extrema fragilidad de la mayoría parlamentaria que sostiene al Ejecutivo español. Al desvincular la amnistía de la estabilidad de la legislatura, Junts mantiene una espada de Damocles sobre la aprobación de los Presupuestos Generales del Estado y obliga al Gobierno a una negociación constante y de alto coste político para cada votación.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/cataluna/2026/07/18/6a5a6254e85eceee518b45a6.html"
+            }
+          ]
+        },
+        {
+          "titular": "La Generalitat Valenciana exige prorrogar la vida útil de la central nuclear de Cofrentes tras el aval técnico a Almaraz",
+          "que_ha_pasado": "El Gobierno de la Comunidad Valenciana y las patronales autonómicas han elevado el tono para reclamar la continuidad de la central nuclear de Cofrentes más allá de su cierre previsto para 2030. La exigencia se produce después de que el Consejo de Seguridad Nuclear (CSN) emitiera un informe favorable para la prórroga de la planta extremeña de Almaraz.",
+          "por_que_importa": "Este debate reabre la confrontación política en torno al Plan de Energía y Clima del Gobierno central, que contempla el apagón nuclear progresivo en España. Para la industria valenciana, el cierre de Cofrentes amenaza la competitividad de sus costes energéticos y la estabilidad del suministro, reflejando la tensión entre los objetivos de descarbonización y la seguridad del sistema eléctrico.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-07-18/generalitat-tono-nuclear-cofrentes-almaraz_4391832/"
+            }
+          ]
+        },
+        {
+          "titular": "Renault rompe su alianza con la planta de Nissan en Ávila y compromete la mitad de su producción",
+          "que_ha_pasado": "Renault ha decidido poner fin a su acuerdo comercial con la factoría de Nissan en Ávila, una planta de componentes y recambios que emplea a unas 450 personas. La dirección de la fábrica abulense busca ahora nuevos proyectos industriales, incluso fuera del sector de la automoción, para compensar la pérdida del volumen de producción que aportaba la marca francesa.",
+          "por_que_importa": "La ruptura de esta alianza histórica expone la vulnerabilidad de las plantas auxiliares de automoción en España ante la reestructuración global de los grandes fabricantes de vehículos. La necesidad de diversificar la producción hacia otros sectores industriales pone a prueba la capacidad de adaptación de la industria de Castilla y León para retener empleo cualificado.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/castilla-y-leon/2026-07-18/renault-rompe-tres-decadas-de-alianza-comercial-con-nissan-avila-y-pone-en-riesgo-la-mitad-de-su-produccion_4391919/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La 'startup' aeroespacial india Skyroot se prepara para el lanzamiento histórico de su cohete Vikram-1",
+          "que_ha_pasado": "Skyroot Aerospace, el primer unicornio tecnológico espacial de la India, tiene programado para este sábado el lanzamiento de su cohete Vikram-1. Este vehículo está diseñado para ofrecer un servicio de transporte orbital de bajo coste y alta frecuencia para satélites pequeños.",
+          "por_que_importa": "El éxito de Vikram-1 consolidaría a la India como un actor clave en el mercado global de lanzamientos espaciales comerciales de bajo coste, compitiendo directamente con empresas occidentales. Además, refleja la madurez de su ecosistema de capital riesgo y de innovación privada, que complementa los logros históricos de su agencia espacial estatal (ISRO).",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "El Palacio Real de Madrid documenta los daños sufridos por su patrimonio durante la Guerra Civil",
+          "que_ha_pasado": "El hallazgo de proyectiles en los jardines del Campo del Moro ha impulsado un proyecto para registrar y catalogar las huellas materiales de la Guerra Civil en el Palacio Real de Madrid. Entre los daños históricos documentados destaca el impacto de balas en la valiosa colección de armaduras de Felipe IV de la Real Armería.",
+          "por_que_importa": "A noventa años del inicio del conflicto, esta iniciativa pone en valor la memoria material como herramienta pedagógica y de conservación histórica. El estudio científico de estos impactos permite entender mejor la intensidad de los combates en el frente de Madrid y resalta la importancia de proteger el patrimonio cultural en zonas de conflicto bélico.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-18/las-cicatrices-de-la-guerra-civil-sobreviven-en-el-palacio-real-las-armaduras-de-felipe-iv-quedaron-como-un-queso-gruyer.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Diplomacia de la trampa de la deuda (Debt-trap diplomacy)",
+    "explicacion": "Concepto geopolítico y financiero que describe una estrategia de relaciones bilaterales en la que un país acreedor concede préstamos excesivos a una nación en desarrollo para la construcción de infraestructuras críticas, sabiendo que el deudor difícilmente podrá cumplir con los pagos. Cuando el país deudor entra en suspensión de pagos, el acreedor exige concesiones políticas, comerciales o el control físico de la infraestructura estratégica (como puertos o aeropuertos) en concepto de garantía. Es una herramienta de proyección de poder que sustituye la fuerza militar por la dependencia financiera a largo plazo.",
+    "ejemplo": "El caso más citado es el puerto de Hambantota en Sri Lanka, donde el gobierno ceilandés, incapaz de pagar las deudas contraídas con empresas estatales chinas para su construcción, se vio obligado a ceder el control operativo del puerto y miles de hectáreas circundantes a China mediante un arrendamiento por 99 años."
+  },
+  "fecha": "2026-07-18"
+}
