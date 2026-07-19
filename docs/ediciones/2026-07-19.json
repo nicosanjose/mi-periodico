@@ -1,0 +1,250 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Escalada militar directa entre EE. UU. e Irán tras la muerte de soldados en Jordania",
+      "resumen": "El intercambio de ataques con drones y misiles en el golfo Pérsico amenaza el tránsito de crudo por el estrecho de Ormuz y eleva la tensión regional."
+    },
+    {
+      "titular": "Pekín orienta su plan de estímulo hacia la alta tecnología y descarta incentivos al consumo masivo",
+      "resumen": "El Partido Comunista prioriza la soberanía industrial y la manufactura avanzada, asumiendo el riesgo de generar fricciones comerciales por sobrecapacidad exportadora."
+    },
+    {
+      "titular": "Rusia bombardea Kyiv con uno de sus mayores ataques balísticos en meses",
+      "resumen": "La ofensiva de cinco horas provoca graves daños estructurales y demuestra la persistente capacidad armamentística de Moscú pese al desgaste del frente."
+    },
+    {
+      "titular": "Los comunes proponen adoptar un relato épico para frenar el avance de la extrema derecha",
+      "resumen": "Un documento estratégico encargado por el sector de Ada Colau aboga por priorizar las narrativas emocionales frente al discurso técnico de la izquierda tradicional."
+    },
+    {
+      "titular": "El gobierno de EE. UU. ensaya el uso de inteligencia artificial para decidir sobre coberturas médicas",
+      "resumen": "Un programa piloto evalúa automatizar las autorizaciones de seguros de salud, abriendo un intenso debate ético sobre el sesgo algorítmico en la sanidad."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Escalada militar entre Estados Unidos e Irán tras la muerte de soldados estadounidenses en Jordania",
+          "que_ha_pasado": "El ejército estadounidense ha lanzado ataques de represalia contra posiciones iraníes por octava noche consecutiva tras la muerte de dos de sus soldados en Jordania. Irán ha respondido con ataques de drones dirigidos a instalaciones militares de EE. UU. en Kuwait, elevando la tensión en el golfo Pérsico.",
+          "por_que_importa": "Este enfrentamiento directo amenaza con desestabilizar el estrecho de Ormuz, un canal marítimo crucial por donde transita aproximadamente una quinta parte del consumo mundial de petróleo. La escalada pone a prueba la estrategia de disuasión de Washington en la región y complica los esfuerzos diplomáticos para evitar un conflicto regional a gran escala en Oriente Próximo.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.com/news/2026/07/18/two-service-members-killed-in-iranian-attack-centcom-says-01004265?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Rusia intensifica la ofensiva sobre Kyiv con uno de sus mayores ataques balísticos",
+          "que_ha_pasado": "Las fuerzas rusas han ejecutado un bombardeo masivo de cinco horas contra la capital ucraniana utilizando misiles balísticos, provocando al menos una muerte e importantes daños materiales en viviendas y oficinas. El ataque se produce poco después de que Ucrania golpeara almacenes logísticos en territorio ruso.",
+          "por_que_importa": "La magnitud de este ataque evidencia que, a pesar de las sanciones internacionales y el desgaste militar, Moscú mantiene una capacidad de producción y despluegue de armamento pesado muy significativa. Para Ucrania, subraya la necesidad crítica y constante de sistemas de defensa antiaérea occidentales avanzados para proteger sus centros urbanos y de toma de decisiones.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack"
+            }
+          ]
+        },
+        {
+          "titular": "El presidente de Hungría firma su propia destitución y denuncia abusos de poder político",
+          "que_ha_pasado": "Tamás Sulyok, el presidente húngaro nombrado bajo el mandato de Viktor Orbán, ha firmado la reforma constitucional que formaliza su destitución del cargo. Al hacerlo, Sulyok ha calificado públicamente la medida como un abuso flagrante y vergonzoso del poder político por parte del Ejecutivo.",
+          "por_que_importa": "Este episodio ilustra la profunda erosión de los contrapesos democráticos en Hungría y la consolidación del control institucional por parte del partido gobernante, Fidesz. Para la Unión Europea, representa un nuevo desafío en su pugna por el respeto al Estado de derecho entre sus miembros, evidenciando los límites de los mecanismos de presión de Bruselas.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-19/el-presidente-de-hungria-firma-la-reforma-constitucional-de-magyar-que-le-destituye.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/internacional/2026-07-19/el-presidente-de-hungria-firma-la-reforma-constitucional-de-magyar-que-le-destituye.html"
+            }
+          ]
+        },
+        {
+          "titular": "El desgaste de la guerra comienza a erosionar la popularidad de Vladímir Putin en Rusia",
+          "que_ha_pasado": "A pesar de la aparente ausencia de protestas públicas masivas, el apoyo social al Kremlin muestra signos de debilitamiento debido al elevado número de bajas en el frente ucraniano. El temor a una nueva movilización militar forzosa y los recientes recortes en el suministro doméstico de combustible están haciendo mella en la opinión pública rusa.",
+          "por_que_importa": "Históricamente, la estabilidad del régimen de Putin se ha basado en un pacto tácito de despolitización de la sociedad a cambio de estabilidad económica y seguridad. La ruptura de este equilibrio por el impacto directo de la guerra en la vida cotidiana de las familias rusas podría forzar al Kremlin a incrementar la represión interna o a buscar vías de desescalada para evitar tensiones sociales inmanejables.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-19/nadie-protesta-en-la-rusia-de-putin-pero-la-guerra-empieza-a-pasar-factura-a-su-popularidad.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Pekín descarta un estímulo masivo al consumo y prioriza la inversión en alta tecnología",
+          "que_ha_pasado": "Los líderes del Partido Comunista de China han diseñado un plan de estímulo económico enfocado exclusivamente en impulsar los sectores de alta tecnología y manufactura avanzada. Los analistas señalan que las autoridades han evitado deliberadamente implementar medidas de gran alcance dirigidas a fomentar el consumo directo de los hogares.",
+          "por_que_importa": "Esta decisión refleja el giro estratégico de China hacia la autosuficiencia tecnológica y la competencia industrial global con Occidente, priorizando la resiliencia productiva sobre el crecimiento rápido basado en la demanda interna. Sin embargo, esta estrategia corre el riesgo de exacerbar las tensiones comerciales internacionales por el exceso de capacidad exportadora china en sectores como los vehículos eléctricos y los semiconductores.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Donald Trump desbloquea la apertura del puente fronterizo de 3.900 millones de dólares con Canadá",
+          "que_ha_pasado": "El presidente de Estados Unidos ha retirado su veto al proyecto de infraestructura que unirá las ciudades de Detroit y Windsor, cuya construcción comenzó hace 13 años. El puente, clave para el comercio bilateral, se inaugurará oficialmente el próximo 27 de julio tras años de disputas políticas entre ambos países.",
+          "por_que_importa": "Esta infraestructura es vital para la cadena de suministro de la industria automotriz norteamericana, que depende de un flujo constante de componentes a través de la frontera. El desbloqueo del proyecto sugiere un pragmatismo económico por parte de la administración estadounidense para evitar cuellos de botella logísticos con su principal socio comercial bajo el marco del T-MEC.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/politica/2026/07/18/6a5b5738e5fdea01408b457e.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los agentes de inteligencia artificial transforman el desarrollo científico y la investigación",
+          "que_ha_pasado": "La integración de sistemas avanzados de inteligencia artificial está redefiniendo las profesiones científicas al permitir que los investigadores dirijan agentes inteligentes en lugar de limitarse a operar software tradicional. Esta transición está acelerando de manera exponencial el ritmo de los descubrimientos en áreas como la química y la biología molecular.",
+          "por_que_importa": "Este cambio tecnológico representa una nueva revolución industrial en el sector de la investigación y desarrollo (I+D), reduciendo drásticamente los costes y los tiempos de llegada al mercado de nuevos materiales y medicamentos. Para las empresas de consultoría y estrategia, implica la necesidad de reestructurar los modelos operativos de sus clientes en sectores científicos para adaptarlos a esta nueva era de automatización cognitiva.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/expansion-empleo/profesiones/2026/07/17/6a58a684e5fdea0b7c8b459b.html"
+            }
+          ]
+        },
+        {
+          "titular": "La rentabilidad bruta del alquiler de vivienda en España desciende ligeramente al 6,5%",
+          "que_ha_pasado": "Durante el segundo trimestre del año, la rentabilidad media obtenida por la compra de una vivienda para su posterior arrendamiento en España se situó en el 6,5%. A pesar de este leve descenso general, al menos siete capitales de provincia continúan ofreciendo rendimientos brutos que superan el 7%.",
+          "por_que_importa": "El mercado inmobiliario español sigue mostrando una notable resiliencia y atractivo para los inversores en comparación con otros activos financieros de bajo riesgo. No obstante, la moderación en las rentabilidades refleja el impacto de la inflación, el endurecimiento de las condiciones hipotecarias y las incertidumbres regulatorias sobre el mercado del alquiler.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/inmobiliario/mercado/2026/07/18/6a5a0f1c468aebc8538b4586.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "El gobierno de EE. UU. pilota el uso de inteligencia artificial para autorizar coberturas médicas",
+          "que_ha_pasado": "Las autoridades estadounidenses han puesto en marcha un programa piloto que utiliza sistemas de inteligencia artificial para evaluar y decidir sobre las autorizaciones previas de coberturas de seguros médicos. El proyecto ha reabierto el debate sobre si la tecnología agilizará los trámites burocráticos o incrementará las denegaciones injustificadas.",
+          "por_que_importa": "La automatización de decisiones de cobertura plantea serios dilemas éticos y de responsabilidad civil por el riesgo de sesgos en los algoritmos y la falta de supervisión humana directa en casos críticos. Este piloto servirá como referencia global para determinar cómo la IA puede optimizar la gestión de servicios públicos y privados sin comprometer los derechos fundamentales de los usuarios.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
+            }
+          ]
+        },
+        {
+          "titular": "El escritor Dave Eggers advierte a OpenAI sobre el impacto silenciador de ChatGPT en la creación humana",
+          "que_ha_pasado": "Durante una charla privada ante unos 200 empleados de OpenAI por invitación de Sam Altman, el célebre autor Dave Eggers afirmó que ChatGPT está silenciando y homogeneizando la expresión artística de una generación entera. El novelista y activista instó a los desarrolladores a reflexionar sobre el valor de la autoría humana frente al auge de los contenidos sintéticos.",
+          "por_que_importa": "Esta intervención visibiliza la creciente tensión cultural y filosófica entre la industria de Silicon Valley y la comunidad artística global. El debate no solo gira en torno a los derechos de propiedad intelectual por el entrenamiento de los modelos, sino también sobre cómo la dependencia de herramientas de generación de texto puede mermar la capacidad crítica y la diversidad narrativa de las futuras generaciones.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation"
+            }
+          ]
+        },
+        {
+          "titular": "China convierte sus fábricas de robótica y vehículos eléctricos en nuevos destinos turísticos",
+          "que_ha_pasado": "El sector turístico chino está experimentando un auge en las visitas a centros de producción de alta tecnología, incluyendo fábricas de robots, plantas de ensamblaje de coches eléctricos y laboratorios de inteligencia artificial. Esta tendencia aleja el foco de los monumentos históricos tradicionales para centrarse en el músculo industrial del país.",
+          "por_que_importa": "Esta estrategia de 'turismo industrial' funciona como una potente herramienta de diplomacia pública y 'soft power', proyectando una imagen de China como líder indiscutible de la próxima revolución tecnológica. Además, refuerza el orgullo nacional y el apoyo doméstico hacia las políticas estatales de inversión en sectores estratégicos de alta tecnología.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/magnet/china-ha-encontrado-nuevo-filon-turistico-lejos-su-muralla-visitar-fabricas-robots-coches-electricos-ia"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Los comunes diseñan una estrategia narrativa para disputar el relato épico a la extrema derecha",
+          "que_ha_pasado": "El sector afín a Ada Colau ha encargado a su principal ideólogo la elaboración de una hoja de ruta política para recuperar terreno frente a la extrema derecha. El plan propone que la izquierda adopte discursos más emocionales y cargados de épica, argumentando que la izquierda actual tiene propuestas racionales pero carece de mitos y alma.",
+          "por_que_importa": "Este movimiento refleja una tendencia global en la ciencia política contemporánea, donde las batallas electorales se deciden cada vez más en el terreno de las narrativas culturales y emocionales antes que en el debate técnico de políticas públicas. La adopción de esta estrategia busca movilizar a un electorado progresista desencantado mediante la construcción de nuevos marcos de pertenencia y lucha colectiva.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-19/colau-encarga-ideologo-expareja-hoja-ruta-arrebatar-banderas-ultraderecha_4391969/"
+            }
+          ]
+        },
+        {
+          "titular": "El papel estratégico del 43 Grupo del Ejército del Aire en la campaña contra los incendios forestales",
+          "que_ha_pasado": "Los pilotos y tripulaciones del 43 Grupo del Ejército del Aire español continúan desempeñando una labor crítica en la extinción de grandes incendios forestales mediante el uso de aviones apagafuegos. Su función principal consiste en realizar descargas de agua precisas para abrir ventanas operativas que faciliten el trabajo de las brigadas terrestres.",
+          "por_que_importa": "La gestión de los incendios forestales se ha convertido en un asunto de seguridad nacional de primer orden debido al aumento de las temperaturas extremas provocado por el cambio climático. La coordinación entre las fuerzas armadas y los servicios de emergencia autonómicos es un ejemplo clave de la resiliencia del Estado ante crisis climáticas recurrentes que amenazan la biodiversidad y las infraestructuras rurales.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/07/19/6a59e313fc6c83d10f8b4587.html"
+            }
+          ]
+        },
+        {
+          "titular": "García-Margallo critica con dureza la política exterior del Gobierno respecto a Gibraltar y EE. UU.",
+          "que_ha_pasado": "El exministro de Asuntos Exteriores, José Manuel García-Margallo, ha manifestado que las negociaciones actuales sobre el encaje de Gibraltar tras el Brexit suponen un retroceso irreversible para los intereses de España. Asimismo, ha afirmado que la política exterior española está tutelada de forma indirecta y que las relaciones bilaterales con Estados Unidos atraviesan un momento de debilidad.",
+          "por_que_importa": "Las declaraciones de Margallo evidencian la profunda polarización y la falta de consenso bipartidista en España sobre asuntos de Estado tradicionalmente estables, como la soberanía de Gibraltar o la alianza atlántica. En un contexto de reconfiguración geopolítica global, la ausencia de una postura exterior unificada debilita la capacidad de influencia de Madrid en los foros internacionales y en las negociaciones con socios estratégicos.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-19/margallo-gibraltar-geopolitica-sanchez-zapatero-estados-unidos-cbtrntrv_4391911/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La escultora Cristina Iglesias inaugura una monumental cúpula inmersiva en Estocolmo",
+          "que_ha_pasado": "La reconocida artista española Cristina Iglesias ha instalado una gran estructura inmersiva en forma de cúpula de cinco metros y medio de altura en un parque público de la capital sueca. La obra busca fusionar la arquitectura escultórica con el entorno natural de la ciudad, invitando a la contemplación y al recogimiento.",
+          "por_que_importa": "Iglesias se consolida como una de las figuras más influyentes de la escultura contemporánea internacional, destacando por su capacidad para intervenir espacios públicos de manera orgánica. Este proyecto en Estocolmo refuerza la proyección del arte español contemporáneo en los circuitos culturales del norte de Europa.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-19/cristina-iglesias-un-santuario-en-estocolmo.html"
+            }
+          ]
+        },
+        {
+          "titular": "El auge de los espectáculos de masas en el Mundial consolida la influencia de EE. UU. en el fútbol global",
+          "que_ha_pasado": "La inclusión de espectáculos de medio tiempo protagonizados por estrellas de la música en los partidos del Mundial de fútbol evidencia un proceso de asimilación cultural de este deporte al estilo de entretenimiento estadounidense. Lo que comenzó como un intento de popularizar el fútbol en EE. UU. ha derivado en la adopción de sus formatos comerciales a nivel internacional.",
+          "por_que_importa": "Este fenómeno ilustra la hegemonía de las industrias culturales norteamericanas y su capacidad para transformar eventos deportivos tradicionales en productos de entretenimiento globales altamente rentables. Para la FIFA y los clubes de fútbol, este cambio de paradigma redefine las estrategias de patrocinio, derechos de transmisión y experiencia del espectador, priorizando el espectáculo masivo sobre la tradición puramente deportiva.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-19/la-espectacular-americanizacion-del-futbol-en-el-mundial-de-ee-uu-un-show-como-la-superbowl.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Autonomía Estratégica",
+    "explicacion": "Capacidad de un actor político, especialmente la Unión Europea, para actuar de manera independiente en áreas clave como la defensa, la energía, la tecnología y el comercio, reduciendo la dependencia de potencias extranjeras. Surgido inicialmente en el ámbito militar, el concepto se ha expandido hacia la resiliencia económica y la soberanía industrial, impulsando la producción local de componentes críticos y la diversificación de cadenas de suministro frente a crisis geopolíticas o sanitarias globales.",
+    "ejemplo": "La aprobación de la Ley Europea de Chips para duplicar la cuota de mercado de la UE en semiconductores para 2030 y mitigar la dependencia de Taiwán."
+  },
+  "fecha": "2026-07-19"
+}
