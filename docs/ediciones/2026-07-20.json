@@ -1,0 +1,259 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Cambio de guardia en Londres: Andy Burnham asume como primer ministro del Reino Unido",
+      "resumen": "El nuevo líder laborista toma posesión con la promesa de aportar estabilidad política y un giro moderado a la izquierda tras la dimisión de Keir Starmer."
+    },
+    {
+      "titular": "La escalada militar entre EE. UU. e Irán dispara el petróleo por encima de los 90 dólares",
+      "resumen": "Los ataques cruzados en Oriente Próximo y la tensión en el Estrecho de Hormuz amenazan el suministro global y reavivan los temores inflacionistas."
+    },
+    {
+      "titular": "Bruselas impone una multa histórica de 550 millones de euros a AliExpress",
+      "resumen": "La Comisión Europea sanciona a la plataforma china por fallos sistémicos al permitir la venta de productos falsificados y peligrosos en el mercado único."
+    },
+    {
+      "titular": "La CNMV suspende la cotización de Holaluz ante su inminente inhabilitación",
+      "resumen": "El Gobierno inicia los trámites para retirar la licencia a la comercializadora catalana y traspasar de oficio su cartera de más de 220.000 clientes."
+    },
+    {
+      "titular": "Las tecnológicas chinas desafían a Silicon Valley con modelos de IA de bajo coste",
+      "resumen": "Moonshot y Alibaba lanzan herramientas capaces de competir con OpenAI y Anthropic a una fracción de su coste operativo, estrechando la brecha tecnológica."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Andy Burnham asume como primer ministro británico con la promesa de estabilidad",
+          "que_ha_pasado": "Andy Burnham ha tomado posesión oficial como nuevo primer ministro del Reino Unido tras mantener el tradicional encuentro con el rey Carlos III en el Palacio de Buckingham. El relevo se produce tras la dimisión de Keir Starmer, y Burnham ya ha anunciado que comenzará de inmediato a diseñar su nuevo gabinete ministerial. En sus primeras declaraciones, ha abogado por una gestión orientada a la estabilidad y un giro moderado hacia la izquierda.",
+          "por_que_importa": "Este relevo en el liderazgo laborista llega en un momento de profundo desgaste institucional y fatiga económica en el Reino Unido. Para un analista de relaciones internacionales, el mandato de Burnham será clave para observar si Londres busca un acercamiento más estrecho con la Unión Europea o si mantiene la distancia regulatoria actual. Además, el nuevo Ejecutivo tendrá que lidiar con la presión interna de los sectores verdes, que exigen frenar proyectos de combustibles fósiles en el Mar del Norte.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-20/burnham-se-estrena-como-primer-ministro-con-la-promesa-de-mas-estabilidad-politica.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/c35c272c-cc64-4834-bb01-bcaa93ca7214?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/internacional/2026-07-20/burnham-se-estrena-como-primer-ministro-con-la-promesa-de-mas-estabilidad-politica.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/07/20/6a5dfab6fdddff80558b459c.html"
+            }
+          ]
+        },
+        {
+          "titular": "La tensión entre EE. UU. e Irán en el Estrecho de Hormuz eleva el crudo a 90 dólares",
+          "que_ha_pasado": "Estados Unidos ha encadenado su novena noche de ataques contra posiciones proiraníes en Siria y Jordania, justificándolos como represalia por la muerte de sus soldados. Por su parte, Irán ha respondido con hostilidades que han provocado incendios en buques comerciales en el Estrecho de Hormuz. Esta escalada bélica ha provocado que el precio del barril de petróleo supere la barrera de los 90 dólares en los mercados asiáticos.",
+          "por_que_importa": "El Estrecho de Hormuz es el cuello de botella marítimo más crítico para el tránsito de petróleo a nivel mundial, por lo que cualquier fricción militar allí repercute de inmediato en la seguridad energética de Occidente. El conflicto sitúa a Washington ante el dilema de una intervención de desgaste difícil de resolver por vía diplomática, lo que introduce una enorme volatilidad en los mercados de materias primas y presiona al alza las tasas de inflación globales.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/jul/20/us-iran-war-live-updates-strikes-strait-of-hormuz-middle-east-crisis-latest-news"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/59f83b04-3c5a-41f3-b0b6-9238dd4186b8?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Hungría acelera su transición democrática tras el desmoronamiento del régimen de Orbán",
+          "que_ha_pasado": "El nuevo liderazgo encabezado por Péter Magyar está impulsando una serie de reformas legislativas exprés para desmantelar la estructura de poder del partido Fidesz. El régimen del anterior primer ministro, Viktor Orbán, se desintegra a gran velocidad tras haber perdido el control de la jefatura del Estado. Sin embargo, la celeridad de las reformas de Magyar ya ha comenzado a levantar las primeras críticas internas.",
+          "por_que_importa": "La caída del modelo húngaro representa un giro tectónico en la política de la Unión Europea, dado que Budapest era el principal bastión del iliberalismo y el veto sistemático dentro del Consejo Europeo. La velocidad de esta transición plantea un reto analítico fascinante sobre cómo restaurar el Estado de derecho y la separación de poderes en un país con las instituciones capturadas, sin incurrir en inseguridad jurídica ni revanchismo político.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-20/la-transicion-democratica-expres-de-la-hungria-pos-orban.html"
+            }
+          ]
+        },
+        {
+          "titular": "El proceso judicial a 'El Mayo' Zambada en EE. UU. amenaza con salpicar a la política mexicana",
+          "que_ha_pasado": "Ismael 'El Mayo' Zambada, cofundador del cártel de Sinaloa y uno de los capos históricos del narcotráfico, se encuentra a la espera de recibir una sentencia de cadena perpetua en Estados Unidos. El proceso judicial se desarrolla bajo un estricto secretismo y con numerosas incógnitas abiertas sobre el alcance de su colaboración con la fiscalía estadounidense. Las posibles revelaciones del narcotraficante mantienen en vilo al espectro político de su país de origen.",
+          "por_que_importa": "La justicia estadounidense suele utilizar los acuerdos de culpabilidad de grandes capos para obtener información de inteligencia sobre redes de corrupción estatal en América Latina. En el contexto de la relación bilateral entre México y EE. UU., las confesiones de Zambada podrían desestabilizar la cooperación en seguridad y migración, erosionando la confianza mutua en un momento de transición de administraciones en ambos lados de la frontera.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/mexico/2026-07-20/los-enigmas-de-el-mayo-zambada.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La UE impone una multa récord de 550 millones de euros a AliExpress por fallos de seguridad",
+          "que_ha_pasado": "La Comisión Europea ha sancionado a la plataforma de comercio electrónico AliExpress, propiedad del gigante chino Alibaba, con una multa de 550 millones de euros. Bruselas considera probado que la compañía incurrió en fallos sistémicos que permitieron la distribución masiva de juguetes inseguros, cosméticos peligrosos y productos falsificados dentro de la Unión Europea. La sanción se ampara en las estrictas directrices de la Ley de Servicios Digitales (DSA).",
+          "por_que_importa": "Esta penalización es una de las mayores demostraciones de fuerza regulatoria de la UE bajo el paraguas de la DSA y envía un mensaje contundente sobre la responsabilidad de las plataformas digitales extranjeras en el mercado único. Para las consultoras estratégicas y las firmas de distribución, este caso redefine las exigencias de cumplimiento normativo y control de calidad en las cadenas de suministro transfronterizas.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-hits-chinas-alibaba-with-record-fine-of-e550m-over-illegal-products/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/2026/07/20/6a5df92be5fdea6c568b4578.html"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products"
+            }
+          ]
+        },
+        {
+          "titular": "Los expertos restan impacto a una eventual subida de tipos de interés por parte de la Fed",
+          "que_ha_pasado": "La próxima renovación en la presidencia de la Reserva Federal de EE. UU. ha despertado cierta inquietud ante la posibilidad de un incremento moderado de los tipos de interés en el corto plazo. No obstante, diversos análisis económicos sugieren que un repunte de baja intensidad apenas alterará las estrategias de inversión o las decisiones de contratación de las corporaciones. Los factores macroeconómicos de fondo seguirán pesando más que un ajuste marginal.",
+          "por_que_importa": "En el entorno financiero actual, los mercados suelen sobreraccionar a la retórica de los bancos centrales. Comprender que las decisiones de inversión de capital a largo plazo dependen de la demanda global y la estabilidad regulatoria, y no de fluctuaciones menores de tipos, es un matiz esencial para los consultores que asesoran a grandes empresas en su planificación financiera y de expansión.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses"
+            }
+          ]
+        },
+        {
+          "titular": "El grupo industrial Nicolás Correa adquiere su distribuidora británica DTS para crecer en el Reino Unido",
+          "que_ha_pasado": "La compañía española Nicolás Correa, especializada en la fabricación de fresadoras de gran tamaño, ha completado la adquisición de la firma británica DTS. La empresa adquirida había operado como el agente comercial exclusivo de la marca española en el mercado del Reino Unido durante las últimas tres décadas, facilitando su penetración comercial.",
+          "por_que_importa": "Esta operación ilustra una estrategia de integración vertical muy común entre las medianas empresas industriales que buscan consolidar su presencia en mercados exteriores clave tras las fricciones comerciales del Brexit. Al absorber a su socio local, el grupo español elimina intermediarios, mejora sus márgenes de beneficio y asume el control directo del servicio posventa en un mercado altamente competitivo.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/2026/07/20/6a5dfd73468aebd2128b457c.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Las firmas chinas de IA desafían el dominio de Silicon Valley con modelos de bajo coste",
+          "que_ha_pasado": "Las compañías tecnológicas chinas Moonshot y Alibaba han presentado nuevos modelos de inteligencia artificial que, según aseguran, pueden competir de tú a tú con los desarrollos punteros de OpenAI y Anthropic. La principal ventaja de estas nuevas herramientas radica en que ofrecen un rendimiento de nivel de frontera pero a una fracción del coste operativo de sus rivales estadounidenses.",
+          "por_que_importa": "La ventaja competitiva de Estados Unidos en el sector de la IA se está estrechando debido a la enorme eficiencia de costes que están logrando las empresas chinas. Esta democratización de los costes de procesamiento podría acelerar la adopción de la IA en la consultoría de negocio y el desarrollo de software corporativo, restando cuota de mercado a los gigantes tradicionales de Silicon Valley.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen"
+            }
+          ]
+        },
+        {
+          "titular": "El despliegue de centros de datos para IA encarecerá la factura eléctrica en EE. UU.",
+          "que_ha_pasado": "La rápida expansión de las infraestructuras necesarias para sostener la inteligencia artificial está generando una fuerte presión sobre la red eléctrica de Estados Unidos. Se calcula que el incremento de la demanda de energía por parte de estos centros de datos supondrá un coste adicional de 6.300 millones de dólares para los consumidores residenciales durante los próximos tres años, lo que ya está provocando el rechazo de comunidades locales.",
+          "por_que_importa": "Este fenómeno evidencia que la revolución digital de la IA tiene límites físicos y ecológicos muy reales. La congestión de las redes de transmisión obligará a los gobiernos a endurecer las normativas de planificación territorial y a priorizar la eficiencia energética, abriendo un campo de consultoría regulatoria y de sostenibilidad crucial para las empresas tecnológicas que busquen expandir sus capacidades de computación.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/energia/factura-luz-eeuu-habia-subido-culpa-centros-datos-que-se-viene-6-300-millones-tres-anos"
+            }
+          ]
+        },
+        {
+          "titular": "Netflix redobla su apuesta por la IA en el cine con la compra de la 'startup' de Ben Affleck",
+          "que_ha_pasado": "La plataforma de streaming Netflix ha desembolsado 587 millones de dólares en efectivo para adquirir InterPositive, una empresa emergente cofundada por el cineasta y actor Ben Affleck. La compañía se especializa en el desarrollo de herramientas de inteligencia artificial aplicadas a la producción y postproducción de contenidos cinematográficos.",
+          "por_que_importa": "Esta adquisición confirma que la inteligencia artificial está dejando de ser una mera herramienta de optimización de algoritmos de recomendación para convertirse en un elemento central del proceso de creación de contenidos en Hollywood. La operación reavivará el debate sobre la propiedad intelectual, el empleo en la industria creativa y la automatización de procesos técnicos en el sector del entretenimiento.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La CNMV suspende la cotización de Holaluz ante el proceso de inhabilitación del Gobierno",
+          "que_ha_pasado": "La Comisión Nacional del Mercado de Valores ha suspendido la cotización de Holaluz después de que el Ministerio para la Transición Ecológica abriera un expediente para inhabilitar a la comercializadora de electricidad. El plan del Ejecutivo contempla el traspaso forzoso de sus más de 220.000 clientes a una comercializadora de último recurso. La dirección de Holaluz ha anunciado que recurrirá la medida, negando que se haya producido cesión alguna por el momento.",
+          "por_que_importa": "Holaluz, que llegó a ser el estandarte de la transición energética y el emprendimiento verde en el mercado bursátil español, se enfrenta a un colapso operativo provocado por tensiones de liquidez y un elevado endeudamiento. Su situación pone de manifiesto la extrema vulnerabilidad de las comercializadoras independientes frente a los gigantes del oligopolio eléctrico en un entorno de alta volatilidad de precios regulados.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/empresas/2026/07/20/6a5dff05e9cf4a5b698b4581.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un intermediario confiesa que Zapatero medió en el rescate estatal de Plus Ultra",
+          "que_ha_pasado": "Julio Martínez Martínez, vinculado al entramado financiero de la aerolínea Plus Ultra, ha remitido un escrito al juzgado en el que confiesa que el expresidente del Gobierno José Luis Rodríguez Zapatero medió activamente para asegurar el rescate de la compañía. En su declaración, el implicado también admite que se pactó una comisión del 1% sobre los fondos públicos recibidos para compensar la mediación.",
+          "por_que_importa": "Esta confesión reactiva un caso judicial por presunta malversación y tráfico de influencias que el Ejecutivo central consideraba amortizado políticamente. Desde la perspectiva del análisis de riesgo político, el caso erosiona la credibilidad de los fondos de rescate público gestionados por la SEPI y reabre el debate sobre la influencia de la diplomacia paralela y los lobbies informales en la adjudicación de ayudas estatales.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/07/20/6a5df519fc6c83201e8b4574.html"
+            }
+          ]
+        },
+        {
+          "titular": "La tecnológica Aggity entra en el sector de la defensa con la adquisición de Bluenest",
+          "que_ha_pasado": "La firma española de tecnología Aggity ha cerrado la compra de Bluenest, la filial de movilidad aérea de Globalvia centrada en la gestión de infraestructuras para drones. Paralelamente, la compañía está ultimando una segunda adquisición corporativa destinada al diseño y fabricación de aeronaves no tripuladas para el transporte de mercancías y la gestión de emergencias civiles.",
+          "por_que_importa": "La operación refleja una clara tendencia de diversificación de las consultoras tecnológicas españolas hacia el ámbito de la defensa y la seguridad nacional, un sector espoleado por el incremento generalizado del gasto militar en Europa. La tecnología de vertipuertos y drones representa un mercado estratégico de doble uso (civil y militar) que atraerá fuertes inversiones públicas en los próximos años.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-07-20/la-tecnologica-espanola-aggity-compra-bluenest-a-globalvia-y-entra-en-el-negocio-de-defensa.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El Museo del Prado incorpora un segundo lienzo de la pintora cubista María Blanchard",
+          "que_ha_pasado": "Los herederos de la artista cántabra María Blanchard han donado al Museo del Prado la obra titulada 'La historia de la niña Regina'. Con esta incorporación, la pinacoteca nacional suma la segunda pieza de la pintora a su colección permanente, consolidando la presencia de una de las figuras más relevantes de las vanguardias de principios del siglo XX.",
+          "por_que_importa": "María Blanchard fue una de las pocas mujeres que desempeñó un papel protagonista en el movimiento cubista en París, a menudo eclipsada por figuras masculinas como Juan Gris o Pablo Picasso. La aceptación de esta donación por parte del Prado forma parte de un esfuerzo institucional más amplio para corregir el sesgo de género histórico en las colecciones estatales y revalorizar el patrimonio artístico femenino de la Edad de Plata.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-20/la-historia-de-la-nina-regina-el-nuevo-cuadro-de-maria-blanchard-donado-al-prado.html"
+            }
+          ]
+        },
+        {
+          "titular": "La Orquesta Nacional de España debuta con éxito en los prestigiosos BBC Proms de Londres",
+          "que_ha_pasado": "La Orquesta Nacional de España ha realizado su primera aparición histórica en el Royal Albert Hall en el marco de los prestigiosos conciertos estivales BBC Proms. Bajo la dirección de David Afkham, que se despedía de la batuta de la formación, la orquesta ofreció un programa que combinó obras de Ravel y Manuel de Falla, junto con el Concierto de Aranjuez interpretado por el guitarrista Rafael Aguirre.",
+          "por_que_importa": "Los BBC Proms representan el festival de música clásica más influyente y con mayor proyección mediática del mundo, por lo que el debut de la agrupación española constituye un hito de diplomacia cultural de primer nivel. El éxito de la velada consolida la reputación internacional de la orquesta y cierra con broche de oro la etapa de Afkham como director artístico, un periodo marcado por la cohesión sonora de la formación.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-20/el-gol-de-despedida-de-david-afkham-en-los-bbc-proms.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Efecto Cantillon",
+    "explicacion": "El Efecto Cantillon es un concepto de teoría monetaria que describe cómo la inyección de nuevo dinero en una economía no se distribuye de forma homogénea ni simultánea. Por el contrario, beneficia en primer lugar a los actores económicos que están más cerca de la fuente de emisión de ese dinero (bancos, grandes corporaciones, el propio Estado). Estos agentes pueden gastar e invertir el nuevo capital antes de que los precios de los bienes y activos suban. Para cuando el dinero llega al resto de la población, la inflación ya se ha incrementado, mermando el poder adquisitivo de los ciudadanos y acentuando la desigualdad de riqueza.",
+    "ejemplo": "Las políticas de flexibilización cuantitativa (QE) aplicadas por el Banco Central Europeo tras la crisis de deuda de 2012 y durante la pandemia, que dispararon los precios de los activos financieros y del sector inmobiliario beneficiando a los grandes fondos de inversión, mucho antes de que los salarios de los trabajadores experimentaran subidas equivalentes."
+  },
+  "fecha": "2026-07-20"
+}
