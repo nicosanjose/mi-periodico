@@ -1,0 +1,251 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Aranceles del 50% de EE. UU. a Canadá desatan una crisis comercial en América del Norte",
+      "resumen": "Donald Trump impone aranceles masivos a su vecino del norte, poniendo en jaque el tratado T-MEC y forzando a Ottawa a intensificar las negociaciones comerciales de urgencia."
+    },
+    {
+      "titular": "Escalada militar en el Estrecho de Ormuz ante los ataques cruzados entre EE. UU. e Irán",
+      "resumen": "Washington lanza ofensivas para proteger las rutas marítimas mientras Teherán responde hostigando buques comerciales, amenazando el suministro global de crudo."
+    },
+    {
+      "titular": "Pekín planea vetar la exportación de sus modelos de IA y semiconductores avanzados",
+      "resumen": "El Gobierno chino consulta restricciones para evitar que Occidente acceda a su tecnología puntera, acelerando la fragmentación tecnológica global."
+    },
+    {
+      "titular": "El Gobierno aprueba la ley antitabaco que prohíbe fumar en terrazas y campus universitarios",
+      "resumen": "La nueva normativa equipara los vapeadores al tabaco tradicional y restringe drásticamente el consumo en espacios públicos al aire libre."
+    },
+    {
+      "titular": "EE. UU. pierde su hegemonía histórica como el principal exportador agrícola global",
+      "resumen": "El auge de competidores como Brasil desplaza a Washington de su histórico liderazgo, reconfigurando las herramientas de influencia geopolítica alimentaria."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Escalada militar en el Estrecho de Ormuz ante los ataques cruzados entre Washington y Teherán",
+          "que_ha_pasado": "Estados Unidos ha lanzado una nueva oleada de ataques contra posiciones en Irán para neutralizar su capacidad de hostigar buques en el Estrecho de Ormuz, tras registrarse agresiones contra un petrolero y dos barcos comerciales. El Pentágono ha confirmado que casi un centenar de soldados estadounidenses han resultado heridos en las últimas semanas debido a las represalias iraníes.",
+          "por_que_importa": "El Estrecho de Ormuz es el paso marítimo de crudo más importante del mundo, por donde transita aproximadamente una quinta parte del consumo global de petróleo. Una interrupción prolongada o un conflicto abierto en esta zona no solo dispararía los precios de la energía a nivel global, sino que obligaría a las potencias occidentales y asiáticas a reconfigurar sus rutas logísticas, tensionando la seguridad del comercio internacional en un momento de alta fragilidad geopolítica.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/jul/21/us-iran-war-live-updates-strait-of-hormuz-attacks-houthis-blockade-red-sea-middle-east-crisis-latest-news"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/2e137205-df69-47a2-9674-2f4a9deec0d9?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Trump impone aranceles del 50% a Canadá y desata una crisis comercial bilateral",
+          "que_ha_pasado": "El presidente de Estados Unidos ha decretado aranceles del 50% a las importaciones procedentes de Canadá, provocando una escalada inmediata de la tensión comercial en América del Norte. En respuesta, el negociador canadiense Mark Carney ha anunciado que intensificará los contactos comerciales para contrarrestar la medida y buscar alternativas.",
+          "por_que_importa": "Esta drástica medida pone en jaque el Tratado entre México, Estados Unidos y Canadá (T-MEC) y amenaza con desestabilizar cadenas de valor profundamente integradas, especialmente en los sectores de automoción, energía y manufactura. Para Canadá, cuyo principal mercado de exportación es su vecino del sur, este movimiento representa un desafío macroeconómico de primer orden que podría forzar una reorientación de su política comercial hacia Europa y Asia.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "El nuevo Gobierno de Andy Burnham prioriza la agenda interna británica frente a los desafíos exteriores",
+          "que_ha_pasado": "El recién nombrado primer ministro británico, Andy Burnham, ha diseñado un gabinete ministerial enfocado en la política nacional, destacando medidas inmediatas como la reducción del IVA en las facturas eléctricas de los hogares. No obstante, Burnham hereda una relación post-Brexit con la Unión Europea que apenas ha comenzado a encauzarse y el reto de lidiar con la nueva administración de Donald Trump.",
+          "por_que_importa": "La estrategia de Burnham refleja la fatiga del electorado británico con las crisis globales y el deseo de priorizar la recuperación económica interna y el coste de la vida. Sin embargo, el repliegue hacia lo doméstico puede debilitar la influencia del Reino Unido en la escena internacional en un momento de redefinición de alianzas, especialmente cuando la relación con Washington se prevé compleja y la necesidad de un encaje comercial estable con la UE sigue siendo urgente.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-21/burnham-hereda-una-relacion-con-la-ue-que-apenas-ha-despegado-tras-el-brexit-y-nuevos-roces-con-trump.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/andy-burnham-britain-new-look-cabinet-winners-losers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Washington endurece su postura contra el narcotráfico en México tras la condena de 'El Mayo' Zambada",
+          "que_ha_pasado": "El Gobierno de Estados Unidos ha asegurado que su ofensiva contra los carteles y la corrupción política en México continuará con firmeza tras lograr la condena de Ismael 'El Mayo' Zambada, sugiriendo vínculos estructurales entre el crimen organizado y el poder político mexicano. Por su parte, la presidenta Claudia Sheinbaum ha exigido respeto a la soberanía de su país y ha condicionado la cooperación a una relación de igualdad, rechazando cualquier sometimiento.",
+          "por_que_importa": "La relación de seguridad bilateral se encuentra en un punto crítico de desconfianza mutua. Para México, la presión judicial y retórica de Washington es percibida como una injerencia en sus asuntos internos, mientras que para la administración estadounidense, la crisis de los opioides sintéticos y el poder territorial de los carteles son prioridades de seguridad nacional indiscutibles que marcarán la agenda diplomática de los próximos años.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/mexico/2026-07-21/ee-uu-sube-la-apuesta-y-asegura-que-su-cruzada-contra-narcos-y-politicos-corruptos-de-mexico-no-termina-con-la-condena-al-mayo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Pekín estudia restringir la exportación de sus modelos de inteligencia artificial y semiconductores",
+          "que_ha_pasado": "El Gobierno chino está consultando con empresas tecnológicas nacionales la implementación de controles de exportación más estrictos sobre sus modelos de inteligencia artificial avanzados y chips de última generación. El objetivo de Pekín es evitar que los países occidentales accedan a sus tecnologías punteras y adquieran participaciones en sus empresas emergentes más prometedoras.",
+          "por_que_importa": "Este movimiento representa una réplica directa a las sanciones y restricciones que Estados Unidos y sus aliados han impuesto al sector tecnológico chino en los últimos años. La fragmentación tecnológica global se acelera, obligando a las multinacionales y consultoras a prepararse para un escenario de 'dos internet' y cadenas de suministro de hardware y software completamente segregadas por bloques geopolíticos.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Estados Unidos pierde su hegemonía histórica como principal exportador agrícola del mundo",
+          "que_ha_pasado": "Diversos indicadores económicos señalan que Estados Unidos está a punto de perder su estatus como el mayor exportador de productos agrícolas a nivel global. El auge de competidores como Brasil en la producción de soja y maíz, sumado a los cambios en los flujos comerciales globales, está desplazando al gigante norteamericano de su posición de liderazgo.",
+          "por_que_importa": "La pérdida del liderazgo agrícola no es solo un revés comercial, sino un cambio geopolítico relevante. Las exportaciones de alimentos han sido históricamente una herramienta clave de la diplomacia estadounidense ('food power'). El ascenso de potencias agrícolas alternativas en el Sur Global reduce la dependencia de terceros países respecto a Washington y reconfigura las alianzas comerciales en los mercados de materias primas.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/8aa89209-dc0b-4678-9b6a-01029398b304?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La caída del precio del crudo Brent alivia la presión inflacionaria y estabiliza las bolsas",
+          "que_ha_pasado": "El barril de petróleo Brent ha descendido hasta situarse en el entorno de los 88 dólares, alejándose de los máximos registrados en el último mes. Este retroceso en los precios de la energía ha servido de estímulo para los mercados de renta variable globales, permitiendo al Ibex 35 consolidarse por encima de los 19.200 puntos tras una jornada de cotización estable.",
+          "por_que_importa": "El precio del petróleo sigue siendo el principal termómetro de las expectativas de inflación y, por ende, de las decisiones de los bancos centrales sobre los tipos de interés. Una moderación en los costes energéticos da margen de maniobra a las autoridades monetarias para relajar sus políticas restrictivas, lo que dinamiza el crédito y mejora las perspectivas de crecimiento para las empresas cotizadas.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/21/6a5f0a58468aeb65658b4574.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-21/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Los tribunales aprueban el acuerdo de Anthropic sobre derechos de autor mientras Sony demanda a Udio",
+          "que_ha_pasado": "La justicia estadounidense ha dado luz verde definitiva al acuerdo extrajudicial de 1.500 millones de dólares alcanzado por Anthropic en una demanda por derechos de autor. En paralelo, Sony Music ha presentado una demanda masiva contra el generador de música por IA Udio, acusándolo de infringir el copyright de más de 30.000 canciones de su catálogo para entrenar su modelo.",
+          "por_que_importa": "Aunque el acuerdo de Anthropic cierra un litigio específico, no resuelve el debate de fondo sobre la legalidad del uso de material protegido para el entrenamiento de modelos de IA generativa. La avalancha de demandas de la industria del entretenimiento, como la de Sony, forzará la creación de un nuevo marco regulatorio y de licencias comerciales que definirá la viabilidad económica de las startups de IA y el coste de desarrollo de estas tecnologías.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright"
+            }
+          ]
+        },
+        {
+          "titular": "Japón expande su influencia militar en el Sudeste Asiático mediante un acuerdo estratégico con Vietnam",
+          "que_ha_pasado": "El Gobierno de Japón ha dado un paso clave en su estrategia de defensa al estrechar lazos de cooperación militar con Vietnam. Esta iniciativa rompe con la tradicional cautela de la política exterior nipona de posguerra y busca consolidar su presencia en una región clave para la seguridad marítima.",
+          "por_que_importa": "Ante el creciente expansionismo de China en el Mar de la China Meridional, Tokio está abandonando su pacifismo constitucional pasivo para adoptar un rol de proveedor de seguridad en la región de Asia-Pacífico. Para Vietnam, la alianza con Japón ofrece un contrapeso diplomático y militar frente a Pekín sin necesidad de alinearse formalmente con Estados Unidos, reconfigurando el equilibrio de poder regional.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/magnet/japon-no-necesitaba-otro-portaaviones-para-mover-ficha-su-siguiente-paso-militar-empieza-vietnam"
+            }
+          ]
+        },
+        {
+          "titular": "La FCC estadounidense prepara el veto retroactivo a empresas pantalla del fabricante de drones DJI",
+          "que_ha_pasado": "La Comisión Federal de Comunicaciones (FCC) de Estados Unidos planea utilizar por primera vez sus nuevas competencias para prohibir de forma retroactiva dispositivos que ya habían sido aprobados para su venta. El objetivo principal de esta medida son las marcas y empresas pantalla sospechosas de encubrir la importación de tecnología del fabricante chino de drones DJI.",
+          "por_que_importa": "Este movimiento endurece la guerra tecnológica entre Washington y Pekín, apuntando a la seguridad nacional y al espionaje industrial. La aplicación de vetos retroactivos sienta un precedente regulatorio complejo que eleva la incertidumbre para los distribuidores de tecnología y subraya la determinación de EE. UU. de erradicar el hardware chino de sus infraestructuras críticas.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/news/968310/fcc-dji-drone-camera-ban-skyrover-xtra"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El Gobierno aprueba una ley antitabaco que veta el humo en terrazas, universidades y equipara los vapeadores",
+          "que_ha_pasado": "El Consejo de Ministros ha aprobado un nuevo proyecto de ley que prohíbe fumar a los menores de edad y veta el consumo de tabaco en terrazas de hostelería y campus universitarios. La normativa equipara legalmente los cigarrillos tradicionales con los vapeadores y las bolsas de nicotina, unificando sus restricciones de venta y consumo.",
+          "por_que_importa": "Esta reforma sitúa a España en la vanguardia de la regulación de la salud pública en Europa, pero genera un fuerte rechazo en el sector de la restauración y el ocio, que teme un impacto negativo en la facturación. El endurecimiento normativo refleja la tendencia global de combatir las nuevas formas de consumo de nicotina entre los jóvenes, un reto regulatorio que afecta directamente al modelo de negocio de las multinacionales tabaqueras.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/sociedad/2026-07-21/la-nueva-ley-del-tabaco-prohibe-fumar-a-los-menores-y-hacerlo-en-terrazas-y-campus-universitarios.html"
+            }
+          ]
+        },
+        {
+          "titular": "Una tercera ola de calor extremo situará los termómetros al borde de los 44 grados en el sur de España",
+          "que_ha_pasado": "La Agencia Estatal de Meteorología (Aemet) ha advertido de la llegada inminente de un nuevo episodio de temperaturas excepcionalmente altas provocado por la estabilidad atmosférica. Los termómetros rozarán los 44 ºC en zonas de Andalucía, acompañados de noches tropicales en el litoral mediterráneo y la posibilidad de tormentas localmente intensas en el interior.",
+          "por_que_importa": "La sucesión de olas de calor severas e intensas es un síntoma del cambio climático que tensiona el sistema eléctrico nacional debido al uso masivo de aire acondicionado y eleva exponencialmente el riesgo de incendios forestales. Además, el calor extremo afecta directamente a la productividad laboral en sectores clave como la construcción y la agricultura, obligando a replantear los horarios de trabajo en verano.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-21/roberto-brasero-meteorologo-tiempo-espana-ola-de-calor_4393281/"
+            }
+          ]
+        },
+        {
+          "titular": "El 'caso Plus Ultra' se reactiva en la Audiencia Nacional con la declaración del empresario Julio Martínez",
+          "que_ha_pasado": "El empresario Julio Martínez ha comparecido ante la Audiencia Nacional en el marco de la investigación sobre el rescate financiero de la aerolínea Plus Ultra. Durante su declaración, Martínez ha señalado la presunta implicación del expresidente del Gobierno, José Luis Rodríguez Zapatero, en las gestiones para la concesión de la ayuda pública.",
+          "por_que_importa": "El caso Plus Ultra sigue siendo un foco de desgaste político para el Ejecutivo y el PSOE, al cuestionar la transparencia en la concesión de los fondos de rescate de la SEPI durante la pandemia. La vinculación de figuras históricas del partido en la toma de decisiones mantiene el caso bajo el foco mediático y judicial, alimentando el debate sobre el uso de recursos públicos y el tráfico de influencias.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-21/ultima-hora-de-la-actualidad-politica-en-directo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El Estatuto del Artista se actualiza limitando el trabajo infantil pero pospone la regulación de la IA",
+          "que_ha_pasado": "El Consejo de Ministros prevé aprobar la actualización del real decreto que regula el Estatuto del Artista, introduciendo límites estrictos al trabajo de menores en espectáculos públicos. Sin embargo, la nueva normativa ha dejado fuera la regulación de los derechos de propiedad intelectual frente a la inteligencia artificial generativa, un asunto clave para el sector.",
+          "por_que_importa": "Aunque la reforma mejora la protección laboral de los colectivos más vulnerables del sector cultural, la exclusión de la IA decepciona a las asociaciones de creadores. La falta de un marco nacional claro sobre la IA obliga al sector a depender de las directrices de la Unión Europea, prolongando la desprotección de los artistas frente a la replicación no autorizada de sus obras y estilos por algoritmos.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-21/el-estatuto-del-artista-avanza-con-limites-al-trabajo-de-los-menores-pero-deja-fuera-la-regulacion-de-la-ia.html"
+            }
+          ]
+        },
+        {
+          "titular": "La directora de la Tate defiende la diversidad en los museos frente a la parálisis por la polarización",
+          "que_ha_pasado": "Karin Hindsbo, directora de la Tate de Londres, ha defendido su gestión centrada en aumentar la representación de mujeres y artistas no occidentales en las salas del museo, a pesar de las críticas en el actual contexto de polarización cultural. Hindsbo ha advertido de que buscar el consenso absoluto en la gestión artística conduce inevitablemente a la parálisis.",
+          "por_que_importa": "Las instituciones culturales globales se encuentran en el centro de las llamadas 'batallas culturales'. El dilema entre mantener una programación tradicional o abrazar la diversidad refleja la tensión de los museos por seguir siendo relevantes para las nuevas audiencias globales sin alienar a sus patronos y visitantes tradicionales, en un equilibrio cada vez más difícil de sostener.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-21/karin-hindsbo-directora-de-la-tate-si-buscas-el-consenso-a-toda-costa-caes-en-la-paralisis.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Sanciones secundarias (Secondary sanctions)",
+    "explicacion": "Son medidas coercitivas aplicadas por un Estado (habitualmente Estados Unidos) no solo contra el país u organización objetivo directo de la sanción, sino contra terceras partes de otros países que realicen transacciones comerciales con dicho objetivo. Su naturaleza es extraterritorial: buscan obligar a empresas de todo el mundo a elegir entre comerciar con el país sancionado o mantener el acceso al sistema financiero y comercial de la potencia emisora. Esto genera profundas fricciones diplomáticas con aliados que defienden su propia soberanía comercial.",
+    "ejemplo": "Las sanciones de EE. UU. a empresas europeas que comerciaban con Irán tras la ruptura unilateral del acuerdo nuclear (JCPOA), lo que forzó a gigantes como la petrolera Total o la automotriz Peugeot a abandonar sus proyectos en Teherán para evitar ser excluidos del mercado y el sistema bancario estadounidense."
+  },
+  "fecha": "2026-07-21"
+}
