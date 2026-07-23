@@ -1,0 +1,256 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "El petróleo se roza los 100 dólares por la escalada militar en el mar Rojo",
+      "resumen": "Los ataques hutíes a petroleros saudíes y la respuesta masiva de EE. UU. contra Irán disparan el crudo e impactan en la deuda global."
+    },
+    {
+      "titular": "Ford cede el 34% de su alianza en Valencia a Geely para salvar Almussafes",
+      "resumen": "La estadounidense fabricará cinco nuevos modelos con el gigante chino, garantizando carga de trabajo y empleo en la planta."
+    },
+    {
+      "titular": "EE. UU. firma un acuerdo nuclear civil de alcance estratégico con Arabia Saudí",
+      "resumen": "El pacto facilitará el despliegue de tecnología atómica estadounidense en el reino para contrarrestar la influencia china."
+    },
+    {
+      "titular": "La UE suaviza el paquete de sanciones a Rusia tras las exigencias de Grecia",
+      "resumen": "Atenas logra exenciones al veto del transporte de gas licuado para proteger los intereses de su flota naviera."
+    },
+    {
+      "titular": "Google respalda su récord de gasto en IA con el tirón de su negocio en la nube",
+      "resumen": "Alphabet defiende un desembolso de hasta 190.000 millones de dólares gracias al rápido retorno en sus servicios cloud."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La escalada de tensión entre EE. UU., Irán y los hutíes pone en jaque el mar Rojo",
+          "que_ha_pasado": "Los rebeldes hutíes han reanudado los ataques con drones y misiles contra buques petroleros en el mar Rojo. En respuesta, las fuerzas estadounidenses han desencadenado su mayor oleada de bombardeos sobre territorio iraní para degradar las capacidades de Teherán.",
+          "por_que_importa": "El conflicto amenaza de forma directa dos chokepoints fundamentales para el comercio global: el estrecho de Bab el-Mandeb y el de Ormuz. El riesgo de interrupción del tránsito energético reaviva los temores a una crisis de suministros con alcance macroeconómico mundial.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-23/los-huties-de-yemen-ejecutan-su-amenaza-y-atacan-a-petroleros-saudies-en-el-mar-rojo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Washington y Riad cierran un acuerdo nuclear civil estratégico",
+          "que_ha_pasado": "El Departamento de Energía de Estados Unidos ha formalizado un pacto de cooperación atómica pacífica con Arabia Saudí. El acuerdo dará acceso prioritario a las firmas norteamericanas al programa de desarrollo energético de la monarquía del Golfo.",
+          "por_que_importa": "El movimiento busca amarrar la alianza geoestratégica entre Washington y Riad frente a los avances diplomáticos de China en la región. Asimismo, condiciona el desarrollo nuclear saudí a los estándares de no proliferación fijados por la administración estadounidense.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/jul/23/us-iran-war-live-updates-strikes-houthis-red-sea-saudi-nuclear-deal-middle-east-crisis-latest-news"
+            }
+          ]
+        },
+        {
+          "titular": "La UE aprueba su 21º paquete de sanciones a Rusia rebajando sus exigencias sobre el gas",
+          "que_ha_pasado": "Los Veintisiete han dado luz verde a una nueva batería de medidas punitivas contra Moscú. No obstante, Bruselas ha tenido que incluir exenciones a las restricciones del transporte de gas natural licuado ruso para lograr el visto bueno de Grecia.",
+          "por_que_importa": "El acuerdo refleja la paradoja europea de sostener la presión económica contra el Kremlin mientras se conceden licencias para no perjudicar a industrias estratégicas nacionales, como la potente flota armadora griega.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-23/grecia-gana-el-pulso-y-la-ue-aprueba-un-paquete-de-sanciones-a-rusia-menos-ambicioso-de-lo-previsto.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/07/23/6a61c737fc6c8323518b45a3.html"
+            }
+          ]
+        },
+        {
+          "titular": "El 'caporalato' vuelve a la escena política en Italia tras el asesinato de cuatro jornaleros",
+          "que_ha_pasado": "El homicidio de cuatro trabajadores agrícolas en Calabria ha reactivado las denuncias sobre el sistema ilegal de contratación y explotación de migrantes en el campo italiano. Las ONG estiman que la red afecta a uno de cada cuatro peones del sector.",
+          "por_que_importa": "El fenómeno evidencia las contradicciones entre las estrictas políticas migratorias de la UE y la dependencia estructural de mano de obra vulnerabilizada para sostener la competitividad de la producción alimentaria en el sur de Europa.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-23/caporalato-el-sistema-que-esclaviza-a-miles-de-migrantes-en-los-campos-de-italia-si-no-haces-lo-que-te-piden-te-amenazan-con-prenderte-fuego.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El repunte del petróleo hacia los 100 dólares sacude los mercados de deuda",
+          "que_ha_pasado": "La cotización del barril de Brent se ha disparado hasta rozar los 98 dólares debido a la inestabilidad en Oriente Próximo. Este encarecimiento ha provocado caídas generalizadas en las bolsas europeas y ventas masivas de bonos soberanos.",
+          "por_que_importa": "Un shock energético prolongado complica las expectativas de inflación para los próximos trimestres. Los inversores temen que los bancos centrales se vean obligados a pausar o revertir las bajadas de tipos de interés previstas para este ejercicio.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-23/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "titular": "Ford crea una filial conjunta con la china Geely para reflotar la fábrica de Valencia",
+          "que_ha_pasado": "Ford ha acordado la entrada de Geely con un 34% en su filial valenciana para ensamblar cinco nuevos modelos en la planta de Almussafes. La multinacional prevé incrementar la plantilla actual para maximizar la capacidad productiva.",
+          "por_que_importa": "El movimiento constata la necesidad de los fabricantes occidentales de aliarse con firmas chinas para acelerar la transición al vehículo eléctrico. Para el tejido industrial español representa un balón de oxígeno que asegura la carga de trabajo a medio plazo.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/valencia/2026/07/23/6a61ce2fe5fdea6b488b4571.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/comunidad-valenciana/2026-07-23/la-alianza-entre-ford-y-la-china-geely-fabricara-cinco-nuevos-modelos-y-garantiza-el-futuro-de-la-planta-de-valencia.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/comunidad-valenciana/2026-07-23/la-alianza-entre-ford-y-la-china-geely-fabricara-cinco-nuevos-modelos-y-garantiza-el-futuro-de-la-planta-de-valencia.html"
+            }
+          ]
+        },
+        {
+          "titular": "La rentabilidad de Tesla flaquea por el incremento de costes y el viraje hacia la IA",
+          "que_ha_pasado": "Tesla ha presentado unos beneficios trimestrales sensiblemente inferiores a las expectativas del mercado, pese a mantener el nivel de facturación. La compañía justifica la caída por el aumento de costes operativos y la inversión masiva en robótica.",
+          "por_que_importa": "El mercado castiga las incertidumbres financieras del viraje estratégico anunciado por Elon Musk. Mientras el negocio principal de automoción sufre la presión de precios, la apuesta multimillonaria por proyectos de IA tardará en generar flujos de caja recurrentes.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings"
+            },
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Google defiende la sostenibilidad financiera de sus inversiones millonarias en IA",
+          "que_ha_pasado": "Alphabet ha argumentado ante la comunidad financiera que su plan de inversión de hasta 190.000 millones de dólares en IA está justificado por la aceleración en los ingresos de su división de infraestructura e inteligencia en la nube.",
+          "por_que_importa": "La tecnológica calma temporalmente las dudas sobre una posible burbuja inversora en IA. Las grandes firmas de infraestructura cloud están siendo, por el momento, las únicas capaces de monetizar el despliegue a gran escala de estos modelos.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+            }
+          ]
+        },
+        {
+          "titular": "IBM achaca la debilidad de sus servidores al desvío presupuestario hacia la IA",
+          "que_ha_pasado": "Tras sufrir una severa caída en bolsa por la floja venta de sus servidores centralizados, la dirección de IBM ha señalado que sus clientes corporativos han congelado temporalmente la renovación de hardware para destinar recursos a proyectos de IA.",
+          "por_que_importa": "El fenómeno ilustra un efecto de sustitución presupuestaria dentro de los departamentos de TI de las grandes empresas, donde la urgencia por implementar soluciones de IA generativa está canibalizando las partidas destinadas a infraestructura tradicional.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/"
+            }
+          ]
+        },
+        {
+          "titular": "La escasez y el encarecimiento de la memoria RAM empiezan a encarecer los ordenadores",
+          "que_ha_pasado": "El fabricante de portátiles modulares Framework ha anunciado un incremento en los precios de sus equipos debido al sobrecoste imprevisto de los componentes de memoria RAM recibido de sus proveedores.",
+          "por_que_importa": "La fiebre por construir centros de datos optimizados para IA está acaparando la producción mundial de chips de alta velocidad. Este desequilibrio entre oferta y demanda se traslada ya al mercado de consumo en forma de mayor coste de hardware.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/969819/framework-laptop-13-pro-preorder-ram-price-updates"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Zapatero se prepara para dar explicaciones tras su imputación en el 'caso Plus Ultra'",
+          "que_ha_pasado": "El expresidente del Gobierno José Luis Rodríguez Zapatero concederá su primera intervención pública tras ser imputado en la causa que investiga las presuntas irregularidades en la concesión de las ayudas públicas a la aerolínea Plus Ultra.",
+          "por_que_importa": "La vertiente judicial amenaza con desgastar el discurso anticorrupción del Ejecutivo central y reabre las críticas sobre el control y la transparencia en la concesión de los fondos de rescate activados durante la pandemia.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-23/ultima-hora-de-la-actualidad-politica-en-directo.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-07-23/exclusivo-barrio-madrid-zapatero-compro-casa_4363066/"
+            }
+          ]
+        },
+        {
+          "titular": "Los grandes incendios forestales calcinan más de 100.000 hectáreas en lo que va de año",
+          "que_ha_pasado": "Varias comunidades autónomas se encuentran en alerta máxima por fuegos fuera de control que afectan a zonas de Toledo, Madrid y León. España acumula ya 108.000 hectáreas quemadas en 2026, una cifra cuatro veces superior a la del año anterior.",
+          "por_que_importa": "La recurrencia de incendios de gran magnitud evidencia el impacto del cambio climático en la cuenca mediterránea y pone de relieve la vulnerabilidad del territorio provocada por el abandono del medio rural y la falta de gestión forestal preventiva.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-23/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El fenómeno del 'LitRPG' da el salto de las redes a las listas de ventas globales",
+          "que_ha_pasado": "La saga 'Carl el Mazmorrero', de Matt Dinniman, desembarca en el mercado español tras superar los diez millones de libros vendidos en todo el mundo. La obra comenzó como una publicación gratuita por entregas en foros digitales.",
+          "por_que_importa": "El éxito consolidado del género LitRPG (que combina la narrativa fantástica con la lógica de los videojuegos) demuestra cómo las comunidades virtuales de lectores son capaces de redefinir las prioridades de la industria editorial tradicional.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-23/de-nicho-literario-amateur-a-imparable-fenomeno-editorial-matt-dinniman-presenta-el-litrpg-al-mundo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un hallazgo en Palencia saca a la luz la influencia del románico cluniacense",
+          "que_ha_pasado": "Las excavaciones en el monasterio de San Zoilo, en Palencia, han desenterrado capiteles y restos del claustro medieval de la orden de Cluny que se creían perdidos por el paso del tiempo.",
+          "por_que_importa": "El descubrimiento permite documentar mejor la penetración de las corrientes culturales europeas en la península ibérica durante la Edad Media a través de la red monástica vinculada al Camino de Santiago.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-23/el-gran-monasterio-espanol-de-cluny-desentierra-su-claustro-medieval.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Backwardation (Inversión de la curva de futuros)",
+    "explicacion": "Anomalía en los mercados financieros de materias primas que se produce cuando el precio cotizado de un activo para entrega inmediata (spot) o a muy corto plazo es superior al precio del contrato con vencimiento lejano. Refleja un escenario de escasez o de tensión extrema en la oferta actual, donde los compradores están dispuestos a pagar un sobreprecio significativo por disponer del recurso físico de manera instantánea, asumiendo que las tensiones se resolverán o estabilizarán con el tiempo.",
+    "ejemplo": "Tras la reanudación de los ataques hutíes a los petroleros en el mar Rojo, la urgencia de las refinerías por asegurar cargamentos ha llevado al barril de Brent a cotizar a 98 dólares para entrega inmediata, superando holgadamente los precios pactados en los contratos con vencimiento a seis meses."
+  },
+  "fecha": "2026-07-23"
+}
