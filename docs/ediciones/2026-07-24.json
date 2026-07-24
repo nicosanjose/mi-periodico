@@ -1,0 +1,266 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Estados Unidos aprueba un nuevo régimen arancelario sobre más de 60 economías",
+      "resumen": "Washington reemplaza la tasa global anulada por el Supremo imponiendo gravámenes de entre el 10% y el 12,5% bajo legislación de trabajo forzoso."
+    },
+    {
+      "titular": "El petróleo roza los 100 dólares tras la intensificación del conflicto en el mar Rojo",
+      "resumen": "Los ataques a buques cisterna y las operaciones estadounidenses en Yemen e Irán elevan la prima de riesgo sobre las rutas marítimas clave."
+    },
+    {
+      "titular": "Los incendios forestales desbordan el centro peninsular con más de 10.000 evacuados",
+      "resumen": "Las adversas condiciones meteorológicas complican la extinción de múltiples focos activos en la Comunidad de Madrid, Castilla-La Mancha y Castilla y León."
+    },
+    {
+      "titular": "Estados Unidos y Arabia Saudí ultiman un pacto nuclear de implicaciones geopolíticas",
+      "resumen": "La negociación para transferir tecnología atómica civil a Riad reabre la discusión sobre las salvaguardas del régimen internacional de no proliferación."
+    },
+    {
+      "titular": "Sanidad rechaza financiar la cobertura pública de las terapias precoces contra el alzhéimer",
+      "resumen": "La decisión del ministerio genera malestar entre neurólogos y asociaciones de enfermos al limitar el acceso a los tratamientos más recientes."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Washington reestructura su política comercial con aranceles a más de 60 países",
+          "que_ha_pasado": "El Gobierno de Estados Unidos ha puesto en marcha un nuevo esquema de gravámenes de entre el 10% y el 12,5% que afecta a decenas de socios comerciales, incluida la Unión Europea y Australia. La Casa Blanca justifica la medida amparándose en normativas sobre trabajo forzoso para eludir el reciente varapalo del Tribunal Supremo, que declaró inconstitucionales las tarifas de emergencia.",
+          "por_que_importa": "La maniobra evidencia la determinación de Washington por mantener un modelo proteccionista independientemente de las trabas judiciales internas. Al recurrir a la legislación sobre trabajo forzoso, la administración estadounidense busca blindar legalmente sus barreras comerciales, lo que obligará a sus socios a renegociar sus flujos de exportación o emprender litigios ante la Organización Mundial del Comercio.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-24/las-claves-de-los-nuevos-aranceles-de-trump-que-suponen-a-que-paises-afectan-y-cuando-entran-en-vigor.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/07/24/6a628eabe4d4d8a9278b458b.html"
+            }
+          ]
+        },
+        {
+          "titular": "El acuerdo nuclear entre Washington y Riad tensiona el régimen de no proliferación",
+          "que_ha_pasado": "Las negociaciones bilaterales para estructurar el programa nuclear civil de Arabia Saudí avanzan hacia un pacto definitivo con la mediación de Estados Unidos. Diversos analistas internacionales advierten de que el nivel de acceso tecnológico contemplado situaría al reino a un paso técnico de la capacidad de armamentismo atómico.",
+          "por_que_importa": "El pacto reconfigura la arquitectura de seguridad en Oriente Próximo y sienta un precedente complejo para el Tratado de No Proliferación. Permitir que una potencia regional adquiera capacidades avanzadas de enriquecimiento de uranio podría desencadenar una carrera de armamentos defensiva entre otros actores de la región.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-24/pasar-de-la-energia-nuclear-a-la-bomba-atomica-un-salto-que-depende-de-una-decision-politica.html"
+            }
+          ]
+        },
+        {
+          "titular": "La ofensiva de los hutíes e Irán amenaza con cronificar la inestabilidad en el mar Rojo",
+          "que_ha_pasado": "Nuevos ataques con drones y misiles atribuidos a las milicias hutíes han alcanzado buques petroleros en el estrecho de Bab el-Mandeb, forzando la intervención militar de Estados Unidos. La escalada bélica arrastra a Yemen a una etapa de mayor aislamiento geopolítico mientras la crisis humanitaria se profundiza.",
+          "por_que_importa": "El estrecho de Bab el-Mandeb constituye un punto crítico por donde transita una fracción sustancial del comercio marítimo y energético global. La incapacidad de la comunidad internacional para garantizar la navegación segura por esta vía no solo encarece los fletes, sino que consolida la capacidad de las milicias proiraníes para ejercer presión sobre la economía mundial.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-24/los-huties-se-suman-al-pulso-de-iran-y-arrastran-a-yemen.html"
+            }
+          ]
+        },
+        {
+          "titular": "Andy Burnham asume el Gobierno británico con la prioridad de rehacer los puentes con la UE",
+          "que_ha_pasado": "Tras convertirse en el séptimo primer ministro del Reino Unido desde la votación del Brexit hace una década, Andy Burnham ha iniciado sus primeras gestiones diplomáticas dirigidas a descongelar las relaciones con Bruselas. Entre sus primeras medidas económicas figura también un paquete de incentivos fiscales para el sector de la hostelería local.",
+          "por_que_importa": "El cambio de liderazgo en Downing Street abre una ventana de oportunidad para pragmatizar los acuerdos comerciales y de seguridad entre Londres y la Unión Europea tras años de parálisis. Sin embargo, la brecha de confianza acumulada y las tensiones políticas internas en el Reino Unido limitan el margen de maniobra del nuevo Ejecutivo para ambicionar un reingreso en el mercado único.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/business/2026/jul/24/snippet-pubs-burnham-rates-giveaway-landlors"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-europe-warm-to-britains-new-prime-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El petróleo alcanza los 100 dólares impulsado por el conflicto en las rutas del mar Rojo",
+          "que_ha_pasado": "La cotización del barril de crudo se ha situado cerca de la barrera psicológica de los 100 dólares tras los recientes ataques contra metaneros y petroleros en el mar Rojo. La respuesta militar de Estados Unidos sobre posiciones estratégicas no ha logrado aplacar la volatilidad en las mesas de contratación de materias primas.",
+          "por_que_importa": "Un repunte sostenido de los precios de la energía reactiva las presiones inflacionarias a escala global, dificultando la hoja de ruta de los bancos centrales para flexibilizar la política monetaria. Para la economía europea, altamente dependiente del suministro marítimo, este encarecimiento representa un lastre directo sobre los costes de producción y la competitividad industrial.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Acerinox vuelve al beneficio en el primer semestre apoyada en el mercado estadounidense",
+          "que_ha_pasado": "El grupo siderúrgico Acerinox ha registrado un beneficio neto de 77 millones de euros entre enero y junio, revirtiendo los números rojos contabilizados en el mismo periodo del año anterior. La dirección de la compañía ha atribuido la mejora al rendimiento de sus filiales en Estados Unidos y a una moderada recuperación de la demanda en Europa.",
+          "por_que_importa": "Las cifras reflejan cómo la diversificación geográfica en mercados fuertemente protegidos, como el estadounidense, permite a las empresas industriales amortiguar el estancamiento de la demanda en la Eurozona. El resultado confirma la progresiva estabilización de las cadenas de suministro de materiales básicos tras las perturbaciones de los ejercicios previos.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-07-24/acerinox-gana-77-millones-en-el-primer-semestre-y-deja-atras-las-perdidas-de-hace-un-ano.html"
+            }
+          ]
+        },
+        {
+          "titular": "EE. UU. exige explicaciones a Barclays por la supervisión de sus vínculos con Jeffrey Epstein",
+          "que_ha_pasado": "Una investigación impulsada en el Senado estadounidense acusa a la dirección de Barclays de no haber realizado una indagación suficiente sobre las relaciones entre su ex consejero delegado, Jes Staley, y el fallecido banquero Jeffrey Epstein. Los legisladores han solicitado formalmente los registros internos de auditoría de la entidad.",
+          "por_que_importa": "El expediente pone de relieve los crecientes riesgos reputacionales y regulatorios a los que se enfrentan los grandes bancos internacionales por deficiencias en el buen gobierno corporativo. La presión institucional en Estados Unidos subraya la severidad del escrutinio sobre el cumplimiento normativo en el sector financiero global.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/jul/23/us-senator-barclays-jes-staley-jeffrey-epstein-failure-links-elizabeth-warren"
+            }
+          ]
+        },
+        {
+          "titular": "La banca digital eleva los tipos del pasivo para disputar el ahorro a las entidades tradicionales",
+          "que_ha_pasado": "Las entidades financieras de matriz digital están ofreciendo remuneraciones para depósitos a corto plazo situadas entre el 2,5% y el 3,5%, superando con holgura las ofertas de la banca comercial tradicional. La diferencia de rentabilidad está acelerando el trasvase de pasivo hacia competidores neobancarios.",
+          "por_que_importa": "La brecha en la remuneración del ahorro pone de manifiesto la asimetría de costes entre la estructura física tradicional y los modelos de negocio puramente digitales. Este movimiento obliga a la banca madura a defender sus volúmenes de depósitos a costa de sus márgenes de intermediación en un entorno de tipos oficiales a la baja.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/banca/2026/07/24/6a61e152e5fdeacc648b4580.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Los filtros de seguridad de los modelos de IA frenan la investigación en ciberseguridad",
+          "que_ha_pasado": "Analistas e investigadores dedicados al descubrimiento defensivo de vulnerabilidades denuncian que las salvaguardas éticas impuestas por empresas como OpenAI o Anthropic bloquean sus herramientas de trabajo. La imposibilidad de simular ataques avanzados limita el desarrollo de parches de protección efectivos.",
+          "por_que_importa": "Existe una tensión creciente entre la mitigación del mal uso de la inteligencia artificial y la necesidad técnica de auditar sistemas complejos. Si las restricciones a la investigación ofensiva resultan excesivamente rígidas, los actores maliciosos que utilicen modelos sin restricciones contarán con una ventaja táctica sobre los equipos de ciberdefensa.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/"
+            }
+          ]
+        },
+        {
+          "titular": "Corea del Sur inicia la producción en serie de su primer avión de combate propio",
+          "que_ha_pasado": "El programa militar surcoreano ha alcanzado la fase operativa con el vuelo y la presentación de la primera unidad de producción del caza KF-21. El hito concluye un proceso de desarrollo industrial que se ha extendido durante un cuarto de siglo bajo dirección estatal.",
+          "por_que_importa": "El éxito del KF-21 consolida a Corea del Sur como un actor de primer orden en la industria global de defensa y aeroespacial, reduciendo su dependencia tecnológica de Estados Unidos. La consolidación de esta plataforma refuerza la capacidad de exportación militar de Seúl en un contexto de rearme generalizado en el Indo-Pacífico y Europa.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/magnet/corea-sur-sonaba-fabricar-su-propio-caza-kf-21-ha-dejado-ser-proyecto-esta-a-paso-servicio-operativo"
+            }
+          ]
+        },
+        {
+          "titular": "China pone en marcha un acelerador de iones pesados de dos kilómetros de longitud",
+          "que_ha_pasado": "La infraestructura científica construida en la localidad de Huizhou ha comenzado sus operaciones operativas para acelerar iones pesados mediante un haz de dos kilómetros. El complejo permitirá explorar estados de la materia en condiciones extremas y aplicaciones médicas e industriales avanzadas.",
+          "por_que_importa": "La entrada en funcionamiento de este complejo reafirma la estrategia de Pekín por lograr la autosuficiencia tecnológica en la investigación científica básica de gran escala. La instalación sitúa a China en competencia directa con las infraestructuras de física de partículas europeas y norteamericanas.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/investigacion/china-acaba-poner-marcha-su-nuevo-acelerador-iones-pesados-no-ha-construido-solo-para-estudiar-atomos"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Una ola de incendios forestales fuerza la evacuación de 10.000 personas en el centro de España",
+          "que_ha_pasado": "Múltiples fuegos simultáneos y fuera de control afectan a la Comunidad de Madrid, Castilla-La Mancha y Castilla y León, habiendo obligado a evacuar a más de 10.000 vecinos y cerrar diversas vías de comunicación. El fuerte viento y las altas temperaturas dificultan las maniobras de los servicios de emergencia.",
+          "por_que_importa": "La gravedad de los focos simultáneos tensiona la capacidad operativa de los medios de extinción autonómicos y estatales, reabriendo el debate sobre la planificación forestal y la coordinación interprovincial en situaciones de emergencia climática. El impacto económico en las zonas rurales afectadas añade presión sobre los presupuestos regionales.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-07-24/1qrt-incendios-madrid-cortes-trafico-carreteras-afectadas-pueblos-confinado_4395224/"
+            }
+          ]
+        },
+        {
+          "titular": "Sanidad rechaza financiar las nuevas terapias de fase precoz contra el alzhéimer",
+          "que_ha_pasado": "El Ministerio de Sanidad ha vuelto a denegar la inclusión en la prestación pública de los tratamientos biológicos más recientes indicados para las fases iniciales del alzhéimer. La decisión ha generado duras protestas por parte de la comunidad médica y las asociaciones de pacientes.",
+          "por_que_importa": "La exclusión de estos fármacos del sistema público acentúa la inequidad en el acceso a la innovación farmacológica, restringiendo su uso a los pacientes que pueden costeárselo en la sanidad privada. La controversia pone de relieve el dilema entre la sostenibilidad presupuestaria del Sistema Nacional de Salud y la incorporación de terapias de alto coste.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/salud/2026/07/24/6a62407afc6c83037c8b45a7.html"
+            }
+          ]
+        },
+        {
+          "titular": "Salvador Illa inicia una misión institucional en Vietnam y Singapur para captar inversiones",
+          "que_ha_pasado": "El presidente de la Generalitat de Cataluña ha emprendido un viaje oficial al Sureste Asiático centrado en reuniones con autoridades gubernamentales y las principales aerolíneas de la región. El objetivo prioritario es potenciar la atracción de proyectos industriales y abrir conexiones aéreas directas con Barcelona.",
+          "por_que_importa": "El desplazamiento pone de manifiesto el interés de las comunidades autónomas por diversificar sus alianzas comerciales fuera de la UE y penetrar en los mercados dinámicos de Asia-Pacífico. La consecución de conexiones aéreas directas es un factor clave para posicionar a Cataluña como un 'hub' logístico e inversor en el sur de Europa.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/catalunya/2026-07-24/salvador-illa-viaja-a-vietnam-y-singapur-para-ampliar-mercados-y-atraer-inversiones.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Christopher Nolan reabre el debate técnico al proyectar 'La odisea' en IMAX 70 mm",
+          "que_ha_pasado": "El cineasta Christopher Nolan ha vuelto a optar por el formato físico en celuloide de 70 milímetros para su última producción, una elección técnica que restringe la exhibición íntegra del filme a un reducido número de salas equipadas en todo el mundo.",
+          "por_que_importa": "La apuesta por formatos analógicos de ultraalta resolución choca con la estandarización y digitalización masiva de las salas de exhibición comercial. El movimiento reivindica la experiencia en sala como un evento técnico diferenciado frente al consumo doméstico, aunque expone la brecha de infraestructuras que sufre la industria cinematográfica actual.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-07-24/cabezas-cortadas-y-planos-mutilados-por-que-la-odisea-solo-puede-verse-completa-en-un-punado-de-cines-en-el-mundo.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Festival de Aviñón cumple 80 años con una mirada crítica sobre el auge del autoritarismo",
+          "que_ha_pasado": "La octogésima edición del certamen teatral de Aviñón ha abierto sus puertas con una propuesta artística centrada en el auge del fascismo, el deterioro medioambiental y los retos que plantea el avance sin control de la inteligencia artificial.",
+          "por_que_importa": "El certamen consolida su posición como un espacio de análisis político a través de las artes escénicas europeas. La orientación del programa refleja cómo las principales instituciones culturales continentales sitúan las presiones sobre las democracias liberales y la disrupción tecnológica en el centro del debate público.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-24/teatro-para-un-mundo-en-ruinas-el-peor-de-los-futuros-sube-a-escena-en-avinon.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Desviación de comercio (Trade Diversion)",
+    "explicacion": "La desviación de comercio ocurre cuando la aplicación selectiva de aranceles o acuerdos comerciales preferenciales altera los flujos internacionales, provocando que las importaciones se trasladen desde un productor global eficiente hacia un proveedor menos eficiente pero gravado con menores cargas tributarias. Aunque esta maniobra puede cumplir objetivos políticos o proteger temporalmente a industrias locales, suele reducir la eficiencia económica global al distorsionar la asignación óptima de recursos basados en la ventaja comparativa pura.",
+    "ejemplo": "La imposición por parte de EE. UU. de aranceles del 12,5% a decenas de países obligará a las multinacionales a sustituir sus suministradores asiáticos habituales por proveedores exentos o locales, alterando la cadena logística internacional a costa de mayores costes finales."
+  },
+  "fecha": "2026-07-24"
+}
