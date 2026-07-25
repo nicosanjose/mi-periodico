@@ -1,0 +1,270 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Una ola descontrolada de incendios obliga a evacuar a miles de personas en España y Francia",
+      "resumen": "El fuego afecta con virulencia a Madrid y Ávila, donde las llamas han forzado el desalojo preventivo del centro de comunicaciones espaciales de la NASA en Robledo de Chavela."
+    },
+    {
+      "titular": "Estados Unidos impone un nuevo paquete arancelario a 60 países y amenaza a la Unión Europea",
+      "resumen": "La administración estadounidense fija gravámenes de entre el 10% y el 12,5%, advirtiendo con represalias adicionales a Bruselas por sus multas a las grandes tecnológicas norteamericanas."
+    },
+    {
+      "titular": "El ejército de Israel lanza una incursión masiva en Cisjordania tras la muerte de colonos y palestinos",
+      "resumen": "El Gobierno israelí anuncia el levantamiento de nuevos asentamientos y medidas punitivas colectivas tras los graves enfrentamientos registrados en la región."
+    },
+    {
+      "titular": "Qualcomm anuncia una subida generalizada de precios de dos dígitos en sus microchips",
+      "resumen": "El encarecimiento de los semiconductores a partir de septiembre trasladará una mayor presión inflacionaria a los fabricantes de telefonía y electrónica de consumo."
+    },
+    {
+      "titular": "Las grandes corporaciones recortan plantilla pese a no haber rentabilizado aún la inteligencia artificial",
+      "resumen": "Banca, telecomunicaciones y automoción reducen costes fijos debido al elevado capital financiero requerido para implementar infraestructuras tecnológicas de última generación."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Estados Unidos activa una nueva oleada de aranceles globales y abre la puerta a represalias contra la UE",
+          "que_ha_pasado": "La Casa Blanca ha anunciado la entrada en vigor de una nueva estructura arancelaria con gravámenes de entre el 10% y el 12,5% dirigidos a más de 60 países. En paralelo, Washington ha amenazado explícitamente a la Unión Europea con sanciones comerciales como respuesta a las elevadas multas impuestas por Bruselas a multinacionales tecnológicas como Google.",
+          "por_que_importa": "El movimiento dinamita la tregua comercial alcanzada el pasado otoño y pone en riesgo la estabilidad del comercio multilateral. La insistencia europea en regular el mercado digital colisiona frontalmente con el proteccionismo estadounidense, amenazando con encarecer significativamente las exportaciones industriales europeas en un momento de fragilidad económica.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.com/news/2026/07/24/trump-eu-tarriffs-tech-fines-01011576?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-07-25/bruselas-versus-google-una-lucha-de-casi-10-anos-con-mas-de-10000-millones-en-multas-bajo-la-presion-de-trump.html"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/07/25/6a63ace9e5fdea65138b45a3.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/07/25/6a638a25fdddff18728b45ad.html"
+            }
+          ]
+        },
+        {
+          "titular": "Israel despliega una ofensiva a gran escala en Cisjordania y anuncia la ampliación de asentamientos",
+          "que_ha_pasado": "Las fuerzas armadas israelíes han iniciado una operación de gran envergadura en Cisjordania tras unos choques armados entre colonos y residentes locales que se saldaron con seis fallecidos. El primer ministro Benjamín Netanyahu ha prometido una respuesta contundente que incluye castigos colectivos y la aprobación inmediata de nuevas colonias en la zona.",
+          "por_que_importa": "La escalada en Cisjordania abre un frente crítico adicional a la inestabilidad regional, dificultando cualquier intento de mediación internacional. El anuncio de nuevos asentamientos contraviene las resoluciones de la ONU y tensiona aún más las relaciones diplomáticas de Israel con sus socios occidentales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-24/el-ejercito-lanza-una-amplia-operacion-en-cisjordania-tras-la-muerte-de-cuatro-palestinos-y-dos-israelies-en-un-choque-con-colonos.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los hutíes atacan territorio saudí mientras Estados Unidos intercepta un petrolero vinculado a Irán",
+          "que_ha_pasado": "La milicia hutí respaldada por Teherán ha reivindicado un ataque con misiles contra infraestructura de Arabia Saudí. En respuesta a las tensiones marítimas en la zona, la Armada estadounidense ha inmovilizado a un buque petrolero que intentaba eludir el bloqueo impuesto sobre los puertos iraníes.",
+          "por_que_importa": "El incidente demuestra que la seguridad en las rutas marítimas del mar Rojo y el Golfo Pérsico sigue siendo extremadamente precaria. La combinación de ataques con misiles y el patrullaje de la marina de EE. UU. mantiene elevados los costes de los seguros del transporte marítimo y los riesgos sobre el suministro energético mundial.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Reestructuración en la cúpula de la CDU tras la dimisión sorpresa de Jens Spahn",
+          "que_ha_pasado": "La renuncia inesperada de Jens Spahn ha desencadenado un amplio reparto de poder en la dirección del partido conservador alemán encabezado por Friedrich Merz. La maniobra busca consolidar el control interno mediante el nombramiento de figuras afines en la secretaría general y en el área económica.",
+          "por_que_importa": "A medida que Alemania se aproxima a un nuevo ciclo electoral, la cohesión interna de la CDU es fundamental para articular una alternativa de gobierno creíble frente a la coalición saliente. Este ajuste de piezas busca frenar las tensiones entre las distintas familias del partido y proyectar firmeza ejecutiva.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/eu-confidential/merz-neue-machtzentrale-mit-miriam-hollstein/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Grandes empresas recortan puestos de trabajo ante el elevado coste de despliegue de la IA",
+          "que_ha_pasado": "Sectores como las telecomunicaciones, la banca y la automoción están ejecutando despidos masivos para ajustar sus estructuras operativas. Sin embargo, estas reducciones no responden a la sustitución directa de personal por inteligencia artificial, sino a la necesidad de liberar capital masivo para financiar la transición tecnológica.",
+          "por_que_importa": "Existe un descalce temporal entre las enormes inversiones requeridas para adoptar sistemas avanzados de IA y el retorno real de dicha productividad. Las empresas están asumiendo costes de capital desorbitados antes de que la automatización genere rentabilidad sustancial, presionando los márgenes de beneficio a corto plazo.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-07-25/la-gran-empresa-esta-recortando-plantillas-no-echen-la-culpa-a-la-ia-todavia.html"
+            }
+          ]
+        },
+        {
+          "titular": "Dimite la alta dirección de Plus Ultra en mitad del proceso judicial por su rescate estatal",
+          "que_ha_pasado": "El presidente de Plus Ultra, Julio Martínez Sola, y el consejero delegado, Roberto Roselli, han presentado su dimisión. Ambos directivos permanecen bajo investigación en el procedimiento judicial que examina la legalidad de la ayuda pública concedida a la aerolínea durante la crisis sanitaria de 2021.",
+          "por_que_importa": "El rescate financiero concedido por la SEPI ha sido un foco continuo de controversia política y legal en España. La dimisión en la cúpula directiva debilita la gobernanza corporativa de la aerolínea en un momento en que la justicia dirime si existieron irregularidades en el uso de los fondos públicos.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/transporte/2026/07/25/6a63efd0e5fdea3b6e8b457d.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-07-24/dimiten-el-presidente-y-el-ceo-de-plus-ultra-investigados-por-el-rescate-de-la-aerolinea-en-2021.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las bolsas europeas rozan máximos históricos impulsadas por la banca y los grandes valores cotizados",
+          "que_ha_pasado": "Las principales plazas bursátiles del continente registran niveles récord de cotización apoyadas en títulos como Santander, Iberdrola, Inditex o ASML. Los analistas de mercado mantienen previsiones alcistas apoyadas en los sólidos resultados corporativos y en la resistencia del consumo privado.",
+          "por_que_importa": "La firmeza de las valoraciones bursátiles contrasta con la ralentización macroeconómica en la eurozona. El empuje de las grandes multinacionales demuestra la capacidad del capital para concentrarse en valores defensivos y diversificados geográficamente frente a la incertidumbre regulatoria y comercial.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/2026/07/25/6a63ace6468aeb545a8b459f.html"
+            }
+          ]
+        },
+        {
+          "titular": "El desencanto de la juventud en India pone en evidencia la brecha del crecimiento económico",
+          "que_ha_pasado": "Movimientos de protesta y descontento entre los jóvenes de la Generación Z en India están cuestionando la narrativa oficial del auge económico del país. El colectivo denuncia que las promesas de modernización no se traducen en la creación de empleo cualificado ni en mejoras del nivel de vida.",
+          "por_que_importa": "India basaba gran parte de su ventaja competitiva futura en el dividendo demográfico de su población joven. La incapacidad de la economía india para absorber millones de titulados universitarios genera riesgos de inestabilidad social y amenaza con lastrar el crecimiento potencial del país en la próxima década.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/ac19e4f4-cf7b-4a75-b591-0ca79ef62d37"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "BAE Systems presenta un prototipo de combate no tripulado para el programa aéreo Tempest",
+          "que_ha_pasado": "El fabricante aeroespacial británico ha completado las primeras pruebas de un prototipo de avión de combate diseñado para operar de forma totalmente autónoma. El desarrollo forma parte del marco tecnológico del proyecto Tempest, enfocado en redefinir la aviación militar británica y europea.",
+          "por_que_importa": "La transición hacia sistemas de combate aéreos no tripulados marca un hito en la doctrina de defensa de la OTAN. La integración de plataformas autónomas reduce los costes operativos por misión y elimina el riesgo de bajas humanas, marcando la pauta de la competencia geopolítica militar del siglo XXI.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/magnet/proximo-gran-avion-combate-britanico-quiza-no-tendra-piloto-bae-systems-tiene-listo-prototipo"
+            }
+          ]
+        },
+        {
+          "titular": "Qualcomm anuncia encarecimientos de dos dígitos en el precio de sus procesadores",
+          "que_ha_pasado": "El mayor proveedor mundial de microchips para movilidad ha comunicado a sus clientes industriales un incremento sustancial en sus tarifas aplicable a las entregas a partir de septiembre. La compañía justifica la medida por la imposibilidad de absorber el aumento sostenido de sus costes de producción.",
+          "por_que_importa": "La subida aplicada por Qualcomm tensionará la cadena de suministro de los principales fabricantes de hardware global. Este aumento repercutirá de manera directa en los precios finales de la electrónica de consumo, alimentando las presiones inflacionistas en el sector tecnológico.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg"
+            }
+          ]
+        },
+        {
+          "titular": "Meta paraliza sus planes de monetizar las funciones de audio en sus gafas inteligentes tras el descontento de los usuarios",
+          "que_ha_pasado": "Meta ha suspendido el lanzamiento de una suscripción mensual de 20 dólares destinada a activar la cancelación de ruido procesada localmente en sus gafas conectadas. La compañía rectifica tras sufrir intensas críticas por cobrar por hardware procesado en el propio dispositivo y generar debate sobre la privacidad en espacios públicos.",
+          "por_que_importa": "El episodio expone la resistencia de los consumidores a los modelos de suscripción sobre funciones básicas de hardware. Asimismo, pone de relieve la falta de marcos normativos consolidados para abordar la captura de imagen y sonido en tiempo real en la vía pública.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/970970/after-backlash-meta-pauses-plan-to-rate-limit-its-smart-glasses"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Una oleada crítica de incendios amenaza Madrid y frena las operaciones espaciales de la NASA",
+          "que_ha_pasado": "Decenas de miles de hectáreas permanecen en llamas en la zona centro de la Península Ibérica, afectando especialmente a la Comunidad de Madrid y a Ávila. El avance del fuego ha obligado a evacuaciones masivas y a suspender temporalmente el funcionamiento de las antenas del complejo de la NASA en Robledo de Chavela.",
+          "por_que_importa": "La magnitud del episodio pone al límite los servicios de emergencia e infraestructuras críticas nacionales. Este tipo de fenómenos extremos recurrentes evidencia los costes económicos directos del cambio climático y la necesidad de revisar los planes de prevención territorial en España.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-25/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/6e1d4a14-b7ad-4a36-86d9-3990497272a3?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/"
+            }
+          ]
+        },
+        {
+          "titular": "España afronta expedientes sancionadores de la UE por el retraso en las reformas de transparencia salarial",
+          "que_ha_pasado": "El Ministerio de Trabajo afronta la posibilidad de multas por parte de la Comisión Europea debido al incumplimiento de los plazos de transposición de la directiva de igualdad retributiva. Mientras tanto, la vicepresidenta Yolanda Díaz ha iniciado un calendario de compromisos internacionales con la agenda legislativa bloqueada en el Congreso.",
+          "por_que_importa": "La falta de mayoría parlamentaria estable paraliza la adaptación de normativas comunitarias clave para el tejido empresarial español. Además del coste financiero de las sanciones europeas, las empresas afrontan inseguridad jurídica al no contar con un marco claro sobre las obligaciones de reporte salarial.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/07/25/6a632b03fdddff5b0e8b4582.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Parlament de Cataluña da por cerrada la comisión sobre abusos infantiles en instituciones públicas",
+          "que_ha_pasado": "La cámara catalana ha archivado las investigaciones relativas a los casos de abusos a menores tutorados durante la anterior etapa de gobierno de ERC. La decisión se ha tomado sin la aprobación de conclusiones operativas, lo que ha desatado duras críticas de las plataformas de afectados.",
+          "por_que_importa": "El cierre en falso de la investigación desgasta la confianza institucional en el sistema de protección de menores en Cataluña. Refleja además la primacía de los cálculos políticos de las fuerzas parlamentarias por encima de la depuración de responsabilidades en la administración pública.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-07-25/fracaso-parlament-remodelacion-proteccion-infancia_4395077/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Chuck Palahniuk analiza el cambio cultural tras tres décadas de 'El club de la lucha'",
+          "que_ha_pasado": "El escritor estadounidense ha presentado su última obra en España coincidiendo con el trigésimo aniversario de su novela más célebre. En sus intervenciones, Palahniuk ha afirmado que los atentados del 11 de septiembre de 2001 marcaron la muerte de la literatura transgresora y la llegada de un férreo control sobre el discurso público.",
+          "por_que_importa": "La mirada de Palahniuk ofrece una perspectiva crítica sobre cómo la seguridad nacional y la corrección política han transformado los márgenes de la creación artística en Occidente durante las últimas dos décadas.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-25/chuck-palahniuk-la-literatura-transgresora-en-ee-uu-acabo-con-el-11-s-cuando-todos-nos-convertimos-en-terroristas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Condenado a prisión el promotor de un recinto arqueológico falso en Italia",
+          "que_ha_pasado": "Un tribunal italiano ha ordenado el ingreso en prisión de un hombre que construyó sin licencias una réplica de un teatro romano en la ciudad de Vicenza. El individuo cobró entradas de hasta 40 euros durante años promocionando la estructura como un yacimiento histórico auténtico.",
+          "por_que_importa": "El fraude pone en evidencia los fallos en la supervisión patrimonial y urbanística en regiones con alta concentración de turismo cultural, donde la desinformación puede ser explotada económicamente a gran escala.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-24/la-increible-historia-del-hombre-que-construyo-un-falso-teatro-romano-en-italia-y-vendio-entradas-por-visitarlo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Trilema político de la economía mundial (Trilema de Rodrik)",
+    "explicacion": "Formulado por el economista Dani Rodrik, este principio establece que es imposible para un país mantener simultáneamente hiperglobalización económica, soberanía nacional y democracia política. Un Estado solo puede combinar dos de estas tres opciones. Si busca una integración comercial total respetando la soberanía nacional, debe sacrificar la participación democrática en las decisiones normativas; si opta por la democracia e integración internacional, debe delegar soberanía a organismos supraestatales.",
+    "ejemplo": "Las fricciones entre la Unión Europea y Estados Unidos por las multas a Google ilustran este concepto: la UE ejerce su soberanía y democracia regulando el mercado interno, lo que choca frontalmente con la integración global que exige EE. UU."
+  },
+  "fecha": "2026-07-25"
+}
