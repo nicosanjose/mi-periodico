@@ -1,0 +1,255 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Una ola incontrolada de incendios obliga a evacuar a cientos de miles de personas en España y Francia",
+      "resumen": "Los fuegos sin control en Madrid, Ávila, Toledo y Castellón fuerzan el despliegue de la UME mientras el sur de Francia sufre una de las mayores evacuaciones civiles de su historia reciente."
+    },
+    {
+      "titular": "Ortega abole los procesos electorales e instaura una dinastía hereditaria en Nicaragua",
+      "resumen": "El régimen nicaragüense elimina formalmente las elecciones periódicas, consumando la transición del Estado hacia una autocracia familiar sin oposición legal."
+    },
+    {
+      "titular": "Teherán intensifica el pulso en el estrecho de Ormuz frente a la presión militar de EE. UU.",
+      "resumen": "Irán asume los riesgos del conflicto directo para mantener su dominio sobre la vía marítima clave del petróleo mundial, atrapando a Washington en un nuevo frente estratégico."
+    },
+    {
+      "titular": "Alemania proyecta suprimir la jubilación anticipada a los 63 años por la crisis demográfica",
+      "resumen": "El Gobierno alemán busca liquidar el retiro temprano para frenar el abultado déficit del sistema de pensiones en plena contracción de la población activa."
+    },
+    {
+      "titular": "El precio de la vivienda en España escala un 12,8% y triplica la media de la eurozona",
+      "resumen": "El mercado residencial español se tensiona con fuertes incrementos mientras el resto de Europa modera los costes de compraventa."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Daniel Ortega erradica las elecciones en Nicaragua y consolida una dictadura familiar",
+          "que_ha_pasado": "El presidente nicaragüense ha anunciado la cancelación definitiva de los procesos electorales en el país. Con este paso, el régimen cierra de forma explícita cualquier vía democrática e instituye una estructura de poder sucesoria para su familia.",
+          "por_que_importa": "Supone la formalización jurídica de un régimen totalitario en Centroamérica, sepultando las aspiraciones democráticas de la oposición en el exilio. Para la región, afianza un actor alineado con potencias extracontinentales como Rusia y China, complicado de gestionar mediante sanciones diplomáticas tradicionales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/america/2026-07-27/daniel-ortega-consuma-en-nicaragua-la-ultima-dictadura-de-america-latina.html"
+            }
+          ]
+        },
+        {
+          "titular": "Irán desafía a Washington apretando el control sobre el estrecho de Ormuz",
+          "que_ha_pasado": "Teherán ha incrementado sus maniobras de contención en el estrecho de Ormuz, asumiendo el coste militar que esto conlleva. El Gobierno iraní sostiene que no cederá la custodia del paso estratégico ante el incremento de la presencia de Estados Unidos.",
+          "por_que_importa": "El estrecho de Ormuz canaliza cerca de un quinto del petróleo mundial; cualquier amenaza de interrupción eleva los primas de riesgo energético global. Para EE. UU., este movimiento compromete sus intentos de replegar fuerzas del Próximo Oriente y le arrastra a un estancamiento militar prolongado.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-26/iran-asume-el-precio-de-la-guerra-para-preservar-el-estrategico-control-de-ormuz.html"
+            }
+          ]
+        },
+        {
+          "titular": "Cazas rumanos intervienen tras dos incursiones consecutivas de drones en su espacio aéreo",
+          "que_ha_pasado": "Aviones de combate de las Fuerzas Aéreas de Rumanía interceptaron y derribaron vehículos aéreos no tripulados el viernes y el sábado. Las incursiones violaron el espacio aéreo soberano de este país miembro de la OTAN.",
+          "por_que_importa": "El desborde del conflicto ucraniano hacia las fronteras orientales de la OTAN aumenta el riesgo de una escalada involuntaria o un incidente de defensa colectiva. Demuestra la fragilidad de la seguridad aérea en el mar Negro y presiona a la alianza a reforzar el escudo defensivo en su flanco este.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/romanian-airspace-violated-twice-in-2-days/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Un atentado con vehículo y armas blancas deja un muerto y 16 heridos en el Orgullo de Berlín",
+          "que_ha_pasado": "Un individuo embistió con una furgoneta a la multitud congregada en la marcha del Orgullo berlinés para posteriormente atacar a los transeúntes. La policía ha emitido una orden de búsqueda contra un sospechoso vinculado a entornos islamistas radicales.",
+          "por_que_importa": "El ataque reactiva la alerta por terrorismo de impacto y autoría radical en las grandes capitales europeas. El suceso añade tensión al debate interno alemán sobre la seguridad pública, la vigilancia a redes extremistas y las políticas de integración.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/jul/25/berlin-pride-march-called-off-after-car-crashes-into-crowd-of-people-near-route"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/6bd2290f-209d-4b30-9fac-dcfcd32bfb5d?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El mercado inmobiliario español se encarece casi tres veces más rápido que la media europea",
+          "que_ha_pasado": "El precio por metro cuadrado subió un 12,8% interanual en España durante el primer trimestre del año, frente al 4,7% registrado en la eurozona. Asimismo, las ofertas de venta iniciales presentan márgenes de negociación sobre el coste final que oscilan entre el 11% y el 35%.",
+          "por_que_importa": "La persistente falta de oferta y la fuerte demanda local y extranjera mantienen desalineado al mercado español respecto a la tendencia de desaceleración europea. Esta asimetría dificulta el acceso a la vivienda a la población joven y condiciona las decisiones sobre tipos e inversión inmobiliaria.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/inmobiliario/mercado/2026/07/25/6a61f070e5fdea41108b4591.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/vivienda/2026-07-26/cuanto-se-inflan-los-precios-en-los-anuncios-de-venta-de-pisos-del-11-en-madrid-al-35-en-granada.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los gigantes del sector de defensa adoptan la lógica del capital riesgo e invierten masivamente en emergentes tecnológicas",
+          "que_ha_pasado": "Las grandes corporaciones del sector de la defensa están inyectando capital récord en firmas emergentes especializadas en drones y sistemas autónomos. El objetivo es acelerar la integración de tecnología bélica disruptiva en sus catálogos.",
+          "por_que_importa": "El conflicto moderno demanda agilidad de desarrollo que las burocracias de defensa tradicionales no poseen. Al actuar como fondos de *venture capital*, los contratistas históricos buscan capturar innovación rápida y evitar que *startups* externas les arrebaten contratos gubernamentales.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania prevé eliminar la jubilación a los 63 años para equilibrar las cuentas públicas",
+          "que_ha_pasado": "El Ejecutivo alemán evalúa reformas profundas para suprimir el retiro laboral anticipado a los 63 años. La medida responde al aumento en la esperanza de vida y la escasez crítica de trabajadores que coticen en el sistema.",
+          "por_que_importa": "Alemania afronta de forma anticipada el abismo demográfico que afectará a toda Europa continental en la próxima década. Su decisión marcará la pauta sobre el equilibrio fiscal necesario entre mantener beneficios sociales acumulados y preservar la fuerza laboral activa.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-07-26/jubilados-a-los-63-el-modelo-que-alemania-quiere-liquidar-para-sanear-el-sistema-de-pensiones-empece-a-cotizar-practicamente-a-los-16.html"
+            }
+          ]
+        },
+        {
+          "titular": "SoftBank reorienta su estrategia inversora hacia la infraestructura global de la inteligencia artificial",
+          "que_ha_pasado": "Masayoshi Son ha reestructurado la cartera de SoftBank alrededor de cuatro ejes: centros de datos, microchips, robótica y modelos lingüísticos. La mayor parte de los recursos del conglomerado nipón se concentra en participaciones estratégicas como OpenAI.",
+          "por_que_importa": "Tras varios reveses en el sector tecnológico tradicional, el viraje de SoftBank refleja la convicción de las firmas financieras de que el rendimiento del capital futuro depende por completo de dominar la infraestructura física y lógica de la IA.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/financial-times/2026/07/25/6a64f43fe5fdea5c5f8b459c.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "La alta demanda de memorias para la IA encarece la telefonía móvil e impulsa ajustes de plantilla",
+          "que_ha_pasado": "Google ha sugerido un encarecimiento en su próxima línea Pixel 11 debido a la escasez global de módulos RAM, monopolizados por los centros de datos de IA. Paralelamente, empresas tecnológicas continúan justificando recortes masivos de personal por el despliegue de esta tecnología.",
+          "por_que_importa": "Demuestra la presión imprevista que los centros de cálculo de inteligencia artificial ejercen sobre las cadenas de suministro globales de semiconductores. Además, evidencia la paradoja del sector: los costes operativos aumentan para el consumidor final mientras se reduce la mano de obra humana.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike"
+            }
+          ]
+        },
+        {
+          "titular": "SpaceX prepara el intento de captura en plataforma para el próximo lanzamiento de Starship",
+          "que_ha_pasado": "Tras concluir el decimotercer vuelo de prueba de Starship, SpaceX planifica intentar atrapar el cohete propulsor directamente en la torre de lanzamiento en su siguiente misión.",
+          "por_que_importa": "El dominio de la reutilización completa y rápida de cohetes pesados es el pilar para reducir drásticamente el coste por kilo puesto en órbita. Esta capacidad es crucial tanto para las redes comerciales de satélites como para las futuras misiones lunares de la NASA.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/"
+            }
+          ]
+        },
+        {
+          "titular": "Warner Bros demanda a Amazon por fichaje indebido de ejecutivos con contrato de permanencia",
+          "que_ha_pasado": "Warner Bros ha iniciado acciones legales contra Amazon tras la contratación de varios de sus altos ejecutivos. La demanda reabre la disputa jurídica en California sobre la efectividad de los acuerdos de exclusividad y permanencia laboral.",
+          "por_que_importa": "El fallo sentará un precedente para la retención del talento clave en la industria tecnológica y del entretenimiento. En jurisdicciones restrictivas con las cláusulas de no competencia como California, la validez de los contratos por plazo determinado es la última defensa corporativa.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Más de 120.000 evacuados por incendios forestales fuera de control en cuatro provincias",
+          "que_ha_pasado": "La propagación del fuego ha forzado desalojos masivos en la Comunidad de Madrid, Ávila, Toledo y Castellón. El Gobierno central ha ampliado el despliegue de emergencia mientras los servicios aéreos y la UME intentan frenar el avance de las llamas en el parque natural de Sierra de Espadán.",
+          "por_que_importa": "Es uno de los episodios de incendios más graves registrados en el país, poniendo a prueba la capacidad de coordinación entre el Estado y las comunidades autónomas. La simultaneidad de focos y la severidad climática agravan la pérdida de biodiversidad y generan un alto coste socioeconómico para el ámbito rural.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-26/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/2026-07-26/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/record-breaking-wildfires-burned-nearly-100000-hectares-in-france-interior-minister-says/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Vox amenaza con romper su pacto de gobierno local con el PP en Sevilla a un año de las elecciones",
+          "que_ha_pasado": "La formación de Santiago Abascal ha supeditado la continuidad del pacto presupuestario en Sevilla tras el aval municipal para la construcción de una mezquita. Desde la dirección de Vox califican de implausible la aprobación de un nuevo acuerdo de cuentas.",
+          "por_que_importa": "Muestra la creciente brecha entre el PP y Vox en el ámbito municipal en vísperas del próximo ciclo electoral. La incapacidad de sostener presupuestos conjuntos erosiona la estabilidad del gobierno de la capital andaluza e indica la estrategia de Vox de marcar distancias en batallas ideológicas.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-26/el-aval-a-la-mezquita-da-alas-a-vox-para-romper-con-el-pp-en-sevilla-a-menos-de-un-ano-de-las-elecciones_4395689/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Irlanda del Norte sufre el cierre de 245 fuentes de agua por la proliferación masiva de algas tóxicas",
+          "que_ha_pasado": "Un brote sin precedentes de cianobacterias ha afectado a 245 sistemas de agua en la región, obligando a prohibir actividades recreativas y el suministro en múltiples zonas.",
+          "por_que_importa": "El fenómeno ilustra el impacto combinado del vertido de vertidos agrícolas y las temperaturas elevadas en la calidad de las reservas hídricas continentales. Las crisis de biodiversidad dulce son un indicador temprano de tensiones ecológicas que comprometen el agua potable.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c1m159e54l9o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Helen DeWitt arremete contra el trato mercantilista del sector editorial hacia los autores",
+          "que_ha_pasado": "La escritora estadounidense Helen DeWitt ha vuelto a publicar en español con una compilación de relatos corta. En sus declaraciones ha criticado la frialdad de los grupos editoriales, acusándoles de ignorar a los creadores excepto en las campañas de promoción.",
+          "por_que_importa": "Su testimonio expone las tensiones estructurales de la industria del libro, donde la consolidación de grandes grupos primaría la rentabilidad rápida sobre la sostenibilidad financiera de las carreras literarias de largo plazo.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-26/helen-dewitt-los-editores-tratan-al-autor-como-a-un-apestado-hasta-que-toca-salir-a-vender.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Dilema de Triffin",
+    "explicacion": "El dilema de Triffin es un conflicto económico estructural que surge cuando una divisa nacional actúa simultáneamente como moneda de reserva internacional. Para proveer de liquidez al comercio global, el país emisor debe incurrir en déficits persistentes por cuenta corriente exportando su moneda al resto del mundo. Sin embargo, la acumulación continuada de deuda externa y déficit erosiona con el tiempo la confianza internacional en el valor y el respaldo de dicha moneda, amenazando la estabilidad de todo el sistema financiero que sustenta.",
+    "ejemplo": "Estados Unidos se ve forzado a mantener déficits comerciales sostenidos para abastecer de dólares al mercado mundial, lo que incrementa su deuda pública nacional pero mantiene el privilegio de emitir la principal moneda global frente al impulso de los BRICS."
+  },
+  "fecha": "2026-07-26"
+}
