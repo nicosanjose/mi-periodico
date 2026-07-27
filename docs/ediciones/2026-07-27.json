@@ -1,0 +1,248 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Tregua petrolera tras la pausa de fuego entre EE. UU. e Irán",
+      "resumen": "El barril de Brent cae más de un 6% y alivia la presión inflacionaria en los mercados globales antes de la reunión de la Reserva Federal."
+    },
+    {
+      "titular": "La peor ola de incendios calcina 77.000 hectáreas en el centro de España",
+      "resumen": "Ávila, Madrid y Toledo sufren el fuego más agresivo registrado en el país, obligando a evacuar o confinar a 90.000 personas."
+    },
+    {
+      "titular": "El fabricante chino de semiconductores CXMT se dispara un 466% en bolsa",
+      "resumen": "La mayor salida a bolsa en China desde 2010 refleja el fuerte respaldo institucional y privado al autoconsumo tecnológico."
+    },
+    {
+      "titular": "Zelensky se reúne con Reino Unido tras el ataque a un buque ruso hacia Irán",
+      "resumen": "Ucrania intensifica la disrupción de la logística entre Moscú y Teherán en vísperas de su cumbre diplomática en Londres."
+    },
+    {
+      "titular": "Shein entra en pérdidas por la presión arancelaria previa a su salida a bolsa",
+      "resumen": "El endurecimiento del comercio en EE. UU. y Europa erosiona los márgenes del gigante del comercio electrónico antes de cotizar en Hong Kong."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Ucrania golpea el eje de suministro Rusia-Irán mientras Zelensky busca apoyo en Londres",
+          "que_ha_pasado": "El presidente ucraniano Volodymyr Zelensky ha iniciado una visita oficial a Reino Unido tras un ataque contra un buque ruso que transportaba armamento con destino a Irán. La reunión supone el primer encuentro internacional del nuevo primer ministro británico con el mandatario ucraniano.",
+          "por_que_importa": "El ataque al mercante refleja la estrategia de Kiev de ampliar sus objetivos a las líneas de suministro interconectadas entre Rusia y sus aliados regionales. Para la diplomacia ucraniana, afianzar el respaldo militar y financiero de Londres es prioritario para sostener el desgaste defensivo y mantener la presión sobre las rutas logísticas moscovitas.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/07/27/6a6703a6fdddffc50c8b459d.html"
+            }
+          ]
+        },
+        {
+          "titular": "Islandia contempla reactivar la negociación con la UE ante las amenazas arancelarias de Trump",
+          "que_ha_pasado": "Los votantes islandeses participan en una consulta para determinar si reabren las conversaciones de adhesión a la Unión Europea. El debate se ha reactivado impulsado por el deterioro de la seguridad regional, la volatilidad económica y los nuevos anuncios de aranceles desde Estados Unidos.",
+          "por_que_importa": "Islandia congeló su candidatura europea en 2015 por discrepancias sobre las cuotas pesqueras y la soberanía marítima. Sin embargo, el aumento de las tensiones en el Atlántico Norte y la impredecibilidad de la política comercial estadounidense están forzando a los países pequeños no alineados a replantearse la protección del paraguas comunitario.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/trump-reopens-the-tariff-fight/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La Unión Europea afina su metodología de sanciones millonarias contra el sector tecnológico",
+          "que_ha_pasado": "Bruselas ha impuesto importantes sanciones financieras a gigantes de la tecnología como Google y Alibaba en una misma semana. Las autoridades reguladoras de Washington y Pekín han cuestionado los criterios empleados por la Comisión Europea para fijar cuantías tan elevadas.",
+          "por_que_importa": "La fijación de multas multimillonarias forma parte del impulso de la UE por ejercer su poder normativo global (el denominado efecto Bruselas) en un entorno digital dominado por potencias extranjeras. La transparencia técnica en estos cálculos es crítica para evitar acusaciones de proteccionismo y resistir las impugnaciones ante el Tribunal de Justicia de la UE.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/how-the-eu-calculates-its-mega-tech-fines/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Milei profundiza el recorte del gasto público ante el desplome de la recaudación en Argentina",
+          "que_ha_pasado": "El Ejecutivo argentino se ve obligado a ejecutar ajustes presupuestarios adicionales debido al enfriamiento de las actividades económicas que más ingresos tributarios aportan a las arcas públicas. El objetivo gubernamental sigue siendo preservar el superávit fiscal a costa de mayor austeridad.",
+          "por_que_importa": "El programa de consolidación fiscal impulsado por Javier Milei enfrenta un círculo de retroalimentación complejo: la contracción del gasto enfria el consumo y reduce la recaudación, lo que exige nuevos recortes para no romper la meta de déficit cero. La sostenibilidad del plan depende de la capacidad de resistencia social y de una eventual reactivación de los sectores exportadores.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/argentina/2026-07-27/motosierra-sin-fin-milei-forzado-a-ajustar-mas-gastos-para-compensar-la-caida-de-la-recaudacion.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La tregua entre EE. UU. e Irán provoca un desplome del petróleo y anima a las bolsas",
+          "que_ha_pasado": "El precio del barril de Brent ha registrado caídas superiores al 6%, situándose en el entorno de los 90 dólares tras la suspensión temporal de ataques en el estrecho de Ormuz. La corrección energética ha propiciado subidas en los mercados de renta variable, acercando al Ibex 35 a sus máximos históricos.",
+          "por_que_importa": "Un crudo por encima de los 100 dólares amenaza con reencender las tensiones inflacionarias que amenazan los planes de bajadas de tipos de la Reserva Federal y el Banco Central Europeo. El alivio en la ruta de Ormuz atenúa el riesgo sobre el comercio de materias primas, aunque la volatilidad estructural persiste dada la fragilidad del pacto informal de no agresión.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/07/27/6a66f195468aebe57e8b459a.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-27/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El fabricante chino de memoria CXMT se dispara en el mayor debut bursátil desde 2010",
+          "que_ha_pasado": "La compañía de semiconductores CXMT ha cerrado su primera sesión en el mercado continental chino con un alza del 466%. El movimiento la ha convertido brevemente en la empresa cotizada de mayor valoración del país dentro de una oferta pública inicial récord.",
+          "por_que_importa": "La meteórica revalorización de CXMT demuestra la liquidez que el capital interno chino está dirigiendo hacia la cadena de suministro nacional de microchips. Frente a las restricciones de exportación impuestas por Occidente, Pekín consolida la autonomía de su infraestructura tecnológica canalizando recursos masivos hacia campeones nacionales.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Shein cae en pérdidas antes de su debut bursátil golpeada por el proteccionismo comercial",
+          "que_ha_pasado": "El gigante del comercio electrónico textil Shein ha reportado pérdidas financieras previas a su esperada salida a bolsa en Hong Kong. El cambio de tendencia responde directamente al aumento de las barreras aduaneras y a las inspecciones regulatorias en Estados Unidos y Europa.",
+          "por_que_importa": "El modelo de negocio de la moda ultrarrápida, basado en el envío directo de paquetes libres de aranceles por bajo valor, encuentra serios límites operativos a medida que Occidente cierra vacíos fiscales. El caso de Shein evidencia cómo el endurecimiento de la política comercial global puede comprometer la rentabilidad de plataformas que basan su ventaja en el arbitraje regulatorio.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/9ed6a6f4-c6a6-4027-9c54-19bffcd88913?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Acciona Energía vende 15 parques eólicos a Galp por 432 millones de euros",
+          "que_ha_pasado": "Acciona Energía ha acordado la transferencia a la portuguesa Galp de un paquete de instalaciones eólicas en España con una potencia conjunta de 361 megavatios. La operación reportará a la firma española una plusvalía estimada de 255 millones de euros.",
+          "por_que_importa": "Esta rotación de activos maduros permite a los desarrolladores de renovables reducir su apalancamiento financiero e invertir en proyectos de mayor rentabilidad o en nuevas tecnologías de almacenamiento. Para empresas de hidrocarburos como Galp, representa un paso directo para elevar su peso en generación limpia en la Península Ibérica.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://cincodias.elpais.com/companias/2026-07-27/acciona-energia-vende-a-galp-15-parques-eolicos-en-espana-por-432-millones.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Apple condiciona el lanzamiento de sus gafas inteligentes a sus controles de privacidad",
+          "que_ha_pasado": "Apple prevé presentar sus primeras gafas de realidad aumentada a mediados del próximo año con vistas a un lanzamiento comercial para 2027. La compañía está ajustando la arquitectura del dispositivo para garantizar la privacidad en la captura de imágenes y datos de entorno.",
+          "por_que_importa": "La adopción de hardware vestible con cámaras integradas choca históricamente con el rechazo social al registro no consentido en espacios públicos. Tras el avance de competidores como Meta, Apple busca posicionarse diferenciándose en el tratamiento local de datos para evitar litigios regulatorios y barreras de aceptación por parte del usuario.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy"
+            }
+          ]
+        },
+        {
+          "titular": "El rápido progreso de los modelos de IA chinos genera inquietud en Silicon Valley",
+          "que_ha_pasado": "El lanzamiento de nuevos modelos de inteligencia artificial desarrollados por firmas chinas, como Kimi de la emergente Moonshot AI, ha desatado discusiones en el sector inversor y tecnológico estadounidense sobre la velocidad del avance asiático.",
+          "por_que_importa": "Pese a las sanciones sobre chips avanzados, los laboratorios de IA en China están optimizando la eficiencia de sus algoritmos para competir en capacidades de razonamiento a costes reducidos. La brecha técnica entre las empresas de Silicon Valley y los competidores chinos se reduce, lo que cuestiona la eficacia de los controles de exportación como única barrera de contención.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/"
+            }
+          ]
+        },
+        {
+          "titular": "EE. UU. procesa penalmente el uso de contraseñas de borrado remoto en controles aduaneros",
+          "que_ha_pasado": "La justicia federal estadounidense ha imputado a un ciudadano que introdujo una clave de coerción para formatear su dispositivo móvil durante una inspección en el aeropuerto de Atlanta. Los agentes retenían el teléfono para revisar su contenido en el marco de un control fronterizo.",
+          "por_que_importa": "El caso sienta un precedente sobre los límites entre el derecho a la privacidad digital frente a los poderes extraordinarios de incautación en las fronteras. Plantea un conflicto jurídico clave sobre si la destrucción de datos propios durante una inspección administrativa constituye obstrucción a la justicia cuando no existe una orden judicial previa.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La confluencia de varios frentes deja el peor episodio de incendios de la historia de España",
+          "que_ha_pasado": "Los incendios que afectan a las provincias de Ávila, Madrid y Toledo han convergido en un único frente masivo que supera las 77.000 hectáreas calcinadas y mantiene a 90.000 personas evacuadas o confinadas. El Gobierno declarará la zona como gravemente afectada por la emergencia nacional.",
+          "por_que_importa": "La dimensión de este megaincendio supera la capacidad operativa habitual de extinción y refleja la creciente vulnerabilidad del territorio ante eventos climáticos extremas y el abandono del medio rural. El impacto económico y ambiental reabrirá el debate sobre la necesidad de transformar la gestión forestal preventiva durante todo el año.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/sociedad/2026/07/27/6a66f296468aebf20f8b458f.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/2026-07-27/ultima-hora-de-los-incendios-forestales-en-directo-el-incendio-de-madrid-sigue-activo-mientras-las-labores-de-extincion-se-concentran-en-el-embalse-de-san-juan.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-27/ultima-hora-de-los-incendios-forestales-en-directo-el-incendio-de-madrid-sigue-activo-mientras-las-labores-de-extincion-se-concentran-en-el-embalse-de-san-juan.html"
+            },
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/magnet/mayor-historia-espana-avila-prueba-que-grandes-incendios-forestales-han-llegado-para-quedarse"
+            }
+          ]
+        },
+        {
+          "titular": "Descubren una vivienda andalusí intacta en el interior de un yacimiento talayótico menorquín",
+          "que_ha_pasado": "Un equipo de arqueólogos ha hallado en Menorca una residencia medieval islámica en un estado de conservación excepcional con enseres domésticos de la época. La estructura se encontraba integrada dentro de un yacimiento prehistórico talayótico.",
+          "por_que_importa": "El hallazgo aporta evidencia directa sobre la reocupación e integración de infraestructuras antiguas durante el periodo andalusí en las Islas Baleares. Este tipo de estructuras aporta información sobre las dinámicas del poblamiento rural y el comercio cotidiano en el Mediterráneo occidental durante la Edad Media.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-27/hallazgo-menorca-yacimiento-talayotico-casa-andalusi-1qrt-1tna_4394733/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Un estudio historiográfico documenta el impacto de la trata de esclavos en la riqueza catalana",
+          "que_ha_pasado": "Las investigaciones del historiador Martín Rodrigo Alharilla revelan que la participación en el comercio transatlántico de esclavos durante los siglos XVIII y XIX abarcó a un volumen de fortunas empresariales en Cataluña mucho mayor del estimado tradicionalmente.",
+          "por_que_importa": "La revisión académica sobre los orígenes del capital que financió la temprana industrialización en España ayuda a mapear la acumulación originaria de riqueza en la burguesía decimonónica. El análisis riguroso de estas redes comerciales conecta el desarrollo patrimonial local con los circuitos de la economía colonial atlántica.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-27/martin-rodrigo-alharilla-historiador-las-familias-catalanas-esclavistas-que-se-conocen-son-solo-la-punta-del-iceberg.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "De-risking (Reducción de riesgos estratégicos)",
+    "explicacion": "El 'de-risking' es una postura de política económica exterior orientada a mitigar las vulnerabilidades de una economía limitando la dependencia en sectores críticos (como semiconductores, minerales raros o infraestructura digital) de países competidores o geopolíticamente inestables. A diferencia del 'decoupling' (desacoplamiento total), no busca el aislamiento ni la ruptura completa de los lazos comerciales, sino la diversificación estratégica de proveedores, la imposición de controles selectivos a la exportación y el endurecimiento normativo sobre inversiones clave.",
+    "ejemplo": "El ajuste operativo de Shein ante las inspecciones aduaneras occidentales y las restricciones sobre los procesadores de la firma china CXMT reflejan cómo las medidas de 'de-risking' alteran las cadenas de suministro globales."
+  },
+  "fecha": "2026-07-27"
+}
