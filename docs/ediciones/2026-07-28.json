@@ -1,0 +1,262 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Tensión diplomática entre Argentina y Brasil por la escalada verbal de Milei hacia Lula",
+      "resumen": "La llamada a consultas del embajador brasileño marca el momento más crítico en la relación bilateral reciente entre las dos mayores economías de Sudamérica."
+    },
+    {
+      "titular": "El petróleo cae con fuerza tras una pausa táctica de EE. UU. en sus ataques a Irán",
+      "resumen": "La menor tensión en el estrecho de Ormuz calma a los mercados energéticos y propicia caídas destacadas en el precio del barril de Brent."
+    },
+    {
+      "titular": "Fuerte corrección en los gigantes bursátiles del sector de los semiconductores e IA",
+      "resumen": "Las ventas masivas en valores tecnológicos asiáticos arrastran a los índices de la región ante las dudas sobre el retorno de las inversiones en inteligencia artificial."
+    },
+    {
+      "titular": "España afronta una cuarta ola de calor ahogada por incendios fuera de control",
+      "resumen": "Múltiples comunidades activan avisos por temperaturas superiores a los 40 grados mientras los efectivos de emergencias intentan contener grandes fuegos en la zona centro."
+    },
+    {
+      "titular": "X despliega sus servicios de pago digital en Estados Unidos para convertirse en 'superapp'",
+      "resumen": "La plataforma lanza X Money con billetera electrónica y transferencias entre particulares, buscando competir directamente con servicios consolidados del mercado financiero local."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Crisis diplomática entre Brasilia y Buenos Aires tras los ataques personales de Milei",
+          "que_ha_pasado": "El Gobierno brasileño ha llamado a consultas a su embajador en Argentina como respuesta a las severas descalificaciones vertidas por Javier Milei contra Luiz Inácio Lula da Silva. La fricción política se intensifica a pesar de la estrecha vinculación comercial y logística que mantienen ambos países.",
+          "por_que_importa": "Las dinámicas de integración en Mercosur sufren un severo contratiempo cuando sus dos socios principales rompen la neutralidad institucional. Esta parálisis diplomática complica la coordinación en materia de fronteras, seguridad regional y la negociación de acuerdos comerciales internacionales estratégicos.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/argentina/2026-07-28/los-insultos-de-milei-a-lula-llevan-a-argentina-y-brasil-al-peor-choque-diplomatico-en-anos.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/07/28/6a67fae4e85ece12238b4594.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los incendios forestales en el sur de Europa ponen a prueba el sistema de protección civil de la Unión Europea",
+          "que_ha_pasado": "Una ola de incendios sin precedentes en España y Francia ha obligado a evacuar a miles de personas y a saturar los parques de bomberos nacionales. Ante esta situación, las autoridades han recurrido a la reserva estratégica rescEU y al Mecanismo de Protección Civil del bloque comunitario para enviar medios aéreos y efectivos.",
+          "por_que_importa": "El cambio climático está provocando emergencias simultáneas que superan las capacidades de respuesta de los Estados miembros por separado. Este escenario reaviva el debate sobre la necesidad de dotar a la UE de una fuerza operativa permanente de respuesta ante catástrofes naturales con financiación europea centralizada.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-europe-fight-fires-this-big/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania plantea endurecer la vigilancia sobre radicales tras el último atentado en Berlín",
+          "que_ha_pasado": "El liderazgo conservador germano ha propuesto estrechar el seguimiento policial sobre sospechosos islamistas calificados de peligrosos. La iniciativa surge tras confirmarse que el autor abatido en la capital se encontraba libre pese a acumular condenas previas por delitos graves contra la seguridad del Estado.",
+          "por_que_importa": "La seguridad ciudadana y la gestión de las amenazas internas vuelven al centro de la agenda política en la mayor economía europea. El debate evidencia los fallos en la cadena de custodia y la tensión latente entre los marcos garantistas del sistema judicial y la presión del electorado por un mayor control preventivo.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-28/merz-abre-la-puerta-a-reforzar-el-seguimiento-de-islamistas-peligrosos-tras-el-atentado-de-berlin.html"
+            }
+          ]
+        },
+        {
+          "titular": "Ecuador combate la infiltración del narcotráfico en las fuerzas de seguridad en plena ofensiva contra las bandas",
+          "que_ha_pasado": "Las unidades de élite de la policía ecuatoriana continúan desplegadas en los núcleos urbanos y costeros para desarticular a los grupos criminales dedicados al tráfico de drogas. Al mismo tiempo, los mandos enfrentan el reto de depurar la penetración de las organizaciones mafiosas dentro de los propios estamentos policiales y judiciales.",
+          "por_que_importa": "Ecuador ha pasado de ser un enclave de tránsito a convertirse en el epicentro logístico de la distribución de cocaína hacia América del Norte y Europa. La pérdida de control territorial por la corrupción de las instituciones estatales amenaza la estabilidad democrática del país y complica la cooperación de inteligencia internacional.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/c1l1d429m8eo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El barril de crudo se frena tras una tregua táctica de Estados Unidos en la zona del Golfo",
+          "que_ha_pasado": "El precio del barril de Brent ha registrado caídas superiores al 2% hasta situarse por debajo de los 88 dólares. La corrección responde al cese temporal de los ataques estadounidenses sobre posiciones iraníes en torno al estrecho de Ormuz, lo que reduce el riesgo inminente de un desabastecimiento global.",
+          "por_que_importa": "El estrecho de Ormuz representa el punto de estrangulamiento energético más crítico del planeta, por donde transita una quinta parte del consumo mundial de petróleo. El alivio temporal de la prima de riesgo geopolítico suaviza las expectativas inflacionarias y da un respiro a los tipos de interés de la deuda soberana europea y británica.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-28/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100"
+            }
+          ]
+        },
+        {
+          "titular": "Desplome bursátil en los grandes fabricantes asiáticos de semiconductores",
+          "que_ha_pasado": "Empresas líderes en la producción de memoria e infraestructura para inteligencia artificial como SK Hynix y Samsung han sufrido notables caídas en Bolsa. La oleada de ventas masivas arrastró a índices de referencia regionales como el Kospi surcoreano con pérdidas que superaron el 10%.",
+          "por_que_importa": "El sector tecnológico cotiza bajo un escrutinio creciente respecto a si las masivas inversiones de capital en hardware de IA generativa se traducirán en beneficios operativos a corto plazo. Una ralentización del apetito inversor en este ámbito afecta directamente a la cadena de suministro global y al ritmo de digitalización corporativa.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La salida a Bolsa de la firma china CXMT genera rentabilidades del 5.000% para los fondos locales",
+          "que_ha_pasado": "La oferta pública de venta del fabricante de chips CXMT se ha saldado con valoraciones récord en los mercados financieros chinos. Entre los principales beneficiados figuran los vehículos de inversión controlados por el gobierno local de Hefei, que han multiplicado de forma extraordinaria su capital inicial.",
+          "por_que_importa": "El caso evidencia el éxito de la política industrial dirigida de Pekín, que utiliza fondos estatales a nivel municipal para subsidiar la independencia tecnológica. Frente al bloqueo de componentes occidentales, China refuerza su ecosistema nacional de semicondutores financiando proyectos locales con alto nivel de retorno público.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "TotalEnergies mantiene sus ventas de gas ruso a Asia aprovechando exenciones en las sanciones europeas",
+          "que_ha_pasado": "La multinacional energética francesa continúa comercializando gas natural licuado procedente del proyecto Yamal en Siberia con destino al mercado asiático. Las salvaguardas legales dentro de los paquetes de sanciones de la Unión Europea permiten estas transacciones si el producto no entra en territorio comunitario.",
+          "por_que_importa": "La persistencia de estos flujos demuestra las complejas contradicciones de la política energética europea post-invasión de Ucrania. Para evitar quiebras de contratos multimillonarios o desequilibrios financieros, la regulación europea termina tolerando que firmas continentales mantengan operaciones con activos rusos en terceros mercados.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/0ee947e4-0b2a-48e4-93de-2c7985662f14?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "X lanza su red de pagos financieros X Money en el mercado estadounidense",
+          "que_ha_pasado": "La red social de Elon Musk ha iniciado el despliegue de X Money en Estados Unidos, incorporando monedero digital, transferencias inmediatas entre usuarios y una tarjeta de débito física. El movimiento busca diversificar las fuentes de ingresos de la empresa más allá de la publicidad tradicional.",
+          "por_que_importa": "El movimiento imita el modelo de las 'superapps' asiáticas como WeChat, integrando servicios financieros dentro de una plataforma de comunicación social. De consolidarse, transformará a la compañía en un actor relevante dentro de la tecnología financiera y aumentará la retención de usuarios mediante servicios transaccionales.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk"
+            }
+          ]
+        },
+        {
+          "titular": "Satya Nadella advierte del riesgo operativo de depender de una sola herramienta de inteligencia artificial",
+          "que_ha_pasado": "El consejero delegado de Microsoft ha afirmado que las corporaciones que utilicen un único modelo de inteligencia artificial para toda su operativa difícilmente sobrevivirán. Nadella abogó por desplegar capas intermedias de infraestructura tecnológica para orquestar múltiples modelos según cada necesidad operativa.",
+          "por_que_importa": "La recomendación orienta la estrategia de consultoría de transformación digital hacia un enfoque multimodelo e independiente de proveedor. Para las grandes empresas, esta arquitectura evita la dependencia de un único suministrador y optimiza costes computacionales garantizando mayor resiliencia del software corporativo.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/"
+            }
+          ]
+        },
+        {
+          "titular": "La Administración de EE. UU. concede una exención regulatoria a Starlink para importar routers",
+          "que_ha_pasado": "El Gobierno estadounidense ha eximido a la división satelital de SpaceX de las restricciones impuestas por las autoridades de comunicaciones al uso de routers de fabricación extranjera. La empresa produce parte de sus componentes en Vietnam para abastecer la demanda global.",
+          "por_que_importa": "El episodio refleja las fricciones entre el proteccionismo de la política industrial estadounidense y las necesidades reales de aprovisionamiento de sus grandes tecnológicas. La medida prioriza el rápido despliegue de infraestructura de internet satelital frente a las exigencias de relocalización estricta de la cadena de valor.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La ola de calor agrava la extinción de los incendios en el centro peninsular",
+          "que_ha_pasado": "Extremadura, Andalucía, las Castillas, Aragón y Galicia registran temperaturas máximas de hasta 40 grados en pleno pico de la cuarta ola de calor del verano. Las desfavorables condiciones meteorológicas dificultan el control de incendios especialmente complejos en la sierra de Madrid y en la provincia de Ávila.",
+          "por_que_importa": "La acumulación de episodios de temperaturas extremas sobre el monte seco dispara la simultaneidad de grandes incendios de alta intensidad. Las administraciones públicas enfrentan el reto de reorganizar la prevención forestal de forma permanente y adaptar la logística de protección civil a veranos cada vez más dilatados e intensos.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-28/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/07/28/6a684594e9cf4a9c488b456d.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-28/roberto-brasero-meteorologo-incendios-madrid-avila_4396837/"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/2026-07-28/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/sociedad/2026/07/28/6a6842aa468aeb51398b45ae.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Tribunal Supremo aplica la amnistía a Meritxell Serret y cancela su pena de inhabilitación",
+          "que_ha_pasado": "El Alto Tribunal ha dictado la resolución por la cual extingue la condena de un año de inhabilitación impuesta a la exconsellera de la Generalitat por desobediencia. El fallo formaliza el encaje de las penas derivadas de los hechos de octubre de 2017 dentro del marco legal de la norma amnestiativa.",
+          "por_que_importa": "El cierre gradual del historial judicial del proceso independentista marca la pauta de la legislatura política actual. La aplicación sistemática de la norma en el ámbito contencioso e inhabilitatorio busca la normalización de las relaciones parlamentarias, aunque mantiene el foco en las lecturas jurídicas divergentes respecto al delito de malversación.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/catalunya/2026-07-28/el-supremo-aplica-la-amnistia-a-meritxell-serret-consellera-del-govern-del-1-o.html"
+            }
+          ]
+        },
+        {
+          "titular": "La campaña paleontológica de Igea desentierra los restos de un gran ornitópodo en La Rioja",
+          "que_ha_pasado": "Los trabajos de excavación en el yacimiento riojano de Las Cerradas han concluido con el hallazgo de nuevas estructuras óseas pertenecientes a un dinosaurio herbívoro de gran tamaño. Los restos cuentan con unos 120 millones de años de antigüedad y permitirán determinar con precisión su especie.",
+          "por_que_importa": "España se consolida como uno de los territorios clave en Europa para el estudio del Cretácico inferior. El descubrimiento no solo aporta valor al conocimiento científico internacional sobre la evolución de la fauna mesozoica, sino que fortalece la oferta de turismo científico e infraestructura investigadora en zonas rurales.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-28/finaliza-campana-dinosaurio-ornitopodo-1tna-1qrt_4396809/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El sector cultural evidencia el estancamiento en la aplicación efectiva de los protocolos contra la violencia machista",
+          "que_ha_pasado": "Representantes de la industria cultural española han denunciado que las normativas aprobadas en los últimos años apenas han tenido impacto práctico para erradicar los abusos. Pese al marco regulatorio existente, las profesionales señalan la persistencia de mecanismos de silencio y el incumplimiento de las directivas de protección en producciones y empresas.",
+          "por_que_importa": "La brecha entre la aprobación de códigos éticos formales y su implantación operativa genera desprotección laboral en sectores con alta fragmentación y temporalidad. Revela la necesidad de auditar la eficacia real de los planes de cumplimiento en entornos creativos donde priman las relaciones jerárquicas informales.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-28/la-falta-de-aplicacion-de-los-protocolos-contra-las-violencias-machistas-extiende-el-silencio-en-la-cultura.html"
+            }
+          ]
+        },
+        {
+          "titular": "David Lowery combina el género fantástico y la música en su nueva película 'Mother Mary'",
+          "que_ha_pasado": "El cineasta estadounidense ha presentado los detalles de su último proyecto cinematográfico, protagonizado por Anne Hathaway en el papel de una estrella de la música pop. La obra mezcla el drama estético con elementos paranormales y trasfondo religioso para diseccionar el culto público a las celebridades.",
+          "por_que_importa": "Lowery prosigue su exploración de las narrativas autorales alejadas de las franquicias convencionales de los grandes estudios. Su propuesta refuerza la tendencia del cine independiente norteamericano por abordar el impacto psicológico del estrellato moderno combinando elementos de género con puestas en escena de alto valor artístico.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-07-28/david-lowery-sobre-su-muy-muy-rara-pelicula-queria-que-anne-hathaway-representara-a-todas-las-estrellas-del-pop-que-amo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Carry Trade",
+    "explicacion": "Estrategia financiera que consiste en endeudarse en una divisa con tipos de interés muy bajos para invertir esos mismos fondos en activos o monedas de otros países que ofrecen un rendimiento considerablemente superior. El inversor ingresa la diferencia entre ambos tipos de interés (el diferencial), asumiendo como riesgo principal la variación en el tipo de cambio. Si la divisa en la que se solicitó el préstamo se aprecia repentinamente frente a la divisa de destino, la rentabilidad se borra y las posiciones deben liquidarse con urgencia, arrastrando a los mercados globales.",
+    "ejemplo": "La rápida revalorización del yen japonés provocó un desarme masivo del 'carry trade' global, obligando a fondos internacionales a vender acciones estadounidenses y europeas para cubrir sus deudas en yenes."
+  },
+  "fecha": "2026-07-28"
+}
