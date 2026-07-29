@@ -1,0 +1,251 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Estados Unidos prohíbe la importación de robótica avanzada y componentes clave de China",
+      "resumen": "Washington veta la entrada de robots móviles y humanoides extranjeros para proteger su cadena de suministro industrial y sus infraestructuras críticas."
+    },
+    {
+      "titular": "Estados Unidos y Arabia Saudí ejecutan ataques conjuntos contra milicias proiraníes",
+      "resumen": "La acción militar coordinada responde a los recientes ataques con drones y misiles dirigidos contra bases norteamericanas e infraestructuras energéticas en la región."
+    },
+    {
+      "titular": "Divergencia bursátil: castigo a la IA mientras Apple roza los cinco billones de dólares",
+      "resumen": "La prudencia de Apple ante la espiral de gasto en inteligencia artificial atrae el capital de los inversores en pleno desplome de los valores semiconductores."
+    },
+    {
+      "titular": "Alemania consolida su rearme con un plan defensivo de hasta 153.000 millones de euros",
+      "resumen": "El borrador presupuestario germano certifica un incremento sostenido de la inversión militar para asumir un rol de disuasión líder en la OTAN antes de 2029."
+    },
+    {
+      "titular": "Una ola de calor extrema e imprevista complica el control de los incendios en España",
+      "resumen": "A pesar del regreso paulatino de los evacuados a sus viviendas, el repunte térmico mantiene la alerta máxima en los focos de Ávila, Castellón y Toledo."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Estados Unidos y Arabia Saudí bombardean posiciones de milicias vinculadas a Irán",
+          "que_ha_pasado": "El Mando Central de Estados Unidos y las fuerzas armadas saudíes han llevado a cabo una operación militar conjunta contra grupos paramilitares respaldados por Teherán. Los ataques responden a las agresiones lanzadas recientemente contra instalaciones petroleras en suelo saudí y bases estadounidenses en la zona.",
+          "por_que_importa": "El movimiento afianza la alianza táctica entre Washington y Riad frente a la red de proxies de Irán en Próximo Oriente. Para el reino saudí, la vulnerabilidad de sus activos energéticos sigue siendo un talón de Aquiles que condiciona la atracción de capitales para sus planes de diversificación económica.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania proyecta elevar su gasto militar hasta los 153.000 millones de euros en 2029",
+          "que_ha_pasado": "El borrador de los presupuestos federales alemanes para el próximo ejercicio contempla un aumento drástico del gasto en defensa. Las proyecciones del Gobierno sitúan la inversión militar en cifras récord de aquí a finales de la década para contrarrestar la amenaza rusa.",
+          "por_que_importa": "Esta decisión confirma la vigencia del 'Zeitenwende' o cambio de época anunciado por Berlín tras la invasión de Ucrania. La mayor potencia económica europea busca asumir el liderazgo militar en el continente para sostener la disuasión del flanco este de la OTAN ante el hipotético replegamiento defensivo de EE. UU.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-29/alemania-avanza-en-su-objetivo-de-convertirse-en-una-gran-potencia-armamentistica-ante-la-amenaza-rusa.html"
+            }
+          ]
+        },
+        {
+          "titular": "Moscú y Pionyang consolidan su alianza logística mientras Kiev alerta sobre el envío de más tropas",
+          "que_ha_pasado": "Rusia y Corea del Norte están finalizando las obras de su primera infraestructura vial directa transfronteriza. La iniciativa coincide con las advertencias del presidente ucraniano, Volodímir Zelenski, sobre el despliegue inminente de otros 30.000 soldados norcoreanos en la línea del frente.",
+          "por_que_importa": "La construcción de la carretera formaliza la transformación de la cooperación entre el Kremlin y el régimen de Kim Jong-un de una alianza militar de conveniencia a una integración logística estructural. Esto incrementa la presión sobre el ejército ucraniano mientras Kiev presiona al Congreso estadounidense para garantizar asistencia a largo plazo.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-29/rusia-y-corea-del-norte-estrechan-su-alianza-tambien-por-carretera.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.com/news/2026/07/28/zelenskyy-washington-hill-wins-01014504?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Fractura definitiva en la derecha polaca por la escisión de Morawiecki del partido PiS",
+          "que_ha_pasado": "El expresidente del Gobierno polaco Mateusz Morawiecki ha roto de manera oficial con la formación conservadora Ley y Justicia (PiS). El exmandatario prevé estructurar una nueva fuerza política rival para disputar el liderazgo de la derecha al veterano Jarosław Kaczyński.",
+          "por_que_importa": "El cisma fractura el bloque soberanista que dominó la política polaca durante la última década y otorga un importante margen de maniobra al Gobierno proeuropeo del primer ministro Donald Tusk. La reorganización de la derecha puede alterar el equilibrio de alianzas euroescépticas en el Parlamento Europeo.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-spectacular-split-in-polands-right/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Venta masiva en los valores de IA mientras Apple se convierte en refugio de mercado",
+          "que_ha_pasado": "Las pérdidas de gigantes de los semiconductores como SK Hynix y Samsung propiciaron caídas superiores al 10% en las bolsas asiáticas. En sentido contrario, Apple alcanzó los cinco billones de dólares de capitalización al atraer capitales por su decisión de no entrar en la carrera de gasto masivo en IA.",
+          "por_que_importa": "Los mercados empiezan a penalizar el elevado volumen de capital invertido en infraestructura de IA que no se traduce en retornos financieros inmediatos. La cotización de Apple demuestra que los inversores priorizan la disciplina financiera y la rentabilidad probada frente a las valoraciones especulativas del sector de chips.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/e8e3a60a-059c-45b5-bbe3-49add14fd343?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks"
+            }
+          ]
+        },
+        {
+          "titular": "El Banco de Inglaterra auditará el apalancamiento de los 'hedge funds' expuestos a la IA",
+          "que_ha_pasado": "El regulador financiero del Reino Unido ha abierto una investigación sobre los 'prime brokers' de los bancos de inversión que operan en Londres. El objetivo es analizar el nivel de riesgo y la exposición de las carteras de fondos de alto riesgo al sector de la inteligencia artificial.",
+          "por_que_importa": "Refleja el temor supervisor a que un hipotético ajuste de valoración en las grandes tecnológicas desencadene un contagio sistémico en la banca de inversión. La autoridad crediticia busca prevenir crisis de liquidez ligadas a préstamos garantizados por acciones colaterales hipertrofiadas.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/3a99b024-c7bc-4f10-ad77-3cdfccbc39e8?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El barril de Brent escala un 4% y siembra dudas en los mercados antes de la decisión de la Fed",
+          "que_ha_pasado": "El precio del petróleo experimentó un pronunciado repunte del 4% en una sesión marcada por la volatilidad en las bolsas europeas y españolas. La subida del crudo coincide con el inicio de la reunión sobre tipos de interés de la Reserva Federal y la publicación de resultados empresariales.",
+          "por_que_importa": "El encarecimiento repentino de las materias primas energéticas complica el calendario de bajadas de tipos que esperan los analistas. Si la inflación de oferta reaparece, los bancos centrales podrían verse obligados a mantener una política monetaria restrictiva durante más tiempo del previsto.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-29/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "Ucrania altera la táctica de sus drones para golpear componentes clave del sector energético ruso",
+          "que_ha_pasado": "Las fuerzas armadas ucranianas han modificado el objetivo de su campaña de ataques lejanos contra la industria de los hidrocarburos en Rusia. El nuevo enfoque prioriza destruir maquinaria crítica difícil de reemplazar en lugar de infraestructuras generales.",
+          "por_que_importa": "Se trata de una estrategia de guerra económica orientada a paralizar instalaciones clave durante períodos prolongados para reducir los ingresos fiscales de Moscú. Al forzar la reparación continua de maquinaria compleja castigada por las sanciones occidentales, Kiev maximiza el impacto asimétrico sobre la economía de guerra rusa.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5ca782bd-5c4a-45f8-9a7a-5793d800321d?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Estados Unidos bloquea la importación de robótica avanzada y componentes extranjeros",
+          "que_ha_pasado": "La Comisión Federal de Comunicaciones (FCC) estadounidense aprobó una prohibición de entrada para robots móviles, humanoides e inversores de potencia fabricados fuera de sus fronteras. La medida tiene como objetivo explícito frenar el avance de la tecnología comercial e industrial china.",
+          "por_que_importa": "Supone un endurecimiento significativo del desacople tecnológico (*decoupling*) entre Washington y Pekín. La administración estadounidense busca evitar que la automatización de su sector productivo dependa de hardware extranjero ante posibles riesgos de espionaje o sabotaje en cadenas de suministro estratégicas.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban"
+            }
+          ]
+        },
+        {
+          "titular": "Satya Nadella supedita el éxito de la IA a un incremento tangible de la productividad global",
+          "que_ha_pasado": "El máximo ejecutivo de Microsoft reconoció públicamente que el ciclo inversor en inteligencia artificial afronta un desenlace incierto si la tecnología no genera un crecimiento económico generalizado. El directivo enfatizó la necesidad de demostrar un impacto real en las métricas del PIB.",
+          "por_que_importa": "Las palabras del CEO de una de las mayores empresas impulsoras de la IA reflejan la cautela que empieza a cundir entre los líderes del sector. El mercado exige pasar de la fase de infraestructura e innovación teórica a la integración operativa que rentabilice las multimillonarias inversiones realizadas.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/robotica-e-ia/a-que-veamos-ese-amplio-crecimiento-economico-esta-pelicula-no-va-a-terminar-bien-satya-nadella-burbuja-ia"
+            }
+          ]
+        },
+        {
+          "titular": "Cyera adquiere Oasis Security por 1.000 millones para proteger el uso corporativo de agentes de IA",
+          "que_ha_pasado": "La compañía de ciberseguridad Cyera ha cerrado la compra de Oasis Security en una operación valorada en 1.000 millones de dólares. Es la tercera transacción de la empresa este año y está orientada a gestionar la seguridad de las identidades no humanas y agentes de IA autónomos.",
+          "por_que_importa": "A medida que las empresas automatizan flujos de trabajo complejos mediante asistentes y agentes de software autónomos, la gestión de sus credenciales se convierte en una prioridad defensiva. La operación evidencia la rápida consolidación de herramientas para auditoría y control de riesgos cibernéticos en entornos corporativos.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La nueva ola de calor amenaza con reactivar los grandes incendios forestales en España",
+          "que_ha_pasado": "A pesar de que la contención de los fuegos principales permitió el regreso de miles de evacuados a sus hogares, los servicios de extinción siguen operando en focos críticos de Ávila, Castellón y Toledo. La Aemet prevé temperaturas extremas que se alargarán durante los próximos días.",
+          "por_que_importa": "El episodio expone la vulnerabilidad estructural del territorio ante olas de calor cada vez más prolongadas e intensas. Además del impacto ecológico, la repetición de estas emergencias genera un fuerte perjuicio económico en las comarcas rurales por la oleada de cancelaciones en el sector turístico y de alojamientos.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-29/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/07/28/6a690098e4d4d8923f8b45ae.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-29/aemet-temperaturas-alta-olas-de-calor-1qrt_4397517/"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/sociedad/2026/07/29/6a699c3ee5fdea410d8b45ac.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/2026-07-29/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Sevilla TechPark prepara una ampliación récord tras superar los 6.000 millones de facturación",
+          "que_ha_pasado": "El parque científico y tecnológico situado en La Cartuja ha registrado el mayor volumen de actividad económica de su historia. Las instituciones locales y autonómicas han acordado acelerar la preparación de nuevo suelo urbanizable para dar cabida a la demanda de instalación de nuevas empresas.",
+          "por_que_importa": "El crecimiento de La Cartuja consolida a la capital andaluza como uno de los polos de innovación e industria tecnológica más dinámicos del sur de Europa. Esta expansión contribuye a diversificar el tejido productivo regional, históricamente muy dependiente de los servicios y el turismo.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-07-29/sevilla-techpark-prepara-su-mayor-expansion-mientras-bate-todos-sus-records_4397161/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Kenia investiga con urgencia la muerte repentina de 14 elefantes en el sur del país",
+          "que_ha_pasado": "Las autoridades de protección medioambiental de Kenia han iniciado análisis forenses e investigaciones sobre el terreno tras hallar los cadáveres de más de una docena de paquidermos. Es el mayor episodio de mortalidad no explicada registrado en la zona en décadas.",
+          "por_que_importa": "Los científicos buscan determinar si el evento responde a un brote patógeno emergente o al consumo involuntario de toxinas agravado por la escasez de agua. La pérdida de ejemplares impacta directamente en los programas de conservación de la megafauna africana frente a las presiones del cambio climático.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "'Ensayo sobre la ceguera' cumple tres décadas como la gran alegoría política de José Saramago",
+          "que_ha_pasado": "Se cumplen treinta años de la publicación de la emblemática novela del premio Nobel portugués, concebida durante su etapa de residencia en la isla de Lanzarote.",
+          "por_que_importa": "La obra marcó el inicio del periodo más influyente de Saramago, volcado en retratar las flaquezas de la naturaleza humana y el colapso de las convenciones éticas ante situaciones de crisis colectiva. Tres décadas después, su crítica a las instituciones contemporáneas mantiene vigencia analítica.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-29/ensayo-sobre-la-ceguera-tres-decadas-del-libro-mas-incomodo-de-jose-saramago.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Paradoja de Jevons",
+    "explicacion": "Principio económico que establece que el aumento en la eficiencia con la que se utiliza un recurso tiende a incrementar, en lugar de reducir, el consumo total de dicho recurso. Esto ocurre porque las mejoras de eficiencia abaratan el coste relativo del bien o servicio, impulsando un aumento masivo en la demanda y fomentando nuevos usos que superan con creces el ahorro unitario inicial. El fenómeno pone de manifiesto que las soluciones puramente tecnológicas de eficiencia no garantizan por sí solas la reducción en el uso de insumos o la sostenibilidad ambiental.",
+    "ejemplo": "A pesar de que las nuevas generaciones de microchips reducen significativamente el consumo eléctrico por cálculo, el despliegue masivo de centros de datos para la IA ha multiplicado el consumo energético total del sector tecnológico."
+  },
+  "fecha": "2026-07-29"
+}
