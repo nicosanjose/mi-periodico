@@ -1,0 +1,263 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EEUU e Irán reanudan los ataques directos y agravan la crisis geopolítica en Oriente Próximo",
+      "resumen": "La Fuerza Aérea estadounidense ha respondido con severos bombardeos tras el lanzamiento de misiles iraníes, desbaratando la tregua e incrementando la inestabilidad en los mercados energéticos."
+    },
+    {
+      "titular": "La Reserva Federal congela los tipos de interés amenazada por las presiones inflacionistas",
+      "resumen": "El banco central estadounidense frena la flexibilización monetaria en una decisión dividida ante el encarecimiento del petróleo y la incertidumbre en las cadenas de suministro."
+    },
+    {
+      "titular": "El PIB español frena las alertas con un crecimiento del 2,7%, pero el IPC sube al 3,5%",
+      "resumen": "El buen comportamiento de la inversión y el sector servicios sostiene la expansión económica de España en el segundo trimestre, aunque la electricidad y los carburantes encarecen la cesta de la compra."
+    },
+    {
+      "titular": "Microsoft acelera el desarrollo de modelos propios de IA e intensifica la pugna con OpenAI",
+      "resumen": "El gigante informático busca reducir su dependencia estratégica lanzando soluciones internas y confirmando la llegada de una súper aplicación unificada de Copilot este mismo año."
+    },
+    {
+      "titular": "BMW anuncia hasta 8.000 despidos en Alemania arrastrada por la competencia de los fabricantes chinos",
+      "resumen": "El ajuste afectará a las áreas administrativas y de desarrollo en la matriz, reflejando la pérdida de competitividad de la industria automovilística europea frente al vehículo eléctrico asiático."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "EEUU e Irán reanudan los ataques directos en una severa escalada regional",
+          "que_ha_pasado": "Tras varios días de relativa tregua, la aviación estadounidense ha lanzado una intensa oleada de bombardeos contra objetivos de la Guardia Revolucionaria en Irán. La operación responde a los ataques sufridos por bases norteamericanas en la región y a la interceptación por parte de Jordania de cinco misiles dirigidos a su territorio.",
+          "por_que_importa": "El retorno a las hostilidades directas echa por tierra las gestiones diplomáticas para acotar el conflicto y aumenta el riesgo de involucrar activamente a otros actores como Arabia Saudí o las milicias hutíes. La inestabilidad militar en este corredor clave tensiona de inmediato las rutas marítimas del comercio global y reactiva la volatilidad del petróleo.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/jul/30/us-iran-war-live-updates-missile-strikes-attacks-iraq-egypt-middle-east-crisis-latest-news"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-30/ee-uu-cumple-la-amenaza-de-atacar-iran-en-respuesta-a-los-misiles-lanzados-contra-sus-bases-en-jordania.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.com/news/2026/07/29/us-strikes-iran-failed-troop-attack-01016715?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El balance de muertos por el devastador terremoto en Japón se eleva a treinta",
+          "que_ha_pasado": "Las autoridades japonesas han elevado a treinta el número de fallecidos a causa del potente seísmo que sacudió el país a principios de semana. Equipos de rescate formados por militares, bomberos y policías continúan rastreando entre los escombros de centros comerciales e inmuebles colapsados.",
+          "por_que_importa": "Las réplicas continuas y una intensa ola de calor están dificultando las labores de salvamento en las zonas afectadas. Además de la tragedia humana, el desastre pone a prueba la resiliencia de la infraestructura industrial japonesa y afectará de forma temporal a cadenas de producción clave en el sector papelero y comercial.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-07-30/la-cifra-de-muertos-por-el-terremoto-de-japon-asciende-a-30.html"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/jul/30/japan-earthquake-death-toll-rises"
+            }
+          ]
+        },
+        {
+          "titular": "Australia sienta a Telegram ante los tribunales por no retirar contenidos extremistas",
+          "que_ha_pasado": "El Gobierno australiano ha iniciado acciones judiciales contra la plataforma de mensajería Telegram acusándola de no haber eliminado material de propaganda terrorista de sus canales. Por su parte, la dirección de la compañía ha rechazado tajantemente las acusaciones y ha confirmado que defenderá su posición en los juzgados.",
+          "por_que_importa": "El caso sienta un precedente relevante en la batalla global de las democracias por regular el espacio digital y exigir responsabilidad penal a las redes sociales sobre el contenido que albergan. Supone un desafío directo al modelo de privacidad y mínima intervención sobre el que Telegram ha construido su arquitectura de negocio.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "La Comisión Europea perfila la estrategia del discurso de Von der Leyen",
+          "que_ha_pasado": "Los equipos de la Comisión Europea avanzan durante el receso estival en la redacción del discurso del Estado de la Unión que pronunciará Ursula von der Leyen en septiembre. La alocución marcará la hoja de ruta del Ejecutivo comunitario para el arranque del nuevo curso político en Bruselas.",
+          "por_que_importa": "Esta cita anual sirve para fijar las prioridades legislativas y presupuestarias del bloque en un contexto marcado por el estancamiento económico y la pérdida de competitividad frente a EEUU y China. Las directrices que exponga Von der Leyen dictarán las futuras reformas en autonomía industrial, defensa común y política de transición ecológica.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-race-to-save-von-der-leyens-big-speech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La Reserva Federal congela los tipos de interés ante el repunte de la inflación",
+          "que_ha_pasado": "La Reserva Federal ha optado por mantener sin cambios el precio del dinero por quinta vez consecutiva desde el pasado mes de diciembre. La votación se saldó de forma dividida dentro del comité, condicionada por el aumento imprevisto de los costes energéticos derivados de la inestabilidad en Oriente Próximo.",
+          "por_que_importa": "La decisión del banco central estadounidense evidencia que la presión inflacionaria sigue sin estar bajo control, limitando la capacidad de la entidad para relajar las condiciones crediticias. Mantener los tipos elevados durante más tiempo encarece el endeudamiento corporativo e impacta de lleno en el ritmo de crecimiento global.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/fe3fe258-62ab-4a71-8c8b-747f9559fd05?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/jul/29/federal-reserve-interest-rates"
+            }
+          ]
+        },
+        {
+          "titular": "BMW recortará 8.000 empleos en Alemania arrastrada por el avance de China",
+          "que_ha_pasado": "El grupo automovilístico BMW prevé suprimir hasta 8.000 puestos de trabajo en sus divisiones de administración y desarrollo en Alemania para reducir sus costes operativos. La compañía mantendrá intacta la plantilla destinada directamente a la producción industrial.",
+          "por_que_importa": "El anuncio pone de manifiesto las intensas dificultades que atraviesan los fabricantes europeos para competir frente a las marcas chinas en el mercado del vehículo eléctrico. La pérdida de competitividad amenaza la viabilidad del sector del automóvil, uno de los pilares fundamentales del tejido industrial del norte de Europa.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/jul/29/bmw-cut-jobs-germany-pressure-chinese-rivals"
+            }
+          ]
+        },
+        {
+          "titular": "Las bolsas chinas firman su peor mes en una década por las dudas sobre la IA",
+          "que_ha_pasado": "Los mercados bursátiles de China acumulan abultadas caídas mensuales tras una desinversión generalizada en empresas proveedoras de la cadena de valor de la inteligencia artificial. Títulos destacados del sector sufrieron desplomes de hasta el 10% en su debut en la bolsa de Hong Kong.",
+          "por_que_importa": "El repliegue de los inversores refleja la incertidumbre en torno a la rentabilidad real de las colosales inversiones dedicadas a infraestructura de datos e inteligencia artificial. Además, las restricciones comerciales impuestas por Estados Unidos continúan lastrando las valoraciones de los gigantes tecnológicos del país asiático.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5052b22e-aeca-4043-88af-dd7da3661a49?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Microsoft acelera sus propios modelos de IA y planea una súper app de Copilot",
+          "que_ha_pasado": "Microsoft ha presentado a los mercados financieros su propia oferta de modelos de inteligencia artificial para competir de forma directa con laboratorios como OpenAI y Anthropic. Paralelamente, la dirección ha confirmado que lanzará este mismo año una superaplicación que integrará todas las funciones conversacionales y de programación de Copilot.",
+          "por_que_importa": "El movimiento estratégico busca diversificar la arquitectura de productos de Microsoft para no depender en exclusiva de la tecnología de OpenAI. Al construir soluciones propietarias, la multinacional pretende controlar todo el ecosistema del software empresarial e incrementar los márgenes comerciales de su división en la nube.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed"
+            }
+          ]
+        },
+        {
+          "titular": "Meta proyecta un futuro de agentes personales y defiende su fuerte inversión en IA",
+          "que_ha_pasado": "Mark Zuckerberg ha asegurado en la junta de resultados de Meta que en cinco años la mayor parte de la población contará con un agente personal de inteligencia artificial. El directivo argumentó ante los analistas que el elevado gasto en centros de cálculo y desarrollo de hardware resultará fundamental para dominar este nuevo mercado.",
+          "por_que_importa": "Meta busca situarse como la interfaz dominante entre los usuarios e Internet mediante asistentes virtuales inteligentes. De materializarse este cambio de paradigma, la forma en que los consumidores realizan búsquedas, consumen contenidos y compran bienes modificará radicalmente la industria del marketing digital y el comercio electrónico.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents"
+            }
+          ]
+        },
+        {
+          "titular": "Qualcomm encarecerá sus procesadores móviles a partir de septiembre",
+          "que_ha_pasado": "La dirección de Qualcomm ha anunciado que aplicará un incremento general de precios en toda su gama de chips de telefonía que comenzará a regir desde el 1 de septiembre. La medida responde al encarecimiento generalizado de la cadena de componentes de alta tecnología.",
+          "por_que_importa": "Esta subida de precios se suma al encarecimiento de los módulos de memoria y otros insumos esenciales para la fabricación de hardware. En la práctica, el ajuste tensionará los márgenes de los fabricantes de teléfonos móviles, que terminarán trasladando la subida al consumidor final en las próximas generaciones de smartphones.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/972894/qualcomm-price-hikes-q2-2026-earnings"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El PIB mantiene un ritmo firme del 2,7% interanual pero la inflación se eleva al 3,5%",
+          "que_ha_pasado": "La economía española aceleró su crecimiento al 0,7% trimestral entre abril y junio, elevando el avance interanual al 2,7% gracias al empuje de la inversión y los servicios. Sin embargo, los datos adelantados del IPC revelan que la inflación repuntó hasta el 3,5% en julio impulsada por el coste de la electricidad y los carburantes.",
+          "por_que_importa": "Los indicadores confirman el dinamismo de la actividad en España frente a la atonía de las grandes potencias europeas. No obstante, la persistencia de la inflación subyacente en el 3% mella el poder adquisitivo de las familias y añade presión a los costes laborales en la segunda mitad del ejercicio.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/economia/2026-07-30/la-inflacion-repunta-hasta-el-35-en-julio-por-los-combustibles-y-la-electricidad.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-07-30/la-inflacion-repunta-hasta-el-35-en-julio-por-los-combustibles-y-la-electricidad.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los incendios estivales obligan a evacuar varios municipios en Zamora y Castellón",
+          "que_ha_pasado": "Las brigadas de extinción luchan contra el avance de las llamas en los incendios activos de La Vall d'Uixó en Castellón y Fermoselle en Zamora, donde el fuego ha forzado el desalojo de dos localidades. En Madrid y Ávila la situación evoluciona favorablemente tras estabilizarse el incendio de la Sierra Oeste.",
+          "por_que_importa": "La concurrencia de fuegos de alta intensidad pone de relieve la vulnerabilidad del territorio rural ante periodos prolongados de sequía y calor extremo. La gestión forestal y la falta de fijación de población en el entorno agrario se consolidan como retos prioritarios de seguridad pública para las administraciones regionales.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-07-30/ultima-hora-de-los-incendios-forestales-en-directo.html"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/sociedad/2026/07/30/6a6af27d468aebae048b4574.html"
+            }
+          ]
+        },
+        {
+          "titular": "La AEMET prevé el fin del episodio de temperaturas extremas para principios de semana",
+          "que_ha_pasado": "La Agencia Estatal de Meteorología ha advertido de que la intensa ola de calor continuará afectando a gran parte de la Península durante los próximos días. Sin embargo, las predicciones apuntan a una paulatina bajada de las temperaturas y a la entrada de tormentas a partir del próximo lunes.",
+          "por_que_importa": "La persistencia de temperaturas anómalamente altas eleva el riesgo de contingencias sanitarias y dispara el consumo de electricidad debido a la climatización. La esperada tregua atmosférica dará un respiro a los embalses y facilitará las tareas de prevención del operativo de incendios.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-07-30/aemet-refrescar-ola-calor-posible-tormenta-1qrt_4398164/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Kanye West reúne a 65.000 personas en Madrid envuelto en la polémica",
+          "que_ha_pasado": "El rapero estadounidense ha actuado en Madrid ante decenas de miles de asistentes en una de sus escasas fechas confirmadas en suelo europeo. El concierto se ha celebrado tras la cancelación de múltiples citas en el continente debido a las declaraciones del artista en las que hacía apología del nazismo.",
+          "por_que_importa": "El evento reabre el debate sobre la separación entre el mérito artístico y la responsabilidad pública de las figuras mediáticas. Asimismo, muestra la capacidad de las grandes estrellas para sortear los vetos institucionales gracias al respaldo masivo e incondicional de su audiencia.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-30/elogios-al-nazismo-conciertos-cancelados-y-disculpas-el-polemico-universo-de-kanye-west-aterriza-en-madrid.html"
+            }
+          ]
+        },
+        {
+          "titular": "Haworth acoge la peregrinación roja anual en homenaje a Kate Bush y las Brontë",
+          "que_ha_pasado": "Cientos de mujeres vestidas con túnicas rojas se han congregado en la localidad británica de Haworth para recrear el famoso baile de la canción 'Wuthering Heights'. La reunión celebra la conexión cultural entre el clásico literario de las hermanas Brontë y la mítica adaptación musical de la cantante inglesa.",
+          "por_que_importa": "El festejo subraya el impacto enduring de la literatura decimonónica en el imaginario colectivo y la cultura pop contemporánea. Este tipo de turismo temático se ha consolidado como un factor dinamizador clave para la preservación del patrimonio histórico y geográfico de la región.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-07-30/un-mar-de-rojo-en-haworth-para-celebrar-el-dia-de-cumbres-borrascosas.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Dominancia fiscal (Fiscal dominance)",
+    "explicacion": "La dominancia fiscal es una situación macroeconómica en la que la política monetaria del banco central queda supeditada al volumen de deuda pública del Gobierno. Se produce cuando el endeudamiento estatal es tan elevado que un incremento de los tipos de interés para controlar la inflación dispararía la factura de intereses del Tesoro, arriesgándose a provocar la insolvencia del Estado o una crisis financiera. Como consecuencia, la autoridad monetaria se ve obligada a tolerar tasas de inflación más altas de las deseadas para evitar la quiebra fiscal.",
+    "ejemplo": "Las divisiones en el seno de la Reserva Federal ante la dificultad de endurecer el precio del dinero ilustran el temor de los mercados a que la abultada deuda pública estadounidense condicione las futuras decisiones monetarias."
+  },
+  "fecha": "2026-07-30"
+}
