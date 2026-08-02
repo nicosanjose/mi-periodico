@@ -1,0 +1,266 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Estados Unidos desescala la tensión con Irán tras anunciar avances diplomáticos",
+      "resumen": "Washington suspende los ataques planeados tras alegar que Teherán ha aceptado garantizar la navegación libre en el estrecho de Ormuz y poner fin a su programa nuclear."
+    },
+    {
+      "titular": "Veintidós socios de la UE presionan a España por el repunte migratorio en Ceuta",
+      "resumen": "Los ministros de Interior de la Unión debatirán de urgencia la crisis mientras varios países europeos acusan a Madrid de generar un efecto llamada."
+    },
+    {
+      "titular": "Resultados bancarios de récord llevan al Ibex-35 a máximos históricos",
+      "resumen": "La fortaleza de las cuentas trimestrales del sector financiero compensa las dudas macroeconómicas europeas e impulsa a la bolsa española."
+    },
+    {
+      "titular": "Estados Unidos arranca la precampaña de unas legislativas decisivas para el Congreso",
+      "resumen": "A tres meses de las elecciones de medio mandato, las encuestas proyectan un probable vuelco demócrata en la Cámara de Representantes y una pugna ajustada en el Senado."
+    },
+    {
+      "titular": "Un juez estadounidense frena a xAI en su ofensiva contra la regulación del ultrafalso explícito",
+      "resumen": "La justicia de Minnesota mantiene la prohibición de las aplicaciones para generar desnudos mediante inteligencia artificial pese al recurso de la empresa de Elon Musk."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Trump paraliza las incursiones militares contra Irán al aducir un principio de acuerdo",
+          "que_ha_pasado": "El presidente de Estados Unidos ha anunciado la cancelación de los bombardeos previstos contra territorio iraní tras asegurar que se han fijado los marcos de un pacto. Según la administración estadounidense, el compromiso implicaría la reapertura inmediata del estrecho de Ormuz y el cese de la amenaza nuclear de Teherán.",
+          "por_que_importa": "El estrecho de Ormuz es el principal cuello de botella energético global, por donde transita cerca del 20% del petróleo mundial. Una distensión verificable mitiga el riesgo de una escalada militar directa entre Washington y Teherán que habría disparado los precios de las materias primas y desestabilizado las cadenas de suministro energéticas.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/08/02/6a6ed77cfdddffca358b458b.html"
+            }
+          ]
+        },
+        {
+          "titular": "La gestión migratoria en Ceuta provoca un cisma diplomático entre España y la UE",
+          "que_ha_pasado": "Un grupo de 22 Estados miembros de la Unión Europea ha convocado una reunión extraordinaria para señalar las políticas de regularización del Gobierno español como un factor de atracción migratoria. La Moncloa ha respondido tachando de insolidarias e ilegales las posturas de sus socios comunitarios ante el incremento de llegadas desde Marruecos.",
+          "por_que_importa": "El cruce de acusaciones refleja el estancamiento estructural del Pacto Europeo sobre Migración y Asilo. En un contexto donde la instrumentalización de los flujos migratorios se utiliza como herramienta de presión geopolítica, la falta de cohesión interna en la UE debilita la posición negociadora del bloque frente a los países de tránsito del norte de África.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/ceuta-crisis-22-eu-leaders-letter-spain-pedro-sanchez-migration-policy/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/08/01/6a6dfe86468aeb73518b4578.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/08/02/6a6e3024fc6c83e22a8b4597.html"
+            }
+          ]
+        },
+        {
+          "titular": "EE. UU. entra en dinámica de 'midterms' con un Congreso altamente polarizado",
+          "que_ha_pasado": "A noventa días de las elecciones de medio mandato, los partidos estadounidenses aceleran sus campañas. Los sondeos sitúan al Partido Demócrata cerca de arrebatar el control de la Cámara de Representantes a los republicanos, aunque la contienda por conservar o ganar la mayoría en el Senado se mantiene ajustada.",
+          "por_que_importa": "El resultado de las legislativas determinará el margen de maniobra legislativo del Ejecutivo estadounidense en los dos últimos años de mandato. Un Congreso dividido dificulta la aprobación de presupuestos clave, condiciona el envío de fondos para ayuda exterior y somete la política comercial e industrial a una mayor fiscalización partidista.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-02/estados-unidos-activa-el-modo-electoral-a-tres-meses-de-las-midterms.html"
+            }
+          ]
+        },
+        {
+          "titular": "La Unión Europea debate un rediseño del euro centrado en la identidad comunitaria",
+          "que_ha_pasado": "El Banco Central Europeo avanza en la selección de los diseños para la nueva serie de billetes de euro, evaluando propuestas que van desde figuras históricas europeas hasta conceptos arquitectónicos abstractos. Entre los diez proyectos finalistas figura un estudio español centrado en el desgaste del papel moneda en circulación.",
+          "por_que_importa": "A diferencia del diseño original de los billetes, que evitaba conscientemente referencias nacionales para evitar fricciones, el rediseño busca consolidar la identidad geopolítica europea en un momento de fragmentación interna. La divisa única se reconfigura no solo como instrumento monetario, sino como vehículo de proyección de valores comunitarios.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/aug/02/european-central-bank-notes-new-design"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-02/el-secreto-escondido-en-el-diseno-g-la-propuesta-espanola-para-los-nuevos-billetes-de-euro.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Los beneficios del sector bancario impulsan al Ibex-35 a máximos anuales",
+          "que_ha_pasado": "La presentación de resultados financieros récord por parte de las principales entidades bancarias cotizadas ha arrastrado al alza al selectivo español. El empuje del sector financiero compensa las dudas sobre el crecimiento de las grandes economías del euro.",
+          "por_que_importa": "El sesgo bancario del Ibex-35 convierte a la bolsa española en un indicador altamente sensible a las variaciones en la rentabilidad del crédito. Con unos tipos de interés que se mantienen elevados, las entidades han ampliado sus márgenes de intermediación, aunque los analistas vigilan un posible repunte diferido de la morosidad.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-08-02/beneficios-record-de-la-banca-y-un-golpe-de-suerte-para-el-ibex.html"
+            }
+          ]
+        },
+        {
+          "titular": "La reestructuración del motor alemán genera un excedente de mandos intermedios",
+          "que_ha_pasado": "Grandes fabricantes de la industria automotriz germana, como Volkswagen, han acudido a firmas de cazatalentos para recolocar a cientos de directivos tras aplicar severos recortes de plantilla. La medida responde al ajuste de costes operativos impulsado por la transición hacia el vehículo eléctrico.",
+          "por_que_importa": "El sector del automóvil es el motor industrial de Alemania y un pilar clave para la economía de la zona euro. Las tensiones financieras provocadas por la competencia de fabricantes asiáticos y los altos costes de la reconversión tecnológica están obligando a reestructuraciones profundas que afectan a la clase directiva, un claro síntoma de pérdida de competitividad.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Temu niega irregularidades mientras la Comisión Europea evalúa sus subsidios",
+          "que_ha_pasado": "La plataforma de comercio electrónico de origen chino Temu sostiene que ha colaborado íntegramente con las solicitudes de información emitidas por Bruselas. La Comisión Europea mantiene abierta una investigación para constatar si la empresa ha recibido subvenciones estatales distorsionadoras de la competencia en el mercado único.",
+          "por_que_importa": "Bruselas está aplicando con firmeza el Reglamento sobre Subvenciones Extranjeras para evitar que plataformas respaldadas por capital público externo desplacen al comercio minorista comunitario. El caso ilustra el giro de la política comercial europea hacia una defensa más estricta de la neutralidad competitiva.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/distribucion/2026/08/01/6a6e292fe5fdea47748b4592.html"
+            }
+          ]
+        },
+        {
+          "titular": "La previsión privada de jubilación se debilita tras seis años de desinversión neta",
+          "que_ha_pasado": "Los planes de pensiones individuales en España acumulan seis ejercicios consecutivos registrando más salidas que entradas de capital. Los analistas advierten de que esta tendencia erosiona la capacidad de ahorro a largo plazo de las familias.",
+          "por_que_importa": "En un escenario de presión demográfica sobre el sistema público de pensiones de reparto, la falta de incentivos o de liquidez para sostener el ahorro privado complementario supone un riesgo macroeconómico futuro. Sin una tasa de sustitución suficiente vía fondos complementarios, el poder adquisitivo de los futuros jubilados recaerá íntegramente sobre el presupuesto público.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-08-02/las-claves-el-sistema-publico-necesita-un-complemento-privado-que-funcione.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "La justicia de Minnesota tumba el recurso de xAI contra la prohibición del 'nudify'",
+          "que_ha_pasado": "Un tribunal federal ha desestimado la solicitud de xAI para frenar cautelarmente la legislación de Minnesota que penaliza las aplicaciones destinadas a generar desnudeces mediante algoritmos. La decisión judicial permite que la prohibición de estas herramientas se aplique sin interrupción.",
+          "por_que_importa": "La resolución judicial sienta un precedente sobre los límites entre la libertad de desarrollo tecnológico y la responsabilidad legal por la generación de contenidos explícitos no consentidos. A medida que las herramientas de IA generativa se popularizan, los marcos estatales en EE. UU. buscan llenar el vacío regulatorio ante la inacción del Congreso federal.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+            }
+          ]
+        },
+        {
+          "titular": "La sospecha de uso masivo de IA en la lista Billboard reaviva el debate musical",
+          "que_ha_pasado": "El ascenso en el top 60 de la lista estadounidense de un sencillo musical ha desatado suspicacias sobre el uso no declarado de inteligencia artificial generativa en su producción. La controversia ha generado incertidumbre entre críticos y sellos discográficos sobre la verificación de la autoria humana.",
+          "por_que_importa": "El avance de los modelos de síntesis de voz e instrumentalización plantea un desafío directo a los derechos de propiedad intelectual y a los modelos de monetización de la industria del entretenimiento. La proliferación de producciones sintéticas amenaza con saturar los canales de distribución tradicionales y fuerza a las plataformas a revisar sus métricas de monetización.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop"
+            }
+          ]
+        },
+        {
+          "titular": "Se encarece la nueva generación de dispositivos móviles de Google",
+          "que_ha_pasado": "Varias filtraciones previas al evento de presentación del Pixel 11 confirman un incremento generalizado de precios en toda la gama, acompañado de una configuración mínima de memoria más elevada. Los datos coinciden con la tendencia del sector de trasladar los costes de los semiconductores avanzados al consumidor.",
+          "por_que_importa": "El encarecimiento de los teléfonos inteligentes refleja la presión inflacionaria en la cadena de componentes de microelectrónica y la necesidad de integrar procesadores dedicados al procesamiento de IA en el dispositivo. Este movimiento busca rentabilizar las fuertes inversiones en hardware capaz de ejecutar modelos de lenguaje locales.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/974238/pixel-11-specs-and-price-leak"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Dos ciudadanos españoles fallecen en un accidente aéreo en el sur de Perú",
+          "que_ha_pasado": "Una avioneta turística se estrelló en la zona de las Líneas de Nazca causando la muerte de trece personas, entre ellas el piloto, la guía y once visitantes extranjeros de nacionalidades española, italiana y alemana. Las autoridades aeronáuticas peruanas han iniciado una investigación sobre las causas de la caída.",
+          "por_que_importa": "El siniestro vuelve a poner el foco en la seguridad operacional de los vuelos turísticos sobre los geoglifos de Nazca, un espacio que ha registrado diversos incidentes graves en la última década. El Ministerio de Asuntos Exteriores ha activado los protocolos de asistencia consular para la repatriación de las víctimas.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/america/2026-08-01/al-menos-13-turistas-mueren-en-un-accidente-de-avioneta-sobre-las-lineas-de-nazca-en-peru.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/america/2026-08-01/al-menos-13-turistas-mueren-en-un-accidente-de-avioneta-sobre-las-lineas-de-nazca-en-peru.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/08/01/6a6e5b1ce9cf4a04698b45bc.html"
+            }
+          ]
+        },
+        {
+          "titular": "Sectores del independentismo cuestionan la utilidad política de la amnistía",
+          "que_ha_pasado": "Representantes de facciones independentistas han manifestado públicamente su rechazo a los efectos de la Ley de Amnistía, sosteniendo que la medida de gracia solo ha servido para consolidar la gobernabilidad del Ejecutivo central sin avanzar en la autodeterminación.",
+          "por_que_importa": "Las dinámicas internas del independentismo catalán muestran una fragmentación creciente entre las fuerzas pragmáticas que negociaron la norma y los sectores unilaterales. Esta división erosiona la estabilidad del bloque parlamentario que sostiene al Gobierno en el Congreso de los Diputados.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-02/amnistiado-reniega-perdon-mantener-sanchez-moncloa_4397945/"
+            }
+          ]
+        },
+        {
+          "titular": "El uso del indulto entra en el debate político a la luz del registro histórico",
+          "que_ha_pasado": "Un repaso a los datos de la democracia revela la concesión de más de 16.000 indultos desde 1978, la mayoría vinculados a delitos contra el patrimonio. La reciente tramitación de expedientes de perfil alto ha reabierto el debate jurídico sobre el alcance de esta prerrogativa del Poder Ejecutivo.",
+          "por_que_importa": "El uso de medidas discrecionales por parte del Gobierno tensiona periódicamente el principio de separación de poderes y genera fricciones entre el poder político y el judicial. Aunque las concesiones han disminuido significativamente en los últimos mandatos en términos absolutos, el escrutinio público sobre su uso en delitos socioeconómicos o políticos es cada vez más estricto.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-08-02/40-anos-indultos-espana_4399230/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Amnesia Ibiza cumple 50 años desde su origen como proyecto filosófico",
+          "que_ha_pasado": "La mítica discoteca ibicenca celebra medio siglo desde que el filósofo Antonio Escohotado abriera el local bajo el nombre de 'Taller del Olvido'. Lo que comenzó como un espacio contracultural terminó convirtiéndose en un referente global de la música electrónica.",
+          "por_que_importa": "El desarrollo de Amnesia sintetiza la evolución de Ibiza desde un refugio insular de la contracultura europea de los años setenta hacia una industria de ocio y turismo de alto impacto económico. El fenómeno transformó la cultura nocturna global y asentó las bases de la industria internacional del 'clubbing'.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-02/medio-siglo-de-amnesia-la-discoteca-de-ibiza-que-creo-un-filosofo-para-olvidarse-de-todo-y-cambio-la-historia-de-la-musica-electronica.html"
+            }
+          ]
+        },
+        {
+          "titular": "El cine francés revisita la figura de Charles de Gaulle en plena crisis política",
+          "que_ha_pasado": "El estreno de un díptico cinematográfico dirigido por Antonin Baudry explora los años formativos y de resistencia del general De Gaulle. La producción aborda la visión estratégica del líder galo ante las fracturas institucionales de la posguerra.",
+          "por_que_importa": "El recurso a la memoria histórica de la V República cobra relevancia en una Francia atravesada por la polarización y la inestabilidad parlamentaria. La figura de De Gaulle sigue sirviendo como piedra de toque en el debate sobre el presidencialismo, la soberanía nacional y el papel de Francia en la arquitectura de seguridad comunitaria.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-02/momento-de-gaulle-el-lider-de-la-resistencia-conquista-la-pantalla-en-una-francia-polarizada.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Guerra híbrida",
+    "explicacion": "Estrategia militar y geopolítica que combina el empleo de medios convencionales con tácticas no convencionales para desestabilizar a un Estado adversario sin rebasar el umbral de una guerra abierta. Incluye ciberataques, campañas de desinformación, presiones económicas y la instrumentalización deliberada de flujos migratorios para generar crispación social y fragmentación política en el objetivo. Su fin es explotar las vulnerabilidades internas y entorpecer los mecanismos de toma de decisiones del rival, dificultando una respuesta militar coordinada al amparo del derecho internacional.",
+    "ejemplo": "La saturación intencionada de la frontera en Ceuta o la presión migratoria ejercida en las fronteras orientales de la UE por Bielorrusia para forzar concesiones políticas de Bruselas."
+  },
+  "fecha": "2026-08-02"
+}
