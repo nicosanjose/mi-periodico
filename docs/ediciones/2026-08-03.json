@@ -1,0 +1,243 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EE.UU. y Japón acuerdan una intervención conjunta inédita para estabilizar el yen",
+      "resumen": "Ambos países intervienen coordinadamente en el mercado cambiario para frenar la acusada depreciación de la divisa japonesa y enviar un mensaje de firmeza a los mercados."
+    },
+    {
+      "titular": "AstraZeneca negocia la absorción de Bristol Myers para crear un gigante de 400.000 millones",
+      "resumen": "La operación se convertiría en una de las mayores fusiones de la historia del sector farmacéutico, destinada a diversificar carteras ante el fin de validez de patentes clave."
+    },
+    {
+      "titular": "La crisis migratoria de Ceuta reabre las divisiones sobre la política fronteriza europea",
+      "resumen": "La llegada de más de 50.000 migrantes a la ciudad autónoma fuerza negociaciones de urgencia en la UE y pone en duda la viabilidad de los modelos de externalización."
+    },
+    {
+      "titular": "El Ibex alcanza máximos tras la caída del barril de petróleo por la distensión entre EE.UU. e Irán",
+      "resumen": "La decisión de Washington de posponer sus represalias militares aplaca el encarecimiento energético y reactiva el apetito por el riesgo en la renta variable."
+    },
+    {
+      "titular": "Las firmas estadounidenses de defensa se alían con Indra y Sener para competir en suelo europeo",
+      "resumen": "Gigantes como Lockheed Martin buscan socios en la industria española para no perder posición en los grandes contratos militares que financia la Comisión Europea."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Tensión diplomática en la UE por la gestión migratoria tras la llegada masiva de migrantes a Ceuta",
+          "que_ha_pasado": "La llegada masiva de migrantes a la ciudad autónoma de Ceuta ha forzado la convocatoria urgente de conversaciones en la Unión Europea para coordinar la respuesta comunitaria. Varios líderes europeos han cuestionado abiertamente las políticas migratorias del Gobierno español, mientras se constata el escaso rendimiento de infraestructuras externas de contención como los centros italianos en Albania.",
+          "por_que_importa": "El episodio expone la fragilidad del nuevo Pacto de Asilo comunitario y pone de manifiesto la ineficacia de externalizar el control fronterizo a terceros países. Para España, el pico de presión migratoria subraya su vulnerabilidad como frontera exterior de la UE y tensiona las relaciones políticas tanto con sus socios europeos como con los países emisores y de tránsito.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-03/el-centro-de-deportacion-de-migrantes-de-italia-en-albania-sigue-casi-vacio-por-segundo-ano-consecutivo.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/ceuta-triggers-two-days-of-eu-emergency-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Estados Unidos y Japón pactan una intervención cambiaria conjunta para respaldar al yen",
+          "que_ha_pasado": "Las autoridades financieras de Washington y Tokio han llevado a cabo una acción combinada poco frecuente en los mercados internacionales para contener la depreciación sistemática del yen. Ambos ejecutivos han advertido de que no dudarán en aplicar nuevas maniobras coordinadas si persiste la especulación cambiaria.",
+          "por_que_importa": "Una intervención directa y bilateral por parte del Tesoro estadounidense es un acontecimiento excepcional que refleja el temor a una desestabilización financiera global si el yen se desploma más. Asimismo, demuestra la prioridad estratégica que Washington concede a la estabilidad económica de Japón como socio geopolítico clave en la región de Asia-Pacífico.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El devastador incendio de Gironda obliga a replantear la respuesta europea frente al cambio climático",
+          "que_ha_pasado": "El mayor incendio forestal registrado en el suroeste de Francia desde la Segunda Guerra Mundial ha dejado más de 200.000 evacuados tras diez días de propagación. La magnitud de las llamas obligó a activar mecanismos de solidaridad internacional para evitar una catástrofe de mayores proporciones.",
+          "por_que_importa": "La gravedad del suceso reabre el debate sobre la falta de preparación de las infraestructuras europeas ante la multiplicación de eventos meteorológicos extremos. La necesidad de ayuda transfronteriza presiona a la Unión Europea para fortalecer los recursos comunes de protección civil y acelerar las políticas de adaptación local.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-03/gironda-el-incendio-que-desbordo-a-francia-sin-la-solidaridad-internacional-habria-sido-dramatico.html"
+            }
+          ]
+        },
+        {
+          "titular": "El endurecimiento de la justicia penal juvenil gana terreno político a escala global",
+          "que_ha_pasado": "Partidos y movimientos de extrema derecha en diversas regiones del mundo impulsan iniciativas legislativas para reducir la edad de responsabilidad penal y endurecer las condenas a adolescentes. Las propuestas avanzan a pesar de la firme oposición de juristas, sociólogos y organismos dedicados a la protección de los derechos de la infancia.",
+          "por_que_importa": "El fenómeno refleja la instrumentalización de la percepción de inseguridad ciudadana en los debates electorales contemporáneos. Desde la perspectiva del derecho comparado, esta tendencia amenaza con desmantelar el paradigma reinsertador de la justicia penal juvenil para sustituirlo por modelos puramente punitivos.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-03/menores-ante-un-juez-la-ultraderecha-impulsa-el-endurecimiento-de-la-justicia-juvenil.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "AstraZeneca y Bristol Myers exploran una fusión histórica de casi 400.000 millones de dólares",
+          "que_ha_pasado": "La farmacéutica británica AstraZeneca mantiene conversaciones avanzadas para la adquisición de la estadounidense Bristol Myers Squibb. La fusión daría lugar al cuarto mayor grupo farmacéutico del mundo y se convertiría en una de las operaciones corporativas más abultadas de la historia del sector.",
+          "por_que_importa": "Las grandes multinacionales del sector buscan escala para afrontar el denominado 'abismo de patentes', en el que varios fármacos superventas perderán la protección de exclusividad esta década. Una consolidación de este calibre redefiniría el mercado global de la oncología y estimularía nuevas fusiones entre sus competidores.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-08-03/astrazeneca-negocia-con-bristol-myers-squibb-una-megafusion-farmaceutica-de-350000-millones-segun-el-diario-ft.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Ibex marca nuevos récords ante la caída del crudo tras la distensión entre EE.UU. e Irán",
+          "que_ha_pasado": "Las bolsas europeas han reaccionado con notables subidas al enfriamiento de las tensiones bélicas en Oriente Medio, llevando al Ibex 35 a tocar máximos históricos. La decisión de Estados Unidos de cancelar sus ataques sobre territorio iraní provocó una corrección cercana al 6% en el precio del barril de petróleo Brent.",
+          "por_que_importa": "La moderación de las cotizaciones del crudo alivia la presión sobre la inflación energética global y otorga margen a los bancos centrales para continuar con la bajada de tipos de interés. Para los mercados de valores, la reducción del riesgo geopolítico en la región reactiva el apetito inversor por activos de renta variable.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/03/6a702b8f468aeb73518b4597.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-03/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "EasyJet insta a los fondos Apollo y Castlelake a formalizar sus ofertas de compra",
+          "que_ha_pasado": "La aerolínea de bajo coste EasyJet ha fijado el plazo límite para que los fondos de capital privado interesados en su control presenten sus OPAs competitivas. La propuesta liderada por Apollo, que valora la acción en 7,15 libras, se sitúa de momento como la opción prioritaria sobre la mesa.",
+          "por_que_importa": "La batalla por el control de la compañía refleja el atractivo del sector aéreo europeo para el capital riesgo en un contexto de recuperación del tráfico masivo y consolida las previsiones de privatización en la aviación comercial. El resultado de la puja reconfigurará el peso competitivo de las marcas 'low cost' en el continente.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-08-03/easyjet-llama-a-apollo-y-castlelake-a-presenter-sus-opas-competidoras-este-viernes.html"
+            }
+          ]
+        },
+        {
+          "titular": "España bate su récord de turistas extranjeros y gasto en el primer semestre de 2026",
+          "que_ha_pasado": "España recibió 46,56 millones de turistas internacionales en los primeros seis meses del año, lo que supone un incremento del 4,6% en comparación con el ejercicio anterior. El gasto total de los visitantes creció un 7% hasta rozar los 64.000 millones de euros, marcando un nuevo máximo histórico.",
+          "por_que_importa": "El sector turístico se reafirma como el gran motor tractor de la economía española, mostrando resistencia frente a la desaceleración del consumo en otros países europeos. Sin embargo, el continuo incremento del volumen de visitantes reaviva la discusión pública sobre la capacidad de gestión de los destinos tensionados y la sostenibilidad ambiental del modelo.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/08/03/6a704243468aeb407f8b456e.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "OpenAI diseña 'Astra', un modelo de IA enfocado en la resolución de matemáticas complejas",
+          "que_ha_pasado": "La tecnológica OpenAI ha completado el desarrollo de 'Astra', un modelo de inteligencia artificial especialmente concebido para afrontar razonamientos analíticos y problemas matemáticos de alto nivel. Diversos analistas señalan que este avance representa un hito comparable al momento en que las máquinas superaron al ser humano en el ajedrez.",
+          "por_que_importa": "Superar la barrera de la lógica formal y el razonamiento sistemático permite pasar de modelos puramente generativos de texto a sistemas capaces de validar descubrimientos científicos e ingeniería avanzada. Este salto resulta crucial para la automatización en campos como la criptografía, la física teórica y el desarrollo de nuevos materiales.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/robotica-e-ia/openai-tiene-listo-astra-prometedor-modelo-ia-que-apunta-a-algo-inquietante-momento-deep-blue-matematicas"
+            }
+          ]
+        },
+        {
+          "titular": "Sam Altman propone moderar la velocidad del desarrollo tecnológico en la industria de la IA",
+          "que_ha_pasado": "El consejero delegado de OpenAI ha instado a las principales empresas del sector a pautar de forma más gradual el ritmo de lanzamiento de nuevos sistemas de inteligencia artificial. Altman defiende que una desaceleración táctica permitiría evaluar mejor el impacto social y garantizar la seguridad del despliegue.",
+          "por_que_importa": "El planteamiento evidencia las discrepancias internas de las grandes firmas entre la carrera por la dominancia del mercado y la creciente supervisión regulatoria global. Asimismo, responde a las tensiones técnicas reales que afronta el sector debido al elevado consumo de energía y la saturación de los centros de procesamiento de datos.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/"
+            }
+          ]
+        },
+        {
+          "titular": "La escasez mundial de componentes de memoria comienza a impactar en la producción de portátiles",
+          "que_ha_pasado": "El desabastecimiento internacional de chips de memoria ha empezado a limitar la disponibilidad comercial de ordenadores personales de gran volumen de ventas, como el MacBook Air de Apple. El déficit de semiconductores se ha acentuado debido a la fuerte demanda proveniente de otras industrias de alto rendimiento.",
+          "por_que_importa": "Muestra cómo la masiva construcción de infraestructura orientada a la inteligencia artificial está acaparando la capacidad de fabricación de componentes clave, desplazando a la electrónica de consumo. La rigidez de la cadena de suministro amenaza con encarecer la producción de hardware convencional en los próximos meses.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Los gigantes estadounidenses de defensa se alían con socios españoles para asegurar mercado en Europa",
+          "que_ha_pasado": "Empresas como Lockheed Martin o RTX están cerrando alianzas de cooperación industrial con grupos españoles como Indra, Oesia y Sener. La estrategia busca situar a las contratistas norteamericanas en posición de competir en los proyectos de compras estratégicas del espacio comunitario.",
+          "por_que_importa": "Ante el compromiso de la Unión Europea de priorizar la autonomía estratégica y otorgar contratos a consorcios continentales, la industria estadounidense requiere alianzas locales para mantener cuota de mercado. Para el sector industrial español, representa una oportunidad de captar transferencias de tecnología militar y consolidar empleo cualificado.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/empresas/2026/08/02/6a6b86a5e85ecea65e8b4590.html"
+            }
+          ]
+        },
+        {
+          "titular": "El modelo de consumo minorista basado en excedentes de stock gana cuota en España",
+          "que_ha_pasado": "Cadenas de descuento especializado de primeras marcas como Primaprix, Sqrups o Action registran un fuerte crecimiento en el mercado nacional, sumando más de cinco millones de hogares compradores. Su modelo de negocio se basa en la adquisición de excedentes de producción para venderlos por debajo del precio habitual de mercado.",
+          "por_que_importa": "El auge de este tipo de establecimientos refleja los ajustes en los hábitos de consumo de las familias para amortiguar el impacto acumulado de la inflación en la cesta de la compra. Al mismo tiempo, demuestra la consolidación de canales secundarios de distribución para gestionar excesos de inventario en la cadena de suministro alimentaria y de consumo masivo.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/empresas/2026/08/03/6a6b715efdddff5a2e8b457b.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Un conjunto documental inédito saca a la luz la historia de los trabajadores del Palacio Real",
+          "que_ha_pasado": "La investigación de archivos y planos conservados ha permitido reconstruir las condiciones de vida y el trabajo cotidiano del personal de servicio del Palacio Real de Madrid desde el siglo XVIII hasta finales del franquismo. Los documentos recogen desde solicitudes de alojamiento hasta detalles sobre la organización interna de la servidumbre.",
+          "por_que_importa": "El estudio aporta una perspectiva historiográfica innovadora al desplazar el foco desde las élites dinásticas hacia los grupos sociales subalternos que posibilitaron la operativa diaria del recinto palaciego. Permite analizar la evolución de las estructuras de empleo doméstico institucional a lo largo de tres siglos.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-03/la-desconocida-vida-de-los-trabajadores-que-habitaban-el-palacio-real-suplico-se-me-conceda-el-cuarto-que-ha-dejado-la-doncella-antonia.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Albertina Modern contrapone la estética urbana de KAWS con los grandes nombres del arte contemporáneo",
+          "que_ha_pasado": "El museo vienés Albertina Modern expone las creaciones del creador estadounidense KAWS en diálogo directo con obras de maestros consagrados de la segunda mitad del siglo XX. La muestra propone situar el lenguaje del cómic y del diseño comercial a la misma altura analítica que las vanguardias tradicionales.",
+          "por_que_importa": "La exposición reabre el debate institucional sobre los límites entre la alta cultura y el arte comercial o popular. Al legitimar formalmente el lenguaje del arte urbano en espacios museísticos de primer orden, se consolida la hibridación de disciplinas creativas como rasgo definitorio del mercado del arte actual.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-03/kaws-el-heredero-espiritual-de-keith-haring-y-andy-warhol-tiende-puentes-entre-el-arte-mundano-y-el-elevado-en-el-albertina-modern.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Intervención cambiaria coordinada",
+    "explicacion": "Acción concertada mediante la cual dos o más bancos centrales o tesoros nacionales operan simultáneamente en los mercados de divisas comprando o vendiendo monedas para influir en su tipo de cambio. Esta herramienta de política monetaria y geoeconómica se emplea de forma excepcional cuando la volatilidad o la depreciación extrema de una divisa amenaza la estabilidad financiera o el equilibrio comercial global. La acción conjunta busca maximizar el impacto sobre el mercado y transmitir una señal política inequívoca a los agentes económicos.",
+    "ejemplo": "El acuerdo entre el Departamento del Tesoro de EE.UU. y el Ministerio de Finanzas de Japón para intervenir conjuntamente en los mercados financieros y frenar la abrupta caída del yen frente al dólar."
+  },
+  "fecha": "2026-08-03"
+}
