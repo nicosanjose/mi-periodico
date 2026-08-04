@@ -1,0 +1,262 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EE. UU. e Irán abren una última ventana negociadora tras frenar los ataques",
+      "resumen": "Washington frena sus bombardeos previstos sobre Irán a cambio de conversaciones de última hora, provocando una drástica caída del precio del petróleo y alivio temporal en las bolsas europeas."
+    },
+    {
+      "titular": "AstraZeneca negocia la fusión con Bristol Myers Squibb por 400.000 millones",
+      "resumen": "De concretarse, la operación crearía el cuarto gigante farmacéutico del mundo, aunque las dudas sobre la ejecución destruyen valor bursátil a corto plazo."
+    },
+    {
+      "titular": "La regularización de inmigrantes impulsa el empleo y eleva el paro registrado en España",
+      "resumen": "La Seguridad Social supera los 22,5 millones de afiliados en julio gracias al trabajo extranjero, mientras que afloran miles de parados al inscribirse formalmente en el SEPE."
+    },
+    {
+      "titular": "EE. UU. dota con IA autónoma a 50.000 drones kamikaze ucranianos",
+      "resumen": "Un acuerdo de 100 millones de dólares permitirá a los drones de ataque ucranianos identificar y perseguir objetivos sin necesidad de enlace de mando por radio."
+    },
+    {
+      "titular": "Mínimos históricos en el Rin amenazan la red logística e industrial europea",
+      "resumen": "El descenso alarmante del caudal en los principales ríos del continente compromete el transporte fluvial de mercancías y la producción hidroeléctrica en pleno verano."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Última oportunidad diplomática entre EE. UU. e Irán aplaza la escalada bélica",
+          "que_ha_pasado": "El presidente estadounidense Donald Trump ha cancelado los bombardeos previstos contra territorio iraní tras anunciar el inicio inminente de negociaciones diplomáticas, calificadas por Washington como la última oportunidad para Teherán. El movimiento provocó una caída del 5% en el barril de Brent y alivió la presión sobre la renta variable mundial, pese a que Teherán matiza el alcance de los contactos.",
+          "por_que_importa": "La contención del conflicto frena temporalmente la escalada que había impulsado los beneficios de las petroleras a niveles de 2022. Para la estabilidad de Oriente Próximo, el margen de maniobra es mínimo: si las conversaciones fracasan, el riesgo de una interrupción prolongada en el estrecho de Ormuz volvería a tensionar las cadenas globales de suministros energéticos.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-03/trump-asegura-que-las-conversaciones-con-iran-se-reanudaran-este-lunes.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/aug/03/iran-in-talks-with-oman-over-shipping-route-but-not-us-says-tehran"
+            }
+          ]
+        },
+        {
+          "titular": "Jordania queda atrapada en la pinza diplomática y militar entre EE. UU. e Irán",
+          "que_ha_pasado": "Jordania se ha convertido en objetivo recurrente de las milicias proiraníes debido a la presencia de unos 4.000 militares estadounidenses en su territorio. Esta exposición ha desatado críticas internas inusuales hacia el pacto defensivo que Amán mantiene con Washington.",
+          "por_que_importa": "Jordania ha sido históricamente el tapón de amortiguación geopolítico más estable de la región. El desgaste del Gobierno jordano por presiones populares e incursiones externas amenaza con desestabilizar el último pilar de moderación diplomática que conecta el Golfo con Israel y Cisjordania.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-04/jordania-en-el-foco-indeseado-de-la-guerra-de-oriente-proximo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Varios estados norteamericanos demandan a la Casa Blanca por los aranceles masivos",
+          "que_ha_pasado": "Una coalición de estados en EE. UU. ha presentado una demanda judicial para frenar los aranceles impuestos por el Gobierno federal a 60 países socios. La administración justifica las tarifas alegando que estas naciones no combaten el trabajo forzoso en sus cadenas de producción.",
+          "por_que_importa": "El conflicto muestra el creciente uso de causas de derechos laborales como cobertura proteccionista en la política comercial estadounidense. El frente judicial interno añade incertidumbre a la regulación de las importaciones y complica el cálculo de costes para las multinacionales operativas en la zona.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "La UE busca cerrar filas ante las tensiones migratorias en la frontera sur de Ceuta",
+          "que_ha_pasado": "Los ministros de Interior de la Unión Europea se han reunido de urgencia tras la entrada masiva de migrantes registrada la semana pasada en la ciudad autónoma de Ceuta. El episodio provocó duros cruces de acusaciones entre los líderes europeos antes de devolverse la mayoría de las entradas.",
+          "por_que_importa": "El incidente pone de relieve la vulnerabilidad de las fronteras exteriores españolas como punto de fricción política europea. Demuestra que el debate migratorio sigue condicionando la cohesión interna comunitaria y la relación con los países emisores o de tránsito del norte de África.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-europe-contain-the-ceuta-fallout/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "AstraZeneca explora la compra de Bristol Myers Squibb por 400.000 millones de dólares",
+          "que_ha_pasado": "La farmacéutica británica AstraZeneca mantiene conversaciones para adquirir la estadounidense Bristol Myers Squibb en una operación valorada en 400.000 millones de dólares. Pese al tamaño del posible acuerdo, la cotización de la firma británica se desfondó perdiendo más de 17.000 millones de libras de valor bursátil.",
+          "por_que_importa": "La transacción crearía el cuarto grupo farmacéutico del planeta y refleja la necesidad del sector de consolidar carteras de medicamentos ante la caducidad inminente de patentes clave. Sin embargo, el escepticismo de los analistas sobre la financiación y el encaje regulatorio está penalizando la operación.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/aug/03/astrazeneca-talks-bristol-myers-squibb-merger-pharmaceuticals"
+            }
+          ]
+        },
+        {
+          "titular": "HSBC eleva su beneficio a 10.100 millones de dólares e impulsa las recompras de acciones",
+          "que_ha_pasado": "El mayor banco de Europa cerró el trimestre con un beneficio antes de impuestos de 10.100 millones de dólares y reanudó la compra de acciones propias. Las divisiones de gestión de patrimonio y seguros en Hong Kong fueron el motor principal del resultado.",
+          "por_que_importa": "El balance evidencia la efectividad del viraje estratégico de HSBC hacia Asia. Pese a las tensiones geopolíticas entre Occidente y China, la demanda de servicios financieros privados en los centros orientales sigue respaldando la rentabilidad de la banca corporativa.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/0da95788-cde6-4e1a-af89-1faced91178e?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El Ibex 35 acaricia los 20.000 puntos apoyado en el empuje del sector defensa",
+          "que_ha_pasado": "El índice selectivo español busca consolidar niveles récord impulsado por el rally de las bolsas internacionales y los buenos datos del sector industrial defensivo. En este marco, Navantia ha confirmado que elevará su aportación al PIB nacional hasta los 1.800 millones de euros gracias al tirón de la demanda armamentística.",
+          "por_que_importa": "El aumento del gasto en defensa comprometido por los países de la OTAN se está traduciendo en ingresos recurrentes e hitos históricos para la industria auxiliar y los astilleros públicos, actuando como un catalizador contracíclico frente al freno en otros sectores manufactureros.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-04/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/industria/2026/08/04/6a711f61e5fdea152c8b45a7.html"
+            }
+          ]
+        },
+        {
+          "titular": "El precio de las nuevas hipotecas sube un 10,8% en España a pesar del volumen de firmas",
+          "que_ha_pasado": "El coste medio de la formalización de nuevos préstamos hipotecarios ha registrado un incremento interanual del 10,8% durante 2026. A pesar del encarecimiento del crédito, el volumen total de contrataciones se mantiene en cotas elevadas.",
+          "por_que_importa": "El encarecimiento constante del crédito hipotecario demuestra la resistencia de la demanda embalsada en el mercado residencial español frente a la escasez de oferta. La capacidad de absorción de los compradores sigue tensionando la accesibilidad financiera a la vivienda.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/ahorro/2026/08/04/6a70e576e5fdead9238b4580.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "EE. UU. equipa con IA autónoma a 50.000 drones de ataque en Ucrania",
+          "que_ha_pasado": "A través de un contrato de 100 millones de dólares con una firma estadounidense, se desplegarán sistemas de inteligencia artificial en 50.000 drones kamikaze ucranianos. El software permite a los aparatos rastrear y fijar blancos de forma autónoma sin depender de comandos remotos.",
+          "por_que_importa": "Este movimiento escala la guerra algorítmica al neutralizar la efectividad de los inhibidores de frecuencia rusos que cortaban los enlaces de radio. Marca un precedente crítico en la automatización del combate táctico y plantea serios dilemas éticos y legales a escala internacional.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/"
+            }
+          ]
+        },
+        {
+          "titular": "AWS integra herramientas de programación por IA directamente en nubes privadas",
+          "que_ha_pasado": "Amazon Web Services permitirá incrustar el software de 'vibe-coding' Superblocks en la infraestructura privada de sus clientes corporativos. Esto facilita el desarrollo rápido de aplicaciones desacoplado de la dependencia directa de los modelos de IA de frontera.",
+          "por_que_importa": "Representa un hito clave para la adopción de IA en consultoría e ingeniería corporativa: responde a los temores de fuga de datos de las grandes empresas y acelera la automatización de software interno sin exponer propiedad intelectual.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/"
+            }
+          ]
+        },
+        {
+          "titular": "Palantir logra 1.000 millones de beneficio y su CEO arremete contra los laboratorios de IA",
+          "que_ha_pasado": "Palantir presentó unos ingresos récord de 1.000 millones de dólares en el trimestre, impulsados por sus contratos de analítica de datos. Tras los resultados, su consejero delegado, Alex Karp, tildó de 'marxistas' a los grandes laboratorios de inteligencia artificial de frontera, advirtiendo de que no son de fiar para el ámbito corporativo.",
+          "por_que_importa": "La postura de Karp acentúa la brecha entre los proveedores de análisis de datos orientados a defensa/gobiernos y las startups de modelos del lenguaje generalistas. Refleja la batalla comercial por el control de la arquitectura del software empresarial.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La regularización de trabajadores extranjeros eleva la afiliación pero aflora desempleo",
+          "que_ha_pasado": "La Seguridad Social sumó 41.727 afiliados en julio superando la cota de los 22,5 millones de ocupados gracias al empuje de los hombres extranjeros regularizados. Paralelamente, el paro registrado repuntó en 19.517 personas debido a la inscripción formal en los servicios públicos de empleo de colectivos recién regularizados.",
+          "por_que_importa": "El proceso extraordinario de regularización distorsiona las lecturas habituales del mercado de trabajo. A corto plazo genera una paradoja estadística, pero consolida una mayor base de cotización formal para sostener el sistema de pensiones.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/economia/2026-08-04/la-regularizacion-impulsa-el-empleo-en-julio-y-espana-gana-41727-afiliaciones.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/08/04/6a70e270fdddff5a558b4584.html"
+            }
+          ]
+        },
+        {
+          "titular": "Consumo impone 320.000 euros de multa a una promotora de festivales por cláusulas abusivas",
+          "que_ha_pasado": "El Ministerio de Consumo ha sancionado a una empresa organizadora de eventos musicales con 320.000 euros. La resolución penaliza la prohibición de acceder con comida y bebida del exterior, los cobros por gastos de gestión improcedentes y las trabas para devolver el saldo no gastado en pulseras electrónicas.",
+          "por_que_importa": "Sienta un precedente administrativo de peso en la regulación del sector del ocio y los eventos masivos. La decisión refuerza el marco de protección del consumidor frente a prácticas muy extendidas que recortan los derechos de los usuarios en recintos privados.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/cultura/2026-08-04/consumo-sanciona-con-320000-euros-a-un-organizador-de-festivales-de-musica-por-practicas-abusivas.html"
+            },
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-04/consumo-sanciona-con-320000-euros-a-un-organizador-de-festivales-de-musica-por-practicas-abusivas.html"
+            }
+          ]
+        },
+        {
+          "titular": "El drama humanitario de la ruta balear se cobra al menos 17 vidas en una patera a la deriva",
+          "que_ha_pasado": "Salvamento Marítimo rescató a dos sobrevivientes con severa deshidratación en una patera al suroeste de Mallorca que llevaba 15 días a la deriva. Los ocupantes informaron de la muerte y desaparición en el mar de otros 17 integrantes de la expedición.",
+          "por_que_importa": "El suceso confirma la consolidación y peligrosidad de la ruta marítima hacia el archipiélago balear. La presión migratoria en esta vía alternativa aumenta a medida que se intensifica el control en los pasos tradicionales del Estrecho y Canarias.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/baleares/2026/08/04/6a71891fe85ece4e518b458b.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-08-04/rescate-patera-migrantes-mallorca-1tna-1tps_4400514/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Mínimos de caudal en el Rin y el Danubio amenazan el transporte de bienes en Europa",
+          "que_ha_pasado": "Los niveles de agua en grandes arterias fluviales europeas como el Rin, el Danubio y el Po han caído a mínimos históricos debido a la sequía estival. La falta de calado ha obligado a reducir la carga de las barcazas comerciales y ha menguado la producción de energía hidroeléctrica.",
+          "por_que_importa": "La navegabilidad reducida de los ríos centrales interrumpe los flujos de carbón, materiales químicos y bienes industriales en Alemania e Italia. Constituye un recordatorio del impacto directo del cambio climático sobre los costes operativos de la industria pesada europea.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "La mirada social de Dorothea Lange protagoniza la Bienal Xavier Miserachs en Palafrugell",
+          "que_ha_pasado": "La localidad de Palafrugell acoge una amplia exhibición de la fotógrafa estadounidense Dorothea Lange dentro de la Bienal Xavier Miserachs. Las imágenes en blanco y negro documentan la devastación humana durante la Gran Depresión y la crisis del Dust Bowl.",
+          "por_que_importa": "La muestra pone en valor la fotografía documental clásica como herramienta de análisis socioeconómico e histórico, conectando las transformaciones rurales del siglo XX con los debates contemporáneos sobre la desigualdad y las migraciones.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-04/la-desolacion-de-la-fotografia-de-dorothea-lange-ilumina-la-costa-brava.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Arbitraje regulatorio",
+    "explicacion": "El arbitraje regulatorio es la práctica mediante la cual una empresa o institución financiera estructura sus operaciones, activos o sede legal para aprovechar las discrepancias entre las legislaciones de distintas jurisdicciones. Su objetivo es eludir normativas estrictas, reducir costes de cumplimiento, mitigar cargas fiscales o evitar restricciones operativas sin alterar sustancialmente el núcleo de su actividad económica.",
+    "ejemplo": "Varias empresas tecnológicas trasladan la gestión de sus algoritmos a jurisdicciones fuera de la UE para esquivar temporalmente los requisitos de auditoría que impone la Ley de Inteligencia Artificial europea."
+  },
+  "fecha": "2026-08-04"
+}
