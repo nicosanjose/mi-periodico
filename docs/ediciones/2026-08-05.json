@@ -1,0 +1,243 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EE.UU. e Irán acercan posturas sobre Ormuz mientras se rebaja la tensión petrolera",
+      "resumen": "Las conversaciones diplomáticas abren la vía para reanudar los envíos por el estrecho estratégico, lo que ha provocado una caída inmediata en la cotización del crudo."
+    },
+    {
+      "titular": "La Fed autoriza al Santander la compra del banco estadounidense Webster",
+      "resumen": "El visto bueno del regulador estadounidense permite cerrar en dos semanas una transacción valorada en más de 10.000 millones de dólares."
+    },
+    {
+      "titular": "Rusia intensifica sus ataques masivos con misiles balísticos sobre la región de Kiev",
+      "resumen": "Las autoridades ucranianas confirman al menos 17 muertos y decenas de heridos tras una nueva oleada de bombardeos sobre la capital."
+    },
+    {
+      "titular": "Wall Street y el Ibex celebran las perspectivas energéticas y el tirón de la IA",
+      "resumen": "Los principales selectivos globales rozan o superan máximos históricos gracias a los resultados de las grandes tecnológicas y la tregua del crudo."
+    },
+    {
+      "titular": "La dependencia europea de Palantir evidencia las sombras de su autonomía digital",
+      "resumen": "A pesar de los discursos soberanistas en Bruselas, las instituciones de defensa, policía y salud de la UE siguen atadas al software analítico de EE.UU."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Washington e Teherán negocian el tránsito por Ormuz tras las advertencias de Trump",
+          "que_ha_pasado": "El secretario de Estado Marco Rubio y el titular del Tesoro Scott Bessent han confirmado avances significativos para reabrir el paso de buques por el estrecho de Ormuz. El anuncio se produce después de que Donald Trump advirtiera de duras respuestas militares a Irán si el paso permanecía bloqueado, provocando un descenso inmediato en los precios del crudo.",
+          "por_que_importa": "El estrecho de Ormuz es la arteria más crítica para el comercio energético global, por donde transita aproximadamente una quinta parte del petróleo mundial. El desbloqueo diplomático disipa temporalmente el temor a un choque de oferta que habría desestabilizado las economías occidentales y agravado las presiones inflacionistas.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Brasil escala su pulso diplomático con los gobiernos de Argentina y Estados Unidos",
+          "que_ha_pasado": "El Gobierno de Luiz Inácio Lula da Silva ha retirado a su embajador en Buenos Aires tras las descalificaciones vertidas por Javier Milei, reduciendo la representación al nivel de encargado de negocios. En paralelo, Brasilia ha acusado a la Administración de Donald Trump de injerencia electoral y desinformación de cara a las presidenciales brasileñas de octubre.",
+          "por_que_importa": "Estos movimientos constatan la fractura ideológica y la polarización que atraviesa América Latina. La degradación diplomática entre las dos mayores economías de América del Sur erosiona la cohesión del Mercosur, mientras que la confrontación con Washington reconfigura los alineamientos estratégicos del gigante sudamericano.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/america/2026-08-05/estados-unidos-y-brasil-escenifican-un-duelo-diplomatico-entre-gigantes.html"
+            }
+          ]
+        },
+        {
+          "titular": "Nueva oleada de misiles rusos causa decenas de víctimas en la región de Kiev",
+          "que_ha_pasado": "El ejército ruso ha perpetrado un ataque masivo con misiles balísticos contra la capital ucraniana y sus zonas limítrofes, provocando la muerte de al menos 17 personas y dejando casi una treintena de heridos. Las infraestructuras civiles de la región han sufrido graves daños estructurales.",
+          "por_que_importa": "Esta nueva ofensiva evidencia la estrategia del Kremlin de desgastar la moral urbana y la resistencia logística ucraniana en un momento clave del conflicto. Además, pone de relieve la continua necesidad de Kiev de reforzar sus sistemas de defensa antiaérea suministrados por sus aliados occidentales.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/internacional/2026-08-05/varios-muertos-en-ataques-rusos-en-la-region-de-kiev.html"
+            }
+          ]
+        },
+        {
+          "titular": "La penetración de Palantir pone al descubierto las debilidades de la autonomía estratégica europea",
+          "que_ha_pasado": "Un nuevo informe detalla cómo las herramientas de análisis de datos de la firma estadounidense Palantir están profundamente arraigadas en los sistemas de defensa nacional, fuerzas de seguridad y redes sanitarias de la UE. La Unión Europea se encuentra dividida entre su discurso de soberanía tecnológica y su incapacidad para sustituir estos servicios esenciales.",
+          "por_que_importa": "El dominio de empresas tecnológicas estadounidenses en sectores de seguridad crítica europea expone vulnerabilidades geopolíticas y de privacidad de datos. Muestra que la noción de autonomía estratégica requiere no solo capacidad regulatoria, sino el desarrollo de capacidades industriales europeas capaces de competir con los gigantes de Silicon Valley.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/europes-palantir-problem/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Wall Street y las bolsas europeas marcan récords impulsados por la IA y el alivio energético",
+          "que_ha_pasado": "El S&P 500 avanzó un 1,8% alcanzando máximos históricos, apoyado en la solidez de los resultados del sector tecnológico. Paralelamente, el Ibex 35 consolidó su posición por encima de los 20.000 puntos beneficiado por la moderación en los precios del petróleo ante las noticias de negociación con Irán.",
+          "por_que_importa": "Las valoraciones bursátiles continúan desafiando el entorno de tipos de interés altos gracias al flujo sostenido de capitales hacia la IA y a la distensión del riesgo geopolítico en el mercado de materias primas. No obstante, persiste la duda entre los analistas sobre la sostenibilidad a largo plazo de estos múltiplos de cotización.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-05/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease"
+            }
+          ]
+        },
+        {
+          "titular": "La banca prepara la colocación de 15.000 millones de dólares para financiar centros de datos de IA",
+          "que_ha_pasado": "Un consorcio bancario se dispone a vender un paquete de deuda de 15.000 millones de dólares destinado a financiar la infraestructura computacional de Anthropic respaldada por Google. La colocación busca liberar liquidez en los balances de los bancos, presionados por los volúmenes de crédito que exige el desarrollo de la inteligencia artificial.",
+          "por_que_importa": "El despliegue físico de la IA está poniendo a prueba la capacidad de financiación de la banca tradicional. La titulación y colocación de este tipo de deuda masiva demuestra la necesidad del sector financiero de diversificar el riesgo de crédito entre inversores institucionales ante las gigantescas necesidades de capital del sector tech.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/c492ce6b-483b-4196-8f2a-9bd1afda92d3?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Ellison defiende la megafusión de Paramount y Warner Bros frente a los obstáculos judiciales",
+          "que_ha_pasado": "David Ellison, consejero delegado de Paramount Skydance, ha salido al paso de las demandas que frenan la fusión de 111.000 millones de dólares con Warner Bros Discovery. Ellison sostiene que las trabas legales responden a motivos políticos orientados a evitar la consolidación del control sobre cadenas como CNN.",
+          "por_que_importa": "Esta operación representa una reestructuración sin precedentes en el mapa global del entretenimiento y los medios de comunicación. El litigio evidencia las complejas fricciones regulatorias y antimonopolio cuando se cruzan la concentración de poder mediático, la viabilidad económica del streaming y el impacto político.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/aug/04/cnn-mega-merger-david-ellison"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "SpaceX anuncia planes para competir frontalmente con los operadores telefónicos tradicionales",
+          "que_ha_pasado": "Elon Musk y Gwynne Shotwell revelaron durante la presentación de resultados de SpaceX que la compañía construirá una red móvil terrestre directa. El objetivo explicito es captar una cuota de mercado significativa de clientes pertenecientes a gigantes de las telecomunicaciones como T-Mobile, AT&T y Verizon.",
+          "por_que_importa": "El salto de SpaceX desde la conectividad satelital Starlink hacia el servicio celular directo cuestiona el modelo de negocio de las operadoras móviles tradicionales. Al integrar la infraestructura orbital con frecuencias terrestres, la compañía busca monopolizar la conectividad global sin depender de redes de itinerancia de terceros.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/science/975480/spacex-mobile-terrestrial-cellphone-company"
+            }
+          ]
+        },
+        {
+          "titular": "La crisis de componentes encarece la Raspberry Pi y acelera la búsqueda de alternativas",
+          "que_ha_pasado": "El incremento en los precios de las memorias RAM ha elevado sensiblemente el coste de los dispositivos Raspberry Pi, alejándolos del mercado de la informática barata. En respuesta, la comunidad de programadores y creadores está migrando masivamente hacia microchips alternativos cuyo coste apenas alcanza los diez dólares.",
+          "por_que_importa": "El fenómeno ilustra cómo los cuellos de botella en la cadena de suministro global de semiconductores impactan en la democratización del aprendizaje tecnológico. La pérdida del carácter asequible de las placas integradas empuja la innovación técnica hacia arquitecturas de procesado más eficientes y de menor coste.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/ordenadores/crisis-memoria-ha-disparado-precio-raspberry-pi-cacharreo-casero-esta-huyendo-a-chip-que-cuesta-diez-dolares"
+            }
+          ]
+        },
+        {
+          "titular": "Congresistas de EE.UU. exigen restringir los mercados de predicción sobre incendios por riesgo de piromanía",
+          "que_ha_pasado": "Varios senadores estadounidenses han reclamado regular o prohibir las apuestas en mercados de predicción vinculados a la propagación de incendios forestales. Expertos forestales han advertido de que la existencia de incentivos económicos en estas plataformas podría incentivar incendios intencionados.",
+          "por_que_importa": "Este debate pone de relieve los riesgos de externalidad negativa que genera la proliferación sin control de los mercados financieros especulativos sobre catástrofes naturales. Exige delimitar la frontera ética entre el uso de herramientas especulativas para la cobertura de riesgos y la creación de incentivos para el delito.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La Reserva Federal autoriza al Santander la adquisición del estadounidense Webster Bank",
+          "que_ha_pasado": "El Banco Central de EE.UU. ha otorgado el permiso definitivo para que Banco Santander consume la compra de la entidad Webster por un importe superior a los 10.000 millones de dólares. El cierre formal de la transacción está previsto para dentro de dos semanas.",
+          "por_que_importa": "Con este movimiento, la entidad presidida por Ana Botín refuerza sustancialmente su balance y presencia minorista en la costa este norteamericana. La operación confirma la apuesta estratégica del banco español por profundizar en el mercado de EE.UU. para compensar la madurez y estrechez de márgenes en Europa.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://cincodias.elpais.com/companias/2026-08-05/la-fed-autoriza-la-compra-de-webster-por-el-santander-y-la-operacion-se-podria-cerrar-en-dos-semanas.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-08-05/la-fed-autoriza-la-compra-de-webster-por-el-santander-y-la-operacion-se-podria-cerrar-en-dos-semanas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Fiscalistas alertan del severo impacto tributario en las donaciones familiares para vivienda",
+          "que_ha_pasado": "Asesores fiscales advierten de las elevadas liquidaciones que la Agencia Tributaria está aplicando a padres que transfieren liquidez a sus hijos para la compra de vivienda. Al entregarse a fondo perdido, Hacienda tipifica estas transferencias como donaciones gravables en el Impuesto de Sucesiones y Donaciones o el IRPF.",
+          "por_que_importa": "Ante la inaccesibilidad del mercado inmobiliario y los bajos salarios juveniles, el colchón familiar se ha convertido en la vía principal de acceso a la vivienda. El endurecimiento y la estricta supervisión de estas operaciones generan fricciones entre la necesidad social del auxilio intergeneracional y la rigidez del marco normativo.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/empresas-y-economia/expertos-fiscales-advierten-hemos-visto-muchas-masacres-fiscales-padres-que-quieren-ayudar-a-sus-hijos"
+            }
+          ]
+        },
+        {
+          "titular": "Los laboratorios forenses mejoran la detección de drogas en agresiones sexuales",
+          "que_ha_pasado": "Los institutos de toxicología nacionales han implementado nuevas metodologías analíticas capaces de identificar sustancias psicoactivas en proporciones ínfimas. La mejora técnica busca dar respuesta al incremento de investigaciones relacionadas con la sumisión química y agresiones sexuales.",
+          "por_que_importa": "La rapidez con la que se metabolizan las nuevas drogas de síntesis dificultaba hasta ahora la obtención de pruebas periciales concluyentes. Este avance científico fortalece la capacidad de la justicia para aportar evidencias procesales sólidas en delitos con alta alarma social.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/cataluna/2026/08/05/6a724637fdddff5b358b458e.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Muere Pepe Habichuela, icono y pilar de la renovación de la guitarra flamenca",
+          "que_ha_pasado": "El guitarrista Pepe Habichuela ha fallecido en Madrid a los 82 años. Figura fundamental del flamenco contemporáneo, el artista granadino destacó por su capacidad para modernizar el toque acompañando a leyendas como Enrique Morente y apadrinando el nacimiento del nuevo flamenco.",
+          "por_que_importa": "Su legado representa la transición armónica entre la ortodoxia flamenca tradicional y la apertura hacia nuevas sonoridades sin perder la raíz. Su influencia pedagógica y musical marcó la pauta para las generaciones posteriores, incluyendo la labor de formaciones como Ketama.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-04/muere-pepe-habichuela-titan-de-la-guitarra-flamenca.html"
+            }
+          ]
+        },
+        {
+          "titular": "La expansión del grupo Feltrinelli aviva el debate sobre la concentración editorial en español",
+          "que_ha_pasado": "La consolidación de Feltrinelli en el mercado hispanohablante mediante adquisiciones y nuevos sellos ha abierto una discusión en el sector sobre el tamaño óptimo de las editoriales. El movimiento contrapone las economías de escala de los grandes grupos frente al modelo independiente nacido en la Transición.",
+          "por_que_importa": "El mercado editorial en español atraviesa una fase de intensa reestructuración comercial. La integración vertical de sellos busca asegurar la distribución y presencia en librerías frente a las plataformas digitales, condicionando la diversidad del catálogo cultural y la supervivencia de los sellos independientes.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-05/el-grupo-feltrinelli-redobla-su-apuesta-en-espanol-y-reabre-el-debate-sobre-el-tamano-ideal-de-las-editoriales.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Sindicación de deuda (Syndicated loan)",
+    "explicacion": "Mecanismo mediante el cual un grupo de instituciones financieras se asocian de forma estructurada para otorgar de manera conjunta un préstamo de gran volumen a un único prestatario. Esta fórmula permite repartir el riesgo de impago y evitar rebasar los límites regulatorios de exposición crediticia por cliente que pesan sobre cada banco individualmente. Es un instrumento fundamental para financiar grandes adquisiciones corporativas, infraestructuras estratégicas o megaproyectos industriales.",
+    "ejemplo": "La emisión y colocación de un paquete de deuda sindicada de 15.000 millones de dólares estructurada por varios bancos internacionales para construir los centros de datos requeridos por la firma de inteligencia artificial Anthropic."
+  },
+  "fecha": "2026-08-05"
+}
