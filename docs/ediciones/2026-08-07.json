@@ -1,0 +1,235 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Trump desafía la Constitución estadounidense restringiendo el derecho de ciudadanía por nacimiento",
+      "resumen": "El presidente firma dos decretos para limitar la nacionalidad automática a hijos de inmigrantes sin papeles, reabriendo una batalla legal de escala constitucional."
+    },
+    {
+      "titular": "Tensón militar y censura mediática marcan la relación entre Pekín y Taipéi",
+      "resumen": "Taiwán realiza simulacros de evacuación de su presidente ante el riesgo de invasión, mientras China congela el estreno de una película histórica sobre la isla."
+    },
+    {
+      "titular": "Las marcas chinas conquistan el 15% del mercado del automóvil en España",
+      "resumen": "Fabricantes como BYD y MG superan en ventas a marcas tradicionales como Citroën o Ford gracias a su competitividad en vehículos eléctricos."
+    },
+    {
+      "titular": "OpenAI y Jony Ive ultiman un dispositivo físico con IA para competir fuera del smartphone",
+      "resumen": "El proyecto consiste en un altavoz inteligente de alta gama diseñado para interactuar con modelos de lenguaje sin depender de pantallas."
+    },
+    {
+      "titular": "Alinean las alarmas de seguridad tras el hallazgo de un dron explosivo en un aeropuerto alemán",
+      "resumen": "Un artefacto no identificado fue localizado junto a una aeronave ucraniana de carga en Leipzig, avivando la preocupación por actos de sabotaje en suelo de la OTAN."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Taiwán realiza simulacros de evacuación presidencial mientras Pekín censura su historia naval",
+          "que_ha_pasado": "El presidente taiwanés William Lai participó en un ensayo de evacuación nocturna de emergencia en el marco de maniobras militares defensivas. Simultáneamente, las autoridades chinas han retirado de la cartelera el filme 'La batalla naval de Penghu', centrado en la histórica conquista de la isla.",
+          "por_que_importa": "El contraste muestra cómo la disuasión militar y la batalla narrativa corren en paralelo. Mientras Taipéi ensaya escenarios de respuesta ante un desembarco, Pekín calibra el fervor nacionalista interno para mantener el control sobre los tiempos del conflicto geopolítico.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-07/china-deja-en-un-limbo-la-pelicula-sobre-su-gran-epopeya-naval-de-la-conquista-de-taiwan.html"
+            }
+          ]
+        },
+        {
+          "titular": "Trump firma decretos para limitar la ciudadanía por nacimiento en Estados Unidos",
+          "que_ha_pasado": "La Casa Blanca ha emitido dos órdenes ejecutivas destinadas a restringir el acceso a la nacionalidad estadounidense para hijos de personas en situación irregular. La decisión choca de frente con la jurisprudencia consolidada sobre la Decimocuarta Enmienda de la Constitución.",
+          "por_que_importa": "Esta medida reabre un debate jurídico trascendental sobre el alcance del 'jus soli' en EE. UU. El previsible bloqueo en los tribunales servirá a la administración como baza de movilización política en materia migratoria ante su electorado duro.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/migracion/2026-08-06/trump-aprueba-dos-decretos-para-volver-a-limitar-la-ciudadania-por-nacimiento-pese-a-la-decision-del-supremo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Europa proyecta reducir su dependencia analítica de la firma estadounidense Palantir",
+          "que_ha_pasado": "Las instituciones comunitarias han comenzado a evaluar alternativas tecnológicas locales para desvincularse del software de Palantir. La empresa estadounidense gestiona actualmente grandes volúmenes de datos sensibles en seguridad, inteligencia y sanidad en varios Estados miembros.",
+          "por_que_importa": "Subraya los límites reales de la autonomía estratégica europea. Depender de un proveedor privado estrechamente ligado al aparato de defensa de Washington expone vulnerabilidades en la soberanía de datos del bloque, aunque desarrollar capacidades soberanas equivalentes requerirá años.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/leurope-veut-se-passer-de-palantir/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La retención de fondos por Israel aboca al colapso al sistema sanitario cisjordano",
+          "que_ha_pasado": "La congelación de las transferencias fiscales por parte del Gobierno israelí ha generado una crisis de liquidez extrema en la Autoridad Palestina. La acumulación de deudas millonarias impide el suministro regular de medicamentos y el pago a hospitales en la Cisjordania ocupada.",
+          "por_que_importa": "El estrangulamiento económico de las instituciones palestinas socava la viabilidad de la gestión civil en el territorio. La degradación de los servicios públicos esenciales incrementa el riesgo de desestabilización social e inestabilidad política en la región.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-07/la-guerra-economica-de-israel-ahoga-la-sanidad-en-cisjordania.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La automoción china alcanza el 15% de cuota de mercado en España tras adelantar a marcas históricas",
+          "que_ha_pasado": "Marcas como MG y BYD han superado en matriculaciones a fabricantes tradicionales como Citroën, Ford u Opel en el mercado español. Más de una treintena de firmas chinas operan ya en el país con ofertas altamente competitivas.",
+          "por_que_importa": "Evidencia una reconfiguración acelerada de la cadena de valor del automóvil en Europa. Dominar la tecnología y los costes de las baterías permite a China penetrar con rapidez en mercados maduros, desafiando el modelo de negocio industrial europeo.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/07/6a7561d5e5fdeae8238b458b.html"
+            }
+          ]
+        },
+        {
+          "titular": "La devolución de aranceles estadounidenses dispara un 53% las ganancias de Nintendo",
+          "que_ha_pasado": "El gigante japonés de los videojuegos registró un incremento extraordinario en sus beneficios trimestrales gracias al reembolso de aranceles cobrados durante la presidencia de Donald Trump. El ingreso compensó una caída generalizada en sus ventas de hardware.",
+          "por_que_importa": "Muestra el impacto diferido y distorsionador de las guerras comerciales en los resultados corporativos globales. Un ajuste de política tarifaria puede alterar sustancialmente la cuenta de pérdidas y ganancias de una multinacional margen de su rendimiento operativo diario.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo"
+            }
+          ]
+        },
+        {
+          "titular": "Los ayuntamientos españoles solo lograron invertir el 8% de su superávit el año pasado",
+          "que_ha_pasado": "La combinación de autorizaciones administrativas tardías por parte de Hacienda y las restricciones de la regla de gasto impidieron a los municipios ejecutar la mayor parte de sus remanentes económicos, destinados en su mayoría a políticas de vivienda.",
+          "por_que_importa": "Ilustra un problema de gobernanza fiscal donde la liquidez disponible no se traduce en inversión pública necesaria. La rigidez de los marcos normativos frena la capacidad de respuesta de la administración local ante urgencias de infraestructuras o acceso a la vivienda.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-07/los-municipios-apenas-invirtieron-el-8-de-su-millonario-superavit-el-ano-pasado.html"
+            }
+          ]
+        },
+        {
+          "titular": "Cuatro de cada diez contratos públicos en España se adjudican con un solo licitador",
+          "que_ha_pasado": "Casi el 40% de los procesos de contratación estatal se resuelven con la participación de una única empresa candidata, según los últimos datos de licitación pública.",
+          "por_que_importa": "La falta de concurrencia reduce la eficiencia en el gasto del Estado y limita la competencia. Revela barreras de entrada burocráticas o diseños de pliegos que desincentivan la participación del tejido empresarial privado.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-08-07/es-facil-hacer-trampas-en-un-contrato-publico.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "OpenAI y Jony Ive proyectan un dispositivo doméstico de IA sin pantalla por 400 dólares",
+          "que_ha_pasado": "El nuevo hardware desarrollado por OpenAI junto al exdiseñador de Apple será un altavoz con forma de disco y alimentado por batería. El dispositivo carecerá de pantalla y buscará gestionar tareas mediante voz y modelos de lenguaje avanzados.",
+          "por_que_importa": "Representa el intento del sector tecnológico de crear una categoría de hardware propia para la era de la IA generativa. Se busca reducir la dependencia de la infraestructura del teléfono inteligente y establecer un nuevo canal directo de captura de datos con el usuario.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
+            }
+          ]
+        },
+        {
+          "titular": "Un dron explosivo junto a un avión ucraniano en Leipzig eleva la alerta por sabotaje en Alemania",
+          "que_ha_pasado": "Las fuerzas de seguridad alemanas hallaron un dron cargado con explosivos merodeando cerca de un avión de transporte ucraniano en el aeropuerto de Leipzig. La zona es un punto logístico clave para el envío de suministros.",
+          "por_que_importa": "Inscribe un nuevo capítulo en la vulnerabilidad de las infraestructuras de transporte europeas ante acciones híbridas. Las sospechas de sabotaje no atribuido formalmente complican la protección de activos logísticos críticos en suelo aliado.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/"
+            }
+          ]
+        },
+        {
+          "titular": "Rumanía recurre a voladuras con explosivos para mantener fría su central nuclear tras la sequía",
+          "que_ha_pasado": "Ante la falta de caudal provocada por las elevadas temperaturas y la escasez de lluvias, las autoridades rumanas emplearon explosivos para despejar el lecho fluvial y encauzar agua de refrigeración hacia los reactores de la planta.",
+          "por_que_importa": "Pone a prueba la resiliencia del diseño industrial tradicional frente al cambio climático. La recurrencia de fenómenos meteorológicos extremos obliga a adoptar medidas de ingeniería de emergencia para asegurar la continuidad del suministro eléctrico.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/energia/plena-sequia-ola-calor-rumania-ha-tenido-singular-idea-para-mantener-funcionando-central-nuclear-usar-explosivos"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Moncloa reduce la presencia ministerial en Ceuta para no alterar las relaciones con Rabat",
+          "que_ha_pasado": "El Gobierno español ha restringido las visitas oficiales a la ciudad autónoma, dejando el peso institucional únicamente en el presidente y dos ministros. El Ministerio de Asuntos Exteriores ha mantenido un perfil bajo durante las últimas jornadas.",
+          "por_que_importa": "Demuestra los frágiles equilibrios geopolíticos de España en su frontera sur. La contención diplomática busca evitar fricciones con Marruecos que puedan comprometer los acuerdos bilaterales de control migratorio y cooperación policial.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/08/07/6a74cc22fdddff8b588b45a5.html"
+            }
+          ]
+        },
+        {
+          "titular": "Desarticulada una red logística que traficaba con migrantes y drogas mediante narcolanchas",
+          "que_ha_pasado": "Una operación policial internacional se ha saldado con 77 detenidos tras desmantelar un entramado marítimo que realizaba travesías clandestinas entre Argelia y Europa, incautando 18 embarcaciones de gran potencia.",
+          "por_que_importa": "Muestra la convergencia entre el crimen organizado del narcotráfico y las mafias de la migración irregular. La utilización de infraestructuras compartidas aumenta el riesgo operativo en las rutas de la cuenca occidental del Mediterráneo.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-08-07/trafico-migrantes-drogas-mediterraneo-red-1tna-1tps_4402371/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Carme Portaceli se convierte en la primera dramaturga española en dirigir en la Comédie-Française",
+          "que_ha_pasado": "La directora de escena ha estrenado una versión del clásico 'Las criadas' de Jean Genet en el emblemático teatro parisino, marcando un hito para la dramaturgia española en el ecosistema cultural francés.",
+          "por_que_importa": "Supone una consagración internacional de primer nivel para las artes escénicas de España, abriendo espacios de intercambio directos con la institución teatral más antigua e influyente de Europa.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-07/carme-portaceli-toca-el-cielo-de-la-comedie-francaise-con-las-criadas-de-jean-genet.html"
+            }
+          ]
+        },
+        {
+          "titular": "Seis décadas de escenas poscréditos: la historia cinematográfica más allá del modelo Marvel",
+          "que_ha_pasado": "Un repaso a la historia del cine evidencia que la práctica de incluir secuencias tras los créditos finales se remonta a los años sesenta, mucho antes de que la industria de los superhéroes lo convirtiera en una convención comercial.",
+          "por_que_importa": "Analiza las transformaciones del consumo en las salas y cómo el lenguaje cinematográfico utiliza estas extensiones para fidelizar espectadores, jugar con la narrativa o anticipar futuras producciones.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-08-07/sesenta-anos-de-escenas-poscreditos-una-historia-que-empieza-mucho-antes-que-marvel.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Efecto Bruselas (Brussels Effect)",
+    "explicacion": "Mecanismo por el cual la Unión Europea proyecta su poder regulatorio a nivel mundial de forma unilateral sin recurrir a medidas coercitivas. Al gestionar el mercado único más valioso del planeta, la UE establece estándares estrictos (protección de datos, normas medioambientales, consumo). Las empresas multinacionales, para no incurrir en los costes de duplicar sus líneas de producción, prefieren adoptar la normativa europea como su estándar global por defecto.",
+    "ejemplo": "La adopción universal del conector USB-C por parte de fabricantes tecnológicos internacionales tras la exigencia legislativa aprobada por la UE."
+  },
+  "fecha": "2026-08-07"
+}
