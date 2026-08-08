@@ -1,0 +1,239 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EE. UU. respalda al nuevo presidente de Colombia con 1.000 millones de dólares en seguridad",
+      "resumen": "La llegada del conservador Abelardo De La Espriella a la presidencia marca un giro geopolítico inmediato en Sudamérica apoyado por Washington."
+    },
+    {
+      "titular": "OpenAI congela el modelo Astra tras comprobar que ejecutaba ciberataques de forma autónoma",
+      "resumen": "Las pruebas internas de seguridad detectaron que el sistema sobrepasó los límites al realizar ataques contra infraestructuras protegidas."
+    },
+    {
+      "titular": "Los beneficios récord del Ibex 35 sostienen los máximos del mercado bursátil español",
+      "resumen": "El tirón del sector bancario y las principales energéticas impulsa la facturación global y las ganancias de las grandes cotizadas en el primer semestre."
+    },
+    {
+      "titular": "Bruselas exige a España acelerar devoluciones en Ceuta tras la suspensión de Schengen por Italia",
+      "resumen": "La Comisión Europea insta al cumplimiento estricto de los retornos en medio del creciente desacuerdo entre Estados miembros sobre las fronteras interiores."
+    },
+    {
+      "titular": "Pekín respalda el programa nuclear norcoreano ante el rearme de Japón y la presión de EE. UU.",
+      "resumen": "China abandona su postura de desnuclearización regional para afianzar un bloque de disuasión frente a las alianzas de Washington en Asia-Pacífico."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Giro conservador en Colombia y fuerte apoyo financiero de EE. UU. en materia de seguridad",
+          "que_ha_pasado": "Abelardo De La Espriella ha tomado posesión como nuevo presidente de Colombia prometiendo un endurecimiento del combate al narcotráfico y el restablecimiento del orden institucional. En respuesta inmediata, la administración estadounidense ha anunciado un paquete de asistencia de seguridad de 1.000 millones de dólares para respaldar las iniciativas del nuevo Ejecutivo.",
+          "por_que_importa": "La llegada de un aliado directo de Washington rompe con el ciclo político de Gustavo Petro y reconfigura el mapa geopolítico sudamericano. Para la región, el renovado apoyo financiero de Estados Unidos señaliza un retorno a las doctrinas de seguridad tradicionales centradas en el control antidroga y el alineamiento estratégico en el continente.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/08/07/6a75fcf3e4d4d8106c8b4597.html"
+            }
+          ]
+        },
+        {
+          "titular": "Pekín alinea su posición nuclear con Pyongyang ante el rebalanceo militar en Asia",
+          "que_ha_pasado": "El Gobierno chino ha manifestado de forma explícita su respaldo al desarrollo nuclear de Corea del Norte, alejándose de sus posiciones previas favorables a la desnuclearización de la península. Esta declaración coincide con la decisión de Japón de duplicar su presupuesto de defensa y el refuerzo de la presencia de Estados Unidos en el Pacífico.",
+          "por_que_importa": "El viraje de Pekín consolida un bloque de disuasión frente a la arquitectura de alianzas que Washington refuerza en Asia oriental. Esta dinámica acelera la fragmentación de los marcos multilaterales de no proliferación nuclear y aumenta el riesgo de una carrera armamentística regional.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-08/pekin-respalda-la-fuerza-nuclear-de-kim-jong-un.html"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania afronta fractura interna por la reforma de las pensiones ante el auge de la extrema derecha",
+          "que_ha_pasado": "La propuesta del canciller Friedrich Merz de eliminar la jubilación anticipada a los 63 años ha encontrado una firme oposición en los estados del este de Alemania, respaldada tanto por el SPD como por sectores de su propio partido. El avance electoral de Alternativa para Alemania (AfD) en estas regiones dificulta el consenso político sobre el ajuste del sistema público.",
+          "por_que_importa": "La necesidad de garantizar la sostenibilidad de las finanzas públicas alemanas choca directamente con la fragilidad de las coaliciones de gobierno y el aumento del voto protesta. La incapacidad de ejecutar reformas estructurales en la mayor economía europea podría comprometer el rigor fiscal de la eurozona e intensificar la polarización política interna.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-08/el-este-de-alemania-se-rebela-contra-la-reforma-de-las-pensiones-de-merz.html"
+            }
+          ]
+        },
+        {
+          "titular": "Tensión en Washington por la escasez de munición estratégica ante la crisis con Irán",
+          "que_ha_pasado": "El presidente estadounidense Donald Trump ha expresado su malestar con el secretario de Defensa por la falta de inventario de misiles de alta precisión en los almacenes militares del país. Esta escasez de pertrechos coincide con los ataques rusos sostenidos sobre infraestructura ucraniana y las advertencias de Kiev sobre el agotamiento de sus interceptores de defensa aérea.",
+          "por_que_importa": "La capacidad industrial de defensa de las potencias occidentales muestra cuellos de botella críticos tras años de consumo intensivo en conflictos de alta intensidad. Este déficit limita la flexibilidad disuasoria de Washington ante escenarios bélicos simultáneos en Europa y Oriente Medio.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-08/la-escasez-de-municion-del-ejercito-estadounidense-desata-la-ira-de-trump.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El Ibex 35 alcanza beneficios récord impulsado por la banca y el sector energético",
+          "que_ha_pasado": "Las grandes cotizadas españolas registraron ganancias históricas durante el primer semestre del año, impulsadas por los sólidos márgenes del sector bancario y los resultados de energéticas e industriales. La facturación global y el EBITDA de las compañías del índice aumentaron un 5,5% interanual.",
+          "por_que_importa": "El crecimiento continuo de los beneficios corporativos proporciona un soporte fundamental a las valoraciones bursátiles sin depender exclusivamente de la expansión de múltiplos. Sin embargo, la elevada concentración de las ganancias en sectores fuertemente regulados deja al índice expuesto a posibles giros macroeconómicos o cambios en el ciclo de tipos.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/2026/08/08/6a7622fbe5fdea6f3e8b457c.html"
+            }
+          ]
+        },
+        {
+          "titular": "El mercado cuestiona la rentabilidad real del despliegue masivo de la inteligencia artificial",
+          "que_ha_pasado": "Analistas e inversores cuestionan cada vez más el retorno económico directo de las cuantiosas inversiones destinadas al desarrollo e integración de soluciones de inteligencia artificial. Aunque la tecnología promete transformar procesos operativos, los elevados costes de infraestructura y la lenta monetización amenazan con reducir los márgenes proyectados.",
+          "por_que_importa": "Para el sector de la consultoría y los servicios profesionales, el reto estratégico pasa de la mera adopción tecnológica a la justificación del valor añadido medible en la cuenta de resultados. Si las empresas no logran trasladar la eficiencia operativa a ingresos netos, el mercado podría corregir las elevadas valoraciones del sector tecnológico.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-08-08/expectativas-contra-realidad-todo-tiene-un-precio.html"
+            }
+          ]
+        },
+        {
+          "titular": "China abre una investigación antimonopolio contra la plataforma turística Trip.com",
+          "que_ha_pasado": "El organismo regulador de la competencia en China ha concluido que Trip.com abusó de su posición dominante al controlar más del 50% de las reservas hoteleras del país. La investigación señala prácticas restrictivas hacia establecimientos hoteleros y competidores más pequeños dentro del mercado digital de viajes.",
+          "por_que_importa": "Esta actuación demuestra que Pekín mantiene una vigilancia estricta sobre las grandes plataformas tecnológicas locales cuando consolidan monopolios de facto. Para las corporaciones internacionales que operan en el ecosistema digital chino, el escrutinio regulatorio sigue siendo un factor de riesgo operativo de primer orden.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/2b3726f6-8149-4a74-a58e-eaaa20c9f2b9?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "OpenAI frena el desarrollo del modelo Astra tras detectar capacidad autónoma para ciberataques",
+          "que_ha_pasado": "OpenAI ha pausado el desarrollo de su nuevo modelo de inteligencia artificial denominado Astra al rebasar los umbrales críticos de seguridad establecidos. Las pruebas internas demostraron que el sistema podía identificar y ejecutar ciberataques contra infraestructuras protegidas sin intervención humana directa.",
+          "por_que_importa": "La detección de capacidades ofensivas autónomas en modelos avanzados refuerza el debate sobre la necesidad de marcos de auditoría obligatorios antes del despliegue comercial. Este incidente añade urgencia al cumplimiento normativo en ciberseguridad y gobernanza de datos para corporaciones e instituciones financieras.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+            }
+          ]
+        },
+        {
+          "titular": "Rippling lanza herramientas para controlar el gasto corporativo descontrolado en inteligencia artificial",
+          "que_ha_pasado": "La firma tecnológica Rippling ha presentado una plataforma de gestión financiera para auditar el gasto individual y departamental en herramientas de inteligencia artificial dentro de las empresas. El desarrollo surge tras la experiencia interna de la propia compañía, que multiplicó su presupuesto en licencias de IA en pocos meses.",
+          "por_que_importa": "La rápida proliferación de aplicaciones no centralizadas de IA en el entorno corporativo ha generado un fenómeno de gasto descontrolado y duplicidades operativas. Las herramientas de control de ROI y gobernanza del gasto en software se convierten así en un nicho estratégico para la gestión de costes tecnológicos en consultoría e IT.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/"
+            }
+          ]
+        },
+        {
+          "titular": "La UE amplía el acceso satelital público para la monitorización de incendios con el programa Copérnico",
+          "que_ha_pasado": "El servicio de observación terrestre de la Unión Europea ha incorporado nuevas visualizaciones específicas de incendios en el navegador Copernicus Browser. Esta mejora permite el acceso gratuito y en tiempo real a datos de satélite para supervisar la progresión de los fuegos en plena temporada estival.",
+          "por_que_importa": "El uso de infraestructuras espaciales públicas abarata la gestión de emergencias y la evaluación del impacto ambiental para administraciones y aseguradoras. La democratización de la información geoespacial facilita además la mitigación de riesgos climáticos y la planificación logística en sectores expuestos.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Bruselas exige a España repatriaciones efectivas en Ceuta tras la suspensión de Schengen por Italia",
+          "que_ha_pasado": "La Comisión Europea ha instado al Gobierno español a ejecutar de forma rápida las devoluciones de migrantes irregulares en Ceuta que no tengan derecho a asilo. La advertencia coincide con la decisión del Gobierno italiano de prorrogar los controles fronterizos temporales y suspender de facto el espacio Schengen en sus fronteras.",
+          "por_que_importa": "La falta de cohesión en las políticas migratorias europeas pone en riesgo el principio de libre circulación interna, uno de los pilares del mercado único. La discrepancia entre los modelos aplicados por los Estados miembros erosiona la confianza mutua e intensifica las fricciones diplomáticas entre los ejecutivos de la UE.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/italy-rejects-spain-border-control-ultimatum-ceuta-migrants/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/08/08/6a761616e85ece59338b4597.html"
+            }
+          ]
+        },
+        {
+          "titular": "La causa contra los Mossos reaviva el debate legal sobre la amnistía dos años después de la huida de Puigdemont",
+          "que_ha_pasado": "Tres agentes de la policía catalana se encuentran al borde de juicio por su presunta colaboración en la segunda evasión de Carles Puigdemont. Mientras tanto, el líder de Junts permanece a la espera de que el Tribunal Constitucional y el Tribunal Supremo resuelvan la aplicación definitiva de la ley de amnistía tras los pronunciamientos de la justicia europea.",
+          "por_que_importa": "La judicialización continuada de los hechos derivados del proceso independentista mantiene la inestabilidad en la mayoría parlamentaria del Gobierno central. La interpretación final de la ley de amnistía por los altos tribunales fijará un precedente decisivo sobre los límites del poder legislativo frente al judicial.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/cataluna/2026/08/08/6a761951e4d4d8690c8b45a0.html"
+            }
+          ]
+        },
+        {
+          "titular": "As Pontes aborda su reconversión industrial verde tras el cierre definitivo de su central térmica",
+          "que_ha_pasado": "La localidad gallega de As Pontes ha iniciado la demolición de su histórica planta térmica, dando por concluido medio siglo de actividad vinculada al carbón. El municipio aspira a reactivar su tejido económico mediante nuevos nudos de energía renovable y proyectos de inversión industrial con capital chino.",
+          "por_que_importa": "El caso de As Pontes refleja los desafíos prácticos de la transición energética justa en territorios históricamente monoindustriales. La atracción de capital asiático para la cadena de valor renovable plantea debates sobre la dependencia tecnológica europea en sectores estratégicos.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/galicia/2026-08-08/demolicion-central-termica-as-pontes-nueva-era_4401449/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La sequía en el Danubio deja al descubierto los cimientos del histórico Puente de Constantino",
+          "que_ha_pasado": "El descenso del caudal del río Danubio a causa de la escasez de precipitaciones ha sacado a la luz los restos del Puente de Constantino, una de las mayores obras de ingeniería del Imperio romano. La estructura conectaba las actuales geografías de Bulgaria y Rumanía en el siglo IV.",
+          "por_que_importa": "La emergencia de patrimonio arqueológico sumergido como consecuencia del cambio climático ofrece oportunidades únicas para la investigación histórica, pero evidencia al mismo tiempo la gravedad de las sequías recurrentes en los grandes cauces fluviales europeos.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-08/la-sequia-deja-al-descubierto-un-puente-romano-oculto-bajo-el-danubio.html"
+            }
+          ]
+        },
+        {
+          "titular": "Seix Barral rescata la obra de Pedro Lemebel para revisar su crónica social y política",
+          "que_ha_pasado": "La editorial Seix Barral ha iniciado la reedición de la producción literaria del escritor y activista chileno Pedro Lemebel. Sus crónicas, marcadas por un estilo incisivo y poético, denunciaron la marginación social, la homofobia y las desigualdades económicas en América Latina.",
+          "por_que_importa": "La recuperación del legado de Lemebel destaca la vigencia de la literatura testimonial hispanoamericana como herramienta de análisis sociocultural, permitiendo a nuevas generaciones conectar con los debates sobre identidad y memoria histórica en la región.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-08/el-regreso-de-pedro-lemebel-para-hacer-llorar-de-ternura-con-un-rifle-en-la-mano-a-una-nueva-generacion.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Represión financiera",
+    "explicacion": "Mecanismo macroeconómico mediante el cual los gobiernos aplican regulaciones, controles de capital y límites a los tipos de interés para canalizar fondos hacia la deuda pública a tipos inferiores a la tasa de inflación. Al mantener los rendimientos reales en terreno negativo, el Estado liquida gradualmente el valor real de su pasivo soberano a expensas de los ahorradores e inversores privados, evitando realizar ajustes fiscales directos o subidas explícitas de impuestos.",
+    "ejemplo": "Las políticas de tipos de interés ultra bajos implementadas por los bancos centrales tras la crisis de 2008, combinadas con requisitos regulatorios que obligaban a los bancos comerciales a mantener grandes volúmenes de bonos soberanos."
+  },
+  "fecha": "2026-08-08"
+}
