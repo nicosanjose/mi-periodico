@@ -1,0 +1,246 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "España e Italia reabren la brecha en Schengen por sus discrepancias migratorias",
+      "resumen": "Las diferencias ideológicas en política migratoria han desencadenado controles fronterizos mutuos que amenazan la libre circulación europea, aunque ambos Gobiernos han prometido a Bruselas su carácter temporal."
+    },
+    {
+      "titular": "La alta demanda de la IA aboca a Amazon a construir una megaplanta de gas en Texas",
+      "resumen": "La infraestructura energética para alimentar los centros de datos requeridos por la inteligencia artificial convierte un centro tecnológico en uno de los potenciales mayores focos contaminantes de Estados Unidos."
+    },
+    {
+      "titular": "Los resultados corporativos amortiguan el impacto de las tensiones bélicas en los mercados europeos",
+      "resumen": "El incremento previsto del 22 % en los beneficios del Stoxx Europe 600 durante el segundo trimestre ha devuelto la confianza a los inversores frente a la volatilidad en Oriente Medio."
+    },
+    {
+      "titular": "Las primarias demócratas confirman la erosión del 'lobby' proisraelí en Estados Unidos",
+      "resumen": "La victoria del candidato progresista El-Sayed en Míchigan consolida un giro generacional e ideológico en la política exterior estadounidense, a pesar de las millonarias campañas en su contra."
+    },
+    {
+      "titular": "La movilización de la Generación Z acorrala a los Gobiernos del Sur Global",
+      "resumen": "Movimientos de protesta liderados por jóvenes desafían las estructuras de poder tradicionales en economías emergentes, visibilizando un malestar social profundo ligado a la falta de oportunidades."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La disputa diplomática entre España e Italia pone bajo presión la libre circulación comunitaria",
+          "que_ha_pasado": "Las divergencias entre los Gobiernos de Pedro Sánchez y Giorgia Meloni en materia migratoria han derivado en la reinstauración de controles en las fronteras entre ambos países. A pesar de la escalada política, los ministerios de Interior de ambas naciones han trasladado a la Comisión Europea que la medida será estrictamente coyuntural.",
+          "por_que_importa": "El espacio Schengen es uno de los pilares fundamentales del mercado único europeo y de la integración regional. La proliferación de controles unilaterales entre Estados miembros debilita la gobernanza comunitaria y evidencia cómo las fricciones ideológicas domésticas impactan directamente en la movilidad de personas y bienes.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/spain-italy-reintroduce-border-controls-amid-migration-feud/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/08/08/6a777afde5fdea2e388b4577.html"
+            }
+          ]
+        },
+        {
+          "titular": "El 'lobby' proisraelí pierde tracción decisiva en las primarias del Partido Demócrata",
+          "que_ha_pasado": "El candidato progresista Abdul El-Sayed ha asegurado su victoria en las primarias demócratas de Míchigan frente a la candidatura respaldada por grupos de presión proisraelíes. La campaña opositora invirtió cerca de 30 millones de dólares para frenar al aspirante crítico con la política exterior hacia Tel Aviv.",
+          "por_que_importa": "Este resultado ratifica la transformación interna del Partido Demócrata, donde las bases más jóvenes y progresistas exigen una posición más dura frente al Gobierno israelí. Para la diplomacia de Washington, la fragmentación del consenso bipartidista tradicional dificulta el mantenimiento del respaldo incondicional a su principal aliado en Oriente Medio.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-09/las-primarias-democratas-muestran-la-decreciente-influencia-politica-de-israel-en-estados-unidos.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las mujeres afganas mantienen redes de resistencia clandestinas ante el repliegue internacional",
+          "que_ha_pasado": "A cinco años del regreso al poder de los talibanes, las mujeres y niñas afganas continúan organizando escuelas no autorizadas y emprendimientos privados ante la prohibición casi total de su vida pública. Mientras tanto, la Unión Europea intenta establecer vías pragmáticas de contacto con las autoridades de facto de Kabul.",
+          "por_que_importa": "El dilema occidental entre comprometerse con el régimen afgano para gestionar crisis humanitarias o condicional los apoyos al respeto de los derechos humanos sigue sin resolverse. La resistencia interna femenina expone el coste social de la normalización internacional del régimen ultraortodoxo.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-09/las-afganas-resisten-solas-tras-cinco-anos-de-terror-taliban-guardar-silencio-representaria-aceptar-la-injusticia.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las protestas juveniles en el Sur Global desestabilizan a las élites políticas tradicionales",
+          "que_ha_pasado": "Movimientos sociales impulsados por la Generación Z, como la llamada rebelión de las 'cucarachas' en la India, están articulando movilizaciones multitudinarias que desafían la autoridad establecida. Las protestas canalizan una frustración extendida por el desempleo juvenil, el encarecimiento de la vida y la corrupción institucional.",
+          "por_que_importa": "El bono demográfico de las economías emergentes corre el riesgo de convertirse en un factor de inestabilidad geopolítica si las instituciones locales no absorben la demanda de reformas socioeconómicas. La capacidad de estos movimientos descentralizados para coordinarse mediante redes sociales complica las estrategias de contención de las élites locales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-09/la-rebelion-de-la-generacion-z-sacude-el-sur-del-mundo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El impulso de las ganancias corporativas reactiva la renta variable en la Eurozona",
+          "que_ha_pasado": "El índice Stoxx Europe 600 avanza apoyado en unas previsiones de incremento medio del 22 % en los beneficios empresariales del segundo trimestre. Este optimismo de los inversores ha permitido amortiguar la incertidumbre generada por la inestabilidad geopolítica en Oriente Medio.",
+          "por_que_importa": "La resiliencia operativa de los grandes grupos europeos demuestra su capacidad para trasladar precios en un contexto inflacionario sin deteriorar excesivamente sus márgenes. Sin embargo, la brecha entre la solidez del sector corporativo y la debilidad macroeconómica de economías clave como Alemania sigue siendo un factor de riesgo latente.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El enfriamiento del turismo emisor empaña la campaña estival en España",
+          "que_ha_pasado": "El flujo de veraneantes procedentes de Alemania y Francia hacia destinos españoles ha sufrido un retroceso visible durante este verano. La ralentización económica en ambos países de origen, unida al incremento en el coste de los paquetes turísticos y a las continuas olas de calor, explica la menor afluencia.",
+          "por_que_importa": "El sector turístico es el principal motor del crecimiento español, por lo que cualquier contracción en sus mercados emisores clave afecta de forma directa al empleo y a la cuenta corriente del país. La convergencia entre cambio climático y pérdida de poder adquisitivo en el norte de Europa obliga a replantear el modelo de masificación estival.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-09/subidas-de-precios-y-calor-extremo-por-que-caen-las-cifras-de-franceses-y-alemanes-que-veranean-en-espana.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un millonario robo de criptomonedas expone el vacío regulatorio de los monederos de autocustodia",
+          "que_ha_pasado": "Un ataque informático contra un monedero en frío se ha zanjado con el sustracción de más de 100 millones de dólares en activos digitales. Dado que estos dispositivos operan al margen de los esquemas de supervisión financiera tradicional, los afectados carecen de cobertura o mecanismos de rescate legal.",
+          "por_que_importa": "A medida que los marcos regulatorios europeos y estadounidenses endurecen la vigilancia sobre las plataformas centralizadas, la actividad se desplaza hacia infraestructuras descentralizadas de autocustodia. Este incidente reaviva el debate sobre si los supervisores deben intervenir en el desarrollo de código para proteger el capital minorista.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/criptomonedas/2026/08/08/6a760f38468aebbb6d8b4599.html"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania debate flexibilizar la apertura dominical del comercio para dinamizar su economía",
+          "que_ha_pasado": "La coalición de Gobierno alemana analiza modificar la restricción centenaria que prohíbe el funcionamiento del comercio minorista los domingos. La propuesta busca otorgar mayor margen operativo a las tiendas para paliar la debilidad del consumo interno, una medida que cuenta con el respaldo del 50 % de la ciudadanía.",
+          "por_que_importa": "El cuestionamiento de un consenso social histórico refleja el nivel de urgencia del Ejecutivo germano para reactivar el crecimiento. Para el sector minorista, enfrentado a la competencia estructural del comercio electrónico, el acceso al fin de semana completo resulta vital para sostener volúmenes de venta.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-09/abrir-en-domingo-el-tabu-de-los-comercios-en-alemania-que-el-gobierno-quiere-romper.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Amazon proyecta una central de gas masiva en Texas para abastecer sus centros de IA",
+          "que_ha_pasado": "Para garantizar el suministro ininterrumpido de su nuevo 'data center' en Pecos County, Amazon promueve la construcción de una planta energética a base de gas. De concretarse los planes, la instalación se convertirá en una de las fuentes individuales con mayores emisiones de gases de efecto invernadero de Estados Unidos.",
+          "por_que_importa": "El enorme consumo energético derivado de los modelos de inteligencia artificial está colisionando con los objetivos corporativos de descarbonización. La necesidad de contar con potencia de base permanente está forzando a las grandes tecnológicas a recurrir de nuevo a los combustibles fósiles frente a la intermitencia de las renovables.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant"
+            }
+          ]
+        },
+        {
+          "titular": "DeepMind revoluciona la predicción de huracanes con un modelo de IA de código abierto",
+          "que_ha_pasado": "La división de IA de Google ha desarrollado WeatherNext, un modelo capaz de anticipar la trayectoria de fenómenos meteorológicos extremos utilizando datos de menor resolución. Los científicos han expresado su sorpresa ante la precisión alcanzada con una fracción del coste computacional habitual.",
+          "por_que_importa": "La modelización meteorológica ha requerido históricamente supercomputadores estatales altamente costosos. Al democratizar herramientas de predicción mediante código abierto y menor uso de memoria, las agencias de emergencias en países en desarrollo podrán anticipar desastres naturales con mayor agilidad.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
+            }
+          ]
+        },
+        {
+          "titular": "OpenAI integra creación de presentaciones tras adquirir la 'startup' NextSlide",
+          "que_ha_pasado": "OpenAI ha cerrado la compra de NextSlide, una firma dedicada al diseño automatizado de diapositivas mediante inteligencia artificial. Todo el equipo de la empresa adquirida ha pasado a incorporarse directamente al desarrollo de nuevas funcionalidades para ChatGPT.",
+          "por_que_importa": "La operación confirma la estrategia de los proveedores de LLM de evolucionar desde la generación de texto simple hacia la automatización completa de flujos de trabajo en el entorno corporativo. Herramientas clave en consultoría y estrategia como las presentaciones ejecutivas serán asumidas progresivamente por asistentes integrados.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El PSOE de Andalucía fía su reconstrucción al control territorial sin apelar a primarias",
+          "que_ha_pasado": "La cúpula del PSOE andaluz ha diseñado una estrategia con vistas a las elecciones municipales de 2027 basada en blindar las candidaturas locales y limitar el uso de procesos de primarias. La dirección busca consolidar sus feudos municipales tras los retrocesos autonómicos de los últimos años.",
+          "por_que_importa": "El viraje hacia la disciplina orgánica refleja la prioridad de la federación más numerosa del socialismo español por evitar fracturas internas. La retención del poder local es vista como el paso indispensable para articular cualquier opción de recuperar el Gobierno de la Junta de Andalucía a medio plazo.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/andalucia/2026/08/09/6a4e62d121efa0b7468b456f.html"
+            }
+          ]
+        },
+        {
+          "titular": "Investigadores españoles crean un sistema móvil para el diagnóstico precoz de la malaria",
+          "que_ha_pasado": "Un equipo científico nacional ha desarrollado una herramienta informática para 'smartphones' capaz de procesar imágenes de test rápidos de detección de malaria. La aplicación evalúa los resultados en tiempo real para clasificar de inmediato la gravedad de los contagios.",
+          "por_que_importa": "La descentralización del diagnóstico mediante dispositivos de uso cotidiano es clave en entornos con escasa infraestructura hospitalaria. Este desarrollo optimiza el triaje de pacientes en zonas endémicas y demuestra la aplicación práctica de la tecnología sanitaria para reducir la mortalidad en el Sur Global.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/salud/2026/08/09/6a76fafcfc6c83bb678b45a2.html"
+            }
+          ]
+        },
+        {
+          "titular": "El consumo televisivo estival desplaza la hegemonía de TV3 en el mercado catalán",
+          "que_ha_pasado": "La cadena pública catalana ha perdido la primera posición de audiencia mensual tras dos años ininterrumpidos en cabeza. La coincidencia de grandes eventos deportivos retransmitidos por TVE ha provocado un vuelco en el consumo que ha generado inquietud en el ámbito político autonómico.",
+          "por_que_importa": "TV3 opera no solo como operador audiovisual sino como elemento central en la vertebración lingüística y política del independentismo. La pérdida de cuota de pantalla expone la vulnerabilidad de las cadenas autonómicas frente a la concentración de grandes eventos en cadenas de alcance estatal y plataformas.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-09/seleccion-hunde-tv3-julio-la-1-y-2cat-suma-mas_4402229/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El ensayo 'Los barrios del buen vivir' propone un giro humanista en la planificación urbana",
+          "que_ha_pasado": "La arquitecta Izaskun Chinchilla ha publicado una obra en la que analiza la desconexión entre el diseño de las ciudades contemporáneas y el bienestar de sus habitantes. El libro propone priorizar en el trazado urbano espacios orientados al descanso, los cuidados y la convivencia comunitaria.",
+          "por_que_importa": "Frente a modelos urbanos dominados por la eficiencia del tráfico y la especulación inmobiliaria, la arquitectura pública debate cómo adaptar las metrópolis al envejecimiento poblacional y a la crisis climática. El texto aporta un marco teórico conceptual útil para el desarrollo de políticas públicas locales.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-09/en-busca-de-la-buena-vida-en-las-ciudades-no-se-planifica-la-urbe-pensando-en-el-bienestar-ciudadano.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los creadores de contenido reducen su sobreexposición ante los riesgos de las redes",
+          "que_ha_pasado": "Figuras del ámbito cultural están transformando el perfil de sus redes sociales hacia un uso estrictamente profesional, restringiendo la difusión de su vida privada. Esta retirada del 'hipercompartir' responde a los crecientes riesgos de reputación, acoso y explotación comercial no deseada.",
+          "por_que_importa": "El cambio marca el agotamiento del modelo inicial de las plataformas basado en la cercanía íntima e ilusoria entre artista y público. La profesionalización de los perfiles muestra que las estrellas culturales priorizan la gestión del riesgo de marca personal frente al algoritmo de interacción constante.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-09/la-nueva-era-de-las-redes-sociales-y-los-artistas-de-la-intimidad-espontanea-a-la-controlada.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Efecto Látigo (Bullwhip Effect)",
+    "explicacion": "El 'efecto látigo' es un fenómeno clásico en la gestión de cadenas de suministro donde pequeñas variaciones en la demanda del consumidor final provocan distorsiones y oscilaciones cada vez mayores a medida que la información se desplaza hacia arriba en la cadena de producción (minoristas, distribuidores, fabricantes y proveedores de materias primas). Esto ocurre debido a la falta de visibilidad compartida, retrasos en la entrega y el acopio precautorio de inventario por parte de los intermediarios para evitar el desabastecimiento.",
+    "ejemplo": "Las turbulencias operativas vividas tras la pandemia, donde pequeños picos en la demanda de electrónica provocaron una sobreorden de pedidos masiva que derivó primero en una escasez global de microchips y, posteriormente, en un exceso de inventario sin vender."
+  },
+  "fecha": "2026-08-09"
+}
