@@ -1,0 +1,238 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Trump afianza su control sobre el Departamento de Justicia con nombramientos afines",
+      "resumen": "La designación de su exabogado como fiscal general busca blindar al presidente y redirigir las causas judiciales contra sus opositores políticos."
+    },
+    {
+      "titular": "El auge de la extrema derecha amenaza con frenar la inversión privada en Alemania",
+      "resumen": "El Ministerio de Economía germano advierte que el avance de AfD pone en riesgo los 3,75 billones de euros necesarios para la transición económica antes de 2040."
+    },
+    {
+      "titular": "Australia proyecta su primera refinería en seis décadas por el conflicto en Oriente Próximo",
+      "resumen": "La vulnerabilidad derivada de importar el 80% de su energía obliga a Canberra a buscar soberanía de refinado ante las tensiones entre EE. UU. e Irán."
+    },
+    {
+      "titular": "La Agencia Espacial Europea advierte de una preocupante escasez de cohetes lanzadores para 2030",
+      "resumen": "La demanda de misiones satelitales supera la capacidad industrial de la UE, amenazando la autonomía del continente en la infraestructura orbital estratégica."
+    },
+    {
+      "titular": "Anthropic extiende la programación sin supervisión al activar el modo autónomo de Claude Code",
+      "resumen": "La automatización del desarrollo informático da un paso decisivo al reducir el control humano en la ejecución de código avanzado."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Trump reestructura el Departamento de Justicia para blindarse y perseguir a sus rivales",
+          "que_ha_pasado": "Donald Trump ha situado a su exabogado personal Todd Blanche al frente de la Fiscalía General de Estados Unidos. El nombramiento busca reorientar los recursos del departamento hacia las causas abiertas contra sus detractores políticos, al tiempo que neutraliza cualquier procedimiento judicial en su contra.",
+          "por_que_importa": "Esta maniobra supone un deterioro sin precedentes en la independencia del poder judicial estadounidense frente al Ejecutivo. Para el sistema de contrapesos de Washington, la politización de la justicia debilita la confianza institucional interna y sienta un peligroso precedente sobre el uso del aparato estatal contra la oposición política.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-10/trump-estrecha-el-control-sobre-la-justicia-en-estados-unidos.html"
+            }
+          ]
+        },
+        {
+          "titular": "Narva encarna la tensión constante de la frontera báltica ante las tácticas de Moscú",
+          "que_ha_pasado": "La ciudad fronteriza de Narva, situada en el extremo oriental de Estonia, permanece en alerta máxima ante el constante riesgo de injerencia por parte de Rusia. Sus habitantes conviven entre la cotidianeidad urbana y la posibilidad real de enfrentarse a operaciones de desestabilización o incursiones militares.",
+          "por_que_importa": "Narva es el punto más vulnerable del flanco oriental de la OTAN, donde se pone a prueba la cohesión de la Alianza Atlántica ante estrategias no convencionales. Un incidente en esta frontera podría activar el Artículo 5 del Tratado de Washington, convirtiendo a la pequeña urbe báltica en el detonante de una escalada militar directa con Moscú.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-10/narva-la-ciudad-en-primera-linea-de-la-guerra-hibrida-de-rusia.html"
+            }
+          ]
+        },
+        {
+          "titular": "El auge del secesionismo en Alberta plantea una hipotética integración territorial con EE. UU.",
+          "que_ha_pasado": "El movimiento independentista en la provincia canadiense de Alberta ha cobrado un impulso inédito en vísperas de una consulta clave sobre su estatus político. Diversas facciones separatistas plantean abiertamente la posibilidad de romper con Ottawa para solicitar la adhesión a Estados Unidos como el estado número 51.",
+          "por_que_importa": "Alberta concentra las mayores reservas de hidrocarburos de Canadá, por lo que su eventual ruptura alteraría drásticamente la arquitectura económica y energética de Norteamérica. Un giro de esta magnitud reconfiguraría las dinámicas del T-MEC y tensionaría las relaciones bilaterales entre Washington y el gobierno federal canadiense.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.com/news/magazine/2026/08/09/canada-alberta-separatists-trump-01022402?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La ruptura de la derecha tradicional en Polonia complica la gobernabilidad del primer ministro Tusk",
+          "que_ha_pasado": "El principal bloque de la oposición conservadora en Polonia se ha fragmentado tras intensas disputas internas sobre su estrategia política. A pesar de este colapso en la derecha, los analistas advierten que la división no se traducirá automáticamente en un mayor margen de maniobra para el Ejecutivo proeuropeo de Donald Tusk.",
+          "por_que_importa": "Polonia se ha consolidado como el pivote de la defensa europea y el principal aliado de Ucrania en la región, por lo que su estabilidad interior es crítica para Bruselas. La debilidad parlamentaria de Tusk frena las reformas necesarias para revertir el deterioro democrático de la etapa anterior y complica la adopción de medidas económicas clave.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/poland-right-wing-split-donald-tusk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Berlín alerta de que el empuje electoral de AfD ahuyentará la inversión internacional",
+          "que_ha_pasado": "La ministra de Economía alemana ha señalado que la consolidación política de la extrema derecha representa un riesgo directo para la llegada de capitales extranjeros. El Gobierno estima que la industria nacional necesita captar 3,75 billones de euros en inversión privada antes de 2040 para culminar su transición tecnológica y energética.",
+          "por_que_importa": "Alemania padece un estancamiento estructural que amenaza la posición del euro y el crecimiento del mercado único europeo. Si la incertidumbre política y la retórica proteccionista de Alternativa por Alemania frenan la llegada de capital internacional, la mayor economía del continente perderá competitividad de forma irreversible frente a EE. UU. y China.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/581a7c18-5deb-4cd4-b014-f4d275ba73d2?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Australia evalúa construir una refinería tras sesenta años para mitigar el shock del petróleo",
+          "que_ha_pasado": "El Gobierno australiano contempla la edificación de una nueva refinería nacional ante el desabastecimiento provocado por las hostilidades en Oriente Próximo. En la actualidad, el país oceánico importa cerca del 80% de sus necesidades energéticas, lo que expone su economía a los vaivenes geopolíticos lejanos.",
+          "por_que_importa": "La crisis pone de manifiesto las vulnerabilidades de la cadena de suministro global de refinados, donde la externalización ha primado sobre la seguridad nacional. Para los países importadores netos, la transición energética debe convivir con inversiones millonarias en infraestructuras fósiles de emergencia para garantizar la resiliencia en tiempos de guerra.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-10/australia-estudia-construir-su-primera-refineria-en-seis-decadas-para-aplacar-el-impacto-de-la-guerra-entre-ee-uu-e-iran.html"
+            }
+          ]
+        },
+        {
+          "titular": "La Agencia Espacial Europea prevé un grave déficit en la capacidad de lanzadores para 2030",
+          "que_ha_pasado": "El director de la Agencia Espacial Europea ha advertido de que la demanda de misiones en órbita crecerá a un ritmo muy superior a la capacidad industrial instalada en el continente. Esta brecha operativa amenaza con dejar desatendidos proyectos comerciales y gubernamentales decisivos para la década próxima.",
+          "por_que_importa": "El acceso autónomo al espacio es un pilar estratégico para la soberanía tecnológica, el posicionamiento satelital y la defensa europea. Mantener una dependencia continuada de empresas estadounidenses como SpaceX o de terceros países debilita la capacidad de decisión geoestratégica de la Unión Europea y perjudica a su ecosistema industrial de alta tecnología.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/b3a4fbe1-1d0a-47a0-8a6a-148f2a482678?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Las corporaciones habilitan zonas libres de tecnología para reducir el agotamiento por la IA",
+          "que_ha_pasado": "Grandes compañías han comenzado a remodelar sus sedes corporativas para integrar espacios sin pantallas ni dispositivos electrónicos. La iniciativa busca mitigar la sobrecarga cognitiva y el estrés mental acumulado por los empleados debido a la exigencia de productividad constante que imponen las herramientas de inteligencia artificial.",
+          "por_que_importa": "La adopción masiva de la IA en entornos corporativos está generando paradojas operativas: el aumento de la velocidad de trabajo degrada la salud mental de las plantillas y eleva las bajas laborales. Para el sector de la consultoría y los servicios profesionales, gestionar el factor humano se convierte en el principal cuello de botella de la transformación digital.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/negocios/2026-08-10/asi-son-las-nuevas-oficinas-para-trabajadores-quemados-por-la-ia.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Anthropic predetermina la ejecución autónoma en Claude Code y reduce la supervisión humana",
+          "que_ha_pasado": "Anthropic modificará la configuración de su herramienta Claude Code para activar por defecto el modo automatizado de programación. Esta actualización permitirá a los sistemas de IA escribir, probar y corregir código informático avanzado de forma independiente con una intervención mínima del desarrollador.",
+          "por_que_importa": "El salto desde la codificación asistida a la programación autónoma altera drásticamente la estructura de costes en la industria del software y la consultoría tecnológica. La automatización de tareas complejas acelera los ciclos de desarrollo de producto, pero exige rediseñar los marcos de gobernanza para evitar fallos de seguridad en la infraestructura digital.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+            }
+          ]
+        },
+        {
+          "titular": "Situational Awareness inyecta 400 millones de dólares en la emergente de chips Source Foundry",
+          "que_ha_pasado": "El fondo de inversión especializado en inteligencia artificial Situational Awareness ha completado una financiación de 400 millones de dólares en la emergente Source Foundry. La operación demuestra la apuesta del capital riesgo por nuevas arquitecturas de procesamiento que rompan el dominio de mercado de los gigantes de los semiconductores.",
+          "por_que_importa": "La infraestructura de hardware sigue siendo la variable geopolítica y económica más codiciada en la carrera por la supremacía tecnológica. La entrada de grandes volúmenes de capital privado en desarrolladores alternativos busca aliviar la escasez global de procesadores y reducir la dependencia respecto a las cadenas de suministro concentradas en Taiwán.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/"
+            }
+          ]
+        },
+        {
+          "titular": "Zoox y Uber aceleran la implementación comercial de los vehículos autónomos impulsados por IA",
+          "que_ha_pasado": "Las plataformas de transporte y tecnología están intensificando los preparativos operacionales para el despliegue a gran escala de sus flotas de vehículos sin conductor. El avance conjunto de la visión por computador y el aprendizaje profundo ha acelerado la viabilidad comercial de los servicios de transporte urbano autónomo.",
+          "por_que_importa": "La transición hacia los robotaxis representa una disrupción estructural para la movilidad urbana, las aseguradoras y la regulación del tráfico. La integración de la IA en el transporte físico redefinirá la economía de la última milla y exigirá un replanteamiento profundo de la fiscalidad sobre el trabajo automatizado.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La ola de calor extremo en el Atlántico agrava los incendios forestales en varios puntos de España",
+          "que_ha_pasado": "Los equipos de emergencia combaten intensos incendios en Segovia, Castellón y Huelva que han provocado la evacuación de cientos de personas. La virulencia de los fuegos coincide con los registros históricos de temperatura en la superficie del mar en Europa occidental, que han alcanzado niveles récord este verano.",
+          "por_que_importa": "El recalentamiento de los océanos altera los patrones meteorológicos y prolonga los periodos de sequía estival en la península ibérica, encadenando incendios fuera de la capacidad de extinción habitual. El coste económico en protección civil, la pérdida de masa forestal y los seguros tensionan los presupuestos autonómicos y estatales.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/08/10/6a795e5c21efa088308b4592.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un posible indulto al exalcalde Pedro Pacheco sacude los equilibrios políticos en Cádiz",
+          "que_ha_pasado": "La eventual gracia gubernamental al histórico exalcalde de Jerez, Pedro Pacheco, despejaría su inhabilitación judicial y permitiría su retorno a la política activa. Su regreso amenaza con alterar las alianzas locales en el Ayuntamiento de Jerez y desequilibrar la gobernabilidad en la Diputación de Cádiz.",
+          "por_que_importa": "El uso del indulto político vuelve a tensar el debate sobre la separación de poderes y la regeneración institucional en España. En la política territorial, el retorno de figuras con fuerte arraigo local puede fragmentar aún más el voto en municipios clave, complicando la formación de mayorías estables en las instituciones provinciales.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-10/cachondeo-justicia-indulto-pedro-pacheco-cadiz-jerez_4402247/"
+            }
+          ]
+        },
+        {
+          "titular": "Una denuncia ante la justicia revela presuntas irregularidades contractuales en la RFEF",
+          "que_ha_pasado": "Un exdirectivo de la Real Federación Española de Fútbol ha presentado un escrito judicial en el marco del caso Supercopa denunciando el desvío de 700.000 euros. El escrito señala la adjudicación deliberada de contratos duplicados y desproporcionados a empresas vinculadas a la anterior gestión.",
+          "por_que_importa": "El caso subraya los fallos sistémicos de gobernanza y supervisión en las entidades deportivas que gestionan recursos multimillonarios e imagen pública nacional. La persistencia de estos escándalos salpica la reputación de España en la organización de eventos internacionales clave, como el Mundial de 2030, y acelera las exigencias de reforma legal.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-08-10/un-excargo-de-la-rfef-denuncia-un-despilfarro-de-700-000-en-contratos-duplicados-y-desproporcionados_4403491/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Nadav Lapid denuncia la normalización del conflicto y el boicot cultural al cine israelí",
+          "que_ha_pasado": "El cineasta israelí Nadav Lapid ha declarado que la sociedad de su país ha asumido como inevitable la crisis humanitaria y las operaciones militares en Gaza. Al mismo tiempo, el director ha sufrido el rechazo de sectores propalestinos en festivales internacionales, obligando a su retirada de varios jurados cinematográficos.",
+          "por_que_importa": "El caso de Lapid ilustra la creciente polarización en el ámbito cultural global, donde los artistas críticos con sus propios gobiernos quedan atrapados entre la censura interna y el boicot exterior. Refleja cómo las herramientas del aislamiento diplomático y cultural terminan desmantelando los pocos espacios de disidencia interna y diálogo que persisten.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-10/nadav-lapid-cineasta-israeli-la-gente-de-mi-pais-estaba-mentalizada-para-el-genocidio-en-gaza-desde-antes-del-7-de-octubre.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los Encuentros de Arlés cuestionan el valor documental de la fotografía en la era digital",
+          "que_ha_pasado": "El festival fotográfico de Arlés centra su nueva edición en la delgada línea que separa la imagen como registro histórico fidedigno de la fotografía como ficción construida. La muestra analiza desde antiguas imágenes manipuladas de avistamientos astronómicos hasta la proliferación actual de contenidos hiperrealistas generados sintéticamente.",
+          "por_que_importa": "En un entorno dominado por la generación de imágenes mediante inteligencia artificial, la pérdida del valor probatorio del archivo visual socava el periodismo y la memoria histórica. La capacidad de construir pruebas irrefutables falsas representa un desafío crítico para la verificación de hechos en conflictos armados y procesos democráticos.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-10/ver-para-no-creer-cuando-la-fotografia-deja-de-ser-una-prueba-y-se-convierte-en-ficcion.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Riesgo moral (Moral Hazard)",
+    "explicacion": "El riesgo moral es un fenómeno económico que ocurre cuando una de las partes en una transacción asume mayores riesgos de los que asumiría normalmente porque sabe que los costes o consecuencias negativas de un eventual fracaso serán trasladados a un tercero. Esto suele suceder cuando existe una cobertura o garantía implícita —como un rescate estatal o un seguro total— que elimina el incentivo para actuar con prudencia. En geopolítica y finanzas internacionales, el riesgo moral puede distorsionar las decisiones de inversión corporativa o la disciplina fiscal de un Estado al asumir que los bancos centrales o las instituciones multilaterales actuarán como prestamistas de último recurso.",
+    "ejemplo": "Las garantías estatales implícitas sobre la capacidad de refinado estratégico en Australia o los rescates gubernamentales a gigantes de la automoción reducen los incentivos de estas empresas para gestionar de forma autónoma sus riesgos operativos frente a shocks internacionales."
+  },
+  "fecha": "2026-08-10"
+}
