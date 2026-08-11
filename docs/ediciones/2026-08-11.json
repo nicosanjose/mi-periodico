@@ -1,0 +1,243 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Un terremoto de magnitud 7,4 en Colombia activa una emergencia internacional",
+      "resumen": "Más de 130 muertos y cientos de heridos dejan graves daños en Chocó y Cali, mientras EE. UU. y México envían ayuda de emergencia."
+    },
+    {
+      "titular": "Preocupación de la inteligencia española por el plan industrial de SAIC en Ferrol",
+      "resumen": "El CNI evalúa si la planta proyectada por el gigante automotriz chino busca eludir los aranceles de la UE a los vehículos eléctricos."
+    },
+    {
+      "titular": "Suecia critica la regularización de migrantes en España por sus riesgos para Schengen",
+      "resumen": "El primer ministro sueco advierte que la medida extraordinaria socava la política fronteriza común y la seguridad en el espacio de libre circulación."
+    },
+    {
+      "titular": "Meta impulsa modelos de IA local y sin conexión para competir con OpenAI y Google",
+      "resumen": "La tecnológica apuesta por algoritmos abiertos ejecutables en el propio dispositivo para recortar costes en la nube y elevar la privacidad."
+    },
+    {
+      "titular": "PSC y ERC pactan abrir la negociación de los Presupuestos catalanes de 2027",
+      "resumen": "Salvador Illa y Oriol Junqueras vinculan las cuentas de la Generalitat a la evolución del nuevo modelo de financiación autonómica."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Un devastador terremoto de magnitud 7,4 sacude Colombia y desata una emergencia internacional",
+          "que_ha_pasado": "Un potente seísmo con epicentro en la región del Chocó ha causado más de 130 fallecidos y cerca de 600 heridos en Colombia, colapsando decenas de edificios en ciudades como Cali. El recién instalado gobierno de Abelardo de la Espriella ha activado los protocolos de rescate mientras potencias como Estados Unidos y México han ofrecido ayuda de emergencia.",
+          "por_que_importa": "El desastre natural supone la primera gran prueba de gestión para la nueva administración colombiana en un contexto de alta fragilidad institucional. Además, la rápida respuesta de Washington y México subraya el interés geopolítico por mantener la estabilidad en un actor clave para la seguridad hemisférica y el control migratorio.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/mexico/2026-08-10/estados-unidos-y-mexico-tienden-la-mano-a-colombia-y-ofrecen-enviar-ayuda-tras-el-terremoto.html"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news"
+            }
+          ]
+        },
+        {
+          "titular": "Trump firma una orden ejecutiva para restringir y fragmentar el calendario de vacunación infantil",
+          "que_ha_pasado": "La Casa Blanca ha promulgado un decreto que limita las directrices federales sobre la administración de vacunas infantiles y exige separar las dosis combinadas contra sarampión, paperas y rubéola. La Asociación Americana de Pediatría ha calificado la medida de peligrosa para la salud pública nacional.",
+          "por_que_importa": "Esta decisión institucionaliza posturas del movimiento escéptico hacia las vacunas dentro del aparato ejecutivo estadounidense, desafiando el consenso científico global. La fragmentación del calendario sanitario amenaza con reducir los índices de inmunización colectiva y reabrir brechas epidemiológicas en la mayor potencia económica mundial.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Malestar diplomático entre Australia y Japón tras comentarios del primer ministro sobre Tokio",
+          "que_ha_pasado": "La oposición australiana ha elevado sus críticas contra Anthony Albanese tras trascender una nota de protesta enviada por el gobierno japonés debido a unos comentarios inapropiados del mandatario sobre melones de lujo nipones. Pese a que Tokio ha rebajado públicamente la tensión, la polémica se ha instalado en el debate político interno de Canberra.",
+          "por_que_importa": "En la arquitectura de seguridad del Indopacífico, la alianza entre Australia y Japón es un pilar fundamental para contener la asertividad china. Las fricciones de etiqueta política, aunque menores en apariencia, desgastan la imagen institucional y la cohesión diplomática entre los socios estratégicos de la región.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/australia-news/live/2026/aug/11/australia-politics-live-rba-interest-rates-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ndis-gambling-ads-ntwnfb"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El proyecto del gigante automotriz chino SAIC en Ferrol despierta recelos de inteligencia en España",
+          "que_ha_pasado": "La multinacional estatal china SAIC evalúa instalar una planta de ensamblaje en Ferrol para producir 120.000 vehículos al año de su marca MG. La operación ha generado preocupación en el Centro Nacional de Inteligencia ante la sospecha de que Pekín utilice la inversión para esquivar los aranceles comunitarios a los vehículos eléctricos.",
+          "por_que_importa": "El movimiento refleja el delicado equilibrio que debe mantener España entre captar inversión extranjera industrial y alinearse con la política comercial defensiva de la UE frente a China. Además, la ubicación en Ferrol —plaza clave de la industria naval militar española— eleva las implicaciones sobre la seguridad de las infraestructuras críticas.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/motor/2026/08/11/6a79f9cee5fdeace5d8b4573.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-11/el-plan-de-la-china-saic-en-espana-que-preocupa-al-cni-120000-coches-made-in-ferrol-para-esquivar-los-aranceles.html"
+            }
+          ]
+        },
+        {
+          "titular": "Suecia cuestiona la regularización extraordinaria de migrantes en España por sus efectos en Schengen",
+          "que_ha_pasado": "El primer ministro sueco, Ulf Kristersson, ha tildado de \"muy mala idea\" el proceso de regularización masiva planificado por el Ejecutivo español. Kristersson sostiene que conceder estatus legal a gran escala socava la integridad del espacio de libre circulación europeo y desincentiva la política migratoria común.",
+          "por_que_importa": "Las tensiones ponen de manifiesto la profunda brecha ideológica y pragmática entre los países del sur de Europa y los socios nórdicos en materia migratoria. La decisión de Madrid reabre el debate sobre hasta qué punto las políticas nacionales de asilo y regularización impactan en la seguridad fronteriza global de la zona Schengen.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/7c13bb4b-9f9f-40fe-b77b-b874a8285b92?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Estados Unidos retira los cargos por fraude y soborno contra el magnate indio Gautam Adani",
+          "que_ha_pasado": "El Departamento de Justicia de EE. UU. ha decidido desestimar la causa penal abierta contra el multimillonario indio Gautam Adani por presuntos delitos de soborno e insinceridad financiera. Tras la notificación del Gobierno, un juez federal de Nueva York ha cerrado formalmente el proceso judicial contra el conglomerado Adani Group.",
+          "por_que_importa": "El sobreseimiento alivia la presión financiera sobre uno de los grupos empresariales más poderosos de la India, cuyas operaciones abarcan puertos, energía e infraestructuras estratégicas. El caso pone de relieve la compleja interacción entre los litigios transfronterizos estadounidenses y las relaciones geoeconómicas con Nueva Delhi.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/aug/10/gautam-adani-charges-dismissed-doj"
+            }
+          ]
+        },
+        {
+          "titular": "El avance de la inteligencia artificial amenaza la competitividad del sector de servicios TI en India",
+          "que_ha_pasado": "La rápida automatización de tareas de programación y soporte mediante modelos de inteligencia artificial está erosionando el modelo de negocio del sector tecnológico indio. La industria del software y la externalización de procesos, uno de los grandes motores de empleo y exportaciones del país, enfrenta una reestructuración forzosa.",
+          "por_que_importa": "India ha basado gran parte de su crecimiento de clase media en la exportación de servicios tecnológicos de valor medio. La disrupción generada por la IA generativa obliga a las consultoras e ingenieras a escalar hacia tareas de mayor complejidad, arriesgándose a destruir millones de puestos de trabajo cualificados en el Sur Global.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/dee4bd2c-fbad-4713-9b14-22d441967ce4?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Meta redefine su estrategia de inteligencia artificial impulsando modelos abiertos que funcionan sin conexión",
+          "que_ha_pasado": "Meta ha lanzado una nueva generación de modelos lingüísticos de código abierto capaces de ejecutarse directamente en el procesador del usuario sin necesidad de conectarse a servidores remotos. La compañía busca acelerar la adopción masiva de sus tecnologías para competir con los entornos cerrados de OpenAI y Google.",
+          "por_que_importa": "El salto del procesamiento en la nube al procesamiento local reduce los costes operativos de infraestructura y refuerza la privacidad de los datos empresariales. Esta estrategia descentralizada de Mark Zuckerberg pretende estandarizar la arquitectura de Meta en el desarrollo global de herramientas de IA.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/robotica-e-ia/meta-quiere-plantar-cara-a-openai-google-arma-muy-particular-ia-potente-que-funciona-offline-tu-ordenador"
+            },
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
+            }
+          ]
+        },
+        {
+          "titular": "OpenAI lanza un modelo especializado en ciberseguridad para combatir ataques automatizados",
+          "que_ha_pasado": "La firma creadora de ChatGPT ha integrado una nueva herramienta capacitada específicamente para la defensa informática dentro de su iniciativa Daybreak. El modelo está diseñado para detectar vulnerabilidades en código y contrarrestar ofensivas cibernéticas orquestadas por agentes maliciosos mediante IA.",
+          "por_que_importa": "El auge de la IA ha democratizado la creación de malware sofisticado, elevando la frecuencia e impacto de los ciberataques contra corporaciones e instituciones públicas. La medida muestra la necesidad de utilizar defensas automatizadas avanzadas para responder en tiempo real al dinamismo del delito informático.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/"
+            }
+          ]
+        },
+        {
+          "titular": "La presión tecnológica de China pone a prueba el monopolio global de ASML en litografía avanzada",
+          "que_ha_pasado": "El fabricante holandés ASML afronta un aumento en los esfuerzos del ecosistema industrial chino por replicar y sustituir sus equipos de fotolitografía para semiconductores. Pekín busca reducir su vulnerabilidad frente a los bloqueos de exportación impuestos por Occidente mediante el desarrollo de tecnologías alternativas.",
+          "por_que_importa": "ASML representa un estrangulamiento técnico clave en la cadena global de suministro de microchips avanzados. El intento chino de romper este monopolio redefine la competencia geoeconómica de alta tecnología y acelera la fragmentación del mercado mundial de semiconductores.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/empresas-y-economia/asml-construyo-uno-monopolios-valiosos-mundo-china-le-ha-recordado-que-nada-dura-para-siempre"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Illa y Junqueras inician la negociación de los Presupuestos catalanes de 2027 vinculados al modelo de financiación",
+          "que_ha_pasado": "Salvador Illa y Oriol Junqueras han abierto conversaciones formales para explorar un acuerdo presupuestario en Cataluña con vista a 2027. Las negociaciones progresan a medida que avanza la propuesta de reforma del sistema de financiación autonómica comprometida a nivel estatal.",
+          "por_que_importa": "El acercamiento consolida la estabilidad institucional de la Generalitat y afianza el bloque de gobernabilidad en el Congreso de los Diputados. La articulación del nuevo modelo financiero para Cataluña condicionará el debate fiscal en el resto de comunidades autónomas durante la legislatura.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-11/illa-junqueras-exploran-nuevo-acuerdo-presupuestos-generalitat_4403801/"
+            }
+          ]
+        },
+        {
+          "titular": "La DGT advierte sobre complicaciones de tráfico ante el fenómeno astronómico del eclipse solar",
+          "que_ha_pasado": "La Dirección General de Tráfico ha solicitado a los conductores no detenerse en el arcén y utilizar únicamente aparcamientos habilitados ante la afluencia prevista durante el eclipse solar. La coincidencia con los desplazamientos estivales podría sumar hasta 1,5 millones de viajes adicionales en la red viaria.",
+          "por_que_importa": "El evento pone a prueba la capacidad de gestión de la infraestructura del transporte en plena temporada alta de vacaciones. El despliegue preventivo busca mitigar riesgos de seguridad vial y retenciones masivas en corredores turísticos estratégicos.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-08-11/1qrt-dgt-advierte-conductores-eclipse-necesario-abandonar-vias_4403800/"
+            }
+          ]
+        },
+        {
+          "titular": "Un cuarto de las plazas públicas de educación infantil en Valencia quedan desiertas en la nueva admisión",
+          "que_ha_pasado": "El proceso de matriculación escolar en la ciudad de Valencia ha dejado sin cubrir 1.584 plazas públicas de 0 a 3 años sobre un total de 6.199 ofertadas. Más del 80% de los centros educativos de la capital no han logrado completar el cupo de sus aulas de ciclo inicial.",
+          "por_que_importa": "La baja tasa de ocupación evidencia las dinámicas de denatalidad que afectan a las áreas urbanas españolas y descuadres en la planificación de infraestructuras educativas. El dato plantea dudas sobre la eficiencia en la asignación de recursos públicos en el primer ciclo de formación infantil.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/comunidad-valenciana/2026-08-11/una-de-cada-cuatro-plazas-de-educacion-infantil-en-valencia-quedan-vacantes_4403959/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Vlaada Chvátil y el diseño conceptual que revolucionó la industria de los juegos de mesa",
+          "que_ha_pasado": "El diseñador checo Vlaada Chvátil reflexiona sobre su trayectoria profesional tras el lanzamiento de una nueva versión de su éxito internacional 'Código Secreto'. Sus obras, caracterizadas por sintetizar sistemas mecánicos complejos en tableros accesibles, continúan siendo un referente en el sector editorial del ocio analógico.",
+          "por_que_importa": "Los juegos de mesa modernos han experimentado un auge económico y cultural como alternativa de entretenimiento sin pantallas. Chvátil representa la figura del autor-arquitecto cuya capacidad de abstracción de procesos históricos y sociales ha contribuido a profesionalizar este mercado global.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-11/vlaada-chvatil-el-inventor-capaz-de-resumir-la-civilizacion-en-un-tablero.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los dispositivos móviles fragmentan la atención y transforman la experiencia de la lectura profunda",
+          "que_ha_pasado": "Diversos análisis culturales señalan el deterioro persistente de la capacidad de concentración sostenida y deducción lógica provocado por el consumo continuo de contenidos breves en teléfonos inteligentes. Esta dinámica condiciona la asimilación de textos complejos y la generación de pensamiento analítico.",
+          "por_que_importa": "El cambio en los patrones cognitivos afecta directamente al ámbito educativo, laboral y al análisis de información crítica. La pérdida de hábitos de lectura analítica supone un reto para la formación de perfiles profesionales en sectores como la consultoría, el derecho y la diplomacia.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-11/el-eclipse-de-la-era-de-la-lectura.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Soberanía de datos (Data Sovereignty)",
+    "explicacion": "Principio según el cual la información digital está sujeta a las leyes y estructuras de gobernanza del país donde se genera o procesa. Impide que multinacionales transfieran datos de ciudadanos o infraestructuras críticas a jurisdicciones extranjeras con menores exigencias de privacidad o mayor escrutinio estatal. Este enfoque impulsa regulaciones de localización que obligan a almacenar y procesar la información en servidores nacionales, afectando la arquitectura global del almacenamiento en la nube y el desarrollo de la inteligencia artificial.",
+    "ejemplo": "El despliegue por parte de Meta de modelos de inteligencia artificial capaces de ejecutarse de forma local y sin conexión a servidores externos responde al endurecimiento normativo en materia de soberanía de datos en Europa y otras regiones."
+  },
+  "fecha": "2026-08-11"
+}
