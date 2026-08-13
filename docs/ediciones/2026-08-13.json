@@ -1,0 +1,232 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "La banca española lidera la rentabilidad europea impulsada por las posiciones del fondo noruego",
+      "resumen": "Santander y BBVA apuntalan el dominio bancario en Europa mientras el fondo soberano de Noruega eleva a 16.000 millones de euros su inversión en la bolsa española."
+    },
+    {
+      "titular": "El Kremlin intensifica el control interno y prohíbe al único partido abiertamente pacifista",
+      "resumen": "La exclusión electoral de Yábloko evidencia el temor de Moscú a la disidencia interna, en paralelo a la provocación diplomática de Vladimir Putin al visitar las disputadas islas Kuriles."
+    },
+    {
+      "titular": "La factura por los intereses de la deuda autonómica escalará a 11.500 millones en 2029",
+      "resumen": "Un informe de Fedea advierte de que el encarecimiento de la financiación asfixiará los presupuestos regionales, encabezados por Cataluña, la Comunidad Valenciana, Madrid y Andalucía."
+    },
+    {
+      "titular": "Un ataque informático pone a prueba la resiliencia del sistema de emergencias 911 en EE. UU.",
+      "resumen": "La propagación de malware en servicios críticos de California reactiva las alarmas sobre la vulnerabilidad cibernética en las infraestructuras de seguridad ciudadana."
+    },
+    {
+      "titular": "Karoline Leavitt dimite como portavoz de la Casa Blanca a finales de mes",
+      "resumen": "La secretaria de prensa más joven en la historia de la presidencia estadounidense dejará su cargo alegando motivos familiares tras un intenso periodo en la primera línea política."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Moscú reprime la disidencia pacifista e intensifica la presión geopolítica en Asia",
+          "que_ha_pasado": "El partido opositor Yábloko ha sido excluido de los comicios en Rusia por su postura contraria a la invasión de Ucrania, en un momento en que Vladímir Putin ha realizado una visita inédita a las islas Kuriles provocando la protesta diplomática formal de Japón. Simultáneamente, voces críticas como el Nobel Dmitry Muratov señalan que la estrategia rusa se limita a la destrucción del país vecino sin capacidad real de someterlo.",
+          "por_que_importa": "La persecución a la escasa oposición legal evidencia la fragilidad narrativa del Kremlin ante un conflicto prolongado que erosiona su cohesión interna. Por otro lado, la maniobra en las Kuriles busca proyectar poder en el Pacífico e incomodar a Tokio, aliada clave de Occidente, recordando que Rusia mantiene frentes de fricción territorial congelados desde la Segunda Guerra Mundial.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-13/el-kremlin-teme-los-votos-por-la-paz.html"
+            }
+          ]
+        },
+        {
+          "titular": "Dimite Karoline Leavitt, la secretaria de prensa de la Casa Blanca",
+          "que_ha_pasado": "Karoline Leavitt abandonará su puesto como portavoz de la Casa Blanca a finales de agosto, tras haberse convertido a los 28 años en la persona más joven en asumir la portavocía presidencial en Estados Unidos. El presidente estadounidense justificó su salida por la decisión de Leavitt de priorizar la crianza de su hija recién nacida.",
+          "por_que_importa": "La portavocía de la Casa Blanca es un puesto de altísima fricción política e impacto en el mensaje estratégico del Ejecutivo. El cese de Leavitt obliga a reestructurar el equipo de comunicación de Washington en un periodo crítico para la agenda legislativa e internacional de la Administración.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-12/karoline-leavitt-la-portavoz-mas-joven-de-la-historia-de-la-casa-blanca-dejara-su-puesto-a-final-de-mes.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/08/12/6a7cce9ee85ece632c8b458c.html"
+            }
+          ]
+        },
+        {
+          "titular": "Gabriel Attal rompe la tregua estival para relanzar su carrera hacia el Elíseo",
+          "que_ha_pasado": "El ex primer ministro francés Gabriel Attal ha renunciado a las tradicionales vacaciones de agosto para volcarse en actos públicos y encuentros políticos. Su objetivo es recortar la ventaja que le llevan sus competidores directos de cara a las próximas elecciones presidenciales.",
+          "por_que_importa": "El centro político francés se encuentra en una fase acelerada de recomposición tras la fragmentación parlamentaria. El movimiento de Attal subraya la premura de los aspirantes por ocupar el espacio político antes del reinicio del curso escolar y legislativo en otoño.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/gabriel-attal-france-politician-not-on-vacation-summer/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La banca española apuntala el sector europeo apoyada por el impulso del fondo soberano noruego",
+          "que_ha_pasado": "Banco Santander y BBVA encabezan la recuperación y rentabilidad bursátil del sector bancario europeo. Esta solidez coincide con el incremento de la presencia del fondo soberano de Noruega (Norges Bank Investment Management) en España, donde acumula 16.000 millones de euros tras reforzar sus participaciones en Santander, Naturgy y Bankinter.",
+          "por_que_importa": "El apetito del mayor fondo soberano del mundo respalda la solidez financiera española en un contexto de tipos de interés altos que beneficia los márgenes bancarios. La rotación estratégica del fondo noruego confirma que el mercado español cotiza con atractivos diferenciales frente a otros pares comunitarios.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/13/6a7d5210468aeb1b5f8b458d.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-08-13/el-fondo-soberano-de-noruega-acumula-16000-millones-en-la-bolsa-espanola-tras-reforzarse-en-el-santander-naturgy-y-bankinter.html"
+            }
+          ]
+        },
+        {
+          "titular": "La expansión minera de la India amenaza con descarrilar los objetivos de demanda del carbón",
+          "que_ha_pasado": "Los nuevos proyectos de extracción de carbón propuestos durante el último año aumentarán la capacidad de suministro global en 2.500 millones de toneladas anuales (un incremento del 11%). Este empuje procede en su mayor parte de los estados indios de Odisha y Jharkhand, pese a que la demanda global se mantiene estancada.",
+          "por_que_importa": "La India prioriza la seguridad energética y el coste del suministro industrial sobre las metas colectivas de descarbonización. Esta discrepancia entre la oferta proyectada y los compromisos climáticos globales complica la transición hacia renovables en las economías emergentes de rápido crecimiento.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/environment/2026/aug/13/india-planned-coal-production-new-mine"
+            }
+          ]
+        },
+        {
+          "titular": "La factura de intereses de las comunidades autónomas escalará a 11.500 millones en 2029",
+          "que_ha_pasado": "Un análisis del laboratorio de ideas Fedea advierte de que el sobrecoste del endeudamiento regional disparará los gastos financieros del conjunto de las autonomías. Cataluña, la Comunidad Valenciana, Madrid y Andalucía concentrarán la mayor parte del repunte proyectado hasta finales de la década.",
+          "por_que_importa": "El fin de la era del dinero barato tras las subidas del BCE empieza a trasladarse con fuerza a la deuda pública subregional. Con un margen presupuestario menguante, las autonomías tendrán que recortar gasto discrecional o aumentar ingresos fiscales para costear el servicio de su deuda previa.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/08/13/6a7cb02ae5fdeade0b8b4571.html"
+            }
+          ]
+        },
+        {
+          "titular": "Groenlandia frena la prospección petrolera respaldada por intereses estadounidenses",
+          "que_ha_pasado": "Las autoridades locales de Groenlandia han obligado a una petrolera estadounidense vinculada al entorno de Donald Trump a posponer sus perforaciones en el Ártico. La medida contradice las previsiones vertidas por emisarios estadounidenses, que daban por segura la extracción inmediata de crudo.",
+          "por_que_importa": "La decisión reafirma la autonomía de Nuuk para regular la explotación de recursos estratégicos en un territorio codiciado por la competencia geopolítica ártica. Muestra además los límites institucionales frente a las presiones inversoras respaldadas desde Washington.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/aug/12/trump-greenland-oil"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Un ciberataque con malware compromete la red del 911 en California",
+          "que_ha_pasado": "Un software malicioso ha puesto a prueba la operatividad del sistema telefónico de emergencias 911 en varios puntos de California. A pesar de los protocolos de redundancia diseñados para mantener el servicio activo en situaciones extremas, la incidencia ha causado perturbaciones en el acceso a la asistencia médica y policial.",
+          "por_que_importa": "Los servicios esenciales de respuesta inmediata se han convertido en objetivos prioritarios de ciberataques. La dependencia de infraestructura digital sin la debida segmentación de seguridad expone vulnerabilidades operativas críticas que pueden costar vidas humanas.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/seguridad/911-esta-disenado-para-funcionar-cuando-todo-demas-cae-malware-acaba-poner-esa-promesa-a-prueba-california"
+            }
+          ]
+        },
+        {
+          "titular": "Resistencia técnica ante el entrenamiento masivo de IA y las marcas de agua",
+          "que_ha_pasado": "Se ha presentado 'ShieldFont', una tipografía diseñada para alterar el raspado de datos (scraping) utilizado en modelos de inteligencia artificial sin perturbar la lectura humana. Paralelamente, usuarios de Claude han expresado su rechazo a las nuevas marcas de agua introducidas por Anthropic para detectar el uso del modelo en ámbitos laborales y académicos.",
+          "por_que_importa": "Ambos casos reflejan la tensión creciente en la propiedad intelectual y el uso no autorizado de contenidos. Mientras creadores y editores buscan contramedidas activas contra la extracción masiva de datos, las empresas desarrolladoras intentan imponer trazabilidad a sus modelos frente a las reticencias de los usuarios.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/"
+            },
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
+            }
+          ]
+        },
+        {
+          "titular": "Northrop Grumman inicia ensayos robóticos para reparar satélites en órbita",
+          "que_ha_pasado": "El vehículo robótico comercial Mission Robotic Vehicle intenta por primera vez acoplar un propulsor auxiliar a un satélite antiguo en órbita. La maniobra busca extender la vida útil de aparatos espaciales que se han quedado sin combustible pero mantienen sus sistemas operativos.",
+          "por_que_importa": "El mantenimiento en órbita representa un cambio de paradigma para la economía espacial y la gestión de la basura en el espacio. Extender la operatividad de los satélites ahorra costes millonarios de lanzamiento y reduce la acumulación de chatarra espacial en la órbita baja.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Las primarias municipales tensionan la cohesión interna del PSOE en Madrid y Oviedo",
+          "que_ha_pasado": "El proceso de elección de candidatos municipales en el PSOE ha generado fuertes fracturas internas. En Madrid, la exministra Reyes Maroto se impuso a Enma López por solo 204 votos a pesar del respaldo del aparato de la dirección, dejando heridas abiertas en la federación madrileña.",
+          "por_que_importa": "Las primarias ajustadas evidencian el desgaste del control orgánico del partido en plazas clave. Las divisiones internas suelen lastrar la capacidad movilizadora de la militancia de cara a la preparación de los comicios locales.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/08/13/6a689680fc6c838a178b45ad.html"
+            }
+          ]
+        },
+        {
+          "titular": "Marruecos exige la repatriación de menores mientras guarda silencio sobre la crisis de Ceuta",
+          "que_ha_pasado": "Dos semanas después de la entrada masiva de migrantes en Ceuta, Rabat exige la devolución de los menores llegados a la ciudad autónoma sin hacer concesiones sobre el fondo del debate soberanista ni aclarar los motivos de la pasividad policial fronteriza.",
+          "por_que_importa": "El manejo de los flujos migratorios por parte del Reino de Marruecos sigue funcionando como instrumento de presión diplomática bilateral sobre España. La falta de canales transparentes dificulta la gestión humanitaria e institucional de los menores no acompañados.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/08/13/6a7cac5121efa0f82d8b4573.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El acúfeno afecta al 40% de los músicos de orquesta en España bajo un estigma laboral",
+          "que_ha_pasado": "Un estudio revela que cerca del 40% de los instrumentistas de orquestas sinfónicas en España sufren acúfenos (pitidos constantes en el oído). Sin embargo, el miedo a la discriminación laboral o a la pérdida del empleo provoca que la inmensa mayoría de los afectados oculte la dolencia.",
+          "por_que_importa": "Muestra las deficiencias en la salud laboral y la prevención médica en las artes escénicas. La falta de protocolos específicos de protección auditiva aboca a los profesionales a sufrir en silencio patologías invalidantes para su actividad.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-13/acufenos-el-mal-silenciado-de-la-musica-clasica-afecta-al-40-de-los-instrumentistas-de-orquesta-en-espana.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un audiolibro recupera la historia de la rebelión militar contra el franquismo en 1975",
+          "que_ha_pasado": "La escritora Susana Fortes reconstruye en una nueva obra la detención de su padre y otros oficiales pertenecientes a la Unión Militar Democrática (UMD), la organización clandestina de militares que desafió a la dictadura en los meses finales del régimen.",
+          "por_que_importa": "Aporta luz sobre las disidencias internas dentro del estamento militar tardofranquista. El rescate de este episodio sirve para divulgar el papel de los militares demócratas en la preparación del camino hacia la Transición.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-13/el-extrano-verano-del-75-cuando-los-militares-se-rebelaron-contra-el-franquismo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Flota fantasma (Shadow fleet)",
+    "explicacion": "Entramado de buques mercantes y petroleros de propiedad opaca, registrados bajo pabellones de conveniencia laxos y asegurados al margen del circuito financiero occidental. Estas embarcaciones operan en las sombras para eludir embargos comerciales o sanciones internacionales, permitiendo la exportación de materias primas a países castigados. Al evitar las inspecciones reglamentarias e ignorar los estándares marítimos globales, esta flota paralela plantea graves riesgos de seguridad náutica y vertidos ambientales, además de distorsionar las cadenas globales de transporte marítimo.",
+    "ejemplo": "Los petroleros rusos sancionados que navegan por el mar Negro equipados con redes metálicas para repeler los ataques de drones marítimos ucranianos y mantener las exportaciones de crudo."
+  },
+  "fecha": "2026-08-13"
+}
