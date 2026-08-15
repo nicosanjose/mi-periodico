@@ -1,0 +1,205 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Washington eleva la presión sobre la UE por sus normativas de sostenibilidad corporativa",
+      "resumen": "Estados Unidos amenaza con medidas de represalia comercial al considerar que las exigencias europeas de reporte medioambiental incumplen los pactos transatlánticos."
+    },
+    {
+      "titular": "Francia se enfrenta al encarecimiento récord de su deuda soberana en vísperas electorales",
+      "resumen": "Los costes de financiación de París superan a los del resto de las grandes economías de la eurozona ante el desvío persistente del déficit público."
+    },
+    {
+      "titular": "OpenAI afronta fugas en su cúpula mientras acelera los planes para salir a bolsa",
+      "resumen": "Las discrepancias internas sobre gobernanza y comités de seguridad coinciden con la preparación de la mayor oferta pública de venta del sector de la IA."
+    },
+    {
+      "titular": "Stripe y el fondo Advent negocian una operación para absorber PayPal",
+      "resumen": "Las conversaciones reflejan una reconfiguración mayúscula de la industria fintech ante el estancamiento de los gigantes tradicionales de pagos digitales."
+    },
+    {
+      "titular": "Ocho universidades españolas caen del prestigioso ranking de Shanghái",
+      "resumen": "La pérdida de tracción en investigación de alto impacto deja solo a la Universidad de Barcelona entre las doscientas mejores instituciones del mundo."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Estados Unidos amenaza a la Unión Europea por las exigencias de transparencia ambiental",
+          "que_ha_pasado": "La Administración estadounidense ha advertido formalmente a Bruselas de que las nuevas obligaciones comunitarias de reporte de sostenibilidad vulneran compromisos comerciales previos. Washington sostiene que la directiva europea penaliza de forma desproporcionada a las corporaciones norteamericanas con filiales en suelo europeo.",
+          "por_que_importa": "El choque refleja la brecha regulatoria entre ambas orillas del Atlántico, donde la UE utiliza el acceso a su mercado único para fijar estándares globales de gobernanza corporativa mientras Washington prioriza la competitividad industrial y el alivio de cargas administrativas. De escalar, la disputa podría desembocar en aranceles de represalia o litigios en el marco de la OMC.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/us-threatens-eu-over-transatlantic-green-rules/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El Consejo Constitucional francés tumba la prohibición de redes sociales a menores de 15 años",
+          "que_ha_pasado": "El alto tribunal francés ha anulado el artículo nuclear de la ley que vetaba el acceso a plataformas digitales a los menores de quince años sin consentimiento paterno expreso. Los magistrados han considerado que la medida colisiona con las libertades fundamentales de información y comunicación garantizadas por la Carta Magna gala.",
+          "por_que_importa": "El fallo supone un serio revés a la corriente europea de restringir legalmente las plataformas a la juventud y marca los límites constitucionales de la tutela estatal sobre los entornos digitales. Además, reabre el debate técnico sobre cómo verificar la edad de los usuarios sin vulnerar el anonimato ni la privacidad de los datos en la red.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/le-conseil-constitutionnel-censure-la-loi-interdisant-les-reseaux-sociaux-aux-mineurs/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Irán reactiva la presión sobre el estrecho de Ormuz como palanca geopolítica",
+          "que_ha_pasado": "Teherán vuelve a proyectar su capacidad de interferir en el tráfico marítimo del estrecho de Ormuz mediante maniobras de intimidación militar en la zona. Esta estrategia reitera la doctrina iraní de explotar la vulnerabilidad de las rutas de tránsito energético para contrarrestar el aislamiento internacional.",
+          "por_que_importa": "Cerca de una quinta parte del consumo mundial de petróleo transita por este paso angosto, lo que convierte cualquier fricción en un multiplicador inmediato de la prima de riesgo del crudo. Para las potencias occidentales y las monarquías del Golfo, la seguridad en Ormuz es una línea roja operativa cuya alteración desestabiliza las cadenas de suministro globales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-15/inestabilidad-cronificada.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La crisis de deuda soberana francesa tensa la disciplina fiscal de la eurozona",
+          "que_ha_pasado": "El diferencial de rentabilidad del bono francés se sitúa en máximos relativos frente al resto de emisores centrales europeos mientras el déficit público continúa expandiéndose. El gobierno afronta la presión de Bruselas para acometer ajustes estructurales en un ciclo político especialmente fragmentado.",
+          "por_que_importa": "Francia era tradicionalmente percibida junto a Alemania como el ancla de solvencia del euro, pero la persistencia de sus desequilibrios presupuestarios amenaza con erosionar la credibilidad de las nuevas reglas fiscales comunitarias. Un mayor coste de financiación encarece el servicio de la deuda y limita el margen de inversión pública en transición energética y defensa.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-08-15/francia-encara-en-ano-electoral-su-ajuste-de-cuentas-con-la-deuda.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los mercados anticipan nuevas turbulencias en la cotización del yen",
+          "que_ha_pasado": "Los operadores de divisas incrementan sus posiciones especulativas ante la expectativa de nuevos choques entre la política monetaria ultralaxa de Tokio y las intervenciones cambiarias coordinadas. La volatilidad del yen vuelve a situarse en niveles de máxima alerta tras los recientes intentos de frenar su depreciación.",
+          "por_que_importa": "El yen es la divisa de referencia para las operaciones globales de carry trade; cualquier movimiento brusco o desordenado obliga al cierre forzoso de posiciones apalancadas en bolsas internacionales. La asimetría entre las políticas monetarias de las principales economías continúa siendo una fuente de inestabilidad sistémica en los mercados de capitales.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/543b1ab2-6203-412d-ae3b-f4439d1e9d47?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Tensiones directivas en OpenAI al calor de su salida a bolsa",
+          "que_ha_pasado": "OpenAI registra una oleada de salidas de ejecutivos e ingenieros clave, particularmente de las divisiones dedicadas a la seguridad y alineamiento de modelos de inteligencia artificial. Los movimientos coinciden con la aceleración del plan de Sam Altman para convertir la entidad en una corporación tradicional cotizada.",
+          "por_que_importa": "El conflicto subyacente entre la misión fundacional de desarrollo seguro y el imperativo comercial de generar retornos para sufragar centros de datos masivos llega a su punto crítico. La estructura de gobernanza de las empresas líderes en tecnología avanzada condicionará las salvaguardas éticas y regulatorias de la industria en los próximos años.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Stripe y Advent exploran una adquisición conjunta de PayPal",
+          "que_ha_pasado": "La plataforma de infraestructura de pagos Stripe negocia, en alianza con la firma de capital privado Advent International, una posible oferta de compra sobre PayPal. La operación busca combinar la tecnología de pasarela moderna para desarrolladores con la inmensa red de usuarios y comercios del pionero digital.",
+          "por_que_importa": "La maniobra consolidaría de facto el dominio del procesamiento de pagos por internet en Occidente y refleja la pérdida de tracción bursátil de las fintechs de primera generación ante competidores nativos de API. De concretarse, representaría una de las mayores transacciones corporativas apalancadas de la historia del sector tecnológico.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/"
+            }
+          ]
+        },
+        {
+          "titular": "El entrenamiento avanzado de código dota a los modelos de IA de capacidades imprevistas de ciberseguridad",
+          "que_ha_pasado": "La compañía Z.ai ha revelado que al entrenar su modelo GLM-5.3 para la resolución autónoma de tareas de programación de larga duración, el sistema adquirió destrezas avanzadas de detección y explotación de vulnerabilidades. La capacidad de razonamiento iterativo sobre entornos técnicos complejos generó estas habilidades sin haber sido instruido directamente para ello.",
+          "por_que_importa": "El fenómeno subraya el debate sobre las capacidades emergentes de los modelos de frontera, que pueden ser empleadas tanto para robustecer la defensa de sistemas corporativos como para automatizar ciberataques sofisticados. Para las firmas de consultoría y auditoría, la adopción de estos agentes autónomos redefine por completo los servicios de seguridad lógica.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/robotica-e-ia/z-ai-entreno-glm-5-3-para-programar-mejor-modelo-aprendio-paso-a-ser-mucho-mejor-ciberseguridad"
+            }
+          ]
+        },
+        {
+          "titular": "California autoriza el despliegue comercial de camiones autónomos en autopistas",
+          "que_ha_pasado": "El Departamento de Vehículos a Motor de California ha concedido permisos regulatorios a empresas como Aurora Innovation y Kodiak AI para operar camiones pesados sin conductor de seguridad en rutas interestatales. Las pruebas pasan de circuitos cerrados a operaciones logísticas en autopistas abiertas.",
+          "por_que_importa": "El transporte de mercancías de larga distancia es el segmento donde la conducción autónoma presenta un modelo de negocio más rentable y escalable frente a la escasez estructural de transportistas. La validación en el mayor estado económico de EE. UU. acelera la disrupción en la logística terrestre y la automatización de la cadena de suministro.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Las universidades españolas retroceden en la clasificación mundial de Shanghái",
+          "que_ha_pasado": "Ocho instituciones académicas españolas han salido de los tramos principales del Academic Ranking of World Universities (ARWU), dejando a la Universidad de Barcelona como la única representante nacional entre las doscientas mejores del mundo. La pérdida de posiciones se concentra en la falta de artículos de impacto y captación de talento internacional.",
+          "por_que_importa": "El ranking de Shanghái es el principal termómetro de competitividad científica y atracción de inversión investigadora a escala global. El retroceso evidencia la rigidez de la gobernanza universitaria en España y la infrafinanciación estructural en I+D frente al avance sistemático de los centros asiáticos y anglosajones.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/educacion/2026-08-15/ocho-universidades-espanolas-desaparecen-del-ranking-de-shanghai-el-mas-prestigioso.html"
+            }
+          ]
+        },
+        {
+          "titular": "Sanidad refuerza la vigilancia ante el aumento de casos de fiebre Crimea-Congo",
+          "que_ha_pasado": "Las autoridades sanitarias españolas han registrado cuatro casos de fiebre hemorrágica de Crimea-Congo en lo que va de año, la cifra más elevada de la última década en territorio nacional, con un fallecimiento confirmado. La transmisión a través de garrapatas del género Hyalomma se extiende más allá de sus focos tradicionales.",
+          "por_que_importa": "El incremento sostenido de las temperaturas medias prolonga el ciclo biológico de los vectores infecciosos en el suroeste de Europa, convirtiendo patologías endémicas de zonas tropicales o esteparias en riesgos sanitarios permanentes. Esto exige reorientar los protocolos de salud pública y bioseguridad en el sector rural y agroganadero.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/salud/2026/08/15/6a7f4f52e9cf4ac8658b45a4.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La Biblioteca Nacional reivindica el legado del figurinismo de Pedro Moreno",
+          "que_ha_pasado": "La Biblioteca Nacional de España inaugura una muestra monográfica dedicada a Pedro Moreno, Premio Nacional de Teatro y figura indiscutible del diseño escénico nacional. La retrospectiva reúne bocetos, vestuarios y materiales de archivo que transformaron la puesta en escena teatral y cinematográfica durante décadas.",
+          "por_que_importa": "La exhibición sitúa la artesanía textil y el diseño de vestuario en el centro del patrimonio cultural performativo, reconociendo una disciplina a menudo relegada en los cánones historiográficos frente a la dirección escénica o la dramaturgia textual.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-15/pedro-moreno-el-mago-de-las-telas-que-ha-vestido-el-cine-y-el-teatro-espanoles.html"
+            }
+          ]
+        },
+        {
+          "titular": "Escocia proyecta una de las mayores reservas de cielos oscuros de Europa",
+          "que_ha_pasado": "Las autoridades de las Tierras Altas escocesas han presentado una guía estratégica para regular de forma vinculante la contaminación lumínica en amplias zonas del territorio. El plan busca blindar corredores de oscuridad nocturna para preservar la biodiversidad y potenciar el astroturismo de bajo impacto.",
+          "por_que_importa": "La iniciativa refleja la creciente integración de la calidad del cielo nocturno en las políticas de ordenación territorial y conservación ecológica, un ámbito donde el marco normativo europeo está comenzando a fijar restricciones técnicas sobre el alumbrado industrial y urbano.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cg4dw2e9dedo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Enfriamiento regulatorio (Regulatory chill)",
+    "explicacion": "El enfriamiento regulatorio describe la parálisis o moderación de normativas públicas de protección ambiental, social o sanitaria ante el temor de que desencadenen litigios comerciales internacionales, demandas en tribunales de arbitraje de inversiones o represalias arancelarias de socios estratégicos. Ocurre cuando la mera amenaza de un conflicto transfronterizo o el coste de litigar disuade a los gobiernos de legislar en defensa del interés general, limitando la autonomía de los Estados frente a los intereses corporativos multinacionales.",
+    "ejemplo": "Las presiones diplomáticas de Estados Unidos sobre la Comisión Europea para flexibilizar los requisitos de auditoría de emisiones a filiales norteamericanas amenazan con retrasar o recortar el alcance efectivo de las directivas comunitarias sobre sostenibilidad."
+  },
+  "fecha": "2026-08-15"
+}
