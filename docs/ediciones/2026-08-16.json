@@ -1,0 +1,254 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EE. UU. impone aranceles del 100% a los drones chinos",
+      "resumen": "Washington endurece su guerra comercial y tecnológica contra Pekín para frenar el dominio asiático en hardware crítico y cadenas de suministro militar y civil."
+    },
+    {
+      "titular": "La sequía histórica del Danubio amenaza la refrigeración nuclear en Centroeuropa",
+      "resumen": "Hungría se ve forzada a hundir barcazas para elevar el caudal del río y mantener operativa la central de Paks ante una bajada de niveles sin precedentes."
+    },
+    {
+      "titular": "SpaceX formaliza la compra de la startup de IA Cursor",
+      "resumen": "La compañía aeroespacial integra la herramienta puntera de desarrollo asistido por código para acelerar su ingeniería de software interno."
+    },
+    {
+      "titular": "El estancamiento en Gaza erosiona las opciones electorales de Netanyahu",
+      "resumen": "La falta de una salida política, la persistencia de Hamás y la parálisis de la reconstrucción complican el escenario del Gobierno israelí de cara a los comicios de otoño."
+    },
+    {
+      "titular": "Illa ratifica el plan de cierre nuclear en Cataluña pese a las alertas de suministro",
+      "resumen": "La Generalitat mantiene el calendario de apagón entre 2030 y 2035 para Ascó y Vandellòs, reactivando el choque sobre la viabilidad energética de la comunidad."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La supervivencia operativa de Hamás y el bloqueo en Gaza desgastan a Netanyahu",
+          "que_ha_pasado": "Pese a diez meses de hostilidades y bombardeos sostenidos, la estructura de Hamás sigue activa sobre el terreno mientras cientos de miles de civiles continúan hacinados en campamentos con la reconstrucción totalmente paralizada. Este escenario de bloqueo militar y diplomático sitúa al primer ministro Benjamin Netanyahu ante una complicada reelección en octubre.",
+          "por_que_importa": "El objetivo declarado de la 'victoria total' se ha topado con los límites tácticos de la guerra asimétrica urbana, lo que expone a Netanyahu a la frustración tanto del electorado israelí como de Washington. La incapacidad de articular un plan viable para el 'día después' amenaza con consolidar una ocupación indefinida de alto coste humano y económico.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-16/la-supervivencia-de-hamas-complica-la-reeleccion-a-netanyahu.html"
+            }
+          ]
+        },
+        {
+          "titular": "El despliegue de EE. UU. en Oriente Próximo sufre desgaste logístico frente a Irán",
+          "que_ha_pasado": "Las operaciones militares estadounidenses en la región enfrentan crecientes fricciones internas, evidenciadas por el deterioro de las condiciones a bordo del portaaviones USS Abraham Lincoln, la escasez en determinados inventarios de munición guiada y las complejidades diplomáticas con aliados como Turquía.",
+          "por_que_importa": "La contención frente al eje de influencia iraní está tensionando las capacidades de proyección naval de Washington en un momento en que el Pentágono busca priorizar el Indopacífico. Cualquier limitación de inventario o fricción logística reduce el margen de disuasión frente a Teherán y sus milicias aliadas.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-16/el-callejon-sin-salida-de-iran-suma-un-nuevo-problema-interno-a-trump.html"
+            }
+          ]
+        },
+        {
+          "titular": "La sequía extrema en el Danubio fuerza maniobras de emergencia en la central nuclear húngara",
+          "que_ha_pasado": "El descenso crítico del caudal del Danubio, agravado por olas de calor prolongadas en Europa Central, ha obligado a las autoridades húngaras a hundir barcazas en el lecho fluvial para represar agua artificialmente y garantizar la refrigeración de la central nuclear de Paks. La sequía afecta ya al suministro de agua potable y a la navegación en cientos de kilómetros.",
+          "por_que_importa": "El río Danubio es una arteria logística e industrial neurálgica de la Unión Europea. La vulnerabilidad climática de los sistemas de refrigeración de las centrales nucleares continentales evidencia que la transición energética debe blindar no solo las emisiones, sino también la resiliencia hídrica de las infraestructuras base.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/hungary-barge-danube-river-nuclear-power-plant-paks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis"
+            }
+          ]
+        },
+        {
+          "titular": "Un terremoto de magnitud 7,7 golpea el este de Indonesia y activa el apoyo satelital europeo",
+          "que_ha_pasado": "Un potente seísmo de magnitud 7,7 ha sacudido el este del archipiélago indonesio, destruyendo cientos de edificios y dejando al menos 47 fallecidos en los balances iniciales. La Unión Europea ha puesto a disposición de Yakarta sus sistemas de observación por satélite Copernicus para coordinar las labores de rescate.",
+          "por_que_importa": "Ubicada en el Cinturón de Fuego del Pacífico, Indonesia sufre una alta exposición a desastres naturales donde la rapidez en la cartografía de daños es decisiva. La cooperación tecnológica satelital representa uno de los mecanismos clave de la diplomacia humanitaria de la UE en el sudeste asiático.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-satellite-system-copernicus-help-indonesia-earthquake/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/aug/16/rescue-teams-search-for-survivors-in-indonesia-after-powerful-earthquake"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Washington eleva los aranceles a los drones chinos hasta el 100%",
+          "que_ha_pasado": "La Administración estadounidense ha anunciado un incremento arancelario de hasta el 100% sobre la importación de drones comerciales y sus componentes esenciales procedentes de China, cerrando el paso a firmas líderes como DJI en las compras públicas y el mercado corporativo.",
+          "por_que_importa": "La medida no responde solo a motivos comerciales, sino de seguridad nacional: los drones son considerados una tecnología de uso dual crítico. El proteccionismo arancelario busca forzar el desarrollo de una cadena de suministro occidental alternativa frente al dominio casi monopolístico de Pekín en hardware no tripulado.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/08/15/6a805b12468aebac078b458f.html"
+            }
+          ]
+        },
+        {
+          "titular": "La desaceleración del mercado automovilístico chino desata una ofensiva exportadora hacia Europa",
+          "que_ha_pasado": "Las matriculaciones de vehículos en China cayeron un 21% durante el primer semestre, empujando a fabricantes como Xiaomi, BYD y otras marcas locales a acelerar agresivamente su desembarco en los mercados europeos para absorber el exceso de capacidad productiva.",
+          "por_que_importa": "El frenazo del consumo interno chino está transformando el sector mundial de la automoción: la sobrecapacidad se traduce en una presión deflacionaria sobre los precios de los coches eléctricos en Europa, poniendo a prueba los aranceles compensatorios de Bruselas y la competitividad de las marcas tradicionales.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-16/el-mercado-de-coches-chino-cae-y-sus-marcas-se-lanzan-a-exportar.html"
+            }
+          ]
+        },
+        {
+          "titular": "El pesimismo económico del votante estadounidense complica la agenda fiscal republicana",
+          "que_ha_pasado": "Una encuesta de Financial Times revela que la mayoría de los votantes estadounidenses percibe un deterioro en sus finanzas personales, debilitando la ventaja del Partido Republicano en materia económica y reavivando el debate sobre los recortes fiscales y de gasto social a pocos meses de los comicios legislativos.",
+          "por_que_importa": "La persistencia del coste de la vida está erosionando la narrativa económica tradicional conservadora y abriendo espacio a propuestas redistributivas en el Partido Demócrata. Un Congreso dividido o adverso limitaría sustancialmente la capacidad del Ejecutivo para extender las rebajas tributarias corporativas.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires"
+            }
+          ]
+        },
+        {
+          "titular": "La banca española inicia la transición hacia la criptografía poscuántica para proteger sus activos MiCA",
+          "que_ha_pasado": "Las entidades financieras españolas autorizadas bajo el reglamento europeo MiCA han comenzado a evaluar planes de contingencia frente a la computación cuántica, capaz de romper en el medio plazo los algoritmos de clave pública que sustentan la custodia y operativa de criptoactivos.",
+          "por_que_importa": "Aunque los ordenadores cuánticos comerciales a gran escala tardarán años, los bancos afrontan el riesgo de interceptación pasiva ('almacenar ahora para descifrar después'). La solvencia del ecosistema financiero regulado exigirá una migración criptográfica coordinada antes de que la tecnología cuántica sea plenamente operativa.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/criptomonedas/2026/08/15/6a7f4fd3468aebe3058b459e.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "SpaceX completa la adquisición de Cursor para blindar su desarrollo interno de software",
+          "que_ha_pasado": "SpaceX ha cerrado formalmente la compra de Cursor, la plataforma pionera de asistencia de código basada en inteligencia artificial, integrando su equipo y arquitectura técnica dentro de las operaciones de la firma aeroespacial.",
+          "por_que_importa": "El movimiento subraya el valor estratégico del software en la industria aeroespacial y de defensa. Al internalizar una herramienta avanzada de programación generativa, SpaceX busca optimizar los ciclos de diseño, telemetría y control de misiones frente a sus competidores y proveedores tradicionales.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+            }
+          ]
+        },
+        {
+          "titular": "Anthropic desvela la arquitectura de marcas de agua para el contenido generado por Claude",
+          "que_ha_pasado": "Anthropic ha presentado los detalles técnicos del sistema de marcas de agua criptográficas que incorporará en las respuestas y el código producidos por su modelo Claude, diseñado para resistir ediciones manuales y verificar la autoría algorítmica sin degradar la calidad de salida.",
+          "por_que_importa": "Con la entrada en vigor de normativas como el Reglamento de IA de la UE, la trazabilidad del contenido sintético se convierte en un requisito obligatorio de gobernanza corporativa. Establecer estándares robustos de marcas de agua será clave para mitigar fraudes, riesgos de propiedad intelectual y ataques de desinformación.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+            }
+          ]
+        },
+        {
+          "titular": "Nuevas denuncias sobre la generación de deepfakes ilícitos sitúan a Grok bajo el foco ético",
+          "que_ha_pasado": "Han surgido acusaciones de usuarios contra el modelo Grok por permitir la manipulación no consentida de fotografías personales para crear imágenes explícitas, reavivando las críticas sobre la falta de barreras de seguridad y moderación en el sistema de xAI.",
+          "por_que_importa": "El caso ejemplifica el dilema regulatorio entre modelos sin filtros estrictos y la responsabilidad penal por generación de material abusivo. Los reguladores europeos y estadounidenses están estrechando el cerco sobre las plataformas cuyos guardarraíles técnicos sean insuficientes para impedir abusos graves.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Illa reafirma el calendario de cierre nuclear en Cataluña frente a las advertencias industriales",
+          "que_ha_pasado": "El Govern de Salvador Illa ha ratificado su compromiso con el calendario estatal de desmantelamiento de los reactores de Ascó I (2030), Ascó II (2032) y Vandellòs II (2035), desestimando las peticiones de los sectores que demandan prolongar su vida útil para asegurar el suministro eléctrico regional.",
+          "por_que_importa": "La energía nuclear aporta más del 50% de la electricidad consumida en Cataluña. Con el despliegue de renovables aún rezagado respecto a los objetivos marcados, el calendario de apagón plantea dudas sobre la competitividad industrial de la comunidad y su dependencia de las interconexiones a partir de 2030.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-16/horizonte-nucleares-cataluna-illa-mantiene-cierre_4406293/"
+            }
+          ]
+        },
+        {
+          "titular": "Las comarcas de interior en Cataluña impulsan un frente institucional contra el peso de Barcelona",
+          "que_ha_pasado": "Diversas administraciones locales han suscrito la Declaración de la Panadella, reclamando un despliegue efectivo del modelo de veguerías para descentralizar competencias y presupuestos frente a la concentración de recursos e influencia política en el Área Metropolitana de Barcelona.",
+          "por_que_importa": "La iniciativa refleja la creciente fractura entre la periferia rural o semiurbana y las grandes áreas metropolitanas. La pugna por la redistribución fiscal interna y la gestión de infraestructuras será un elemento de tensión territorial clave para la gobernabilidad de la Generalitat.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-16/revolucion-comarcas-contra-area-metropolitana_4405632/"
+            }
+          ]
+        },
+        {
+          "titular": "Las nuevas dinámicas sociopolíticas desafían los modelos tradicionales de predicción electoral",
+          "que_ha_pasado": "Diversos análisis apuntan a que las metodologías clásicas de intención de voto en España están dejando escapar corrientes de fondo como la volatilidad de última hora, la desmovilización selectiva y la polarización afectiva que transforman los resultados reales en las urnas.",
+          "por_que_importa": "En un panorama político fragmentado donde los bloques se deciden por márgenes mínimos de escaños, los fallos en la detección de estas tendencias complican la toma de decisiones estratégicas tanto de los partidos como de los analistas de riesgo país.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-08-16/encuestas-electorales-no-cuentan_4402866/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La publicación de conferencias inéditas de Jorge Luis Borges arroja nueva luz sobre su poética",
+          "que_ha_pasado": "Una recopilación editorial de conferencias orales de Jorge Luis Borges rescata sus reflexiones sobre el valor sagrado del libro, el oficio de la lectura y la arquitectura de la memoria literaria a través de la improvisación erudita del autor argentino.",
+          "por_que_importa": "El material recupera la dimensión oral y pedagógica de Borges, subrayando cómo su concepción de la literatura como un diálogo infinito prefiguró muchas de las estructuras hipertextuales e interconectadas de la era contemporánea.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/opinion/2026-08-16/borges-piensa-en-voz-alta.html"
+            }
+          ]
+        },
+        {
+          "titular": "El éxito masivo de Puy du Fou reabre el debate patrimonial y turístico en Toledo",
+          "que_ha_pasado": "Con cerca de dos millones de visitas al año, el parque temático histórico Puy du Fou se ha consolidado como un potente motor económico en Toledo, generando simultáneamente un debate entre historiadores y urbanistas sobre los riesgos de banalización del relato histórico y la presión sobre el patrimonio.",
+          "por_que_importa": "El caso toledano resume la tensión global entre la explotación del turismo de masas como vector de desarrollo y la preservación del rigor cultural e histórico de las ciudades patrimonio de la humanidad.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-16/toledo-y-puy-du-fou-cuando-el-espectaculo-pone-a-prueba-el-patrimonio.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Cosechar ahora, descifrar después (Harvest Now, Decrypt Later - HNDL)",
+    "explicacion": "Es una estrategia de ciberespionaje y vigilancia en la que actores hostiles o servicios de inteligencia interceptan y almacenan grandes volúmenes de datos cifrados de alto valor estratégico (comunicaciones diplomáticas, secretos industriales o registros financieros), a pesar de no poder descifrarlos con la computación actual. El objetivo es mantenerlos archivados hasta que el desarrollo de ordenadores cuánticos con suficiente capacidad permita romper los algoritmos de cifrado asimétrico tradicionales (como RSA o ECC). Obliga a las organizaciones a migrar de forma preventiva a estándares de criptografía poscuántica.",
+    "ejemplo": "Las principales entidades bancarias europeas que operan con activos digitales están auditando sus sistemas para adoptar algoritmos resistentes a ataques cuánticos antes de 2030, evitando que los historiales de custodia capturados hoy queden expuestos en la próxima década."
+  },
+  "fecha": "2026-08-16"
+}
