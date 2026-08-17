@@ -1,0 +1,246 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Vence la tregua entre Washington y Teherán con el estrecho de Ormuz en máxima alerta",
+      "resumen": "Concluyen los 60 días pactados en junio sin un pacto definitivo, reactivando la prima de riesgo geopolítico en el tráfico energético mundial."
+    },
+    {
+      "titular": "Marruecos y Estados Unidos refuerzan su alianza tecnológica y de defensa",
+      "resumen": "Rabat sella un nuevo centro de pruebas militares con apoyo estadounidense en pleno pulso sobre la soberanía de Ceuta y Melilla."
+    },
+    {
+      "titular": "Stripe negocia la compra de OpenRouter por 7.000 millones para dominar la infraestructura de IA",
+      "resumen": "El gigante de pagos busca controlar la pasarela clave de acceso a modelos fundacionales e integrar transacciones algorítmicas."
+    },
+    {
+      "titular": "El crédito privado muestra señales de estrés financiero inéditas desde 2017",
+      "resumen": "El rápido crecimiento de los fondos de deuda no bancaria empieza a deteriorarse ante la acumulación de préstamos con dificultades de pago."
+    },
+    {
+      "titular": "Alemania reabre el debate constitucional sobre la ilegalización de AfD",
+      "resumen": "El avance del partido ultra en las citas electorales regionales reactiva la vía jurídica más restrictiva de la democracia militante germana."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La frágil tregua en el sur de Líbano expone la devastación en las áreas ocupadas",
+          "que_ha_pasado": "El repliegue experimental de las fuerzas israelíes en localidades como Zawtar el Gharbiyeh ha permitido el retorno de civiles, revelando la destrucción casi total de infraestructuras básicas y viviendas. Las autoridades locales y los residentes denuncian daños sistemáticos que impiden el restablecimiento inmediato de la vida civil tras la ocupación.",
+          "por_que_importa": "El diseño de la retirada gradual mediada por Estados Unidos busca evitar un vacío de seguridad inmediato, pero la inhabitabilidad de las poblaciones complica el despliegue efectivo del ejército libanés y de la misión de la ONU. La magnitud de la reconstrucción pendiente se convertirá en un nuevo foco de tensión regional y de disputa sobre la financiación internacional de los daños.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-17/regreso-a-zawtar-el-garbiyeh-el-primer-pueblo-libanes-del-que-israel-se-retira-tras-dejarlo-inhabitable-en-cualquier-pais-esto-serian-crimenes-de-guerra.html"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania intensifica el dilema institucional sobre la ilegalización de AfD",
+          "que_ha_pasado": "Las fuerzas políticas alemanas debaten la viabilidad de iniciar un procedimiento ante el Tribunal Constitucional Federal para ilegalizar a Alternativa para Alemania (AfD). La discusión se acelera al calor de los calendarios electorales regionales, donde la formación mantiene un sólido respaldo electoral.",
+          "por_que_importa": "El sistema constitucional alemán prevé mecanismos de 'democracia militante' para defender el orden liberal, pero activar el artículo 21 de la Ley Fundamental conlleva un alto riesgo político: un rechazo judicial legitimaría el discurso del partido y su eventual éxito podría alienar a millones de electores en el este del país.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-17/alemania-afronta-dividida-las-propuestas-para-ilegalizar-a-la-extrema-derecha.html"
+            }
+          ]
+        },
+        {
+          "titular": "Ucrania incrementa el hostigamiento militar sobre las regiones fronterizas rusas",
+          "que_ha_pasado": "Nuevas incursiones y ataques con proyectiles sobre la provincia de Bélgorod han causado víctimas mortales y daños materiales según las autoridades rusas. La administración regional ha reforzado los dispositivos de emergencia y evacuación puntual en varios distritos limítrofes.",
+          "por_que_importa": "Kiev busca encarecer el coste político interno de la guerra para Moscú y obligar al Estado Mayor ruso a desviar recursos defensivos y tropas desde los frentes principales en el Donbás hacia la protección de su propio territorio soberano.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Las redes de intermediación venezolanas ponen bajo la lupa los contactos cruzados con Washington",
+          "que_ha_pasado": "Las investigaciones judiciales en curso en Europa sobre el empresario Alejandro Betancourt vuelven a poner de relieve los canales de contacto discretos entre el entorno del gobierno de Caracas y figuras del espectro político estadounidense. Sus movimientos aéreos recientes reflejan la reactivación de gestiones privadas en el tablero caribeño.",
+          "por_que_importa": "La diplomacia entre Estados Unidos y Venezuela opera frecuentemente a través de intermediarios financieros con causas judiciales pendientes, una dinámica que ilustra el pragmatismo transaccional con el que ambos países gestionan los intereses energéticos y las sanciones bilaterales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/america/2026-08-16/alejandro-betancourt-el-multimillonario-investigado-que-conecta-a-delcy-rodriguez-con-trump.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Expira la tregua bilateral entre Washington y Teherán con la vista puesta en Ormuz",
+          "que_ha_pasado": "Este 17 de agosto concluye el periodo de 60 días pactado en junio entre Estados Unidos e Irán sin que se haya consolidado un acuerdo diplomático exhaustivo. El fin del memorando provisional devuelve la atención al estrecho de Ormuz y a las rutas marítimas clave para el suministro de crudo.",
+          "por_que_importa": "La reactivación de la incertidumbre añade volatilidad directa a los mercados de materias primas y seguros marítimos. Si no se prorroga formal o tácitamente la desescalada, el riesgo de fricciones navales podría presionar al alza los fletes y la inflación energética global.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/08/17/6a821d4d468aeb386f8b45c5.html"
+            }
+          ]
+        },
+        {
+          "titular": "El mercado de crédito privado afronta un deterioro crediticio a niveles de 2017",
+          "que_ha_pasado": "Los indicadores de morosidad y estrés financiero en la industria de la deuda privada han repuntado de forma acusada, alcanzando registros que no se observaban desde hace casi una década. El incremento de préstamos reestructurados o en dificultades refleja el impacto acumulado del ciclo de tipos de interés altos.",
+          "por_que_importa": "El 'private credit' ha sustituido a la banca tradicional en la financiación de adquisiciones apalancadas de tamaño medio. Al tratarse de un mercado opaco y desregulado, un shock de impagos puede trasladar pérdidas imprevistas a aseguradoras y fondos de pensiones fuertemente expuestos al sector.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "España encara la fase crítica del Plan de Recuperación con 25.800 millones en juego",
+          "que_ha_pasado": "El calendario de los fondos Next Generation entra en su tramo decisivo con fecha límite a finales de agosto para justificar hitos y compromisos regulatorios. Hasta la fecha, el mecanismo ha canalizado decenas de miles de millones, orientando aproximadamente el 70% de las ayudas a pymes y trabajadores autónomos.",
+          "por_que_importa": "La absorción efectiva de estos fondos es determinante para sostener el crecimiento de la inversión bruta de capital en un momento de moderación macroeconómica europea. Los retrasos en las reformas estructurales asociadas podrían bloquear tramos esenciales de transferencias y préstamos comunitarios.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/08/17/6a820293468aeb79548b459d.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-17/el-gobierno-estima-que-el-70-de-los-beneficiarios-del-plan-de-recuperacion-son-pymes-y-autonomos.html"
+            }
+          ]
+        },
+        {
+          "titular": "La península ibérica sufre un cuello de botella habitacional agravado por costes y burocracia",
+          "que_ha_pasado": "España y Portugal destacan en el marco comunitario por una severa rigidez en el mercado inmobiliario provocada por la escasez de oferta, la lentitud en la concesión de licencias y el encarecimiento de los materiales de construcción frente a una demanda demográfica creciente.",
+          "por_que_importa": "La falta de vivienda asequible actúa como un lastre para la movilidad laboral y la productividad de ambas economías. Las medidas centradas exclusivamente en el control de precios o subsidios directos chocan contra la incapacidad estructural de ampliar el parque residencial.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/3163af73-e7d0-4e21-81af-963d6c2fce45?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Stripe prepara la compra del agregador de IA OpenRouter por más de 7.000 millones de dólares",
+          "que_ha_pasado": "La compañía de pagos Stripe se encuentra en negociaciones avanzadas para adquirir OpenRouter, la plataforma que actúa como pasarela e intermediario unificado para consultar múltiples modelos de lenguaje. La operación consolidaría una valoración récord para la infraestructura de enrutamiento algorítmico.",
+          "por_que_importa": "Quien controle la capa de middleware donde los desarrolladores alternan entre OpenAI, Anthropic u opciones de código abierto dominará tanto la facturación del tráfico como la monetización del ecosistema agéntico, un paso lógico para Stripe en su transición hacia los pagos entre máquinas.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+            }
+          ]
+        },
+        {
+          "titular": "OpenAI desmantela su unidad interna de preparación ante riesgos catastróficos",
+          "que_ha_pasado": "La dirección de OpenAI ha disuelto formalmente su 'preparedness team', el departamento encargado de evaluar y mitigar escenarios de riesgo severo en ciberseguridad, autonomía indebida o amenazas biológicas antes de los lanzamientos comerciales.",
+          "por_que_importa": "El movimiento profundiza la subordinación de las estructuras de gobernanza y seguridad técnica a la velocidad de comercialización, alimentando las dudas regulatorias a ambos lados del Atlántico sobre la capacidad de autorregulación de las firmas líderes de IA.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team"
+            }
+          ]
+        },
+        {
+          "titular": "La NOAA eleva al 81% la probabilidad de un fenómeno de El Niño de gran intensidad en 2026",
+          "que_ha_pasado": "La Administración Nacional Oceánica y Atmosférica de EE. UU. ha emitido una alerta temprana ante el rápido calentamiento anómalo del Pacífico ecuatorial, proyectando una alta probabilidad de que derive en un episodio de El Niño muy severo hacia el final del año.",
+          "por_que_importa": "Un evento climático de esta magnitud altera las cadenas de suministro agrícolas globales, eleva los costes de los seguros frente a desastres naturales y puede frenar la generación hidroeléctrica en Latinoamérica, impactando en las previsiones de inflación global.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/ecologia-y-naturaleza/noaa-lanza-su-pronostico-contundente-nino-tiene-81-probabilidades-ser-muy-fuerte-a-finales-2026"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Marruecos expande su cooperación militar con Washington en pleno desafío sobre Ceuta y Melilla",
+          "que_ha_pasado": "Rabat ha avanzado en la creación de un nuevo centro tecnológico militar en colaboración con Estados Unidos, consolidando el marco de cooperación en defensa fraguado en los últimos años. El movimiento coincide con la persistente reivindicación marroquí sobre las plazas españolas del norte de África.",
+          "por_que_importa": "La profundización del vínculo estratégico entre Washington y Rabat altera el equilibrio geopolítico en el Estrecho. Mientras tanto, en el Congreso de los Diputados, las formaciones independentistas eluden el debate para no aliviar la presión sobre el Ejecutivo, evidenciando la fragmentación de la política exterior española.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/08/17/6a82090fe85ecef71c8b4587.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-08-17/independentismo-rehuye-debate-ceuta-melilla_4405808/"
+            }
+          ]
+        },
+        {
+          "titular": "El debate sobre la atención a las víctimas y el papel de la inteligencia marca el aniversario del 17-A",
+          "que_ha_pasado": "Nueve años después de los atentados de Barcelona y Cambrils, colectivos de afectados continúan reclamando la resolución de expedientes indemnizatorios y la plena operatividad de los mecanismos de asistencia estatal. Paralelamente, los partidos soberanistas insisten en exigir responsabilidades parlamentarias a los servicios de inteligencia.",
+          "por_que_importa": "El aniversario reabre la discusión sobre las deficiencias burocráticas en la protección a víctimas del terrorismo en España y la permanente instrumentalización política de la seguridad nacional en el parlamento.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/cataluna/2026/08/17/6a81dc1ae85ece51168b4579.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las Zonas de Bajas Emisiones de Madrid superan los 100 millones de euros en recaudación",
+          "que_ha_pasado": "Un informe de la Cámara de Cuentas revela que las multas asociadas a las restricciones de tráfico por motivos medioambientales en los grandes municipios madrileños han superado los 100 millones de euros en un trienio, aunque detecta lagunas en la información remitida por varios consistorios.",
+          "por_que_importa": "La fiscalización subraya la tensión entre la finalidad ambiental de las directivas europeas de calidad del aire y su conversión en fuentes de ingresos locales recurrentes, cuestionando la homogeneidad técnica de su implantación municipal.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-08-17/madrid-recauda-100-millones-tres-anos-multas-zonas-bajas-emisiones_4403822/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Medio siglo de cine de terror como termómetro sociopolítico de la Transición",
+          "que_ha_pasado": "La conmemoración de los 50 años del estreno de '¿Quién puede matar a un niño?' recupera el análisis sobre la producción de más de dos centenares de largometrajes de horror rodados en España entre el final de la dictadura y los primeros compases democráticos.",
+          "por_que_importa": "El género fantástico y de terror funcionó durante la década de 1970 como un espacio de transgresión y crítica alegórica frente a las tensiones morales, la violencia latente y los tabúes de una sociedad en plena mutación institucional.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-08-17/50-anos-de-quien-puede-matar-a-un-nino-el-otro-bum-del-cine-de-terror-en-espana.html"
+            }
+          ]
+        },
+        {
+          "titular": "El huracán Lala azota Hawái y pone a prueba los planes de resiliencia insular",
+          "que_ha_pasado": "El paso del ciclón ha destruido alrededor de un centenar de viviendas e infraestructuras en el archipiélago hawaiano. A pesar de los graves daños materiales provocados por el viento y el oleaje, los sistemas de alerta temprana han evitado una crisis de víctimas mortales directas.",
+          "por_que_importa": "La resistencia de los territorios insulares a fenómenos meteorológicos extremos ilustra la necesidad urgente de adaptar la obra civil y las redes eléctricas a patrones climáticos cada vez más destructivos.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Banca en la sombra (Shadow Banking)",
+    "explicacion": "Se refiere al conjunto de entidades, vehículos e intermediarios financieros que realizan actividades típicas de la banca (como la concesión de crédito, la transformación de plazos y la asunción de riesgos de liquidez) fuera del marco regulatorio bancario tradicional. Al carecer de acceso a prestamistas de última instancia (bancos centrales) y no estar cubiertos por fondos de garantía de depósitos, operan con mayor flexibilidad pero plantean riesgos sistémicos de opacidad, apalancamiento oculto y contagio ante retiradas masivas de fondos.",
+    "ejemplo": "El auge de los fondos de crédito privado que financian adquisiciones corporativas al margen de la supervisión bancaria convencional."
+  },
+  "fecha": "2026-08-17"
+}
