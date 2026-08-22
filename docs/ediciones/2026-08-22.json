@@ -1,0 +1,259 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Fracasa el diálogo entre Washington y Ottawa y se desata una guerra arancelaria del 50%",
+      "resumen": "EE. UU. activa aranceles del 50% sobre 20.000 millones de dólares en bienes canadienses y Canadá responde con represalias simétricas tras romperse las negociaciones."
+    },
+    {
+      "titular": "El Kremlin veta al partido pacifista Yábloko de cara a las legislativas rusas",
+      "resumen": "La única formación legal contraria a la guerra queda excluida de los comicios de septiembre pese a figurar en segundo lugar en los sondeos oficiales."
+    },
+    {
+      "titular": "La crisis en Ormuz y los cuellos de botella disparan los fletes marítimos un 140%",
+      "resumen": "La persistencia del bloqueo iraní y las disrupciones en rutas globales encarecen el transporte de mercancías y reactivan las presiones inflacionistas."
+    },
+    {
+      "titular": "TikTok acuerda pagar 400 millones de dólares a EE. UU. por vulnerar la privacidad infantil",
+      "resumen": "El Departamento de Justicia zanja la demanda por recopilación ilícita de datos de menores conforme a la ley COPPA."
+    },
+    {
+      "titular": "El Supremo rechaza obligar a los ministros a comparecer de urgencia en agosto por Ceuta",
+      "resumen": "El Alto Tribunal deniega las medidas cautelarísimas solicitadas por el PP al no apreciar urgencia jurídica que justifique saltarse el trámite ordinario."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Moscú aparta de las elecciones a Yábloko, la única fuerza política opositora a la invasión",
+          "que_ha_pasado": "Las autoridades electorales rusas han vetado la participación del partido liberal Yábloko en los comicios legislativos de septiembre. La formación, liderada por Nikolái Rybakov, era la única fuerza legal en el país que defendía abiertamente un alto el fuego en Ucrania y figuraba en segundo lugar en sondeos oficiales.",
+          "por_que_importa": "La exclusión de Yábloko evidencia que el Kremlin ha clausurado incluso los canales de disidencia tolerada o institucional para evitar cualquier plebiscito indirecto sobre la guerra. Al eliminar cualquier opción crítica en la papeleta, el régimen busca blindar la narrativa de cohesión patriótica absoluta en un momento de creciente desgaste económico y militar.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-08-22/nikolai-rybakov-lider-de-yabloko-hemos-demostrado-al-mundo-cuanta-gente-en-rusia-quiere-la-paz.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un ataque con misiles sobre un centro comercial en Ucrania eleva la presión sobre las defensas aéreas",
+          "que_ha_pasado": "Un bombardeo ruso ejecutado mediante la táctica de doble impacto contra un centro comercial ha dejado al menos 16 muertos, 130 heridos y varios desaparecidos. Los equipos de rescate continúan las labores de búsqueda entre los escombros de la infraestructura civil atacada.",
+          "por_que_importa": "El uso de ataques escalonados deliberados sobre el mismo punto persigue maximizar las bajas entre los servicios de emergencia y aterrorizar a los núcleos urbanos de la retaguardia. Para Kiev, estos ataques subrayan la brecha persistente en la cobertura de sus sistemas antiaéreos occidentales ante salvas coordinadas de misiles rusos.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Más de un centenar de exdiplomáticos británicos y franceses reclaman un embargo comercial a Israel",
+          "que_ha_pasado": "Más de un centenar de antiguos embajadores y altos cargos diplomáticos de Reino Unido y Francia han remitido una carta conjunta a Emmanuel Macron y al Ejecutivo británico denunciando la destrucción de los territorios palestinos. El texto califica la estrategia israelí de limpieza étnica y reclama medidas punitivas urgentes, incluido el veto comercial.",
+          "por_que_importa": "El posicionamiento coordinado del cuerpo diplomático retirado en las dos principales potencias militares y diplomáticas de Europa occidental refleja una fractura generacional e institucional en la política exterior hacia Oriente Próximo. Este tipo de pronunciamientos presiona a Londres y París para abandonar la ambigüedad retórica y considerar sanciones tangibles en foros multilaterales.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine"
+            }
+          ]
+        },
+        {
+          "titular": "El chavismo histórico asume la pérdida de rumbo tras la captura de Maduro",
+          "que_ha_pasado": "El exvicepresidente venezolano Elías Jaua ha realizado una autocrítica pública en la que lamenta que el movimiento chavista derivara en un 'partido de Estado' sin mecanismos de arbitraje interno tras la muerte de Hugo Chávez. Pese a rechazar la detención de Nicolás Maduro, el dirigente reconoció la descomposición política de la cúpula gobernante.",
+          "por_que_importa": "Las declaraciones de figuras fundacionales del oficialismo muestran la desarticulación del aparato de poder venezolano tras la descabezada del régimen. Para la diplomacia regional y los analistas de riesgo, la fractura entre facciones civiles y militares abre un escenario incierto de transición o disputa territorial por las rentas ilícitas del país.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/america/2026-08-22/elias-jaua-despues-de-la-muerte-de-chavez-no-hubo-arbitro-y-nos-dimos-con-todo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Ruptura comercial en Norteamérica: EE. UU. y Canadá entran en una espiral arancelaria",
+          "que_ha_pasado": "El colapso de las negociaciones de última hora entre Washington y Ottawa ha consumado la imposición de aranceles estadounidenses del 50% sobre exportaciones canadienses valoradas en 20.000 millones de dólares. En respuesta inmediata, el Gobierno canadiense ha anunciado que replicará la medida con tarifas espejo sobre productos de EE. UU.",
+          "por_que_importa": "La ruptura fractura el andamiaje del T-MEC y dinamita la integración de cadenas de suministro clave, desde el sector agroalimentario hasta bienes manufacturados e industriales. Esta dinámica de represalias cruzadas entre los dos socios históricos amenaza con elevar los costes de producción en Norteamérica y forzar un endurecimiento prolongado de las condiciones financieras.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/08/22/6a8957ec468aeb26388b4586.html"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/economia/2026-08-22/fracasan-las-negociaciones-entre-ee-uu-y-canada-para-frenar-la-imposicion-de-los-aranceles-de-trump.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.com/news/2026/08/22/canada-us-trade-deal-tariffs-01046723?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El bloqueo en Ormuz dispara los fletes marítimos globales un 140%",
+          "que_ha_pasado": "Las tarifas del transporte marítimo de mercancías acumulan un repunte del 140% en seis meses debido al cierre operativo del estrecho de Ormuz por parte de Irán y a los cuellos de botella acumulados en pasos como el Canal de Panamá. Teherán ha reiterado que mantendrá el bloqueo pese a las advertencias de Washington y al deterioro de sus propias finanzas.",
+          "por_que_importa": "El encarecimiento del transporte y la obligada circunnavegación de rutas marítimas reintroducen fuertes presiones estanflacionarias en la economía global. El shock logístico no solo eleva el precio final de la energía y los bienes de consumo, sino que limita el margen de los bancos centrales para flexibilizar sus políticas monetarias.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/08/22/6a896850e5fdeaf9528b457d.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-22/el-transporte-maritimo-mundial-se-atasca-entre-conflictos-y-crisis-climaticas.html"
+            }
+          ]
+        },
+        {
+          "titular": "La deuda estadounidense alcanza los 40 billones entre tensiones en el mercado de bonos",
+          "que_ha_pasado": "El pasivo soberano de Estados Unidos ha superado el umbral histórico de los 40 billones de dólares, coincidiendo con tipos hipotecarios en el 6,7% y el encarecimiento de los combustibles por el conflicto en Oriente Próximo. Las tensiones complican la estrategia del Tesoro ante la desconfianza de los inversores en la curva de deuda a largo plazo.",
+          "por_que_importa": "La coexistencia de un déficit fiscal desbocado, tipos de interés elevados y tensiones geopolíticas encarece exponencialmente el servicio de la deuda federal estadounidense. Cualquier intento de intervenir o forzar los rendimientos de los bonos choca contra la disciplina de mercado de los 'bond vigilantes', restringiendo el espacio presupuestario de la Casa Blanca.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La Inspección de Trabajo triplica las multas por horas extra impagadas en España",
+          "que_ha_pasado": "Las sanciones impuestas por no remunerar o compensar las horas extraordinarias alcanzaron los 15,7 millones de euros en 2025, frente a los 5,3 millones registrados en 2018. Sin embargo, el volumen total de tiempo no pagado se mantiene estable, lo que supone un ahorro de costes no regulado para las empresas de unos 3.378 millones de euros según los sindicatos.",
+          "por_que_importa": "La persistencia del fraude horario a pesar del endurecimiento inspector evidencia que las sanciones actuales resultan insuficientes como mecanismo disuasorio. El desajuste afecta a la productividad real, a la recaudación de la Seguridad Social y al debate estructural sobre la reducción y el control digital de la jornada laboral.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-08-22/las-sanciones-por-no-pagar-horas-extra-se-triplican-pero-siguen-sin-frenar-a-las-empresas-incumplidoras.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "TikTok cierra con EE. UU. una sanción de 400 millones de dólares por violar la privacidad de menores",
+          "que_ha_pasado": "El Departamento de Justicia estadounidense ha anunciado un acuerdo extrajudicial por el que TikTok abonará 400 millones de dólares para archivar la demanda de 2024. La querella acusaba a la plataforma de recopilar sistemáticamente información privada de niños sin el consentimiento parental exigido por la normativa COPPA.",
+          "por_que_importa": "La cuantía del acuerdo marca un precedente regulatorio en la persecución del tratamiento de datos de menores por parte de grandes plataformas. Además, el acuerdo se produce en un entorno de máxima fricción geopolítica en torno a la gobernanza y la soberanía de datos de las aplicaciones de matriz china en Occidente.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa"
+            }
+          ]
+        },
+        {
+          "titular": "Los filtros de seguridad de los modelos avanzados de IA vuelven a mostrar debilidades",
+          "que_ha_pasado": "Pruebas técnicas sobre el modelo Claude Opus 4.6 de Anthropic han demostrado que es posible eludir con relativa facilidad las restricciones éticas que impiden la generación de contenido explícito o no permitido. La compañía prohíbe taxativamente este tipo de material, pero las salvaguardas fallaron ante técnicas estándar de reinterpretación de instrucciones.",
+          "por_que_importa": "El caso subraya los límites del alineamiento por software (RLHF y 'Constitutional AI') en la frontera del desarrollo de grandes modelos de lenguaje. Para consultoras y empresas que integran estos motores en flujos de trabajo corporativos, la fragilidad de los raíles de seguridad plantea riesgos reputacionales y de cumplimiento normativo difíciles de mitigar al 100%.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+            }
+          ]
+        },
+        {
+          "titular": "Más de un millón de usuarios recurren al filtro contra el contenido basura generado por IA en LinkedIn",
+          "que_ha_pasado": "La red profesional LinkedIn ha comunicado que más de un millón de usuarios han utilizado la nueva herramienta diseñada para marcar publicaciones sospechosas de ser 'AI slop' (contenido basura automatizado). La función fue desplegada a finales de julio para frenar la proliferación de textos superficiales producidos masivamente por IA.",
+          "por_que_importa": "El dato refleja el hartazgo del usuario ante la degradación algorítmica de los feeds sociales por el auge de la IA generativa. Para el sector corporativo y de consultoría, la pérdida de relevancia del contenido automatizado obliga a revalorizar el análisis original frente a las estrategias cuantitativas de marketing de contenidos.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El Supremo desestima la petición del PP para forzar comparecencias ministeriales en agosto",
+          "que_ha_pasado": "El Tribunal Supremo ha rechazado la medida cautelarísima solicitada por el Partido Popular para obligar a varios ministros a comparecer de urgencia en el Senado antes de septiembre por la crisis migratoria de Ceuta. La Sala de lo Contencioso-Administrativo no ha apreciado la urgencia legal excepcional exigida y ha otorgado diez días al Gobierno para formular alegaciones.",
+          "por_que_importa": "La resolución frena el intento de la oposición de utilizar la vía judicial para imponer el calendario parlamentario extraordinario en la Cámara Alta. El fallo reafirma los límites de la intervención de los tribunales en las disputas entre el poder legislativo y el ejecutivo sobre los tiempos de control político.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-08-22/el-supremo-descarta-la-medida-urgente-del-pp-para-forzar-en-agosto-las-comparecencias-ministeriales-por-ceuta.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/08/22/6a8965e1e85ece431c8b4586.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-08-22/el-supremo-rechaza-la-medida-urgente-del-pp-para-ordenar-la-comparecencia-en-agosto-de-los-ministros-en-el-senado_4409826/"
+            }
+          ]
+        },
+        {
+          "titular": "Diez detenidos y seis toneladas de hachís incautadas tras un tiroteo a la Guardia Civil en Huelva",
+          "que_ha_pasado": "La Guardia Civil ha desarticulado una destacada red de narcotráfico en el litoral andaluz tras una persecución marítima en aguas de Huelva que incluyó disparos contra una patrullera. El operativo se saldó con diez detenidos, dos narcolanchas intervenidas y cerca de seis toneladas de hachís incautadas.",
+          "por_que_importa": "La creciente violencia armada de los clanes del narcotráfico frente a las fuerzas de seguridad confirma la escalada operativa en el Golfo de Cádiz y el Estrecho. El suceso reabre el debate político y policial sobre la necesidad de dotar de mayores medios materiales y blindaje legal a las unidades destinadas a la lucha antidroga en el sur peninsular.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-08-22/narcotrafico-huelva-guardia-civil-detenidos-1tps_4409840/"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/andalucia/2026/08/22/6a895a0afdddff175c8b458b.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El Cuarteto Quiroga reivindica el legado radical de Juan Crisóstomo de Arriaga en su bicentenario",
+          "que_ha_pasado": "Con motivo de los 200 años de la muerte del compositor bilbaíno Juan Crisóstomo de Arriaga, el Cuarteto Quiroga ha presentado un proyecto discográfico que revisita sus cuartetos de cuerda en los festivales de San Sebastián y Santander. La formación propone una lectura enérgica y alejada de los clichés que reducían al autor a un mero 'Mozart español'.",
+          "por_que_importa": "El rescate musicológico de Arriaga permite revaluar la aportación española al clasicismo y primer romanticismo europeo desde una perspectiva estilística propia. Proyectos de este rigor sitúan el patrimonio musical histórico al mismo nivel de proyección internacional que la pintura o la literatura de la época.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-08-22/ni-a-haydn-ni-a-mozart-el-bicentenario-de-arriaga-suena-a-tripas-y-agallas.html"
+            }
+          ]
+        },
+        {
+          "titular": "El estándar 'Passivhaus' gana terreno como respuesta arquitectónica a los veranos extremos",
+          "que_ha_pasado": "Diversos proyectos de rehabilitación residencial están demostrando la viabilidad de adaptar viviendas antiguas al estándar de construcción pasiva ('Passivhaus'), logrando mantener temperaturas interiores confortables sin recurrir al aire acondicionado tradicional durante picos de calor.",
+          "por_que_importa": "La adaptación bioclimática pasiva del parque inmobiliario existente se consolida como una solución clave frente a la sobrecarga de las redes eléctricas en episodios de calor extremo. Reducir la dependencia del aire acondicionado mitiga el efecto isla de calor urbana y reduce la huella de carbono del sector residencial.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Arancel de represalia (Retaliatory Tariff)",
+    "explicacion": "Un arancel de represalia es un gravamen aduanero que un Estado impone a las importaciones de otro país como respuesta directa y punitiva a barreras comerciales unilaterales fijadas previamente por este. A diferencia de un arancel proteccionista tradicional, su meta no radica únicamente en amparar a la industria nacional o recaudar fondos, sino en infligir un daño económico y político selectivo al socio comercial para obligarlo a retirar sus medidas iniciales o sentarse a negociar. Aunque existen cauces para autorizarlos dentro de la OMC, su activación unilateral suele detonar guerras comerciales 'ojo por ojo' que fragmentan las cadenas de valor.",
+    "ejemplo": "La decisión del Gobierno de Canadá de fijar aranceles simétricos contra bienes de EE. UU. tras la entrada en vigor de gravámenes del 50% decretados por la Casa Blanca sobre 20.000 millones de dólares en importaciones canadienses."
+  },
+  "fecha": "2026-08-22"
+}
