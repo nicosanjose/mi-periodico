@@ -15,9 +15,10 @@ import requests
 
 # "gemini-flash-latest" apunta siempre al modelo Flash más nuevo de Google,
 # que es justo el que más saturación (HTTP 503) sufre cuando hay mucha
-# demanda global. "gemini-2.5-flash" es una versión estable y ya probada
-# en este proyecto, con menos tráfico y por tanto más fiable.
-MODELO = os.environ.get("MODELO_GEMINI", "gemini-2.5-flash")
+# demanda global. "gemini-2.5-flash" ya no está disponible (Google lo
+# retiró; la API devuelve 404 y recomienda gemini-3.6-flash), así que se
+# fija esa versión estable en su lugar.
+MODELO = os.environ.get("MODELO_GEMINI", "gemini-3.6-flash")
 URL_API = f"https://generativelanguage.googleapis.com/v1beta/models/{MODELO}:generateContent"
 
 INTENTOS_MAX = 4
