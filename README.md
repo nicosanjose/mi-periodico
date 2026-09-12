@@ -1,6 +1,6 @@
 # ☕ El Primer Café
 
-Tu periódico personal automatizado. Cada mañana (~6:30, hora de Madrid) este
+Tu periódico personal automatizado. Cada mañana (~3:00, hora de Madrid) este
 repositorio se despierta solo, lee las noticias de las últimas 24 horas en
 ~18 medios, las convierte en un briefing de analista con IA (Gemini) y:
 

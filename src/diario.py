@@ -3,11 +3,12 @@
 Ejecuta la cadena completa: recopilar RSS -> generar con el LLM ->
 publicar la web -> enviar el email. Antes comprueba dos guardas:
 
-1. Que en Madrid sean ya las 06:00 o más tarde. Solo hay tope inferior:
-   su única función es descartar el disparo "de invierno" que cae a las
-   05:25 locales. No hay tope superior porque los cron de GitHub son
-   "best effort" y pueden llegar con horas de retraso (el 12-jul-2026
-   llegó a las 09:04 y una ventana con techo dejó el día sin periódico).
+1. Que en Madrid sean ya las 03:00 o más tarde. Solo hay tope inferior:
+   su única función es descartar el disparo "de invierno" que cae unos
+   minutos antes de esa hora. No hay tope superior porque los cron de
+   GitHub son "best effort" y pueden llegar con horas de retraso (el
+   12-jul-2026 llegó a las 09:04 y una ventana con techo dejó el día sin
+   periódico).
 2. Que la edición de hoy no exista ya (idempotencia: de los varios
    disparos diarios de respaldo, solo el primero publica).
 
@@ -47,8 +48,8 @@ def main() -> None:
     hoy = ahora.strftime("%Y-%m-%d")
 
     if not forzar:
-        if ahora.hour < 6:
-            print(f"Son las {ahora:%H:%M} en Madrid (antes de las 06:00): "
+        if ahora.hour < 3:
+            print(f"Son las {ahora:%H:%M} en Madrid (antes de las 03:00): "
                   f"este disparo no publica. Todo bien.")
             return
         if (CARPETA_EDICIONES / f"{hoy}.html").exists():

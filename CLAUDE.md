@@ -1,7 +1,7 @@
 # El Primer Café — contexto del proyecto
 
 Periódico personal diario 100% automatizado y 100% gratuito de Nico. Se publica
-solo cada mañana (~6:30 Madrid) vía GitHub Actions: RSS → Gemini → web estática
+solo cada mañana (~3:00 Madrid) vía GitHub Actions: RSS → Gemini → web estática
 en GitHub Pages + email por Resend. Nico no programa: explica los cambios paso
 a paso y no des nada por sabido.
 
@@ -13,12 +13,12 @@ a paso y no des nada por sabido.
 
 ## Arquitectura y decisiones clave
 
-- `src/diario.py` orquesta todo y aplica DOS GUARDAS: nunca antes de las 06:00
+- `src/diario.py` orquesta todo y aplica DOS GUARDAS: nunca antes de las 03:00
   de Madrid (SIN tope superior — GOTCHA: los cron de GitHub son best-effort y
   el 12-jul-2026 llegaron con ~3h de retraso y un disparo perdido; una ventana
   con techo dejó el día sin periódico) e idempotencia (si
   `docs/ediciones/<hoy>.html` existe, no repite). El cron dispara 4 veces
-  (04:25, 05:25, 07:25, 09:25 UTC): verano/invierno + 2 respaldos; solo el
+  (01:25, 02:25, 04:25, 06:25 UTC): verano/invierno + 2 respaldos; solo el
   primero que llegue publica. `FORZAR=true` o `--forzar` salta las guardas
   (es el default del workflow_dispatch).
 - `src/llm.py` es la ÚNICA capa que conoce al proveedor (Gemini REST v1beta,
