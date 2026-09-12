@@ -13,10 +13,11 @@ import time
 
 import requests
 
-# "gemini-flash-latest" es un alias que Google mantiene apuntando siempre al
-# último modelo Flash estable: evita que el periódico se rompa cuando Google
-# retire un modelo concreto (pasó con gemini-2.5-flash en 2026).
-MODELO = os.environ.get("MODELO_GEMINI", "gemini-flash-latest")
+# "gemini-flash-latest" apunta siempre al modelo Flash más nuevo de Google,
+# que es justo el que más saturación (HTTP 503) sufre cuando hay mucha
+# demanda global. "gemini-2.5-flash" es una versión estable y ya probada
+# en este proyecto, con menos tráfico y por tanto más fiable.
+MODELO = os.environ.get("MODELO_GEMINI", "gemini-2.5-flash")
 URL_API = f"https://generativelanguage.googleapis.com/v1beta/models/{MODELO}:generateContent"
 
 INTENTOS_MAX = 4
