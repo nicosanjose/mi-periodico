@@ -1,0 +1,236 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Temores sobre el ritmo de la IA y el alza del petróleo sacuden los mercados globales",
+      "resumen": "Las peticiones de líderes tecnológicos para frenar el desarrollo descontrolado de la IA han provocado fuertes caídas en las bolsas, con el petróleo superando los 107 dólares."
+    },
+    {
+      "titular": "Ajustada victoria del bloque de centroizquierda en las elecciones de Suecia",
+      "resumen": "La centroizquierda sueca roza la mayoría absoluta por un margen mínimo de escaños en unos comicios marcados por el estancamiento de la extrema derecha."
+    },
+    {
+      "titular": "La Unión Europea y Canadá estrechan lazos estratégicos para blindarse frente a EE. UU. y China",
+      "resumen": "Bruselas y Ottawa negocian pactos bilaterales de integración estratégica como cortafuegos defensivo ante la impredecibilidad comercial de Washington y el empuje de Pekín."
+    },
+    {
+      "titular": "El esfuerzo económico para comprar vivienda en España crece nueve veces más rápido que en la eurozona",
+      "resumen": "Un informe revela un deterioro acelerado en la accesibilidad inmobiliaria en España desde 1980 en comparación con el resto de socios de la moneda única."
+    },
+    {
+      "titular": "Washington desestima las alarmas del sector tecnológico y rechaza frenar el avance de la IA",
+      "resumen": "Representantes políticos en EE. UU. califican de exageradas las advertencias de los directivos sobre la seguridad de los modelos de inteligencia artificial."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "El bloque de centroizquierda se impone por la mínima en las elecciones de Suecia",
+          "que_ha_pasado": "Los pronósticos electorales tras el recuento preliminar en Suecia otorgan una ventaja mínima de tres escaños a la coalición de centroizquierda frente al bloque conservador. El partido de extrema derecha ha experimentado un retroceso relativo en favor de la derecha tradicional.",
+          "por_que_importa": "Suecia aboca sus instituciones a semanas de complejas negociaciones para formar un Gobierno estable en la mayor economía nórdica. La contención de la extrema derecha rompe la tendencia reciente en el norte de Europa, pero la fragilidad parlamentaria complicará la agenda legislativa en materias clave como seguridad comunitaria y política energética.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-13/los-socialdemocratas-ganan-las-elecciones-en-suecia-segun-los-sondeos-a-pie-de-urna.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Bruselas y Ottawa negocian una alianza estratégica frente a las presiones de Washington y Pekín",
+          "que_ha_pasado": "La Unión Europea y Canadá ultiman una red de acuerdos multilaterales en materia comercial, tecnológica y defensiva para estrechar sus lazos económicos sin requerir una adhesión formal al club comunitario.",
+          "por_que_importa": "El movimiento busca diversificar las cadenas de suministro y crear un bloque de estabilidad normativa capaz de resistir tanto la agresividad proteccionista de Estados Unidos como la hegemonía industrial de China. Para Canadá representa una vía de escape a su severa dependencia del mercado estadounidense.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-14/todo-menos-la-membresia-la-ue-y-canada-negocian-acuerdos-estrategicos-para-reforzar-su-relacion-en-la-era-trump.html"
+            }
+          ]
+        },
+        {
+          "titular": "La Comisión Europea ultima medidas para neutralizar la migración instrumentalizada",
+          "que_ha_pasado": "Ursula von der Leyen incluirá en su discurso del estado de la Unión un nuevo paquete de herramientas normativas diseñadas para responder cuando terceros países o actores hostiles canalicen flujos migratorios de forma coercitiva hacia las fronteras europeas.",
+          "por_que_importa": "La UE busca pasar de una postura reactiva a un marco legal punitivo ante el uso de migrantes como elemento de presión geopolítica, una táctica empleada en las fronteras oriental y mediterránea. El reto reside en conciliar la seguridad fronteriza con las obligaciones internacionales en materia de asilo.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-eus-plan-for-weaponized-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Rusia ataca infraestructura ferroviaria en Ucrania tras el paso de representantes europeos",
+          "que_ha_pasado": "Las fuerzas armadas rusas han alcanzado una locomotora estacionada cerca de la frontera con Polonia, poco después de que una delegación de altos cargos europeos y el ex primer ministro británico Boris Johnson abandonaran la zona.",
+          "por_que_importa": "El incidente subraya el riesgo constante al que están expuestas las arterias logísticas que conectan Ucrania con el territorio de la OTAN. Los ataques sistemáticos a la red de transportes buscan estrangular el suministro militar y civil, además de enviar una señal de disuasión a los mandatarios occidentales que visitan el país.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Ira y cautela en los mercados: el sector tecnológico se tambalea mientras sube el crudo",
+          "que_ha_pasado": "Las bolsas mundiales han registrado caídas notables encabezadas por los valores tecnológicos tras las peticiones de varios directivos de la industria para pausar el desarrollo descontrolado de la IA. En paralelo, el precio del barril de Brent ha escalado por encima de los 107 dólares.",
+          "por_que_importa": "El mercado empieza a cuestionar si las colosales valoraciones alcanzadas por la IA responden a fundamentos sostenibles o a una burbuja especulativa. El repunte simultáneo de las materias primas añade tensión inflacionaria, complicando el margen de maniobra de la Reserva Federal y el BCE a la hora de recortar tipos de interés.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/14/6aa78bad468aeb9a538b459f.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-14/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown"
+            }
+          ]
+        },
+        {
+          "titular": "El coste de acceso a la vivienda en España se distancia del promedio de la eurozona",
+          "que_ha_pasado": "La proporción de los ingresos del hogar destinada a la compra de vivienda en España ha crecido a un ritmo nueve veces superior al de la media de la zona euro durante las últimas cuatro décadas.",
+          "por_que_importa": "Este encarecimiento relativo refleja desequilibrios estructurales entre la oferta inmobiliaria y la evolución salarial, acentuados por la escasez de suelo y la falta de vivienda pública. Supone una brecha de vulnerabilidad financiera para las familias y una traba importante a la movilidad laboral y la emancipación juvenil.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-09-14/espana-encabeza-la-lista-de-paises-europeos-que-requieren-mas-esfuerzo-economico-para-comprar-una-vivienda.html"
+            }
+          ]
+        },
+        {
+          "titular": "La gestión enfocada en el valor gana tracción ante la volatilidad bursátil",
+          "que_ha_pasado": "Estrategias de inversión centradas en fundamentales sólidos y márgenes de seguridad, popularizadas por gestores 'value', vuelven a captar el interés de los inversores frente a la inestabilidad de las cotizadas de alto crecimiento.",
+          "por_que_importa": "El fin del dinero barato y las dudas sobre las métricas del sector tecnológico están provocando una rotación hacia empresas de sectores tradicionales con flujos de caja predecibles. Este movimiento suele anticipar fases de ajuste macroeconómico donde prima la preservación del capital.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/encuentros/victor-alvarez/2026/09/14/index.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Dirigentes políticos en EE. UU. rechazan los llamamientos a desacelerar el desarrollo de la IA",
+          "que_ha_pasado": "Figuras políticas de alto nivel en Washington han asegurado que la industria tecnológica está exagerando las alertas tras la carta abierta impulsada por directivos del sector para regular el ritmo de la IA avanzada.",
+          "por_que_importa": "Muestra la brecha entre la preocupación de los desarrolladores por la seguridad técnica y las prioridades geopolíticas de los gobiernos. Para Washington, frenar la innovación nacional equivale a ceder ventaja competitiva y estratégica frente a competidores como China, prevaleciendo el liderazgo sobre la precaución.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting"
+            }
+          ]
+        },
+        {
+          "titular": "El capital riesgo reestructura su estrategia para reducir la dependencia de las grandes firmas de IA",
+          "que_ha_pasado": "Grandes firmas de capital riesgo como Insight Partners están diversificando sus carteras de inversión en lugar de concentrar exposición exclusivamente en los laboratorios dominantes como OpenAI o Anthropic.",
+          "por_que_importa": "El elevado coste de computación y los reducidos márgenes operativos actuales de las plataformas de IA generativa están obligando a los inversores a buscar valor en capas intermedias del software, ciberseguridad y aplicaciones verticales con modelos de negocio más claros.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/"
+            }
+          ]
+        },
+        {
+          "titular": "Larry Ellison cancela la venta masiva de títulos de Oracle por 7.500 millones de dólares",
+          "que_ha_pasado": "El cofundador de Oracle ha dado marcha atrás en su plan comunicado de desprenderse de un paquete de 50 millones de acciones de la tecnológica cotizada.",
+          "por_que_importa": "La suspensión transmite una señal de confianza interna en la valoración a largo plazo de la compañía frente al entorno generalizado de ventas y dudas sobre las grandes tecnológicas, evitando además añadir presión bajista al título.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Investigan el asesinato de una estudiante universitaria española en México",
+          "que_ha_pasado": "Una joven española de 21 años, estudiante de la Universidad de Granada que se encontraba de intercambio académico, ha sido asesinada en el estado mexicano de Morelos. Las autoridades locales y el consulado han iniciado las pesquisas.",
+          "por_que_importa": "El suceso reactiva las alarmas sobre la inseguridad estructural en determinadas entidades de México y activa la asistencia consular española en un momento delicado para el seguimiento de la delincuencia organizada que afecta a ciudadanos extranjeros.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/09/14/6aa7804cfc6c83984c8b457f.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-09-14/estudiante-espanola-feminicidio-morelos-1tna-1tps_4423093/"
+            }
+          ]
+        },
+        {
+          "titular": "Cataluña planifica nuevas infraestructuras penitenciarias ante el aumento del número de reclusos",
+          "que_ha_pasado": "El Departamento de Justicia catalán trabaja en la creación de hasta 700 nuevas plazas en prisiones mediante módulos adicionales ante el estrecho margen entre la capacidad actual y el volumen de la población reclusa.",
+          "por_que_importa": "La saturación de las prisiones supone un reto de gestión pública directa y de convivencia interna. El incremento de la ocupación tensiona los recursos presupuestarios comunitarios e influye en los programas de reinserción social y laboral del sistema catalán.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/catalunya/2026-09-14/cataluna-planea-hasta-700-plazas-nuevas-de-carcel-en-modulos-ante-el-aumento-de-presos.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Pablo Trapero debuta en la dirección en inglés con una adaptación sobre dilemas familiares",
+          "que_ha_pasado": "El cineasta argentino Pablo Trapero ha iniciado el rodaje de 'Sus hijos', su primera producción rodada íntegramente en lengua inglesa, centrada en las revelaciones complejas de un patriarca a sus descendientes.",
+          "por_que_importa": "Trapero da el salto al mercado anglosajón manteniendo sus señas de identidad de cine de autor centrado en dinámicas morales turbias. El movimiento refleja la tendencia de directores latinoamericanos consolidados a escalar hacia coproducciones globales con proyección internacional.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-09-14/pablo-trapero-el-cineasta-argentino-que-busca-la-verdad-y-el-drama-salta-al-ingles-con-sus-hijos.html"
+            }
+          ]
+        },
+        {
+          "titular": "La autora cubana Elaine Vilar Madruga aborda el aislamiento e identidad en su nueva obra",
+          "que_ha_pasado": "La escritora ha presentado 'La piel hembra', novela que culmina un ciclo narrativo dedicado a la exploración del cuerpo, la opresión social y las dinámicas insulares en el Caribe.",
+          "por_que_importa": "La obra consolida a Vilar Madruga como una de las voces de referencia de la narrativa latinoamericana contemporánea, capaz de proyectar tensiones políticas y sociológicas a través del realismo mágico y la literatura alegórica.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/mexico/2026-09-14/elaine-vilar-madruga-escritora-a-veces-en-cuba-me-he-sentido-encerrada-y-a-veces-siento-que-la-isla-es-mi-expansion-al-mundo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Línea de swap de divisas (Currency Swap Line)",
+    "explicacion": "Una línea de swap de divisas es un acuerdo bilateral entre dos bancos centrales para intercambiar temporalmente sus respectivas monedas locales a un tipo de cambio fijado. Permite a un banco central obtener liquidez directa en divisa extranjera y distribuirla a las entidades financieras de su jurisdicción que atraviesan dificultades para fondearse en el mercado interbancario internacional. Este mecanismo neutraliza las tensiones de iliquidez sin necesidad de vender reservas de divisas en el mercado abierto ni generar presiones desestabilizadoras sobre el tipo de cambio.",
+    "ejemplo": "Las facilidades de swap activadas de forma permanente entre la Reserva Federal estadounidense, el Banco Central Europeo y el Banco de Inglaterra para asegurar el suministro de dólares a los bancos europeos en periodos de volatilidad o turbulencia financiera internacional."
+  },
+  "fecha": "2026-09-14"
+}
