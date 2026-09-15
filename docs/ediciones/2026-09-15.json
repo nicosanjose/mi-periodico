@@ -1,0 +1,262 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "El pánico inflacionario eleva la rentabilidad del bono de EE. UU. al 5% y sacude la deuda global",
+      "resumen": "La escalada del petróleo por encima de los 108 dólares tras los ataques hutíes aviva los temores a una inflación persistente e incrementa los costes de endeudamiento mundial antes de la cita de la Reserva Federal."
+    },
+    {
+      "titular": "Los líderes de la IA piden frenar el desarrollo pero Nvidia y Trump descartan pausar la carrera tecnológica",
+      "resumen": "Mientras OpenAI, Anthropic y SpaceX proponen moderar el avance de la tecnología de frontera por seguridad, Jensen Huang defiende acelerar la infraestructura con el respaldo de la Casa Blanca."
+    },
+    {
+      "titular": "El avance hutí en el mar Rojo amenaza con colapsar el Canal de Suez y distorsionar el comercio mundial",
+      "resumen": "Las acciones militares de las milicias rebeldes y el cierre de infraestructuras clave obligan a circunnavegar África, disparando los costes fletes y reavivando el riesgo de desabastecimiento."
+    },
+    {
+      "titular": "La Xunta planta cara al Gobierno central ante la reforma de Costas que afecta a 2.500 inmuebles",
+      "resumen": "El Ejecutivo gallego acusa al Ministerio para la Transición Ecológica de recentralización y de alterar arbitrariamente los deslindes en la franja marítimo-terrestre."
+    },
+    {
+      "titular": "La caída sostenida de la inversión acentúa las señales de desaceleración en la economía china",
+      "resumen": "El deterioro de la demanda interna y la atonía en la inversión privada elevan las exigencias sobre Pekín para que apruebe un paquete masivo de estímulos fiscales."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "El avance hutí en el mar Rojo amaga con paralizar el Canal de Suez y disparar la energía",
+          "que_ha_pasado": "Los progresos territoriales de las milicias hutíes en Yemen, sumados a las interrupciones en infraestructuras petroleras saudíes, han vuelto a estrangular el tránsito marítimo en el mar Rojo. Las navieras evitan la ruta del Canal de Suez ante el incremento de los ataques, provocando una subida inmediata del precio del crudo por encima de los 108 dólares el barril.",
+          "por_que_importa": "El Canal de Suez canaliza aproximadamente el 12% del comercio global y una parte sustancial de los envíos de hidrocarburos hacia Europa. La desestabilización prolongada de este corredor obliga a la flota mercante a rodear el continente africano, lo que encarece los costes logísticos, extiende los tiempos de entrega y compromete el control de la inflación a escala global.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.com/news/2026/09/14/houthi-advances-trump-choices-iran-01075915?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-15/el-canal-de-suez-tiembla-ante-los-avances-huties-en-el-mar-rojo-y-el-cierre-del-oleoducto-saudi.html"
+            }
+          ]
+        },
+        {
+          "titular": "Bruselas busca simplificar la burocracia para impulsar la libre circulación de trabajadores",
+          "que_ha_pasado": "La Comisión Europea ha presentado un paquete de medidas orientado a reducir las trabas administrativas e integrar los regímenes de seguridad social entre los Estados miembros. Bruselas advierte de que las discrepancias normativas y la lentitud en la homologación de cualificaciones continúan lastrando la movilidad laboral transfronteriza.",
+          "por_que_importa": "A pesar de la consolidación del mercado único para mercancías y servicios, la rigidez burocrática del factor trabajo limita la flexibilidad del mercado laboral europeo. Esta reforma pretende mejorar la asignación de recursos humanos y paliar la escasez de mano de obra cualificada en sectores estratégicos de la Unión.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-less-paperwork-get-eu-workers-moving/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El colapso de los visados entre la UE y Turquía alimenta un próspero mercado negro",
+          "que_ha_pasado": "Turquía continúa siendo el único Estado candidato a la adhesión a la Unión Europea cuyos ciudadanos necesitan visado para acceder al espacio Schengen. La incapacidad del sistema consular para gestionar la demanda ha derivado en la saturación de las plataformas y en la venta ilegal de citas gestionada por redes informáticas e intermediarios.",
+          "por_que_importa": "Esta traba de movilidad deteriora de forma constante las relaciones diplomáticas entre Ankara y los Veintisiete. En un momento de elevada tensión geopolítica en el Mediterráneo oriental y Próximo Oriente, la desconfianza mutua en materia migratoria dificulta la cooperación en áreas estratégicas como la seguridad colectiva o el comercio.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-15/bots-privatizaciones-y-millones-de-euros-perdidos-los-visados-que-envenenan-las-relaciones-entre-los-turcos-y-la-union-europea.html"
+            }
+          ]
+        },
+        {
+          "titular": "El independentismo en el Reino Unido evidencia ritmos divergentes en Escocia, Gales e Irlanda del Norte",
+          "que_ha_pasado": "Un nuevo balance de las dinámicas territoriales en el Reino Unido subraya el distanciamiento entre las estrategias de las naciones constitutivas. Mientras el movimiento escocés mantiene una estructura política orientada a desafiar las competencias de Londres, la vía galesa avanza a menor velocidad y el contexto norirlandés sigue supeditado a su marco institucional diferenciado.",
+          "por_que_importa": "Las consecuencias del Brexit alteraron los equilibrios constitucionales del Reino Unido. Evaluar la velocidad y cohesión de cada movimiento nacionalista resulta esencial para anticipar la estabilidad del gobierno de Westminster y prever posibles reconfiguraciones en las fronteras externas de la Unión Europea.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-15/independentismo-en-el-reino-unido-un-mismo-rechazo-a-londres-pero-distintos-ritmos-en-su-afan-por-separarse.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La repuntada del crudo sitúa el bono estadounidense en el 5% y presiona a los mercados globales",
+          "que_ha_pasado": "El rendimiento de la deuda pública de Estados Unidos a diez años ha alcanzado el 5% por primera vez desde 2023, desencadenando una oleada de ventas en los mercados de renta fija de Europa y Asia. La subida del petróleo por las tensiones en Oriente Próximo ha reavivado las presiones inflacionarias justo antes de la reunión de política monetaria de la Reserva Federal.",
+          "por_que_importa": "El tipo de interés de la deuda estadounidense actúa como referencia fundamental para el coste del crédito a nivel global. Su incremento encarece la financiación corporativa y soberana, restringe la liquidez disponible y reduce la valoración de los activos de renta variable en un entorno macroeconómico ya debilitado.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/15/6aa8dd53e5fdeaa93c8b4581.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5e2327aa-dbd0-4a79-8c99-622a893876d7?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-15/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline"
+            }
+          ]
+        },
+        {
+          "titular": "El estancamiento de la inversión acentúa las vulnerabilidades de la economía china",
+          "que_ha_pasado": "Los datos económicos más recientes emitidos por Pekín confirman una caída continuada en los niveles de inversión privada y un consumo interno inferior al esperado. El deterioro del sector inmobiliario y la debilidad del crédito continúan lastrando la actividad económica general del país.",
+          "por_que_importa": "La debilidad de la demanda en la segunda economía del planeta impacta directamente en las cadenas de suministro mundiales y en las exportaciones de los países desarrollados. Este escenario incrementa la presión sobre las autoridades chinas para lanzar paquetes de estímulo fiscal directo, ante el riesgo de entrar en una espiral deflacionaria.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/d9158802-5836-441a-9969-47409044c503?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El Gobierno creará una vía exprés de 30 días para aprobar inversiones industriales prioritarias",
+          "que_ha_pasado": "Moncloa y el Ministerio de Economía han diseñado un procedimiento acelerado que permitirá resolver expedientes de proyectos estratégicos en un plazo máximo de un mes. Las iniciativas que obtengan esta calificación contarán además con prioridad garantizada en el acceso a las redes de suministro eléctrico.",
+          "por_que_importa": "Los cuellos de botella administrativos y la saturación de las infraestructuras de transporte eléctrico se han convertido en un importante freno para la atracción de capital internacional en España. Esta medida busca agilizar la ejecución de fondos europeos y mejorar la competitividad del país en sectores como la descarbonización y los centros de datos.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-09-15/el-gobierno-crea-una-via-preferente-para-aprobar-inversiones-estrategicas-en-un-mes.html"
+            }
+          ]
+        },
+        {
+          "titular": "El capital riesgo recurre al mercado secundario ante la falta de liquidez en las salidas tradicionales",
+          "que_ha_pasado": "El gigante del private equity CVC ha estructurado un nuevo megafondo internacional destinado en exclusiva al mercado secundario. Esta estrategia busca adquirir participaciones en fondos existentes y ofrecer liquidez a los inversores en un momento de paralización de las salidas a bolsa.",
+          "por_que_importa": "Con el mercado de ofertas públicas iniciales y las operaciones de fusión corporativa bajo mínimos por los elevados tipos de interés, las transacciones secundarias se han convertido en el principal mecanismo para que los grandes fondos liquiden posiciones y redistribuyan capital entre sus inversores.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/2026/09/15/6a9ea55a468aeb53498b456e.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Los fundadores de la IA solicitan desacelerar el sector mientras Nvidia descarta cualquier pausa",
+          "que_ha_pasado": "Los máximos responsables de OpenAI, Anthropic y Google DeepMind han abogado por ralentizar el desarrollo de modelos de inteligencia artificial de frontera por motivos de seguridad. No obstante, el consejero delegado de Nvidia, Jensen Huang, rechazó tajantemente cualquier freno al sector tras mantener una conversación con Donald Trump.",
+          "por_que_importa": "El debate refleja la división estructural entre los creadores de modelos, temerosos de riesgos sistémicos y favorables a imponer barreras normativas, y los fabricantes de hardware, cuyos ingresos dependen de la inversión masiva e ininterrumpida en centros de cálculo. La postura de la administración estadounidense insinúa además que la competencia geopolítica con China impedirá cualquier tregua regulatoria.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel"
+            }
+          ]
+        },
+        {
+          "titular": "El Pentágono confirma por primera vez el despliegue de armamento en órbita terrestre",
+          "que_ha_pasado": "Las fuerzas armadas de Estados Unidos han reconocido oficialmente la operatividad de sistemas de control espacial armados ubicados en órbita. Las autoridades militares confirmaron que estos dispositivos cuentan con capacidad para defender los activos satelitales y actuar en apoyo directo de las operaciones conjuntas.",
+          "por_que_importa": "La declaración supone el reconocimiento público explícito de la militarización activa del espacio exterior por parte de una superpotencia. Este paso dinamita los acuerdos históricos no escritos de disuasión espacial e inaugura una carrera por el dominio estratégico de la órbita baja frente a adversarios como China o Rusia.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/"
+            }
+          ]
+        },
+        {
+          "titular": "OpenAI adquiere Glass Imaging por 300 millones de dólares para potenciar su tecnología multimodal",
+          "que_ha_pasado": "OpenAI ha cerrado la compra de Glass Imaging, una firma especializada en procesamiento digital de imagen fundada por antiguos ingenieros de Apple. La transacción, valorada en unos 300 millones de dólares, busca integrar algoritmos avanzados de corrección de visión en sus desarrollos.",
+          "por_que_importa": "La operación pone de manifiesto la urgencia de las grandes empresas de software por dominar el procesamiento de datos visuales en tiempo real. La combinación de inteligencia artificial generativa con procesamiento óptico avanzado es indispensable para el desarrollo de nuevos dispositivos personales y la evolución de los modelos multimodales.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La Xunta de Galicia lleva al ámbito judicial el nuevo reglamento estatal de Costas",
+          "que_ha_pasado": "El Gobierno autonómico gallego ha anunciado una batería de medidas legales contra el reglamento de Costas impulsado por el Ministerio para la Transición Ecológica. La administración autonómica acusa al Ejecutivo central de invadir competencias y advierte de que la redefinición de deslindes afecta negativamente a más de 2.500 edificaciones e instalaciones industriales de la franja costera.",
+          "por_que_importa": "El conflicto evidencia la brecha entre la gestión ambiental centralizada y los modelos regionales de ordenación territorial. El choque legal determinará el grado de autonomía de las comunidades para regular las actividades económicas en el litoral en el contexto de la mitigación del cambio climático.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/galicia/2026-09-15/la-xunta-planta-cara-al-gobierno-ante-el-nuevo-reglamento-de-costas-estan-en-juego-2-500-edificaciones_4423550/"
+            }
+          ]
+        },
+        {
+          "titular": "Moreno utiliza los informes sobre narcotráfico para intensificar la presión sobre el Gobierno",
+          "que_ha_pasado": "El presidente de la Junta de Andalucía ha elevado el tono contra la gestión del Ministerio del Interior basándose en las últimas memorias de la Fiscalía Antidroga. La administración autonómica sostiene que las organizaciones criminales han arraigado de forma estructural y sobrepasado los límites geográficos del Campo de Gibraltar.",
+          "por_que_importa": "La penetración de las redes del narcotráfico en el sur de España trasciende la seguridad ciudadana para convertirse en un problema de gobernanza e infraestructura estatal. La disputa política refleja la tensión sobre la suficiencia de recursos asignados a los cuerpos de seguridad en las zonas prioritarias.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-09-15/moreno-convierte-la-lucha-contra-el-narco-en-un-caballo-de-batalla-contra-el-gobierno-central_4423495/"
+            }
+          ]
+        },
+        {
+          "titular": "Aliança Catalana se desmarca de la extrema derecha alemana para proteger sus expectativas electorales",
+          "que_ha_pasado": "La formación liderada por Sílvia Orriols ha establecido una distancia táctica respecto a Alternativa para Alemania (AfD). El partido catalán evita mostrar sintonía con las posiciones más radicales de la ultraderecha germana y trata de perfilar una agenda centrada en sus propios intereses electorales.",
+          "por_que_importa": "El movimiento muestra el pragmatismo estratégico de las fuerzas emergentes de la derecha radical en Europa, que sopesan las ventajas de integrarse en bloques internacionales afines frente al riesgo de sufrir aislamiento institucional en sus respectivas políticas locales.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-09-15/orriols-distancia-ultras-de-afd-preservar-expectativas-electorales_4423632/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Zadie Smith analiza las contradicciones entre la inteligencia artificial y el valor de la creación humana",
+          "que_ha_pasado": "La ensayista y novelista británica Zadie Smith ha publicado 'Muertos y vivos', un volumen de ensayos centrado en el arte, la política y la tecnología. En la obra, la autora critica las narrativas dominantes de Silicon Valley y la ironía de discutir la creatividad estética de las máquinas mientras sus desarrolladores profetizan la extinción biológica.",
+          "por_que_importa": "El análisis de Smith aporta una mirada crítica frente a los discursos absolutistas del ámbito tecnológico. Su reflexión reivindica el papel del pensamiento humanista como contrapeso indispensable frente a los consensos acelerados derivados de la automatización masiva.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-09-15/zadie-smith-discutimos-si-la-ia-es-capaz-de-escribir-poemas-mientras-sus-creadores-nos-advierten-de-nuestra-extincion-como-especie.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los programas artísticos ganan peso como herramienta pedagógica en las prisiones españolas",
+          "que_ha_pasado": "Diversas instituciones y colectivos culturales han consolidado proyectos teatrales, literarios y de artes plásticas en los centros penitenciarios de España. Estas iniciativas buscan ofrecer cauces de expresión y aprendizaje técnico a la población reclusa.",
+          "por_que_importa": "Las evidencias operativas señalan que las actividades artísticas estructuradas contribuyen a reducir los niveles de reincidencia y a mejorar el clima de convivencia en las prisiones, dando cumplimiento práctico al mandato constitucional orientado a la reeducación y reinserción social.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-09-15/un-respiro-cultural-dentro-de-las-carceles-espanolas.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Déficits gemelos (Twin Deficits)",
+    "explicacion": "Situación macroeconómica que ocurre cuando un país experimenta simultáneamente un déficit fiscal (sus gastos públicos superan a sus ingresos) y un déficit por cuenta corriente (importa más bienes, servicios y capitales de los que exporta). Esta correlación refleja que el Estado no solo no recauda lo suficiente para cubrir su gasto presupuestario, sino que la economía nacional en su conjunto es incapaz de generar el ahorro interno necesario para financiar su inversión, debiendo recurrir al endeudamiento exterior. Esta doble brecha aumenta la vulnerabilidad financiera del país ante variaciones en los tipos de interés internacionales.",
+    "ejemplo": "El incremento sostenido del endeudamiento público en Estados Unidos coincidiendo con su tradicional déficit comercial, en un momento de repunte de la rentabilidad del bono soberano a diez años."
+  },
+  "fecha": "2026-09-15"
+}
