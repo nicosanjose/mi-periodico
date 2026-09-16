@@ -1,0 +1,247 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Alertas sobre una corrección en la IA que arrastre a la economía de EE. UU.",
+      "resumen": "Organismos internacionales y agencias de calificación advierten de que la sobrevaloración de las tecnológicas podría provocar un crac bursátil y desencadenar una recesión."
+    },
+    {
+      "titular": "Estados Unidos admite el despliegue de armamento en la órbita terrestre",
+      "resumen": "El Pentágono confirma por primera vez capacidades ofensivas en el espacio, avivando el temor a una carrera armada que amenace satélites y telecomunicaciones mundiales."
+    },
+    {
+      "titular": "El Pentágono reconoce escasez de munición por el gasto en Oriente Próximo",
+      "resumen": "Un informe interno del Departamento de Defensa revela cuellos de botella en el aprovisionamiento de pertrechos, desmontando la tesis de unos suministros militares ilimitados."
+    },
+    {
+      "titular": "Canadá intenta tejer una alianza económica con la UE ante la presión de EE. UU.",
+      "resumen": "Ottawa presenta una ambiciosa agenda de inversión para atraer capital europeo y reducir la dependencia de su vecino, aunque en Bruselas persisten las reticencias."
+    },
+    {
+      "titular": "Crece el rechazo social en EE. UU. al despliegue masivo de centros de datos de IA",
+      "resumen": "Las tensiones por el elevado consumo energético e hídrico extienden la oposición vecinal a la infraestructura necesaria para sostener los grandes modelos de lenguaje."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La violencia yihadista alcanza máximos históricos en el Sahel africano",
+          "que_ha_pasado": "Las facciones vinculadas a Al-Qaeda y al Estado Islámico han intensificado sus ofensivas en la franja del Sahel, previéndose un récord histórico de violencia armada para este año. Las maniobras operativas de estos grupos han desbordado las capacidades de seguridad de los gobiernos locales.",
+          "por_que_importa": "La consolidación del Sahel como el nuevo epicentro global del terrorismo islamista coincide con la retirada de tropas occidentales y el avance de la influencia rusa en la región. La inestabilidad prolongada amenaza con desmantelar la gobernanza regional y tensionar los flujos migratorios hacia el Mediterráneo.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/sep/16/al-qaida-and-is-linked-violence-in-africas-sahel-belt-set-to-hit-record-levels-this-year"
+            }
+          ]
+        },
+        {
+          "titular": "Rusia escala la guerra tecnológica en Ucrania con drones a reacción y reclutamiento digital",
+          "que_ha_pasado": "Moscú ha comenzado a desplegar masivamente drones de ataque con motor a reacción capaces de alcanzar los 600 km/h y eludir la defensa antiaérea ucraniana. Al mismo tiempo, investigaciones revelan que redes digitales utilizan infraestructura y servidores occidentales para engañar a jóvenes africanos y enviarlos al frente.",
+          "por_que_importa": "La evolución táctica hacia vectores aéreos hiperrápidos reduce drásticamente el tiempo de reacción de las defensas de Kiev, forzando un mayor consumo de interceptores costosos. Por otro lado, la explotación de plataformas digitales globales para el reclutamiento mercenario ilustra la sofisticación de las operaciones de influencia y guerra híbrida rusas en el Sur Global.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-16/el-entramado-digital-que-ofrece-trabajo-en-rusia-y-te-manda-a-la-guerra-de-ucrania.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Pentágono confirma desabastecimiento de municiones por los conflictos en Oriente Próximo",
+          "que_ha_pasado": "Un informe de la inspección general del Departamento de Defensa de EE. UU. ha certificado cuellos de botella y carencias en el almacenamiento de munición militar. El hallazgo contradice las declaraciones oficiales de la Casa Blanca sobre la existencia de suministros ilimitados para operaciones militares.",
+          "por_que_importa": "El consumo acelerado de pertrechos en múltiples frentes expone la fragilidad de la base industrial de defensa estadounidense ante escenarios de alta intensidad. La incapacidad de reponer inventarios con rapidez limita la capacidad de disuasión estratégica de Washington tanto en Oriente Próximo como en el Indo-Pacífico.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Canadá busca una alianza de potencias medias con la UE tras el giro proteccionista de EE. UU.",
+          "que_ha_pasado": "Durante la cumbre de inversiones de Canadá, el primer ministro Mark Carney presentó una cartera de proyectos de un billón de dólares buscando atraer capital europeo. Sin embargo, varias capitales comunitarias han mostrado recelos a consolidar un bloque formal frente a Washington y Pekín.",
+          "por_que_importa": "El intento canadiense refleja la necesidad de las economías desarrolladas medianas de diversificar alianzas comerciales ante el aumento de aranceles y la parálisis del multilateralismo. A pesar de los reparos europeos, el movimiento subraya la reconfiguración de las cadenas globales de valor fuera del eje exclusivo con Estados Unidos.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/2e2e0c1e-51d6-49e2-9f4a-6ef793908b85?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Pausa táctica en las bolsas y alivio en el crudo a la espera de la decisión de la Fed",
+          "que_ha_pasado": "Las principales bolsas globales y los mercados de renta fija han registrado cierres planos ante la inminente decisión de tipos de interés de la Reserva Federal. La cotización del barril de Brent ha cedido terreno hasta los 108 dólares, moderando la presión inflacionaria inmediata.",
+          "por_que_importa": "Los inversores prefieren no tomar posiciones agresivas en medio de dudas sobre el ritmo de relajación monetaria en EE. UU. Un recorte de tipos más moderado de lo esperado o señales de persistencia inflacionaria podrían reavivar la volatilidad en las valoraciones bursátiles.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/16/6aaa2ead468aeb06058b45a0.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-16/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "El BIS y Fitch advierten del riesgo de corrección en Wall Street por la sobrevaloración de la IA",
+          "que_ha_pasado": "Instituciones financieras globales como el Banco de Pagos Internacionales (BIS) y la agencia Fitch han alertado de que el gasto desmedido en IA podría desatar un desplome bursátil y desencadenar una recesión en EE. UU. Diversos analistas sugieren desacelerar el ritmo de despliegue tecnológico para evitar un shock macroeconómico.",
+          "por_que_importa": "El temor a una burbuja tecnológica evoca el colapso de las empresas puntocom a principios de siglo, dado que los retornos monetarios del software generativo aún no justifican las milmillonarias inversiones en infraestructura. Una corrección brusca en las cotizaciones de los gigantes tecnológicos arrastraría a los fondos de pensiones y estrecharía el crédito global.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-16/los-analistas-ponen-cifras-a-un-crac-de-la-ia-desplome-de-wall-street-y-recesion-en-ee-uu.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/9dd894cd-dddd-4388-ac00-dbd14d40dc52?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-16/los-analistas-ponen-cifras-a-un-crac-de-la-ia-desplome-de-wall-street-y-recesion-en-ee-uu.html"
+            }
+          ]
+        },
+        {
+          "titular": "GSK adquiere una licencia biotecnológica en China por 637 millones de dólares",
+          "que_ha_pasado": "La farmacéutica británica GSK ha cerrado un acuerdo millonario para explotar un fármaco oncológico desarrollado en China. Este movimiento se suma a una secuencia de alianzas occidentales para captar innovación médica en el país asiático.",
+          "por_que_importa": "El acuerdo evidencia cómo China está transitando de ser un fabricante de ingredientes farmacéuticos a un polo de I+D avanzada en ciencias de la salud. Para las multinacionales occidentales, la externalización del desarrollo de licencias en China se consolida como una estrategia clave para recortar costes y acortar los tiempos de ensayo clínico.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-09-16/gsk-consigue-la-licencia-de-un-farmaco-chino-contra-el-cancer-por-637-millones.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Nvidia rechaza la regulación estatal de la IA y aboga por la seguridad en el diseño",
+          "que_ha_pasado": "El consejero delegado de Nvidia, Jensen Huang, ha declarado que la inteligencia artificial no requiere marcos regulatorios específicos, sosteniendo que debe ser tratada como software tradicional cuya seguridad garantizan los desarrolladores.",
+          "por_que_importa": "La postura de la principal empresa de semiconductores del mundo tensiona el debate político global sobre el control normativo de los modelos avanzados de IA. Frente a la aproximación regulatoria de la Unión Europea, las grandes tecnológicas estadounidenses presionan para mantener un entorno de libre mercado que no frene la velocidad de innovación.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/"
+            }
+          ]
+        },
+        {
+          "titular": "Crece el rechazo social en EE. UU. ante el impacto de los centros de datos para IA",
+          "que_ha_pasado": "Encuestas recientes indican que un 61 % de la población estadounidense se opone a la construcción de centros de datos en sus comunidades. Las protestas vecinales se han extendido a zonas urbanas e industriales castigadas, donde la ciudadanía denuncia la presión sobre la red eléctrica y los recursos hídricos.",
+          "por_que_importa": "La expansión física de la infraestructura de IA está encontrando cuellos de botella no solo energéticos, sino de aceptación pública. Los crecientes impedimentos regulatorios y sociales a nivel local podrían encarecer el despliegue de la computación en la nube y demorar los planes del sector tecnológico.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september"
+            }
+          ]
+        },
+        {
+          "titular": "Meta integra agentes de IA para automatizar la gestión técnica de WhatsApp Business",
+          "que_ha_pasado": "Meta ha lanzado un servidor basado en el estándar MCP que permite a agentes de código como Claude o ChatGPT gestionar la configuración, pruebas y plantillas de mensajería en WhatsApp Business.",
+          "por_que_importa": "Este avance demuestra la rápida adopción del estándar Model Context Protocol (MCP) para conectar modelos de lenguaje con herramientas empresariales reales. Para las consultoras tecnológicas, supone un paso decisivo hacia la automatización del desarrollo de software y la reducción de tareas operativas de integración.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Un desplome térmico y lluvias muy intensas amenazan el este peninsular tras el incendio del Alto Turia",
+          "que_ha_pasado": "Un frente frío provocará una caída de 10 grados en las temperaturas y chubascos adversos con aviso naranja en la fachada mediterránea y Baleares. La bajada térmica llega mientras los servicios de emergencia combaten un incendio forestal en la Reserva de la Biosfera del Alto Turia que ya ha calcinado 700 hectáreas.",
+          "por_que_importa": "La concatenación de episodios climáticos extremos pone a prueba la resiliencia de la infraestructura hídrica y de emergencias en las comunidades del Levante. La alternancia rápida entre sequías violentas e inundaciones súbitas acentúa los retos de la gestión del territorio y la conservación medioambiental.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/el-tiempo/2026-09-16/un-frente-tumbara-las-temperaturas-10-grados-y-dejara-lluvias-muy-fuertes-en-el-este.html"
+            }
+          ]
+        },
+        {
+          "titular": "El colectivo médico de Ceuta alerta del colapso asistencial tras las últimas renuncias",
+          "que_ha_pasado": "El Colegio de Médicos de Ceuta ha denunciado la pérdida continuada de facultativos mediante bajas y renuncias tras la sobrecarga asistencial derivada del pico migratorio de finales de julio.",
+          "por_que_importa": "La escasez estructural de profesionales sanitarios en las ciudades autónomas de Ceuta y Melilla agrava la vulnerabilidad institucional de la frontera sur de España. La falta de incentivos laborales fijos amenaza con socavar los servicios públicos esenciales en zonas de elevada presión sociodemográfica.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/salud/2026/09/16/6aa9957ae4d4d8e23f8b4572.html"
+            }
+          ]
+        },
+        {
+          "titular": "La ANC excluye a los partidos de la cumbre independentista para evitar la presencia de Aliança Catalana",
+          "que_ha_pasado": "La Assemblea Nacional Catalana ha optado por vetar la participación de formaciones políticas como Junts o ERC en su próximo encuentro organizativo para impedir la asistencia del partido de extrema derecha Aliança Catalana.",
+          "por_que_importa": "La maniobra evidencia la creciente fragmentación e incomodidad estratégica dentro del movimiento independentista catalán ante el auge de fuerzas populistas de derecha. La falta de unidad entre entidades de la sociedad civil y partidos políticos tradicionales dificulta la articulación de un proyecto soberanista homogéneo.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-09-16/anc-cumbre-indepe-sin-junts-erc-vetos-alianca_4424490/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "EE. UU. confirma el despliegue de armas orbitales y aviva el temor a una carrera militar en el espacio",
+          "que_ha_pasado": "Por primera vez de forma oficial, el Pentágono ha reconocido haber desplegado capacidad militar ofensiva en la órbita terrestre. Expertos en defensa alertan sobre el riesgo de una escalada que inutilice satélites de navegación y telecomunicaciones.",
+          "por_que_importa": "La militarización del espacio exterior rompe el consenso tácito de neutralidad en la órbita baja y amenaza el funcionamiento de las infraestructuras críticas globales, desde el GPS hasta las redes financieras. El uso de armamento antisatélite o electromagnético podría generar basura espacial masiva e inhabilitar de forma permanente franjas orbitales clave.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "El periodista Jacobo García retrata la América Latina contemporánea en su obra galardonada 'Años luz'",
+          "que_ha_pasado": "El cronista ha sido galardonado con el Premio Anagrama por un trabajo de memorias y reporterismo que explora las tensiones sociopolíticas y las dificultades de la profesión periodística en el continente americano.",
+          "por_que_importa": "El reconocimiento a la crónica de larga distancia subraya el valor del análisis sobre el terreno frente a la inmediatez informativa de las redes sociales. El libro ofrece un fresco sobre las transformaciones sociales y la fragilidad democrática en América Latina desde la perspectiva del oficio periodístico.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-09-16/jacobo-garcia-mi-generacion-bebe-de-mas-no-tiene-una-vida-familiar-ordenada-no-llega-a-fin-de-mes-y-oculta-a-sus-padres-donde-reportea.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Tecnología de doble uso (Dual-use technology)",
+    "explicacion": "Hace referencia a aquellos bienes, software, materiales o avances científicos desarrollados originalmente para aplicaciones civiles, pero que poseen el potencial técnico para ser adaptados con fines militares o de defensa. En las relaciones internacionales y el comercio global, regular este tipo de tecnología supone un dilema constante: imponer controles estrictos a su exportación frena la innovación comercial legítima y el crecimiento económico, mientras que una regulación laxista permite a potencias rivales o grupos irregulares militarizar componentes comerciales accesibles.",
+    "ejemplo": "El uso de servidores comerciales en la nube y plataformas de empleo digital para captar mercenarios, o el desvío de microchips de electrónica de consumo para la fabricación de drones militares de ataque."
+  },
+  "fecha": "2026-09-16"
+}
