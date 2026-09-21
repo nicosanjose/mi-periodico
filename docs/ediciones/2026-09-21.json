@@ -1,0 +1,228 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Debacle electoral de la CDU en Alemania pone en jaque al Gobierno de Friedrich Merz",
+      "resumen": "Los históricos reveses en los comicios regionales abren una profunda crisis política en Berlín que cuestiona la solidez de la coalición y debilita el liderazgo alemán en Europa."
+    },
+    {
+      "titular": "Volkswagen es excluida del Euro Stoxx 50 tras caer sus acciones a mínimos de 16 años",
+      "resumen": "La salida del principal índice bursátil europeo refleja la gravedad de la crisis estructural del sector automovilístico germano frente a la competencia china y los costes operativos."
+    },
+    {
+      "titular": "EE. UU. y China abren líneas directas de diálogo sobre IA antes de la cumbre Trump-Xi",
+      "resumen": "Washington y Pekín buscan fijar mecanismos de prevención de riesgos tecnológicos para evitar escaladas no deseadas en vísperas del encuentro entre ambos mandatarios."
+    },
+    {
+      "titular": "Pedro Sánchez defiende en la ONU su modelo migratorio bajo la presión de la crisis en Ceuta",
+      "resumen": "El presidente del Gobierno acude a la Asamblea General en Nueva York para proyectar su agenda socioeconómica mientras persisten las tensiones en la frontera sur española."
+    },
+    {
+      "titular": "Cineastas israelíes denuncian una asfixia política que califica de traición la cultura crítica",
+      "resumen": "Directores de cine alertan de que los recortes de fondos estatales y los ataques institucionales amenazan con erradicar la creación artística independiente en el país."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Debacle electoral de la CDU en Alemania pone en jaque la estabilidad del Gobierno de Friedrich Merz",
+          "que_ha_pasado": "La Unión Demócrata Cristiana (CDU) ha sufrido pérdidas severas en las elecciones regionales de Mecklemburgo-Pomerania Occidental y Berlín, llegando a quedar fuera de un parlamento regional por primera vez en la historia de la República Federal. El canciller Friedrich Merz ha asumido el resultado como un desastre pero ha manifestado su intención de mantenerse en el cargo, mientras la extrema derecha de AfD continúa ganando terreno.",
+          "por_que_importa": "El hundimiento electoral del partido gobernante debilita la capacidad de Berlín para ejercer el liderazgo político y económico en la Unión Europea en un momento de estancamiento económico. La erosión del centro político alemán complica la gobernabilidad interna y aumenta la vulnerabilidad del país ante presiones populistas e interferencias geopolíticas externas.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-21/la-debacle-electoral-de-la-cdu-del-canciller-merz-pone-en-cuestion-la-coalicion-de-gobierno.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/merzs-election-nightmare-continues/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La Unión Europea busca rediseñar sus alianzas estratégicas globales con Canadá como modelo",
+          "que_ha_pasado": "Las instituciones europeas están explorando una nueva fórmula de cooperación reforzada con Canadá para construir alianzas flexibles y profundas más allá del ámbito geográfico del continente. Esta iniciativa busca crear marcos de integración estratégica en sectores clave sin la rigidez de los tratados multilaterales tradicionales.",
+          "por_que_importa": "Frente a las incertidumbres del eje transatlántico con Washington y la asertividad china, Bruselas intenta diversificar sus socios geopolíticos mediante acuerdos pragmáticos. Establecer este tipo de vínculos con países afines permite a la UE asegurar cadenas de suministro sensibles y ganar peso en la gobernanza global.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-21/canada-un-laboratorio-para-las-alianzas-para-el-futuro-de-la-ue.html"
+            }
+          ]
+        },
+        {
+          "titular": "Marruecos consolida el perfil del tecnócrata Fouzi Lekjaa de cara a las elecciones presidenciales",
+          "que_ha_pasado": "Fouzi Lekjaa, responsable del área económica del Ejecutivo marroquí y presidente de la Federación de Fútbol, se ha consolidado como el candidato oficialista a la jefatura del Gobierno previa a los comicios del 23 de septiembre. Su candidatura aúna la gestión presupuestaria con el impulso organizativo del Mundial de fútbol.",
+          "por_que_importa": "La proyección de perfiles marcadamente tecnocráticos refleja la prioridad de Rabat por acelerar las grandes infraestructuras y mantener la estabilidad financiera. Para España y la UE, la continuidad o cambio en la cúpula marroquí es determinante en materia de control migratorio, seguridad compartida e inversiones bilaterales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-21/fouzi-lekjaa-un-fichaje-tecnocrata-y-futbolistico-para-el-gobierno-del-mundial-en-marruecos.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "EE. UU. y China entablan contactos sobre IA para distender su rivalidad económica antes de la cumbre Trump-Xi",
+          "que_ha_pasado": "Las delegaciones del Departamento del Tesoro de EE. UU. y del Gobierno chino han iniciado conversaciones bilaterales enfocadas en la inteligencia artificial y la estabilidad económica internacional. Este diálogo busca rebajar la tensión comercial e idear vías de contención mutua antes del encuentro formal entre ambos jefes de Estado.",
+          "por_que_importa": "La competencia en tecnologías críticas es la principal fuente de fricción entre las dos mayores economías del mundo. Intentar pactar salvaguardas mínimas en IA demuestra que ambas potencias necesitan evitar un desacople financiero o regulatorio absoluto que desestabilice los mercados mundiales.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-21/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "Volkswagen es excluida del índice Euro Stoxx 50 tras tocar sus acciones mínimos de 16 años",
+          "que_ha_pasado": "El grupo automovilístico alemán Volkswagen ha quedado fuera del Euro Stoxx 50, el principal índice de valores de la eurozona, tras una prolongada depreciación bursátil. La pérdida de capitalización responde al deterioro del negocio derivado de los elevados costes de producción y la dura competencia exterior.",
+          "por_que_importa": "La salida de Volkswagen de la elite bursátil continental simboliza los problemas estructurales del modelo industrial germano, expuesto a altos costes energéticos y al retraso en la transición hacia el vehículo eléctrico. Su pérdida de relevancia bursátil anticipa reestructuraciones laborales y ajustes productivos en todo el sector auxiliar europeo.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/188611f3-2536-4bed-a2c0-bbc074e6f783?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Proveedores de tierras raras urgen a Europa a diversificar sus compras para romper el dominio chino",
+          "que_ha_pasado": "Empresas mineras internacionales han instado a la Unión Europea a concretar acuerdos de compra a largo plazo para acelerar la entrada en servicio de plantas de procesamiento fuera de China. El sector advierte de que el dominio casi absoluto de Pekín en la cadena de minerales críticos expone a las industrias avanzadas a constantes tensiones geopolíticas.",
+          "por_que_importa": "Los minerales raros son fundamentales para la fabricación de baterías, turbinas eólicas y componentes electrónicos militares. Sin alternativas de suministro consolidadas, las políticas de descarbonización y reindustrialización del bloque europeo quedan supeditadas a la política de exportación de Pekín.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/environment/2026/sep/20/china-stranglehold-rare-earths-hopeful-supplier-eu-viridis"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Tesla planifica una red europea de cien megacargadores para impulsar el camión eléctrico Semi",
+          "que_ha_pasado": "Tesla ha anunciado el despliegue de más de un centenar de puntos de carga de potencia megavática repartidos en 21 ubicaciones estratégicas de Europa para su modelo de transporte pesado Semi. Las instalaciones están concebidas para permitir la recarga ultrarrápida durante las paradas operativas de la logística industrial.",
+          "por_que_importa": "El principal escollo para la descarbonización del transporte pesado por carretera ha sido la falta de infraestructura de carga masiva en los corredores transeuropeos. La creación de esta red sienta las bases para sustituir las flotas diésel y presiona al resto de fabricantes a acelerar sus estándares de carga de alta potencia.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/movilidad/tesla-sabe-donde-cargara-sus-camiones-europa-21-sedes-100-puntos-carga-a-nivel-megavatio"
+            }
+          ]
+        },
+        {
+          "titular": "La opacidad de las empresas de 'modelos de mundo' suscita recelos en la industria tecnológica",
+          "que_ha_pasado": "Las compañías centradas en el desarrollo de 'modelos de mundo' —sistemas de IA diseñados para comprender la física del entorno real— acumulan importantes inversiones pero mantienen un elevado hermetismo sobre sus arquitecturas y fuentes de datos. Ni directivos ni proveedores aclaran los métodos de entrenamiento empleados.",
+          "por_que_importa": "Estos modelos son la piedra angular para el salto definitivo hacia la robótica autónoma y la IA general. La falta de transparencia en sus bases de datos plantea interrogantes sobre la privacidad, los derechos de propiedad intelectual y la evaluación objetiva de los riesgos de seguridad antes de su despliegue masivo.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/"
+            }
+          ]
+        },
+        {
+          "titular": "Jensen Huang tilda de inexistente el riesgo existencial de la IA frente al criterio de los investigadores",
+          "que_ha_pasado": "El consejero delegado de Nvidia ha afirmado públicamente que las probabilidades de que la inteligencia artificial represente una amenaza existencial para la humanidad son nulas. Estas declaraciones chocan directamente con los manifiestos y advertencias lanzados por numerosos científicos y académicos del sector.",
+          "por_que_importa": "Las grandes corporaciones del chip intentan neutralizar los discursos catastrofistas para evitar regulaciones restrictivas que ralenticen la demanda de hardware. Esta discrepancia pública evidencia el choque de intereses entre el negocio del despliegue masivo de cómputo y la investigación en alineamiento y seguridad.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Pedro Sánchez acude a la ONU con la crisis migratoria de Ceuta en el centro del debate político",
+          "que_ha_pasado": "El presidente del Gobierno ha viajado a Nueva York para participar en la semana de alto nivel de las Naciones Unidas en un momento marcado por la tensión migratoria en Ceuta. Sánchez prevé utilizar la tribuna internacional para contraponer su modelo de gestión migratoria y su agenda social ante un organismo mermado por las tensiones geopolíticas.",
+          "por_que_importa": "La gestión de las fronteras continentales y la distribución de menores no acompañados continúan erosionando las relaciones entre el Ejecutivo central y las comunidades autónomas. La proyección internacional del modelo español busca recabar apoyos multilaterales y posicionar a Madrid como referente en la política europea de fronteras.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/09/21/6aafe53ae4d4d88d608b4591.html"
+            }
+          ]
+        },
+        {
+          "titular": "EE. UU. y China negocian un mecanismo de alerta temprana para prevenir incidentes de IA",
+          "que_ha_pasado": "Las administraciones estadounidense y china han iniciado contactos formales para articular un protocolo de comunicación directa ante hipotéticos fallos o incidentes graves derivados de sistemas de inteligencia artificial. La propuesta persigue mantener abiertas las líneas de crisis en vísperas de la cumbre bilateral entre Trump y Xi.",
+          "por_que_importa": "La inclusión de la IA en la diplomacia de crisis asemeja el control de esta tecnología a los acuerdos de no proliferación armada de la Guerra Fría. La iniciativa trata de mitigar el riesgo de que una automatización defectuosa o una ciberdefensa mal calculada desencadenen un conflicto militar de forma fortuita.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/09/21/6ab0c680e85eceeb7a8b4579.html"
+            }
+          ]
+        },
+        {
+          "titular": "Tensión en el puerto de Ceuta tras altercados contra un colectivo de la izquierda abertzale",
+          "que_ha_pasado": "Una concentración de protesta en la zona portuaria de Ceuta ante la llegada de integrantes vinculados al grupo vasco Negu Gorriak desembocó en disturbios con lanzamiento de objetos y daños materiales en el vehículo de una representante política local. Las fuerzas de seguridad intervinieron para contener los enfrentamientos.",
+          "por_que_importa": "El episodio pone de manifiesto la elevada crispación social y polarización política que se vive en la ciudad autónoma, agravada por la presión fronteriza. La traslación de tensiones de la política territorial peninsular a Ceuta añade complejidad a un escenario ya de por sí sensible en términos de seguridad ciudadana.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-09-21/altercados-ceuta-vehiculo-diputada-destrozado-1tps_4427888/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Los Javis y 'La bola negra' conquistan el Festival de San Sebastián tras su éxito en Toronto",
+          "que_ha_pasado": "El proyecto cinematográfico basado en la obra de Federico García Lorca ha cosechado un gran recibimiento de crítica y público en el Festival de San Sebastián. La proyección se produce inmediatamente después de haber obtenido el galardón del público en el Festival Internacional de Cine de Toronto, lo que consolida su recorrido internacional.",
+          "por_que_importa": "El reconocimiento cosechado en los dos certámenes sitúa a la producción española en una posición favorable de cara a la temporada de premios internacionales y la carrera por los Oscar. Además, ratifica la capacidad de la industria audiovisual nacional para exportar adaptaciones culturales de alto presupuesto.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-09-21/el-festival-de-san-sebastian-se-rinde-a-los-javis-y-la-bola-negra-en-una-jornada-de-gloria-y-de-bano-de-masas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Cineastas israelíes denuncian que las represalias gubernamentales estrangulan el cine crítico",
+          "que_ha_pasado": "Diversos creadores y directores de cine en Israel han alertado sobre los recortes presupuestarios selectivos y la presión institucional orientada a desmantelar la financiación pública de obras discrepantes con la narrativa oficial. Los cineastas sostienen que las autoridades están equiparando la disidencia artística con la traición.",
+          "por_que_importa": "El estrechamiento del espacio para el debate cultural independiente refleja la polarización y la deriva autoritaria de las instituciones bajo el actual Ejecutivo israelí. La pérdida de fondos públicos compromete la continuidad del tejido audiovisual del país y su proyección en festivales de cine internacionales.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-09-21/la-asfixia-de-los-cineastas-israelies-la-cultura-critica-se-considera-un-acto-de-traicion.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Mecanismo de Ajuste en Frontera por Carbono (CBAM)",
+    "explicacion": "El Mecanismo de Ajuste en Frontera por Carbono es una herramienta de política comercial diseñada para aplicar un precio a las emisiones de carbono implícitas en las mercancías importadas. Su objetivo principal es evitar la 'fuga de carbono', garantizando que los productos extranjeros paguen un gravamen equivalente al que asumen los fabricantes locales sometidos a estrictas normas medioambientales. De este modo, se busca equilibrar las condiciones competitivas entre las empresas comunitarias y las de países terceros, al tiempo que se incentiva la adopción de procesos productivos más limpios a nivel global sin perjudicar la industria pesada interna.",
+    "ejemplo": "La Unión Europea aplica progresivamente la tasa del CBAM a las importaciones de insumos industriales como el acero y el aluminio procedentes de economías con escasa regulación ambiental."
+  },
+  "fecha": "2026-09-21"
+}
