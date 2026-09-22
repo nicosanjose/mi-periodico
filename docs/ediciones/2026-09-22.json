@@ -1,0 +1,254 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "La Asamblea General de la ONU arranca marcada por la agenda de tensión unilateral de Estados Unidos",
+      "resumen": "Donald Trump aterriza en Nueva York con la intención de endurecer sanciones contra el TPI y fijar postura sobre Irán, acentuando la brecha con el multilateralismo."
+    },
+    {
+      "titular": "Los servicios de inteligencia europeos alertan de que Rusia alista provocaciones directas contra la OTAN",
+      "resumen": "Las agencias de inteligencia advierten sobre el aumento de sabotajes rusos en suelo aliado, mientras el Kremlin consolida la militarización del parlamento."
+    },
+    {
+      "titular": "El petróleo escala hasta los 101 dólares tras la incertidumbre geopolítica entre Estados Unidos e Irán",
+      "resumen": "El precio del barril supera de nuevo la barrera psicológica de los 100 dólares y frena la racha alcista de los mercados bursátiles globales."
+    },
+    {
+      "titular": "California estrecha el cerco regulatorio sobre el consumo de energía y agua de los centros de datos de IA",
+      "resumen": "El estado aprueba un paquete legislativo para evitar que los costes de la infraestructura hídrica y eléctrica del cómputo intensivo recaigan en los ciudadanos."
+    },
+    {
+      "titular": "España y Marruecos coordinan en la ONU medidas de contención ante nuevos intentos de entrada en Ceuta",
+      "resumen": "El ministro Albares se reúne con su homólogo marroquí en Nueva York para asegurar el control fronterizo frente a convocatorias en redes sociales."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La Asamblea General de la ONU arranca marcada por la agenda de tensión unilateral de Estados Unidos",
+          "que_ha_pasado": "La reunión anual de la Asamblea General de Naciones Unidas da comienzo en Nueva York con la intervención del presidente estadounidense Donald Trump. Su agenda está centrada en la ampliación de sanciones al Tribunal Penal Internacional y las fricciones militares con Irán, en un ambiente tenso por sus disputas internas.",
+          "por_que_importa": "El foro multilateral por excelencia arranca condicionado por la estrategia de presión unilateral de la administración norteamericana. Para un análisis de gobernanza global, esta dinámica evidencia la creciente dificultad de los organismos internacionales para articular consensos cuando las grandes potencias priorizan la confrontación directa sobre la diplomacia institucional.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/sep/22/trump-united-nations-address"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Los servicios de inteligencia europeos alertan de que Rusia alista provocaciones directas contra la OTAN",
+          "que_ha_pasado": "Jefes de inteligencia de varios países europeos han advertido de que Moscú está incrementando sus operaciones encubiertas y sabotajes para poner a prueba los límites defensivos de la OTAN. En paralelo, el partido de Vladimir Putin ha reservado decenas de escaños parlamentarios para veteranos del conflicto ucraniano.",
+          "por_que_importa": "La estrategia rusa muestra una clara transición desde una guerra de desgaste territorial hacia un enfrentamiento híbrido en suelo aliado. La integración formal de mandos militares en el poder legislativo confirma además que la estructura económica y política del Estado ruso se ha diseñado para sostener un estado de guerra permanente.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/sep/22/tuesday-briefing-europe-thinks-russia-is-preparing-to-test-natos-limits"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-22/putin-militariza-el-parlamento-ruso.html"
+            }
+          ]
+        },
+        {
+          "titular": "Dinamarca, Estados Unidos y Groenlandia preparan un acuerdo estratégico en el margen de la Cumbre de la ONU",
+          "que_ha_pasado": "En los márgenes del encuentro de Naciones Unidas en Nueva York, las delegaciones de Dinamarca, Estados Unidos y Groenlandia ultimarán la firma de un tratado de seguridad trilateral. El pacto busca formalizar el marco de cooperación defensiva y la presencia militar en la isla ártica.",
+          "por_que_importa": "El Ártico se ha consolidado como una de las zonas de mayor rivalidad geopolítica debido al deshielo de rutas de navegación y el acceso a minerales críticos. Este acuerdo afianza el control de la OTAN bajo liderazgo estadounidense en el Atlántico Norte, reduciendo el margen de maniobra de la Unión Europea para desarrollar una política ártica independiente.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/is-this-how-the-greenland-crisis-ends/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La Unión Europea y Filipinas alcanzan un principio de acuerdo comercial para diversificar cadenas en Asia",
+          "que_ha_pasado": "La presidenta de la Comisión Europea ha anunciado un consenso sustancial para cerrar un tratado de libre comercio con el ejecutivo filipino de Ferdinand Marcos Jr. Aunque el anuncio político está hecho, las delegaciones técnicas aún deben ultimar la letra pequeña sobre estándares regulatorios.",
+          "por_que_importa": "El pacto se enmarca en la estrategia europea para reducir dependencias críticas de la economía china en el Sudeste Asiático. Para las empresas europeas, supone un acceso preferencial a un mercado de más de 110 millones de consumidores y a proveedores alternativos de materias primas e insumos industriales.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-reaches-substantial-agreement-philippines-trade-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El petróleo escala hasta los 101 dólares tras la incertidumbre geopolítica entre Estados Unidos e Irán",
+          "que_ha_pasado": "La cotización del barril de crudo ha vuelto a superar la cota de los 100 dólares, moderando el avance del Ibex 35 y de los principales índices bursátiles globales. Los inversores reaccionan con cautela a la espera de ver si prosperan las vías diplomáticas entre Washington y Teherán.",
+          "por_que_importa": "El encarecimiento continuado de las materias primas energéticas reaviva los temores inflacionarios y complica la hoja de ruta de recortes de tipos de interés de los bancos centrales. Para las grandes corporaciones, este repunte supone un incremento directo en los costes logísticos e insumos básicos.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/22/6ab216b5e5fdea932b8b4571.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-22/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "La inversión extranjera bruta sube en España pero las desinversiones reducen el saldo neto a 3.400 millones",
+          "que_ha_pasado": "España captó 12.446 millones de euros en inversión exterior bruta en el primer semestre del año, un 31% más que en el ejercicio anterior. Sin embargo, las desinversiones de multinacionales se dispararon un 142% hasta los 9.038 millones, recortando sensiblemente la entrada neta de capital.",
+          "por_que_importa": "Aunque el país mantiene atractivo para la llegada de nuevos proyectos, la repatriación masiva de capitales delata la incertidumbre de los inversores ante el entorno regulatorio y la rentabilidad a largo plazo. Para la consultoría de negocio, es un claro aviso de la alta volatilidad que afecta a las decisiones de cartera internacional.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/09/22/6ab1818ce5fdea6d568b45a5.html"
+            }
+          ]
+        },
+        {
+          "titular": "Acciona, Ferrovial y ACS pujan por licitaciones hidráulicas de 120.000 millones en el Reino Unido",
+          "que_ha_pasado": "Las mayores multinacionales de la construcción e ingeniería españolas han posicionado sus ofertas para competir por la renovación de las infraestructuras de agua en el Reino Unido. Las licitaciones previstas en el sector hidráulico británico alcanzan un volumen histórico de 120.000 millones de euros.",
+          "por_que_importa": "El deterioro del sistema hídrico en el Reino Unido exige inversiones urgentes en modernización y saneamiento. Las compañías españolas, consolidadas como referentes globales en la gestión de infraestructuras concesionales, buscan con este movimiento asegurar ingresos recurrentes en divisas estables.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/22/6ab20ae7468aebfa508b4587.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las tribulaciones políticas del conservadurismo alemán amenazan la negociación del presupuesto de la UE",
+          "que_ha_pasado": "El debilitamiento político del líder de la CDU, Friedrich Merz, tras los malos resultados en los comicios regionales alemanes ha comprometido su capacidad negociadora en Bruselas. Esta pérdida de autoridad condiciona el debate sobre el presupuesto comunitario de dos billones de euros.",
+          "por_que_importa": "Alemania es el principal contribuyente al presupuesto de la Unión Europea, por lo que la inestabilidad en la política interna de Berlín paraliza la toma de decisiones clave a nivel europeo. La falta de liderazgo alemán dificulta los consensos para financiar planes estratégicos de defensa y transición energética.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/3c494ae7-67b3-4ca1-a9e2-f3a8356bc0a4?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "California estrecha el cerco regulatorio sobre el consumo de energía y agua de los centros de datos de IA",
+          "que_ha_pasado": "El gobierno de California ha promulgado una serie de normas para evitar que las subidas de costes energéticos provocadas por los centros de procesamiento de IA se trasladen a la tarifa de la luz de los ciudadanos. En paralelo, empresas como Amazon impulsan programas de mitigación del consumo hídrico en la cuenca del río Colorado.",
+          "por_que_importa": "La expansión masiva de modelos de inteligencia artificial está chocando directamente con los límites físicos y medioambientales de la infraestructura energética e hídrica. Las restricciones legislativas impuestas en California marcan la pauta de un posible endurecimiento regulatorio global que elevará los costes operativos de las grandes tecnológicas.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river"
+            }
+          ]
+        },
+        {
+          "titular": "Un corte accidental de cable de fibra causa un caos operativo en el tráfico aéreo estadounidense",
+          "que_ha_pasado": "Un accidente laboral durante unas obras en Nueva Jersey seccionó un cable de fibra óptica de la compañía Verizon utilizado por la autoridad de aviación estadounidense. La avería interrumpió el sistema de control aéreo y provocó la cancelación y retraso de cientos de vuelos en todo el país.",
+          "por_que_importa": "El incidente pone al descubierto la extrema fragilidad de las infraestructuras críticas ante fallos puntuales en la red física de comunicaciones. Para el ámbito de la consultoría operativa y la ciberseguridad, demuestra la urgencia de exigir redundancias independientes en sectores estratégicos donde la interrupción del servicio genera pérdidas multimillonarias.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us"
+            }
+          ]
+        },
+        {
+          "titular": "Una vulnerabilidad de día cero pone en riesgo la seguridad del asistente de IA de Meta",
+          "que_ha_pasado": "Investigadores en ciberseguridad han detectado una vulnerabilidad crítica en Muse, el asistente de IA avanzado desarrollado por Meta que cuenta con permisos de ejecución elevados. El fallo permite la toma de control total del entorno mediante manipulación de interfaz por parte de atacantes externos.",
+          "por_que_importa": "A medida que las empresas otorgan autonomía operativa a los agentes de IA para interactuar con sistemas corporativos internos, las vulnerabilidades del software se convierten en vectores de riesgo sistémico. La seguridad en el diseño de agentes inteligentes es hoy una de las mayores prioridades de cumplimiento tecnológico.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "España y Marruecos coordinan en la ONU medidas de contención ante nuevos intentos de entrada en Ceuta",
+          "que_ha_pasado": "El ministro de Asuntos Exteriores español, José Manuel Albares, se reunirá en Nueva York con su homólogo marroquí para tratar los operativos de seguridad en la frontera de Ceuta. Rabat ha prometido reforzar los controles para neutralizar convocatorias masivas organizadas a través de redes sociales.",
+          "por_que_importa": "La contención de la presión migratoria en Ceuta depende directamente del entendimiento operativo y de inteligencia con el reino alauita. La reunión al máximo nivel diplomático busca blindar la estabilidad de las ciudades autónomas en un contexto de recurrente tensión fronteriza.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-09-22/albares-marruecos-retorno-migrantes-ceuta-1tps_4428662/"
+            }
+          ]
+        },
+        {
+          "titular": "Arranca el proceso de selección del jurado popular que juzgará la causa contra Begoña Gómez",
+          "que_ha_pasado": "Un censo de casi tres mil ciudadanos madrileños servirá de base para elegir a los nueve integrantes del jurado popular en la causa contra la esposa del presidente del Gobierno. Desde el Ejecutivo se ha cuestionado la ecuanimidad de los seleccionados señalando el impacto del tratamiento mediático previo.",
+          "por_que_importa": "La judicialización del entorno familiar de la Presidencia sigue polarizando la agenda política e institucional del país. La composición y el veredicto del jurado popular en una causa con tal exposición pública supondrá un examen de resistencia para la imagen de imparcialidad del poder judicial.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/09/21/6ab18911e85ece29748b4596.html"
+            }
+          ]
+        },
+        {
+          "titular": "Pedro Sánchez declina la invitación a la recepción formal ofrecida por Donald Trump en Nueva York",
+          "que_ha_pasado": "El presidente del Gobierno no asistirá al encuentro social organizado por Donald Trump para los jefes de Estado presentes en la Asamblea General de la ONU, alegando problemas de agenda. Sánchez limitará su presencia a las sesiones plenarias del organismo internacional.",
+          "por_que_importa": "La decisión evidencia la brecha ideológica que separa al Gobierno español de la actual administración estadounidense en materias clave como la gobernanza global o la agenda climática. Refleja además el cálculo diplomático de la Moncloa para mantener distancia frente a posturas unilaterales de Washington.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-09-22/sanchez-no-asistira-recepcion-trump-1tps_4428659/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Francesca Thyssen dona 365 obras de arte al Estado e impulsa una nueva sede museística en Madrid",
+          "que_ha_pasado": "La coleccionista Francesca Thyssen-Bornemisza ha cedido más de trescientas piezas de su fondo de arte al patrimonio público español. El Estado financiará un edificio independiente para albergar la colección, cuya gestión estará desligada del nombre propio de la mecenas.",
+          "por_que_importa": "La operación refuerza la proyección de Madrid como epicentro internacional del arte contemporáneo mediante fórmulas de colaboración público-privada. Supone asimismo un giro en la museografía moderna hacia el protagonismo de las fundaciones sobre la vinculación patronímica tradicional.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-09-22/francesca-thyssen-coleccionista-la-futura-sede-del-museo-no-va-a-tener-mi-nombre-ya-he-superado-esa-etapa-de-vincular-mi-identidad-al-trabajo.html"
+            }
+          ]
+        },
+        {
+          "titular": "George Lucas inaugura en Los Ángeles su museo dedicado a la narrativa visual y la cultura popular",
+          "que_ha_pasado": "El cineasta George Lucas ha abierto las puertas del Lucas Museum of Narrative Art en Los Ángeles, una instalación de 10.000 metros cuadrados. El espacio reúne piezas icónicas del cine de ciencia ficción junto a obras pictóricas clásicas e ilustraciones del cómic.",
+          "por_que_importa": "El proyecto disuelve las barreras entre el gran arte institucional y la cultura pop masiva en el diseño de un museo moderno. La iniciativa ilustra el peso que las fortunas nacidas en la industria del entretenimiento están adquiriendo en la redefinición del mecenazgo privado mundial.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/us/entretenimiento/2026-09-22/darth-vader-convive-con-piccaso-y-banksy-el-ambicioso-museo-de-george-lucas-desembarca-en-los-angeles.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Flexibilización cuantitativa (Quantitative Easing - QE)",
+    "explicacion": "La flexibilización cuantitativa es una herramienta no convencional de política monetaria empleada por los bancos centrales para estimular la economía cuando los tipos de interés oficiales están cerca de cero. Consiste en la compra masiva y programada de activos financieros —principalmente bonos soberanos y deuda corporativa— en el mercado secundario mediante la creación de nuevo dinero bancario. Esta inyección directa incrementa la liquidez del sistema, reduce las rentabilidades de la deuda a largo plazo y abarata el crédito para empresas y hogares. Sin embargo, su uso prolongado entraña el riesgo de generar burbujas en los precios de los activos y presiones inflacionarias a medio plazo.",
+    "ejemplo": "Durante la crisis derivada de la pandemia, el Banco Central Europeo ejecutó el programa PEPP, comprando cientos de miles de millones de euros en bonos públicos de los Estados miembros para garantizar una financiación asequible en toda la eurozona."
+  },
+  "fecha": "2026-09-22"
+}
