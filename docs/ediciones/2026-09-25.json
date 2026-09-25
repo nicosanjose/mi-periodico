@@ -1,0 +1,262 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Trump y Xi culminan su cumbre con gestos de cordialidad pero sin avances estructurales",
+      "resumen": "El encuentro bilateral se salda con compromisos de estabilidad diplomática, aunque persisten los desacuerdos de fondo en materia arancelaria, tecnología y la cuestión de Taiwán."
+    },
+    {
+      "titular": "Tensión en los mercados de deuda: el rendimiento del bono estadounidense vuelve a niveles de 2007",
+      "resumen": "El repunte de las rentabilidades soberanas globales encarece las hipotecas al 7% en EE. UU., mientras las bolsas logran un respiro gracias a la bajada del crudo."
+    },
+    {
+      "titular": "Un ataque cibernético impulsado por IA a la sanidad de Australia reabre el debate sobre responsabilidad jurídica",
+      "resumen": "Canberra estudia reformar el código penal para atribuir culpa penal a las corporaciones cuando sus agentes autónomos cometan delitos en la red."
+    },
+    {
+      "titular": "Alemania y España chocan por la letra pequeña de la cláusula industrial «Made in Europe»",
+      "resumen": "Berlín defiende una red abierta de socios comerciales internacionales, mientras Madrid exige priorizar estrictamente los productos manufacturados dentro de la UE."
+    },
+    {
+      "titular": "Microsoft abandona el distintivo comercial «Copilot Plus PC» tras dos años de tibia adopción",
+      "resumen": "La tecnológica simplifica la estrategia de marca de sus ordenadores optimizados para inteligencia artificial ante la escasa tracción entre los consumidores."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La cumbre entre Trump y Xi revalida la coexistencia competitiva entre Washington y Pekín",
+          "que_ha_pasado": "Donald Trump ha recibido al presidente chino Xi Jinping en un encuentro marcado por la pompa diplomática y las declaraciones de entendimiento mutuo. Pese al tono cordial y a los llamamientos de Xi a construir una relación estable, la cita no ha producido avances sustanciales en la disputa tecnológica ni en el estatus de Taiwán.",
+          "por_que_importa": "El resultado refleja la consolidación de un entorno de rivalidad gestionada donde ninguna de las dos superpotencias prevé concesiones críticas a corto plazo. Para las firmas globales, la falta de compromisos firmes en materia de transferencia tecnológica mantendrá la incertidumbre en las cadenas de suministro de alta tecnología a ambos lados del Pacífico.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-24/xi-defiende-ante-trump-en-la-casa-blanca-la-estabilidad-estrategica-entre-estados-unidos-y-china.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/09/25/6ab5bd95fdddff2d038b4587.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un hackeo mediante IA en la sanidad australiana fuerza a debate la imputabilidad penal corporativa",
+          "que_ha_pasado": "Sistemas internos del servicio público de salud de Australia han sufrido una intromisión por parte de un agente de inteligencia artificial autónomo. Ante la vulnerabilidad expuesta, el Gobierno australiano sopesa modificar la legislación penal para regular de forma explícita la atribución de responsabilidad penal a las empresas propietarias de estos algoritmos.",
+          "por_que_importa": "El caso sienta un precedente legal clave en el debate global sobre gobernanza de la IA. A medida que las empresas despliegan agentes autónomos con capacidad operativa real, el vacío regulatorio sobre quién responde ante un delito informático (si el desarrollador, el usuario o la corporación) exige actualizar el derecho corporativo a escala internacional.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania y España exhiben modelos contrapuestos para la preferencia industrial «Made in Europe»",
+          "que_ha_pasado": "Madrid y Berlín han cruzado propuestas sobre la aplicación de las normativas de fomento de la producción comunitaria. Alemania aboga por integrar a socios comerciales externos en la cadena de valor europea, mientras que España exige un sistema jerarquizado que otorgue prioridad absoluta a los bienes fabricados íntegramente dentro de los Veintisiete.",
+          "por_que_importa": "Esta discrepancia refleja la fractura estratégica del bloque: mientras Alemania teme represalias comerciales e interrupciones en sus exportaciones globales, España busca proteger la capacidad manufacturera local frente a competidores externos. El resultado influirá en la formulación de los futuros subsidios e incentivos de la política industrial europea.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/deutschland-und-spanien-zetteln-papierkrieg-zu-made-in-europe-auslegung-an/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El Papa León XIV viaja a Francia en un contexto de fractura sociopolítica alrededor del laicismo",
+          "que_ha_pasado": "El Pontífice ha iniciado una visita oficial a Francia marcada por la delicada coyuntura política del país. La agenda papal coincide con un intenso debate nacional sobre la gestión de la inmigración, el papel del Islam en el espacio público y recientes reformas morales sobre derechos individuales.",
+          "por_que_importa": "Francia se mantiene como el laboratorio del laicismo institucional en Europa. El viaje papal pone a prueba los límites de la influencia de la Iglesia Católica ante una sociedad altamente secularizada y politizada, con implicaciones directas en el equilibrio entre cohesión social y diversidad religiosa dentro del modelo republicano francés.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-25/el-papa-leon-xiv-aterriza-en-francia-en-plena-crisis-de-la-laicidad.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El repunte de los tipos soberanos presiona a los mercados mientras el petróleo ofrece una tregua",
+          "que_ha_pasado": "El bono de Estados Unidos a 10 años ha alcanzado el 5,22%, niveles no vistos desde 2007, arrastrando al alza las rentabilidades de la deuda en Japón y Europa. A pesar del encarecimiento del crédito —reflejado en tipos hipotecarios superiores al 7% en EE. UU.—, la bajada del crudo tras señales de tregua en Oriente Medio ha permitido un rebote semanal en el Ibex 35.",
+          "por_que_importa": "La persistencia de rendimientos elevados en la deuda pública confirma que los bancos centrales mantendrán una postura monetaria restrictiva ante las tensiones inflacionarias. Ello encarece la financiación corporativa y el servicio de la deuda estatal, aumentando la vulnerabilidad de las economías más endeudadas en la eurozona.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/25/6ab60c25468aeb76418b4570.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-09-25/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market"
+            }
+          ]
+        },
+        {
+          "titular": "La UE exige al Reino Unido subir los aranceles al vehículo eléctrico chino para proteger el comercio bilateral",
+          "que_ha_pasado": "La Comisión Europea ha instado a Londres a equiparar sus gravámenes sobre los automóviles chinos a los implantados por el bloque comunitario. Bruselas advierte de que si el Reino Unido no endurece sus tarifas, los vehículos británicos con componentes chinos podrían perder el acceso preferencial al mercado europeo bajo la normativa de origen.",
+          "por_que_importa": "Es un ejemplo claro de cómo la política arancelaria comunitaria impone límites a la autonomía comercial post-Brexit de Reino Unido. Londres se ve forzado a elegir entre alinearse con el proteccionismo europeo o arriesgar barreras reglamentarias que perjudicarían gravemente a su industria del automóvil integrada.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5453be91-7bd9-4097-9e83-870354d3a248?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Bruselas alerta de distorsiones globales si Estados Unidos prohíbe la exportación de diésel",
+          "que_ha_pasado": "La Unión Europea ha advertido a la Casa Blanca en contra de la propuesta de suspender las exportaciones de diésel estadounidense durante 90 días previa a las elecciones de medio término. La Comisión sostiene que la medida elevaría los costes energéticos en ambos lados del Atlántico.",
+          "por_que_importa": "El mercado refinado europeo sigue siendo sensible a la interrupción de suministros energéticos externos. Una restricción unilateral desde EE. UU. reduciría la oferta global, encareciendo el transporte de mercancías y amenazando con reactivar las presiones inflacionistas en los costes logísticos europeos.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe"
+            }
+          ]
+        },
+        {
+          "titular": "Huawei consolida su recuperación operativa y compite con Nvidia en procesadores de IA",
+          "que_ha_pasado": "A pesar del régimen de sanciones impuestas por Estados Unidos, Huawei ha registrado niveles de facturación superiores a los previos a los vetos internacionales. La compañía china ha logrado desarrollar semiconductores de alto rendimiento para inteligencia artificial, posicionándose como la principal alternativa local a los chips de Nvidia.",
+          "por_que_importa": "El éxito de Huawei ilustra la ineficacia parcial de los controles de exportación occidentales para frenar la capacidad tecnológica china a largo plazo. La apuesta de Pekín por la sustitución de importaciones acelera la bifurcación del ecosistema tecnológico global en dos bloques semiconductores independientes.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-09-25/huawei-pasa-de-superviviente-a-rival-de-nvidia.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Microsoft elimina el distintivo 'Copilot Plus PC' tras la escasa acogida del mercado",
+          "que_ha_pasado": "Microsoft ha decidido retirar la etiqueta comercial 'Copilot Plus PC', utilizada durante dos años y medio para promocionar ordenadores dotados de chips específicos para IA. La decisión supone abandonar una diferenciación de marca que no logró incentivar un ciclo masivo de renovación de hardware.",
+          "por_que_importa": "El movimiento demuestra la resistencia del consumidor a pagar un sobreprecio por capacidades de IA integradas a nivel de sistema operativo cuando los casos de uso cotidianos aún no son percibidos como transformadores. Supone además un reajuste estratégico para los fabricantes de procesadores y hardware en el ecosistema Windows.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand"
+            }
+          ]
+        },
+        {
+          "titular": "Waymo dispara el despliegue de sus vehículos autónomos con una expansión agresiva en Texas",
+          "que_ha_pasado": "La filial de conducción autónoma de Alphabet ha incrementado un 49% el tamaño de su flota comercial en el estado de Texas durante el último mes. Este crecimiento operativo consolida su ritmo de escalado en mercados urbanos clave del sur de Estados Unidos.",
+          "por_que_importa": "El despliegue comercial masivo indica que la tecnología de conducción autónoma de nivel 4 está superando la fase piloto para entrar en una etapa de rentabilidad operativa. El dominio de Waymo incrementa la presión sobre las plataformas tradicionales de transporte privado y sobre los competidores automovilísticos que aún no han alcanzado despliegues comerciales sin conductor.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/"
+            }
+          ]
+        },
+        {
+          "titular": "Acusan a Meta de abuso del privilegio abogado-cliente para ocultar datos sobre protección de menores",
+          "que_ha_pasado": "En el marco de los litigios sobre el impacto del diseño de sus redes sociales en adolescentes, abogados acusadores sostienen que Meta etiquetó indebidamente documentación interna con la clausula de confidencialidad legal para evitar la divulgación de pruebas perjudiciales.",
+          "por_que_importa": "El caso subraya las dificultades de supervisión jurídica sobre las grandes corporaciones tecnológicas durante procesos de descubrimiento de pruebas. Revela cómo las firmas Big Tech emplean defensas procesales extremas para proteger sus modelos de negocio y retener algoritmos opacos ante investigaciones de impacto social.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Barcelona elimina la exigencia de plazas de garaje obligatorias en nuevas promociones de vivienda",
+          "que_ha_pasado": "La capital catalana ha aprobado una reforma urbanística que desvincula la construcción de viviendas residenciales de la obligación de incorporar aparcamientos para automóviles. La norma busca incentivar el transporte público y reducir los costes de edificación de nuevos inmuebles.",
+          "por_que_importa": "Es un giro regulatorio relevante dentro del urbanismo de las metrópolis europeas. Al reducir el espacio exigido para estacionamiento privado, se promueve el diseño denso orientado al peatón y se abaratan las obras, aunque plantea retos para la gestión de la movilidad en áreas periféricas menos conectadas.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/clima-y-medio-ambiente/2026-09-25/adios-al-garaje-obligatorio-ciudades-como-londres-amsterdam-y-oslo-ya-disenan-viviendas-sin-pensar-en-el-coche.html"
+            }
+          ]
+        },
+        {
+          "titular": "Pedro Sánchez reclama en Harvard una gobernanza internacional para limitar el poder de las Big Tech",
+          "que_ha_pasado": "Durante una intervención académica en Estados Unidos, el presidente del Gobierno ha pedido la articulación de mecanismos de supervisión multinacional sobre las empresas tecnológicas. Sánchez advirtió contra los diseños algorítmicos orientados a la captura de atención y solicitó frenar la influencia política del capital tecnológico.",
+          "por_que_importa": "La postura refuerza la apuesta de España por alinearse con el enfoque regulatorio estricto de la UE (como la Ley de Servicios Digitales). No obstante, pone de manifiesto la brecha entre la capacidad normativa de los estados individuales y el alcance transfronterizo del software desarrollado por gigantes multinacionales.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-09-25/sanchez-alerta-riesgos-inteligencia-artificial-1tps_4431184/"
+            }
+          ]
+        },
+        {
+          "titular": "La alta receptividad social hacia la IA en España acelera casos de uso en el comercio minorista",
+          "que_ha_pasado": "Un análisis del mercado español constata una actitud sensiblemente más proclive a la adopción de herramientas de inteligencia artificial que en los países del entorno europeo. Esta apertura se refleja en proyectos emergentes como la integración de asistentes conversacionales generativos para la compra y el análisis nutricional en supermercados.",
+          "por_que_importa": "Un entorno de opinión pública favorable reduce la fricción sociocultural para la automatización en el sector servicios. Para las consultoras tecnológicas, España se perfila como un entorno idóneo para pilotar soluciones de IA dirigidas al consumidor final antes de su despliegue en mercados europeos más reacios.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/yodona/vida-saludable/2026/09/25/6aa154c721efa05f7c8b4589.html"
+            },
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/robotica-e-ia/forma-sorprendente-espana-bastante-pro-ia-que-paises-su-entorno"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El filme 'La bola negra' reactiva la complejidad de trasladar la obra de Lorca al cine",
+          "que_ha_pasado": "Los directores Javier Calvo y Javier Ambrossi han presentado 'La bola negra', largometraje inspirado en textos del poeta granadino. La película revive las escasas ocasiones en que la producción lorquiana ha dado el salto a la gran pantalla, un terreno históricamente esquivo en comparación con la televisión.",
+          "por_que_importa": "Adaptar a clásicos de la literatura exige conciliar el rigor del patrimonio cultural con los códigos de consumo audiovisual contemporáneos. El proyecto demuestra el atractivo renovado de los derechos de autores históricos para las producciones de autor de alto impacto mediático.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-09-25/la-bola-negra-estetica-e-hipersensible.html"
+            }
+          ]
+        },
+        {
+          "titular": "La actriz Victoria Luengo alerta del impacto de la sobreexposición en la carrera cinematográfica",
+          "que_ha_pasado": "Tras el estreno de la película 'Sants', la intérprete Victoria Luengo ha reflexionado en una entrevista sobre los costes personales y profesionales que acarrea la hipervisibilidad mediática derivada encadenar proyectos de alto perfil.",
+          "por_que_importa": "El testimonio pone de relieve la tensión estructural entre la aceleración de la industria del entretenimiento y el desgaste de la imagen pública de sus figuras creativas en un ecosistema dominado por el ciclo continuo de promoción.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-09-25/victoria-luengo-el-cine-me-ha-dado-la-oportunidad-de-decir-unas-palabras-que-la-vida-no-me-dio-con-mi-padre.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Reglas de origen (Rules of origin)",
+    "explicacion": "Las reglas de origen son los criterios técnicos utilizados en el comercio internacional para determinar el país de procedencia geográfica de un producto. Resultan esenciales para establecer si un bien califica para recibir un tratamiento arancelario preferencial bajo un acuerdo de libre comercio o si, por el contrario, debe quedar sujeto a restricciones, cuotas o salvaguardias comerciales. Cuando un producto incluye componentes fabricados en múltiples jurisdicciones, estas reglas exigen que sufra una 'transformación sustancial' o alcance un porcentaje mínimo de valor añadido local en el país exportador para ser considerado originario de él.",
+    "ejemplo": "La Unión Europea ha advertido al Reino Unido de que sus vehículos eléctricos producidos con baterías o piezas chinas no podrán acogerse al arancel cero previsto en el acuerdo post-Brexit si no cumplen los umbrales comunitarios de las reglas de origen."
+  },
+  "fecha": "2026-09-25"
+}
