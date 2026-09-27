@@ -1,0 +1,242 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Estalla la tensión por la vivienda en España con una acampada en la Puerta del Sol",
+      "resumen": "Tras el desahucio de una anciana en Madrid, miles de manifestantes exigen medidas urgentes al Gobierno y acampan en Sol en una movilización que evoca al 15-M."
+    },
+    {
+      "titular": "Tensión interna en los BRICS por la agenda antioccidental que impulsa Pekín",
+      "resumen": "China busca transformar el bloque en un frente geoestratégico contra Occidente, mientras India y Brasil se resisten para preservar su autonomía diplomática."
+    },
+    {
+      "titular": "El flanco oriental de la OTAN extrema la alerta por el incremento de la guerra híbrida rusa",
+      "resumen": "Los países bálticos y Polonia exigen un refuerzo de la capacidad de respuesta aliada ante la proliferación de saboteadores y provocaciones atribuidas a Moscú."
+    },
+    {
+      "titular": "Varapalo judicial histórico a Apple con una sanción de 5.700 millones por patentes",
+      "resumen": "Un jurado estadounidense liquida a favor de Taction al dictaminar que la multinacional vulneró licencias clave de tecnología de vibración e interacción háptica."
+    },
+    {
+      "titular": "Suiza somete a votación los límites históricos de su neutralidad militar",
+      "resumen": "Un referéndum clave determinará si el país alpino prohíbe por completo la cooperación con alianzas defensivas extranjeras salvo en caso de ataque directo."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "El flanco oriental de la OTAN exige acelerar las respuestas ante la guerra híbrida de Moscú",
+          "que_ha_pasado": "Polonia y los Estados bálticos han elevado sus advertencias sobre las incursiones, sabotajes y acciones desestabilizadoras atribuidas a la inteligencia rusa en territorio europeo. Los aliados del este debaten cómo responder de forma contundente sin caer en el alarmismo ni en una escalada incontrolada.",
+          "por_que_importa": "La intensificación de las operaciones en la llamada 'zona gris' pone a prueba el Artículo 5 de la OTAN, diseñado para agresiones militares convencionales y no para ciberataques o sabotajes difusos. La falta de una doctrina clara de disuasión ante amenazas híbridas genera fricciones entre las naciones fronterizas con Rusia y los socios del oeste de Europa.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-09-27/europa-se-atrinchera-frente-a-la-guerra-hibrida-de-rusia.html"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania y Rusia mantienen contactos diplomáticos directos tras el ataque con drones en Leipzig",
+          "que_ha_pasado": "El ministro de Exteriores alemán se ha reunido con su homólogo ruso, Serguéi Lavrov, para exigir explicaciones por el reciente incidente con drones en Leipzig. Pese a las acusaciones directas contra Moscú, Berlín ha confirmado que no vetará la presencia de Vladímir Putin en la próxima cumbre del G20.",
+          "por_que_importa": "El encuentro refleja la delicada canalización diplomática que mantiene Alemania, intentando señalar los actos de interferencia hostil en su territorio sin romper del todo los puentes institucionales en foros multilaterales. Muestra la ambivalencia de las potencias europeas entre la disuasión estricta y la necesidad de mantener vías de desescalada.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/germany-russia-johann-wadephul-sergey-lavrov-meeting-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Las obsesiones ideológicas de Trump erosionan las perspectivas republicanas ante las 'midterms'",
+          "que_ha_pasado": "Las últimas encuestas otorgan a los demócratas la mayor ventaja registrada en el ciclo electoral previo a las legislativas de noviembre. Los datos reflejan un divorcio creciente entre las prioridades del expresidente y los problemas cotidianos de la ciudadanía.",
+          "por_que_importa": "El estancamiento republicano demuestra que la agenda enfocada en disputas culturales y disputas personales pierde efectividad ante la preocupación del electorado por la inflación y el coste de la vida. Si el Partido Demócrata logra rentabilizar esta brecha, podría reconfigurar el equilibrio de poder en el Congreso e influir drásticamente en la política exterior estadounidense.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/2026-09-27/las-obsesiones-de-trump-hunden-a-los-republicanos-en-las-encuestas-de-noviembre.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Partido Laborista británico arranca su convención anual bajo el nuevo liderazgo de Andy Burnham",
+          "que_ha_pasado": "La conferencia anual del partido del Gobierno en el Reino Unido se celebra en un ambiente de escrutinio interno impulsado por la dirección de Andy Burnham. Las facciones operativas buscan fijar la hoja de ruta parlamentaria y económica para el resto de la legislatura.",
+          "por_que_importa": "Con el coste de la vida erosionando el apoyo popular al Gobierno laborista, esta convención servirá para medir la cohesión del partido y la capacidad de Burnham para consolidar su poder frente a las corrientes críticas internas y la presión de la oposición.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/labour-conference-2026-what-politico-reporters-will-be-watching-for/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Los BRICS se debaten entre el bloque antioccidental de Pekín y la neutralidad de Brasil e India",
+          "que_ha_pasado": "La expansión del grupo BRICS ha acentuado la brecha estratégica entre sus miembros. Mientras China intenta instrumentalizar el foro para articular un frente geopolítico opuesto a las instituciones occidentales, países como India y Brasil defienden una posición no alineada que proteja sus vínculos comerciales multilaterales.",
+          "por_que_importa": "El futuro de la gobernanza global y la desdolarización del comercio dependen de esta pugna interna. Si prevalece la visión pragmática de Nueva Delhi y Brasilia, el bloque funcionará como un espacio de cooperación económica; si triunfa la línea dura de Pekín, se consolidará la fragmentación geoeconómica global en bloques cerrados.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/financial-times/2026/09/26/6ab7f204468aebeb258b4573.html"
+            }
+          ]
+        },
+        {
+          "titular": "Suiza somete a referéndum el alcance y los límites de su neutralidad geopolítica",
+          "que_ha_pasado": "El electorado suizo decide en las urnas una enmienda constitucional que prohibiría cualquier tipo de cooperación militar con alianzas defensivas extranjeras salvo agresión directa contra su territorio. La iniciativa surge tras el debate nacional generado por la adopción de sanciones comunitarias a raíz de la guerra en Ucrania.",
+          "por_que_importa": "Un resultado favorable aislaría operativamente a Berna de las iniciativas de seguridad comunitaria de la Unión Europea y la OTAN. Este plebiscito pone de relieve la dificultad de mantener posturas de neutralidad estricta en un entorno de seguridad europeo interconectado y crecientemente hostil.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/aaf4c7d7-b4bc-4b5c-83b7-7f761d315b63?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Brasil prohíbe las apuestas deportivas a días de las elecciones presidenciales",
+          "que_ha_pasado": "El presidente Luiz Inácio Lula da Silva ha firmado un decreto de urgencia que prohíbe las apuestas de cuota fija en todo el país a una semana de los comicios. La medida responde a la creciente preocupación social por el endeudamiento de las familias trabajadoras debido a la ludopatía digital.",
+          "por_que_importa": "La decisión fulmina de un plumazo un mercado multimillonario en plena expansión en América Latina e introduce un fuerte elemento de regulación estatal en vísperas electorales. Supone un precedente regulatorio para otros países de la región que afrontan crisis de endeudamiento familiar asociadas al juego en línea.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections"
+            }
+          ]
+        },
+        {
+          "titular": "El 'private equity' se convierte en blanco político por el encarecimiento de la vivienda en EE.UU.",
+          "que_ha_pasado": "Análisis financieros muestran cómo la compra masiva de inmuebles residenciales por parte de fondos de inversión privada está monopolizando el debate de las elecciones de medio mandato. Candidatos de ambos partidos señalan a los grandes inversores institucionales como responsables del alza impositiva y de los alquileres.",
+          "por_que_importa": "La politización de la inversión institucional en activos inmobiliarios abre la puerta a restricciones regulatorias severas para el capital privado en el mercado residencial. El sector se enfrenta al riesgo de nuevos controles de precios e incentivos fiscales desfavorables a nivel federal y estatal.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/7e91f857-30d9-4bf9-b7c9-ec04d4a6e1ed?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Apple, condenada a pagar 5.700 millones de dólares por infracción de patentes hápticas",
+          "que_ha_pasado": "Un tribunal federal de San Diego ha fallado contra Apple, ordenándole indemnizar con más de 5.700 millones de dólares a la compañía Taction. La sentencia determina que el gigante tecnológico integró en sus dispositivos tecnología de respuesta vibratoria patentada sin disponer de la licencia correspondiente.",
+          "por_que_importa": "Se trata de una de las sanciones por propiedad intelectual más elevadas de la historia del sector tecnológico. El fallo subraya la vulnerabilidad de las grandes multinacionales frente a demandas de patentes especializadas y sienta un precedente que podría encarecer las negociaciones de licencias en la cadena de suministros de 'hardware'.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents"
+            }
+          ]
+        },
+        {
+          "titular": "Las aseguradoras médicas señalan que la adopción de IA está disparando el gasto sanitario",
+          "que_ha_pasado": "Informes del sector asegurador en Estados Unidos revelan que la implantación de herramientas de diagnóstico por inteligencia artificial en hospitales generó un sobrecoste de casi 1.000 millones de dólares en dos años. Las aseguradoras argumentan que la IA multiplica las pruebas complementarias y los procedimientos preventivos no esenciales.",
+          "por_que_importa": "El dato cuestiona la narrativa dominante de que la inteligencia artificial reduce de forma inmediata los costes operativos en la sanidad. En la práctica, el aumento de la precisión diagnóstica deriva en una mayor prescripción de tratamientos y pruebas, obligando a replantear los modelos de cobertura y auditoría médica.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/"
+            }
+          ]
+        },
+        {
+          "titular": "El déficit de red eléctrica frena la implantación comercial del camión eléctrico de Tesla",
+          "que_ha_pasado": "La distribución del modelo Semi de Tesla se está topando con un cuello de botella logístico provocado por la ausencia de puntos de recarga ultrarrápida en las grandes rutas de transporte por carretera. Pese a la autonomía del vehículo, las empresas de logística retrasan sus pedidos masivos.",
+          "por_que_importa": "El caso evidencia que la transición hacia la descarbonización del transporte pesado no depende únicamente de la madurez tecnológica de las baterías, sino de la capacidad de actualización de las redes de distribución eléctrica, un factor regulatorio y de infraestructuras clave para la consultoría industrial.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Las protestas por el acceso a la vivienda derivan en una nueva acampada en la Puerta del Sol",
+          "que_ha_pasado": "Una manifestación multitudinaria tras el desahucio de una anciana en Madrid ha desembocado en una acampada permanente en la Puerta del Sol. Los colectivos sociales reclaman un decreto de emergencia que paralice los lanzamientos y congele los precios de los arrendamientos, presionando directamente al Ejecutivo.",
+          "por_que_importa": "La movilización rememora el espíritu del 15-M y tensiona la estabilidad parlamentaria del Gobierno, cuyos socios de coalición y apoyos de investidura exigen un giro radical en política de vivienda. La crisis del alquiler se consolida como el principal foco de desgaste social y político en España.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-09-27/hasta-el-final-companeros-sol-vuelve-a-acampar-quince-anos-despues-del-15-m.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/09/27/6ab82f12e4d4d8f14a8b4574.html"
+            }
+          ]
+        },
+        {
+          "titular": "El juez Peinado se jubila tras instruir el caso que afectó al entorno de Moncloa",
+          "que_ha_pasado": "El magistrado Juan Carlos Peinado deja la judicatura al alcanzar la edad de jubilación de 72 años. Su salida se produce tras haber completado la instrucción judicial que envió al banquillo a la esposa del presidente del Gobierno, Begoña Gómez.",
+          "por_que_importa": "La marcha del juez Peinado cierra una etapa marcada por una fuerte polarización política y mediática en torno al poder judicial español. La causa pasa ahora a manos de su sucesor en el juzgado, en un momento procesal determinante para el desarrollo de las vistas orales.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/09/27/6ab7ef3ce85ece8d248b4594.html"
+            }
+          ]
+        },
+        {
+          "titular": "El río Tajo entra en la Lista Roja ambiental por el deterioro de su caudal en Toledo",
+          "que_ha_pasado": "La asociación Hispania Nostra ha incluido el tramo del río Tajo a su paso por Toledo en su Lista Roja de patrimonio en peligro. La entidad denuncia niveles críticos de contaminación de las aguas y un caudal ecológico insuficiente que amenazan el ecosistema y el patrimonio histórico de la ciudad.",
+          "por_que_importa": "El señalamiento reaviva el debate territorial y jurídico sobre el trasvase Tajo-Segura y la gestión de las cuencas hidrográficas en España. Subraya el impacto del cambio climático y la sobreexplotación hídrica sobre el desarrollo económico y la conservación ambiental en la Península Ibérica.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-09-27/rio-espanol-lista-roja-hispania-nostra-bajo-caudal-toledo-1qrt-1tna_4430855/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La escritora Ariana Harwicz contrapone la libertad creadora frente a los boicots culturales",
+          "que_ha_pasado": "Tras ser excluida de varios foros internacionales por manifestarse en contra de las cancelaciones a artistas israelíes, la autora argentina reafirma su rechazo a que la literatura quede supeditada a consensos ideológicos o directrices geopolíticas.",
+          "por_que_importa": "El caso de Harwicz simboliza las crecientes tensiones éticas dentro del circuito cultural contemporáneo. Pone de manifiesto cómo la polarización geopolítica internacional afecta directamente a la libertad de expresión, los festivales de arte y los límites del boicot académico e intelectual.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/argentina/2026-09-27/ariana-harwicz-la-escritora-incomoda-que-se-niega-a-ser-silenciada.html"
+            }
+          ]
+        },
+        {
+          "titular": "El bailarín Igor Yebra hace pública su batalla contra la esclerosis múltiple en sus memorias",
+          "que_ha_pasado": "El coreógrafo y exbailarín internacional Igor Yebra ha revelado en su primera obra autobiográfica que padece esclerosis múltiple desde el año 2015. Es la primera vez que la figura de la danza aborda abiertamente cómo ha convivido con la enfermedad en la cima de su carrera profesional.",
+          "por_que_importa": "El testimonio de Yebra rompe tabúes sobre la salud física y mental en disciplinas de alto rendimiento artístico, donde las exigencias corporales suelen invisibilizar patologías degenerativas. Su declaración ayuda a concienciar sobre la enfermedad en el ámbito cultural.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-09-27/igor-yebra-estrella-internacional-de-la-danza-tengo-esclerosis-multiple-desde-2015.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Coerción económica (Economic coercion)",
+    "explicacion": "La coerción económica consiste en el uso de instrumentos comerciales y financieros (como aranceles, restricciones a la importación, controles de exportación o congelación de activos) por parte de un Estado para obligar a otro a alterar sus decisiones soberanas o estratégicas. A diferencia de los marcos sancionadores multilaterales aprobados por organismos internacionales, suele aplicarse de forma unilateral o informal para generar apalancamiento político sin recurrir a la fuerza militar. En un orden internacional multipolar, la coerción económica altera las cadenas de valor globales y fuerza a Estados y corporaciones a priorizar la seguridad frente a la eficiencia económica.",
+    "ejemplo": "El uso por parte de Estados Unidos de restricciones de exportación sobre microchips avanzados a terceros países para impedir la transferencia de tecnología estratégica a competidores geopolíticos."
+  },
+  "fecha": "2026-09-27"
+}
