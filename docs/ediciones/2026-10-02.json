@@ -1,0 +1,262 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EE. UU. presiona a Europa para que libere diésel bajo amenaza de veto a sus exportaciones",
+      "resumen": "La Administración estadounidense exige a la UE liberar reservas energéticas para abaratar precios domésticos antes de las elecciones, amenazando con un corte de suministros de grave impacto transatlántico."
+    },
+    {
+      "titular": "Masiva venta de bonos soberanos eleva los costes de endeudamiento a máximos de dos décadas",
+      "resumen": "El repunte de las rentabilidades de la deuda de EE. UU. y el Reino Unido tensa los mercados globales ante las dudas persistentes sobre la sostenibilidad del déficit público."
+    },
+    {
+      "titular": "El Gobierno afronta un examen decisivo en el Congreso por los decretos de vivienda",
+      "resumen": "El rechazo probable de los socios parlamentarios a las medidas de acceso al alquiler eleva la tensión institucional mientras se multiplican las protestas ciudadanas."
+    },
+    {
+      "titular": "Amazon busca empaquetar 8.000 millones en chips de Nvidia para proteger su balance de la fiebre de la IA",
+      "resumen": "El gigante tecnológico tantea a inversores privados para trasladar el enorme coste de capital que exige la infraestructura de procesamiento de inteligencia artificial."
+    },
+    {
+      "titular": "Etiopía y Eritrea rompen relaciones diplomáticas en pleno recrudecimiento del conflicto regional",
+      "resumen": "La ruptura formal evidencia el deterioro irreversible en el Cuerno de África tras meses de enfrentamientos entre el ejército etíope y grupos rebeldes en el norte."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La Casa Blanca exige a Europa usar sus reservas de diésel bajo amenaza de un embargo exportador",
+          "que_ha_pasado": "Washington ha trasladado a los gobiernos europeos una exigencia explícita para que liberen de forma coordinada sus reservas de diésel con objeto de rebajar los precios en el mercado estadounidense antes de los comicios de noviembre. De no acceder a ello, EE. UU. ha amenazado con aplicar una prohibición total a las exportaciones de combustible refined hacia el Viejo Continente.",
+          "por_que_importa": "Esta maniobra subraya el uso de la hegemonía energética como instrumento de presión electoral interna, vulnerando la alineación estratégica con los aliados europeos. Un veto a la exportación norteamericana provocaría un shock inmediato de oferta en Europa, muy dependiente de los destilados medios tras el desacople del crudo ruso, e incrementaría la volatilidad del crudo en un momento inflacionario delicado.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/trumps-diesel-drohung-gegen-europa/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Inteligencia occidental vincula a Moscú con sabotajes directos e incursiones en suelo europeo",
+          "que_ha_pasado": "Documentos filtrados e investigaciones policiales han rastreado una serie de ataques frustrados con drones, paquetes incendiarios y actos de sabotaje en territorio europeo hasta la inteligencia militar rusa. Al mismo tiempo, las autoridades ucranianas advierten de una intensificación del castigo sobre Kiev sin miramientos por el derecho internacional.",
+          "por_que_importa": "El informe consolida el cambio de escala en las operaciones de guerra híbrida del Kremlin dentro de países de la OTAN, diseñadas para erosionar el apoyo civil a Ucrania mediante el miedo y el desgaste infraestructural. Para la arquitectura de seguridad europea, demuestra que la frontera del conflicto ya no está acotada al frente del Donbás, forzando a reevaluar la protección de la logística interna de la Alianza.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-02/zelenski-a-el-pais-ante-la-nueva-ofensiva-rusa-contra-kiev-putin-no-teme-a-los-europeos.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/failed-attack-leipzig-wider-russia-campaign-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Etiopía y Eritrea rompen lazos diplomáticos y reabren la inestabilidad en el Cuerno de África",
+          "que_ha_pasado": "El Gobierno etíope y el eritreo han cortado formalmente sus relaciones diplomáticas en medio de un repunte de las hostilidades militares contra milicias rebeldes en las regiones septentrionales. La ruptura echa por tierra los avances logrados tras el histórico acuerdo de paz de hace años.",
+          "por_que_importa": "La fragmentación política en esta zona geostratégica compromete la seguridad marítima del mar Rojo y el estrecho de Bab el-Mandeb, rutas clave para el comercio internacional. Además, un conflicto abierto amenaza con arrastrar a otros actores regionales e intensificar la crisis humanitaria en una zona azotada por la sequía y los desplazamientos masivos.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "El auge de la extrema derecha británica reactiva el debate independentista en Escocia y Gales",
+          "que_ha_pasado": "Sondeos recientes reflejan un ascenso sustancial del respaldo a las causas independentistas en las naciones históricas del Reino Unido ante la perspectiva de un hipotético gobierno dominado por formaciones populistas de extrema derecha en Londres. Nigel Farage ha vuelto a agitar este panorama con su discurso euroescéptico y recentralizador.",
+          "por_que_importa": "El sistema político británico afronta una polarización que trasciende el tradicional eje izquierda-derecha para amenazar la integridad territorial de la Unión. Una mayor fragmentación interna restaría capacidad de proyección exterior a Londres en un contexto post-Brexit donde busca mantener su relevancia diplomática y militar.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-02/el-ultra-farage-alimenta-el-ansia-secesionista-de-las-naciones-historicas-del-reino-unido.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La rentabilidad del bono estadounidense alcanza máximos de dos décadas por la presión fiscal",
+          "que_ha_pasado": "Una fuerte oleada de ventas en el mercado global de renta fija ha elevado el rendimiento del bono del Tesoro estadounidense a 10 años a niveles no vistos desde principios de siglo. Una dinámica similar ha arrastrado la deuda soberana británica a 30 años por encima del 6% motivada por las dudas sobre la sostenibilidad del gasto público.",
+          "por_que_importa": "El repunte de las rentabilidades encarece el coste de financiación global tanto para estados como para corporaciones, endureciendo las condiciones financieras efectivas sin necesidad de subidas adicionales de tipos por parte de los bancos centrales. Este drenaje de liquidez aumenta las dudas sobre el crecimiento económico a medio plazo y restringe la capacidad de margen fiscal de los gobiernos occidentales.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/02/6abf46e5e5fdea744a8b457f.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/4f2ad4c1-22b0-497b-88c8-197d7f301f79?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield"
+            }
+          ]
+        },
+        {
+          "titular": "Amazon proyecta empaquetar 8.000 millones en aceleradores de IA para aliviar su capex",
+          "que_ha_pasado": "Amazon negocia con grandes fondos de inversión para transferir de su balance unos 8.000 millones de dólares en procesadores de última generación de Nvidia. La intención de la tecnológica es estructurar esta infraestructura mediante vehículos financieros externos sin deteriorar sus métricas crediticias.",
+          "por_que_importa": "El movimiento pone de manifiesto que incluso los gigantes del sector tecnológico empiezan a sentir el peso de la desmedida intensidad de capital que exige la carrera por la inteligencia artificial. La utilización de estructuras de financiación estructurada para hardware de procesamiento rápido anticipa un cambio en el modelo de propiedad del sector cloud.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/97d8d346-519e-48fb-8df8-66cf5f12ef62?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El espionaje neerlandés advierte del riesgo de ciberseguridad en coches conectados importados",
+          "que_ha_pasado": "Los servicios de inteligencia de los Países Bajos han alertado formalmente sobre los riesgos para la seguridad nacional asociados a las tecnologías integradas en vehículos modernos, como sistemas GPS, micrófonos y cámaras. Advierten de que estados hostiles podrían emplear estos dispositivos como plataformas de espionaje a gran escala.",
+          "por_que_importa": "La advertencia intensifica las fricciones regulatorias y comerciales en torno a las importaciones de vehículos eléctricos procedentes de China. Al situar el coche conectado en la categoría de infraestructura crítica expuesta al ciberespionaje, la UE acerca posturas con la estrategia restrictiva implantada por EE. UU.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports"
+            }
+          ]
+        },
+        {
+          "titular": "Estudio de BCG advierte de una falta generalizada de control empresarial sobre los agentes de IA",
+          "que_ha_pasado": "Según un informe publicado por BCG Research, únicamente el 5% de las grandes corporaciones dispone actualmente de marcos normativos y gobernanza técnica suficientes para desplegar agentes autónomos de IA de forma segura. El estudio resalta un descalce notable entre el ritmo de adopción tecnológica y los mecanismos de mitigación de riesgos operativos.",
+          "por_que_importa": "La automatización basada en agentes de IA concede capacidad de decisión a los sistemas sobre procesos de negocio sensibles. Sin las auditorías ni las salvaguardas adecuadas, las compañías se exponen a fallos sistémicos de cumplimiento, fugas de datos y responsabilidades legales imprevistas.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/tecnologia/2026/10/02/empresas-estan-preparadas-controlar-agentes-ia.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "California fijará sanciones económicas a operadores de robotaxis que bloqueen emergencias",
+          "que_ha_pasado": "El estado de California ha aprobado un nuevo marco normativo que sancionará pecuniariamente a las compañías de vehículos autónomos cuyos coches entorpezcan el paso o la labor de los servicios de bomberos, policía o ambulancias. La medida busca frenar los incidentes repetidos de parálisis de flotas en plena vía pública.",
+          "por_que_importa": "El regulador californiano marca el estándar global sobre la responsabilidad operativa del transporte autónomo. Esta ley traslada la factura de los fallos de software a las métricas del negocio, obligando a los desarrolladores a priorizar la convivencia con la infraestructura urbana crítica frente a la velocidad de expansión.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/"
+            }
+          ]
+        },
+        {
+          "titular": "Stellantis frena la actividad de cuatro plantas en Francia ante la escasez de baterías",
+          "que_ha_pasado": "El grupo automovilístico Stellantis detendrá la producción en cuatro de sus centros de ensamblaje en suelo francés durante varias semanas a lo largo de este mes. La firma achaca los paros obligados al desabastecimiento de celdas de baterías destinadas a sus modelos eléctricos de mayor autonomía.",
+          "por_que_importa": "La paralización evidencia los cuellos de botella existentes en la cadena de suministro de componentes para la electrificación del parque móvil europeo. Pese al esfuerzo inversor en capacidad de fabricación regional, la dependencia de suministradores de insumos críticos continúa vulnerando la continuidad operativa del sector automotriz.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/movilidad/stellantis-va-a-parar-cuatro-sus-plantas-este-mes-falta-baterias-para-sus-coches"
+            }
+          ]
+        },
+        {
+          "titular": "Google y Apple replantean el procesamiento de visión por computador y la privacidad doméstica",
+          "que_ha_pasado": "Google ha presentado la función 'Guided Vision' para Gemini Live, capaz de interpretar mediante audio e IA la cámara en tiempo real para ayudar a leer textos o describir entornos. Paralelamente, se ha conocido que Apple diseña un dispositivo de seguridad para el hogar que prescinde de grabar vídeo y solo emite descripciones textuales codificadas.",
+          "por_que_importa": "Ambos enfoques marcan la dirección de la visión por ordenador: la transición del mero almacenamiento de imágenes a la comprensión semántica inmediata mediante IA. La aproximación de Apple, centrada en procesar el evento sin almacenar métricas visuales, busca resolver las crecientes dudas de los consumidores en torno a la privacidad en el hogar conectado.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El choque político en torno a los decretos de vivienda tensa las alianzas de la legislatura",
+          "que_ha_pasado": "El Congreso somete a votación un paquete decisivo de decretos sobre el mercado del alquiler en un ambiente marcado por la falta de apoyos parlamentarios suficientes y el malestar de los socios de investidura. La presión institucional coincide con la proliferación de protestas y acampadas en diversas ciudades del país.",
+          "por_que_importa": "El bloqueo normativo en la materia más sensible de la agenda social expone la debilidad de la mayoría parlamentaria y reaviva las especulaciones sobre la estabilidad del mandato. La falta de consenso regulatorio prolonga la incertidumbre jurídica en un sector con fuerte impacto en la inflación y la cohesión social.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html"
+            }
+          ]
+        },
+        {
+          "titular": "España registra su mejor septiembre histórico de afiliación impulsada por la mano de obra extranjera",
+          "que_ha_pasado": "La Seguridad Social sumó 92.327 cotizantes en el último mes, marcando el mejor registro para un mes de septiembre desde que hay estadísticas disponibles y elevando el total de ocupados por encima de los 22,4 millones. Nueve de cada diez nuevos afiliados registrados en el periodo son de nacionalidad extranjera.",
+          "por_que_importa": "El mercado laboral confirma su cambio estructural: la incorporación de trabajadores inmigrantes resulta determinante para sostener la creación neto de empleo ante el envejecimiento demográfico. Sin embargo, el leve aumento consecutivo del paro registrado pone de manifiesto la rigidez persistente en la intermediación laboral.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-10-02/el-empleo-registra-el-mejor-septiembre-de-los-registros-con-92327-afiliados-mas-y-nueve-de-cada-diez-son-extranjeros.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/economia/2026-10-02/el-empleo-registra-el-mejor-septiembre-de-los-registros-con-92327-afiliados-mas-y-nueve-de-cada-diez-son-extranjeros.html"
+            }
+          ]
+        },
+        {
+          "titular": "El observatorio climático confirma el verano de mayor estrés térmico en Europa desde 1992",
+          "que_ha_pasado": "El centro de observación sobre el cambio climático de la UE ha certificado que más de la mitad de la superficie del continente estuvo sometida a un nivel de estrés térmico elevado o extremo durante los meses estivales. La sequía extrema ha reducido los caudales fluviales a mínimos históricos respecto a los últimos treinta años.",
+          "por_que_importa": "Los datos consolidan la urgencia de reconfigurar la planificación hídrica y de infraestructuras en el sur y centro del continente. La persistencia de anomalías térmicas afecta directamente a la productividad agrícola, al coste de la energía y a las coberturas de seguros por riesgos medioambientales.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/ciencia/2026/10/02/6abf3fe621efa04d7e8b45d4.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Alejandro González Iñárritu explora el fin del mundo junto a Tom Cruise en 'Digger'",
+          "que_ha_pasado": "El cineasta mexicano ha estrenado su proyecto cinematográfico 'Digger', una tragicomedia apocalíptica desarrollada a lo largo de una década y protagonizada por Tom Cruise. La cinta ha generado opiniones divididas en la crítica por su complejidad narrativa y su apuesta estética.",
+          "por_que_importa": "La producción supone una inusual incursión del cine de autor de gran presupuesto al margen de las franquicias tradicionales de Hollywood. Además, marca un cambio en la carrera reciente de Tom Cruise, alejándose del bloque de acción convencional para asumir un papel dramático y satírico.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/us/entretenimiento/2026-10-02/alejandro-g-inarritu-a-tom-cruise-le-encanto-esta-pelicula-porque-lo-libero-de-ese-hombre-guapo-y-fuerte-que-es-el.html"
+            }
+          ]
+        },
+        {
+          "titular": "El sector cultural apoya la movilización social frente a la escalada del coste residencial",
+          "que_ha_pasado": "Diversas personalidades del ámbito de la música, el cine y las artes plásticas se han sumado formalmente a las reivindicaciones promovidas por plataformas de inquilinos y movimientos de protesta. Reclaman medidas urgentes para solucionar la crisis de acceso al alquiler y la turistificación de los centros urbanos.",
+          "por_que_importa": "El respaldo explícito de la comunidad cultural otorga una caja de resonancia mayor al descontento social por la vivienda, transformando el debate técnico en una demanda transversal. Refleja además el impacto de los costes inmobiliarios en los propios circuitos de producción artística y en la retención de talento joven en las ciudades.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-02/el-mundo-de-la-cultura-clama-por-la-vivienda-en-un-dia-clave-para-una-crisis-que.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Riesgo de cola (Tail Risk)",
+    "explicacion": "El riesgo de cola se refiere a la probabilidad estadística de que ocurra un evento de baja frecuencia pero de consecuencias devastadoras, situándose en los extremos lejanos de una curva de distribución normal de probabilidades. En los mercados financieros y en la gestión estratégica empresarial, estos eventos —frecuentemente vinculados a catástrofes geopolíticas, emergencias climáticas o shocks regulatorios repentinos— exceden los modelos convencionales de gestión de riesgos y provocan pérdidas masivas o devaluaciones severas de activos en un breve lapso de tiempo.",
+    "ejemplo": "La amenaza inesperada de un embargo a la exportación de diésel por parte de Washington hacia la Unión Europea constituye un claro riesgo de cola que podría desarticular las cadenas logísticas y multiplicar los costes energéticos de las empresas continentales."
+  },
+  "fecha": "2026-10-02"
+}
