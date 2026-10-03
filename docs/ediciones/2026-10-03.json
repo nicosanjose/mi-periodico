@@ -1,0 +1,243 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "El G7 libera 100 millones de barriles de petroleo tras las tensiones de suministro",
+      "resumen": "Las principales economias mundiales aprueban un vertido coordinado de reservas energeticas para frenar la escalada de precios e impedir distorsiones en el comercio de diesel."
+    },
+    {
+      "titular": "EE. UU. sufre un severo paron contratador a un mes de las elecciones legislativas",
+      "resumen": "La economia estadounidense creo solo 29.000 empleos en septiembre, elevando el desempleo al 4,2% y complicando el tramo final de la campaña para los comicios de medio mandato."
+    },
+    {
+      "titular": "Apple restringe el acceso total al disco en Mac por la amenaza de agentes de IA",
+      "resumen": "La compañia endurece los permisos del sistema operativo para evitar que asistentes autonomos expongan informacion confidencial o abusen de privilegios del usuario."
+    },
+    {
+      "titular": "Marruecos encarga la formacion de Gobierno a Fátima Mansouri tras las legislativas",
+      "resumen": "La lider del partido mas votado busca alianzas en el parlamento para consolidar una jefatura de gabinete inedita en el norte de Africa."
+    },
+    {
+      "titular": "Las flotas de empresa frenan el despliegue del vehiculo electrico en España",
+      "resumen": "Mientras las compras de particulares alcanzan el 25% del mercado, las compañias solo matriculan un 10% por la falta de incentivos fiscales adecuados."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "El G7 acuerda una descarga masiva de reservas energeticas ante la presion sobre el suministro",
+          "que_ha_pasado": "Los paises del G7 han pactado la liberacion coordinada de hasta 100 millones de barriles de crudo y combustible de sus reservas de emergencia. La decision busca contener el repunte de los precios internacionales y neutralizar las amenazas de Washington sobre restricciones a la exportacion de diésel estadounidense.",
+          "por_que_importa": "El mercado mundial de refinados atraviesa una fase de elevada vulnerabilidad estructural. Esta intervencion coordinada muestra la dependencia de los aliados occidentales del suministro energetico estadounidense y la necesidad de enviar una señal de estabilidad a las cadenas logisticas antes del invierno.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency"
+            }
+          ]
+        },
+        {
+          "titular": "Rusia combina sabotajes en suelo europeo con ataques a infraestructuras criticas en Kiev",
+          "que_ha_pasado": "Las fuerzas rusas han vuelto a golpear infraestructuras clave de comunicaciones en la capital ucraniana, entre ellas un segundo puente estrategico sobre el Dniéper. Al mismo tiempo, los servicios de inteligencia occidentales detectan un repunte de acciones de guerra hibrida, sabotajes e incursiones con drones en diversos paises de la OTAN.",
+          "por_que_importa": "El Kremlin busca degradar la capacidad de movilidad interior en Ucrania al tiempo que testea las lineas rojas de la Alianza Atlantica sin cruzar el umbral del articulo 5. Esta estrategia de presion multinivel pretende desgastar el respaldo politico a Kiev y tensionar la seguridad interna de los socios europeos.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-russland-die-nato-provoziert-mit-carlo-masala/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Fátima Mansouri lidera las negociaciones para liderar el nuevo Ejecutivo de Marruecos",
+          "que_ha_pasado": "Tras la victoria de su formacion en las recientes elecciones legislativas, la ministra y alcaldesa Fátima Mansouri ha sido designada para articular la nueva coalicion de gobierno. Las conversaciones buscan garantizar una mayoria estable en el parlamento magrebi.",
+          "por_que_importa": "El ascenso de Mansouri la convierte en la primera mujer al frente del Gobierno marroqui y en una de las figuras politicas mas relevantes del mundo arabe. Su gestion determinara la continuidad de las reformas socioeconomicas emprendidas por Rabat y la relacion diplomatica directa con la Union Europea en materia migratoria y energetica.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-03/fatima-mansouri-una-dama-de-hierro-bajo-el-trono-de-mohamed-vi.html"
+            }
+          ]
+        },
+        {
+          "titular": "La batalla por el Senado de EE. UU. entra en su recta final a un mes de las midterms",
+          "que_ha_pasado": "A cuatro semanas de la cita electoral, la contienda por el control de la Camara Alta estadounidense se focaliza en siete escaños clave donde las encuestas reflejan un empate tecnico. Los comicios miden la capacidad de la administracion para mantener su agenda legislativa en los dos ultimos años de mandato.",
+          "por_que_importa": "El resultado condicionara la capacidad de Washington para aprobar nombramientos judiciales, ratificar tratados y sacar adelante presupuestos de defensa y ayuda exterior. Un Senado en manos de la oposicion paralizaria de facto la politica exterior y la agenda regulatoria del Ejecutivo.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/2026-10-03/elecciones-de-medio-mandato-en-estados-unidos-siete-batallas-que-definiran-el-futuro-post-trump.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El mercado laboral de EE. UU. se frena bruscamente con solo 29.000 empleos creados en septiembre",
+          "que_ha_pasado": "La creacion de empleo en Estados Unidos sufrio un importante paron el mes pasado, registrando una cifra muy inferior a las previsiones de los analistas. La tasa de desempleo escalo un decimal hasta situarse en el 4,2%.",
+          "por_que_importa": "Estos datos confirman el enfriamiento de la mayor economia del mundo tras meses de tipos de interes elevados. La debilidad del mercado de trabajo mete presion a la Reserva Federal para acelerar los recortes de tipos y se convierte en el principal argumento economico en el tramo final de la campaña electoral.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report"
+            }
+          ]
+        },
+        {
+          "titular": "Zelenski pide sanciones contra el proyecto satelital conjunto de Rusia y China",
+          "que_ha_pasado": "El presidente ucraniano ha solicitado formalmente a Washington medidas punitivas contra las empresas involucradas en el desarrollo de 'Rassvet', una red satelital diseñada para competir con Starlink. Kiev sostiene que el proyecto busca dotar al Kremlin de capacidades de comunicacion militar inmunes a la interferencia occidental.",
+          "por_que_importa": "La infraestructura satelital de orbita baja se ha convertido en un activo geopolitico critico en los conflictos modernos. El desarrollo de una alternativa chino-rusa busca romper el monopolio de las firmas occidentales en conectividad tactica y transferencia masiva de datos en tiempo real.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5501a0c6-7d1e-4c1f-acc7-3b928e1f664a?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El debate sobre las pensiones en España choca con la crisis estructural del acceso a la vivienda",
+          "que_ha_pasado": "Analistas y economistas advierten de que la sostenibilidad de la jubilacion en España no puede analizarse al margen de la situacion inmobiliaria. La falta de liquidez en el patrimonio inmobiliario residencial y la escasez de oferta de alquiler condicionan el nivel de vida de las futuras cohortes de pensionistas.",
+          "por_que_importa": "El modelo tradicional de bienestar español se ha apoyado historicamente en la propiedad de la vivienda como colchón financiero durante el retiro. El progresivo encarecimiento del suelo y la escasa promocion publica amenazan con desequilibrar las cuentas de los hogares ancianos que carezcan de vivienda propia en propiedad.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-10-03/la-eutanasia-del-rentista-en-espana-ataca-la-enfermedad-equivocada.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Apple recorta el acceso de las aplicaciones a los archivos de Mac ante los riesgos de la IA",
+          "que_ha_pasado": "Apple implementara restricciones adicionales sobre la concesion de permisos de lectura completa del disco en el sistema macOS. La decision responde a la proliferacion de agentes autonomos de IA que podrian leer mensajes privados o exfiltrar datos no autorizados.",
+          "por_que_importa": "Los agentes basados en grandes modelos de lenguaje ejecutan acciones directas en los entornos del usuario, lo que crea nuevos vectores de ataque informatico. El paso dado por la compañia evidencia el choque entre las funciones avanzadas de productividad automatizada y la preservacion del marco de privacidad en los dispositivos.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+            }
+          ]
+        },
+        {
+          "titular": "Meta libera el codigo fuente de su modelo Muse para integrarlo en hardware de consumo",
+          "que_ha_pasado": "Meta ha publicado en abierto el codigo de su asistente Muse con el objetivo de que desarrolladores externos lo incorporen a electrodomesticos, pantallas portatiles y dispositivos multimedia. La estrategia busca situar a su agente de IA como el estandar por defecto en el ecosistema de la electronica del hogar.",
+          "por_que_importa": "Frente al modelo cerrado de sus competidores, la multinacional vuelve a apostar por el codigo abierto para acelerar la adopcion de sus tecnologias. Facilitar la integracion de agentes conversacionales en hardware de terceros busca dominar las capas de interaccion con el usuario antes de que se consoliden ecosistemas propietarios rivales.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
+            }
+          ]
+        },
+        {
+          "titular": "Netflix cancela sus contratos millonarios con directores consagrados y reorienta su estrategia",
+          "que_ha_pasado": "La plataforma de streaming ha dado por finalizados varios de sus acuerdos plurianuales en exclusiva con cineastas de renombre. Este movimiento supone un giro radical respecto a la politica de produccion de contenidos prestigiados que habia caracterizado a la compañia en años anteriores.",
+          "por_que_importa": "Las grandes plataformas audiovisuales estan abandonando la carrera por el prestigio a cualquier coste para centrarse en la rentabilidad del catalogo y el retorno sobre la inversion. La industria del entretenimiento prioriza ahora formatos de alto consumo recurrente e hiperfidelizacion sobre grandes producciones orientadas a festivales.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La baja adopcion en flotas corporativas frena el avance del coche electrico en España",
+          "que_ha_pasado": "Los datos de matriculaciones muestran que los particulares adquieren ya un 25% de vehiculos electrificados, mientras que las flotas de empresa apenas alcanzan el 10%. El sector privado reclama mayores deducciones fiscales para acelerar el reemplazo de los parques moviles profesionales.",
+          "por_que_importa": "El segmento de flotas de empresa representa el principal motor de volumen y canalizador de vehiculos seminuevos al mercado de ocasion. Sin incentivos mas agresivos a las corporaciones, España corre el riesgo de quedarse rezagada en los objetivos comunitarios de descarbonizacion del transporte terrestre.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-03/los-coches-de-empresa-lastran-al-electrico-los-particulares-compran-ya-un-25-las-companias-solo-un-10.html"
+            }
+          ]
+        },
+        {
+          "titular": "Andalucia despliega tres fondos de capital riesgo para movilizar 150 millones de euros",
+          "que_ha_pasado": "La Junta de Andalucia ha puesto en marcha un paquete de instrumentos financieros con una aportacion publica inicial de 76,7 millones hasta 2030. El objetivo es cofinanciar mas de 60 proyectos empresariales innovadores mediante la atraccion de gestoras privadas.",
+          "por_que_importa": "El uso de vehiculos de capital riesgo regional busca transformar la estructura productiva andaluza reduciendo la dependencia de subvenciones a fondo perdido. Este modelo de coinversion canaliza liquidez hacia startups de alto crecimiento y refuerza la capacidad de traccion del tejido industrial local.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-10-03/la-junta-busca-mas-de-60-proyectos-en-los-que-invertir-76-7-millones-de-euros-hasta-2030_4437103/"
+            }
+          ]
+        },
+        {
+          "titular": "L lluvias torrenciales desbordan varios municipios de Albacete y obligan a evacuar a decenas de vecinos",
+          "que_ha_pasado": "La localidad de Madrigueras ha sufrido graves inundaciones tras registrarse mas de 140 litros por metro cuadrado en pocas horas, provocando el fallecimiento de una mujer de 102 años. La Junta de Castilla-La Mancha ha activado el plan de emergencia para coordinar los rescates.",
+          "por_que_importa": "La recurrencia de episodios meteorologicos extremos en la Peninsula evidencia la vulnerabilidad de la infraestructura de drenaje y ordenacion del territorio en los municipios del interior. Los servicios de proteccion civil afrontan la necesidad de modernizar sus protocolos de aviso temprano y respuesta rapida.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/10/03/6ac03e88e4d4d8b3088b45ce.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El Museo de Bellas Artes de Bilbao inaugura la ampliacion diseñada por Norman Foster",
+          "que_ha_pasado": "La pinacoteca vasca ha culminado las obras de remodelacion que reestructuran sus fondos y amplian la superficie expositiva. El proyecto arquitectónico permite exhibir legados pictoricos clave acumulados a lo largo de su historia.",
+          "por_que_importa": "La intervencion refuerza la posicion de Bilbao como polo cultural europeo y demuestra como las grandes pinacotecas regionales pueden revalorizar sus fondos historicos combinando mecenazgo privado y arquitectura de vanguardia.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-03/el-bellas-artes-de-bilbao-evoluciona-con-el-genio-de-foster-y-el-legado-de-los-grandes-coleccionistas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Steve Reich cumple 90 años cuestionando el impacto politico de las artes visuales",
+          "que_ha_pasado": "El compositor neoyorquino y referente del minimalismo musical celebra su noveno decenio con estrenos mundiales y la reedicion de sus primeras grabaciones. En el marco de los homenajes, el musico ha cuestionado abiertamente la efectividad de obras iconicas como el 'Guernica' para alterar acontecimientos politicos.",
+          "por_que_importa": "Reich revisita el papel de la vanguardia artistica en la esfera publica en un momento de redefinicion del arte comprometido. Su obra, clave para entender la musica contemporanea y la repeticion estructural, sigue marcando la pauta en la creacion sonora global.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-03/steve-reich-compositor-politicamente-el-guernica-es-un-fracaso-absoluto.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Inversion de la curva de tipos (Yield Curve Inversion)",
+    "explicacion": "Anomalia en los mercados financieros que se produce cuando la rentabilidad de la deuda publica a corto plazo supera a la de los bonos a largo plazo. En situaciones normales, la curva presenta pendiente positiva porque los inversores exigen un rendimiento superior por inmovilizar su capital a mayor plazo. Una curva invertida refleja la expectativa del mercado de que el crecimiento economico se frenara bruscamente, obligando a los bancos centrales a bajar de forma agresiva los tipos de interes oficiales en el futuro.",
+    "ejemplo": "La brusca desaceleracion en la creacion de empleo de septiembre en EE. UU. ha reavivado el debate sobre el perfil de la curva de tipos soberana norteamericana, ya que los inversores descuentan recortes inmediatos de tipos ante el riesgo de recesion."
+  },
+  "fecha": "2026-10-03"
+}
