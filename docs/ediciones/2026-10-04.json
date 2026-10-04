@@ -1,0 +1,247 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Brasil acude a las urnas bajo la sombra de la polarización y la influencia externa",
+      "resumen": "La primera vuelta de las presidenciales enfrenta a Lula da Silva y Flávio Bolsonaro en unos comicios marcados por el peso de la política estadounidense en la región."
+    },
+    {
+      "titular": "Merz visita Kiev mientras Europa frena el apoyo a las exportaciones de grano ucraniano",
+      "resumen": "El líder conservador alemán muestra su respaldo ante los ataques rusos, mientras Polonia y Rumanía rechazan dar más facilidades al tránsito agrícola de Ucrania."
+    },
+    {
+      "titular": "Protestas masivas en España frente al deterioro del acceso a la vivienda",
+      "resumen": "Miles de personas se manifiestan en Madrid coincidiendo con datos que confirman el repunte del hacinamiento y la falta de zonas comunes en los alquileres jóvenes."
+    },
+    {
+      "titular": "El sector tecnológico advierte de una grave escasez de memoria RAM por el auge de la IA",
+      "resumen": "El consejero delegado de Micron alerta de que la falta de componentes afectará a la tecnología de consumo y encarecerá dispositivos en los próximos años."
+    },
+    {
+      "titular": "Wall Street frena las salidas a bolsa ante dudas sobre valoraciones de gigantes tecnológicos",
+      "resumen": "La pausa en la cotización pública de firmas como Anthropic enfría el entusiasmo de los inversores y paraliza varias operaciones en los mercados financieros."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Elecciones en Brasil: tensión ideológica y el fantasma de la injerencia estadounidense",
+          "que_ha_pasado": "Brasil celebra la primera vuelta de sus elecciones presidenciales en un ambiente de extrema polarización entre el presidente izquierdista Luiz Inácio Lula da Silva y el candidato de ultraderecha Flávio Bolsonaro. El clima electoral se ha visto condicionado por el discurso de la Administración estadounidense saliente y la reactivación de redes conservadoras internacionales.",
+          "por_que_importa": "El resultado en el gigante sudamericano determinará el rumbo de la integración regional y la postura de Latinoamérica frente al pulso Washington-Pekín. Una victoria conservadora consolidaría el giro a la derecha en la región, reduciendo el margen de maniobra de Brasil en foros multilaterales como los BRICS.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/america/2026-10-04/brasil-entre-lo-peor-y-la-catastrofe.html"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/latinoamerica/2026/10/03/6abcc4e1e5fdea192a8b458a.html"
+            }
+          ]
+        },
+        {
+          "titular": "Apoyo político de Alemania a Kiev frente al portazo agrícola de sus vecinos de la UE",
+          "que_ha_pasado": "El líder de la CDU alemana, Friedrich Merz, ha viajado a Kiev para visibilizar su respaldo ante el recrudecimiento de las incursiones aéreas rusas antes del invierno. Al mismo tiempo, Polonia y Rumanía han anunciado que no ampliarán las facilidades logísticas para dar salida al grano ucraniano bloqueado en el mar Negro.",
+          "por_que_importa": "La visita subraya las grietas internas de la política alemana sobre el compromiso militar a largo plazo con Ucrania. Además, la firmeza de Varsovia y Bucarest evidencia la tensión estructural entre la solidaridad geopolítica con Kiev y la protección del sector agrario nacional en el este de Europa.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/germany-friedrich-merz-visits-kyiv-amid-fears-of-hardest-winter-in-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/b7bd5c45-1c32-4984-af37-21746a02c4ef?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El Partido Conservador británico busca redefinirse en su conferencia anual ante su desplome electoral",
+          "que_ha_pasado": "Los tories celebran su congreso en Birmingham bajo el liderazgo de Kemi Badenoch buscando proyectar unidad y desmarcarse en debates clave como la fiscalidad bancaria o la regulación de la IA. Sin embargo, el partido sigue estancado en una distante tercera posición en la intención de voto.",
+          "por_que_importa": "Tras la pérdida del gobierno, la formación lucha por encontrar una identidad clara entre la ortodoxia fiscal y el populismo cultural para frenar el desgaste de su base electoral. Su incapacidad para remontar refleja la fragmentación del voto de centro-derecha en el Reino Unido.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/politics/2026/oct/04/conservative-party-conference-more-upbeat-last-year-tories-kemi-badenoch"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/tory-conference-2026-what-politico-reporters-are-watching-for/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Freno a las salidas a bolsa en Wall Street por la revisión de las altas valoraciones",
+          "que_ha_pasado": "Varios estrenos bursátiles previstos para este otoño se han pospuesto debido a una demanda más tibia de los inversores institucionales. La decisión de diferir el debut de Anthropic ha actuado como detonante para un enfriamiento generalizado de las operaciones.",
+          "por_que_importa": "El ajuste de expectativas muestra que el mercado exige métricas financieras sólidas a las empresas intensivas en capital, especialmente las centradas en inteligencia artificial. La cautela en Wall Street podría restringir el acceso a liquidez rápida para las firmas en fase de escalado.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/b8924d77-364b-46c1-b783-5db73a91f351?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El rendimiento del 'staking' y la estacionalidad impulsan el mercado de criptomonedas",
+          "que_ha_pasado": "El mercado de activos digitales afronta octubre con optimismo respaldado por tendencias históricas favorables para el Bitcoin. Paralelamente, la estrategia del 'staking' está captando volumen al ofrecer retornos de hasta el 10% mediante la inmovilización de tokens para la validación de redes.",
+          "por_que_importa": "El auge de la congelación de activos para obtener rendimiento fija una base de liquidez estacional que reduce la oferta circulante. Sin embargo, los analistas recuerdan que estas rentabilidades conllevan riesgos operativos e impositivos poco transparentes para los minoristas.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/criptomonedas/2026/10/03/6abfd63ae5fdeae63a8b4571.html"
+            }
+          ]
+        },
+        {
+          "titular": "El impacto económico del déficit de descanso en los puestos de dirección",
+          "que_ha_pasado": "Un informe revela que el insomnio crónico de los puestos directivos genera pérdidas anuales estimadas en 12.000 millones de euros debido al deterioro en la toma de decisiones estratégicas. La falta de sueño repercute de forma directa en la productividad y la gestión de equipos.",
+          "por_que_importa": "El estudio monetiza un problema de salud pública hasta ahora relegado en el análisis de costes corporativos. Para las firmas de consultoría y servicios profesionales, estos datos presionan para revisar las dinámicas de trabajo intensivo y su impacto en la gobernanza.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/fortunas/2026-10-04/dormir-mal-cuesta-dinero-a-la-empresa-y-hace-peores-a-los-jefes.html"
+            }
+          ]
+        },
+        {
+          "titular": "Estabilización frágil en el mercado del diésel a la espera de medidas de reserva",
+          "que_ha_pasado": "La volatilidad en los precios del gasóleo ha dado un leve respiro en los mercados europeos tras jornadas de fuerte presión. A pesar de la moderación momentánea, las autoridades siguen debatiendo la liberación de reservas estratégicas para evitar repuntes inflacionarios.",
+          "por_que_importa": "El diésel es el combustible fundamental de la cadena de transporte e industria pesada global, por lo que cualquier escasez repercute de inmediato en los costes logísticos. La dependencia de parches temporales evidencia la vulnerabilidad de las cadenas de suministro ante shocks geopolíticos.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-10-04/las-claves-la-situacion-en-torno-al-diesel-se-enfria-un-poco-pero-sigue-estando-muy-caliente.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Micron prevé un grave cuello de botella en los suministros de memoria RAM por la demanda de IA",
+          "que_ha_pasado": "El máximo ejecutivo de Micron ha advertido que el mercado sufrirá un desabastecimiento de memorias RAM de gran escala hacia 2027 y 2028. La capacidad de producción global se está reorientando hacia la infraestructura para IA, encareciendo y limitando la oferta de componentes para el consumidor final.",
+          "por_que_importa": "La saturación de la capacidad fabril desplaza el problema del silicio desde el procesamiento hacia el almacenamiento de datos. Esta escasez estructural elevará los precios de fabricación de hardware tradicional, desde smartphones hasta servidores corporativos.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/componentes/anuncia-margenes-record-fabricas-ceo-micron-avisa-crisis-ram-escaseara-2027-2028-que-hoy"
+            }
+          ]
+        },
+        {
+          "titular": "Una nueva dimisión en OpenAI reaviva las alarmas sobre la seguridad en el desarrollo de IA",
+          "que_ha_pasado": "Un empleado de la división de seguridad de OpenAI ha renunciado a su puesto denunciando de forma pública fallos en la cultura corporativa de la firma. El exempleado sostiene que los incentivos de mercado están eclipsando los controles de mitigación de riesgos catastróficos.",
+          "por_que_importa": "La concatenación de salidas en los departamentos de alineamiento ético erosiona la credibilidad de los gigantes tecnológicos sobre su autorregulación. El caso añade presión a los organismos reguladores para endurecer las auditorías externas a los modelos avanzados de lenguaje.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/"
+            }
+          ]
+        },
+        {
+          "titular": "La justicia estadounidense frena el uso sin orden judicial del rastreo masivo por matrícula",
+          "que_ha_pasado": "Un tribunal federal de EE. UU. ha determinado que el uso de la tecnología de lectura automatizada de matrículas Flock sin autorización previa viola la Cuarta Enmienda. El fallo califica este tipo de vigilancia automatizada como una intromisión indiscriminada en la privacidad.",
+          "por_que_importa": "La resolución sienta un precedente legal clave frente a la adopción desregulada de tecnologías de procesamiento masivo de datos por fuerzas de seguridad. Establece un límite claro entre el análisis predictivo policial y las garantías constitucionales del ciudadano.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Protestas en la calle y datos europeos confirman la severidad de la crisis del alquiler en España",
+          "que_ha_pasado": "Decenas de miles de personas se han manifestado en el centro de Madrid convocadas por el Sindicato de Inquilinas para exigir medidas drásticas en el mercado de la vivienda. Coincidiendo con la marcha, estadísticas europeas reflejan un repunte del hacinamiento en España e incrementos en la oferta de inmuebles sin áreas comunes.",
+          "por_que_importa": "La inaccesibilidad a la vivienda se ha convertido en el principal vector de desigualdad generacional y precariedad social en España. El distanciamiento entre los precios de arrendamiento y la capacidad adquisitiva tensiona el debate político sobre la eficacia de las leyes estatales de regulación de precios.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/vivienda/2026/10/03/6abcef35e85ece900e8b457f.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/2026-10-04/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Sondeos en Cataluña anticipan una fuerte irrupción de Aliança Catalana en el Parlament",
+          "que_ha_pasado": "Una encuesta de Ipsos publicada este domingo sitúa a Aliança Catalana disputando la victoria electoral al PSC con una previsión de hasta 30 diputados. La formación de extrema derecha independentista experimentaría un salto significativo respecto a su representación actual.",
+          "por_que_importa": "El ascenso de este partido reconfigura el mapa del independentismo catalán y fragmenta aún más el espacio parlamentario. Muestra la permeabilidad del electorado autonómico hacia discursos identitarios duros frente a la gestión institucional tradicional.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-10-04/alianca-catalana-pasaria-30-diputados-parlament_4437843/"
+            }
+          ]
+        },
+        {
+          "titular": "La Policía efectúa el desalojo de un asentamiento en la costa de Ceuta",
+          "que_ha_pasado": "Efectivos de la Policía Nacional han procedido a la evacuación del asentamiento ilegal situado en la playa del Trampolín en Ceuta. Los ocupantes han sido trasladados en autobús al Centro de Atención Temporal de Extranjeros (CATE) del Tarajal para su filiación.",
+          "por_que_importa": "La actuación responde al repunte de la presión migratoria en la frontera sur de la ciudad autónoma. El procedimiento evidencia la necesidad de gestionar con agilidad la capacidad logística de recepción e identificación previa a las derivaciones a la península.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/10/04/6ac1f3dbe85ece39088b45a4.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-04/policia-nacional-desalojo-asentamiento-playa-trampolin-ceuta-1tna_4437848/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Afloran fotografías inéditas que documentan las actuaciones de La Barraca durante la Guerra Civil",
+          "que_ha_pasado": "Se ha hecho pública una colección inédita de 45 instantáneas tomadas por el fotorreportero alemán Walter Reuter en Valencia en 1937. Las imágenes muestran las representaciones masivas que la compañía fundada por Lorca realizó para la población y las tropas en el frente.",
+          "por_que_importa": "El hallazgo aporta valor documental sobre la continuidad del proyecto de democratización cultural de la Segunda República tras el asesinato de su promotor. Permite analizar el uso del teatro pedagógico como herramienta de cohesión y moral en contextos de conflicto bélico.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-04/la-barraca-en-guerra-despues-de-lorca-descubierta-la-mayor-coleccion-de-fotografias-ineditas-de-una-funcion.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las entidades patrimoniales advierten del impacto irreversible del cambio climático en los monumentos",
+          "que_ha_pasado": "La organización National Trust ha alertado de los daños tangibles que los fenómenos meteorológicos extremos están provocando en bienes de valor histórico. Incendios, sequías y variaciones drásticas de humedad amenazan la estructura física de inmuebles centenarios.",
+          "por_que_importa": "La crisis climática ya no representa solo un reto medioambiental o agrícola, sino también una amenaza financiera y de conservación para la memoria cultural. Obliga a reasignar presupuestos públicos masivos hacia la adaptación de infraestructuras patrimoniales.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c9vgy02038vko?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Trampa de la renta media (Middle-income trap)",
+    "explicacion": "Situación de estancamiento económico en la que un país alcanza un determinado nivel de ingresos gracias a ventajas competitivas iniciales (como mano de obra barata), pero se ve incapaz de dar el salto hacia una economía de alto valor añadido. Al subir los salarios, pierde competitividad en costes frente a países más pobres, pero carece de la infraestructura, capacidad tecnológica o capital humano cualificado necesario para competir con las economías desarrolladas en innovación.",
+    "ejemplo": "Diversas economías latinoamericanas y del sudeste asiático llevan décadas atrapadas en este umbral al no lograr diversificar sus exportaciones más allá de las materias primas o las manufacturas básicas."
+  },
+  "fecha": "2026-10-04"
+}
