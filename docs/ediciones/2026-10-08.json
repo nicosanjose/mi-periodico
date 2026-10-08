@@ -1,0 +1,266 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "El petróleo escala por encima de los 103 dólares y arrastra a los mercados de renta variable",
+      "resumen": "El repunte de los precios energéticos y el alza en los rendimientos de la deuda soberana avivan la preocupación por la inflación en Europa."
+    },
+    {
+      "titular": "Incursión de tropas de Eritrea en la región etíope de Tigray",
+      "resumen": "El movimiento militar se produce tras la ruptura de relaciones diplomáticas y eleva el riesgo de una confrontación abierta en el Cuerno de África."
+    },
+    {
+      "titular": "Groenlandia mantendrá su integración en la OTAN si se independiza según el acuerdo con EEUU",
+      "resumen": "El pacto trilateral actualiza el marco marco militar de 1951 y garantiza a Washington el acceso estratégico al espacio ártico."
+    },
+    {
+      "titular": "La UE exige a China atajar el déficit comercial en vísperas de la cumbre en Pekín",
+      "resumen": "Bruselas, con el respaldo directo de París y Berlín, busca endurecer la posición negociadora ante los desequilibrios económicos."
+    },
+    {
+      "titular": "El fallecimiento de una octogenaria tras ser desahuciada sacude la precampaña en Madrid",
+      "resumen": "La muerte de Maricarmen Abascal desata protestas ciudadanas y reabre el debate político sobre la gestión de la vivienda."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La UE unifica su postura frente a Pekín para reducir el desequilibrio comercial",
+          "que_ha_pasado": "El comisario europeo de Comercio, Maroš Šefčovič, ha iniciado una visita oficial a China marcada por la exigencia de medidas concretas frente al abultado déficit comercial de la Unión Europea. La gira cuenta con un inusual alineamiento previo entre Alemania y Francia, que presionan para que la Comisión adopte una línea negociadora más firme.",
+          "por_que_importa": "Durante años, las divergencias entre el modelo exportador alemán y el proteccionismo industrial francés dificultaban una voz única en Bruselas. La confluencia de ambas potencias señala un giro en la política industrial europea, encaminado a aplicar medidas compensatorias y exigir reciprocidad de acceso al mercado chino en sectores estratégicos.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-europe-finally-get-tough-on-china/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Soldados eritreos se adentran en Tigray y amenazan la estabilidad en Etiopía",
+          "que_ha_pasado": "Tropas del ejército de Eritrea han penetrado en la ciudad fronteriza de Adigrat, dentro de la región etíope de Tigray. El despliegue sobre el terreno se produce pocos días después de que ambos Estados rompieran de forma oficial sus relaciones diplomáticas.",
+          "por_que_importa": "El Cuerno de África atraviesa un delicado equilibrio tras el frágil acuerdo de paz que puso fin a la sangrienta guerra civil en Tigray en 2022. Una reactivación de las hostilidades entre Asmara y Adís Abeba no solo desestabilizaría a Etiopía, sino que impactaría directamente en la seguridad marítima del mar Rojo y el estrecho de Bab el-Mandeb.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-07/tropas-eritreas-se-adentran-en-la-region-etiope-de-tigray-y-elevan-el-temor-a-una-guerra-abierta.html"
+            }
+          ]
+        },
+        {
+          "titular": "Groenlandia se compromete a permanecer en la OTAN en caso de lograr la independencia",
+          "que_ha_pasado": "Un nuevo marco de cooperación ratificado entre Groenlandia, Washington y Copenhague establece que la isla ártica deberá continuar dentro de la estructura de la OTAN si llega a culminar su proceso de secesión de Dinamarca. El texto amplía además los derechos de acceso e instalación militar para las fuerzas armadas estadounidenses en la zona.",
+          "por_que_importa": "Groenlandia alberga una posición geográfica determinante para el control de las rutas del Ártico y la detección temprana de misiles. El acuerdo garantiza a Estados Unidos la continuidad geopolítica y el bloqueo a posibles pretensiones de inversión estratégica por parte de China o Rusia en la región.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-08/el-pacto-con-estados-unidos-obliga-a-groenlandia-a-seguir-en-la-otan-si-se-independiza.html"
+            }
+          ]
+        },
+        {
+          "titular": "Tensión diplomática entre Londres y Jerusalén por el estatus del consulado británico",
+          "que_ha_pasado": "Israel ha comunicado que la mayoría de los diplomáticos británicos deberán abandonar el consulado en Jerusalén Este en respuesta a las sanciones impuestas por el Reino Unido a asentamientos ilegales en Cisjordania. En respuesta, el Gobierno británico ha aclarado que la sede continuará abierta rebautizada como misión diplomática para garantizar servicios esenciales.",
+          "por_que_importa": "El movimiento refleja el deterioro en las relaciones bilaterales tras el endurecimiento del tono del Ejecutivo británico hacia la política de asentamientos israelí. Mantener una presencia operativa en Jerusalén Este es clave para la diplomacia europea como vía directa de contacto con la Autoridad Nacional Palestina.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El petróleo se sitúa por encima de los 103 dólares y arrastra al Ibex 35",
+          "que_ha_pasado": "La cotización del barril de crudo ha superado la cota de los 103 dólares debido a las persistentes tensiones en las regiones productoras, lo que ha elevado el rendimiento de los bonos soberanos. Esta presión vendedora ha llevado al Ibex 35 a ceder un 1% y perder el nivel de los 19.000 puntos.",
+          "por_que_importa": "El encarecimiento de los insumos energéticos reaviva la amenaza de shocks de oferta que entorpezcan la senda de bajadas de tipos de interés de los bancos centrales. Para los mercados de acciones, mayores rentabilidades en la deuda reducen el apetito por el riesgo y encarecen el coste del capital corporativo.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/08/6ac73088468aeb496d8b456d.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-08/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los fondos buscan oportunidades en la deuda soberana europea tras las ventas en Francia",
+          "que_ha_pasado": "Grandes gestoras de activos internacionales están volviendo a comprar bonos de la Eurozona aprovechando el repunte de rentabilidades provocado por las dudas sobre la situación fiscal francesa. Diversos analistas consideran que el pánico a una crisis sistémica de deuda en la región es injustificado.",
+          "por_que_importa": "La ampliación de los diferenciales entre el bono alemán y el francés ha testeado la solidez de la disciplina presupuestaria en la zona euro. La entrada de dinero comprador sugiere que el mercado interpreta estas turbulencias como un ajuste de valoración coyuntural y no como un riesgo real de fragmentación financiera.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/9cf103ed-548e-4b06-baed-71632abca961?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Las grandes petroleras mantienen sus inversiones de largo plazo en Oriente Medio",
+          "que_ha_pasado": "Las principales corporaciones energéticas occidentales continúan adelante con sus proyectos de desarrollo de reservas en Oriente Medio a pesar del contexto de volatilidad y tensión con Irán. Las compañías justifican su permanencia en el bajo coste de extracción y la magnitud de los yacimientos de la región.",
+          "por_que_importa": "A pesar de la transición energética global y la inestabilidad geopolítica local, la industria petrolera asume el riesgo geopolítico como un elemento estructural. Las ventajas operativas y de margen de los activos en la zona siguen pesando más en la planificación de capital que la prima de conflicto en los balances.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/3534cf93-be7b-49ec-bf58-cea84e73cb28?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El FMI alerta de los riesgos de liquidez y concentración en la tokenización de activos",
+          "que_ha_pasado": "Un nuevo informe del Fondo Monetario Internacional advierte sobre la falta de profundidad de mercado y las vulnerabilidades operativas en la representación digital de activos tradicionales. Aunque reconoce su potencial para reducir costes de intermediación, la institución señala un elevado riesgo de concentración en pocos actores.",
+          "por_que_importa": "La conversión de deuda y activos reales en tokens sobre tecnología blockchain atrae creciente interés de la banca de inversión. El toque de atención del FMI anticipa exigencias regulatorias más estrictas para evitar que los riesgos de compensación y custodia se trasladen al sistema financiero tradicional.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/criptoactivos/2026-10-08/el-fmi-alerta-del-riesgo-de-concentracion-en-los-mercados-tokenizados.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Mecka AI capta 60 millones de dólares para crear datos de entrenamiento en robótica",
+          "que_ha_pasado": "La startup Mecka AI ha cerrado una ronda de financiación de 60 millones de dólares liderada por el fondo Sequoia Capital. La empresa se dedica a retribuir a usuarios por registrar movimientos físicos cotidianos para crear bases de datos destinadas al aprendizaje de robots humanoides.",
+          "por_que_importa": "El gran cuello de botella para el despliegue comercial de la robótica avanzada radica en la escasez de datos del mundo físico de alta calidad. Modelar el movimiento humano mediante recompensas directas busca acelerar la autonomía física de los sistemas de IA, un mercado prioritario para la automatización industrial.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/"
+            }
+          ]
+        },
+        {
+          "titular": "Desarrolladores independientes lanzan herramientas abiertas para sustituir al software de diseño",
+          "que_ha_pasado": "Proyectos de código abierto basados en modelos generativos de inteligencia artificial como Opus han presentado alternativas gratuitas destinadas a reemplazar funciones de la suite de Adobe. Los impulsores del proyecto sostienen que los modelos tradicionales de licenciamiento de software están obsoletos.",
+          "por_que_importa": "La capacidad de las herramientas de IA generativa para crear código y flujos de trabajo completos pone en riesgo el modelo de suscripción 'SaaS' tradicional. Si las alternativas abiertas logran una madurez técnica mínima, reducirán sustancialmente los costes operativos de licencias en agencias y consultoras.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/"
+            }
+          ]
+        },
+        {
+          "titular": "India desestima las quejas de Elon Musk por los retrasos en la autorización de Starlink",
+          "que_ha_pasado": "El Gobierno indio ha rechazado formalmente las alegaciones de trato discriminatorio formuladas por SpaceX en el proceso de aprobación de Starlink. Las autoridades locales han supeditado la concesión del espectro comercial a la completa verificación previa de las condiciones de seguridad nacional.",
+          "por_que_importa": "El choque refleja la tensión existente entre la expansión de las megaconstelaciones de satélites y la soberanía tecnológica de las potencias emergentes. India exige salvaguardas sobre la localización del tráfico de datos antes de permitir la entrada de proveedores de telecomunicaciones extranjeros.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El fallecimiento de Maricarmen Abascal tras su desalojo irrumpe en la precampaña madrileña",
+          "que_ha_pasado": "Maricarmen Abascal, de 87 años, ha fallecido dos semanas después de ser desalojada en camilla de su piso en Madrid, provocando inmediatas concentraciones de protesta en el centro de la capital. La controversia se ha trasladado al ámbito político local, donde las instituciones han mostrado divergencias sobre la realización de actos de homenaje.",
+          "por_que_importa": "El caso ha convertido la emergencia habitacional y los protocolos de desahucio a personas vulnerables en el eje central del debate electoral en la Comunidad de Madrid. El suceso incrementa la presión mediática sobre el marco regulatorio del alquiler y el papel de las administraciones en la mediación de vivienda.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/madrid/2026/10/07/6ac68ee8fc6c8323468b4599.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-10-08/reacciones-tras-la-muerte-de-maricarmen-y-ultima-hora-de-las-elecciones-del-29-n-en-directo.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Fallece a los 90 años Xosé Manuel Beiras, referente del nacionalismo gallego",
+          "que_ha_pasado": "El histórico dirigente político y economista Xosé Manuel Beiras ha muerto a los 90 años de edad. A lo largo de su trayectoria encabezó el Bloque Nacionalista Galego y posteriormente impulsó nuevas candidaturas como Alternativa Galega de Esquerda y Anova.",
+          "por_que_importa": "Beiras fue una figura intelectual determinante para articular la izquierda periférica en España durante la democracia. Sus fórmulas de articulación política sirvieron como precedente y modelo de confluencia para la irrupción posterior de las mareas territoriales y el espacio de Podemos.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/galicia/2026/10/08/6ac73e76fdddff811a8b45c5.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/galicia/2026-10-08/muere-a-los-90-anos-el-historico-dirigente-nacionalista-gallego-xose-manuel-beiras_4440772/"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-10-08/muere-a-los-90-anos-xose-manuel-beiras-historico-dirigente-del-nacionalismo-gallego.html"
+            }
+          ]
+        },
+        {
+          "titular": "Ada Colau exige una lista única de la izquierda para liderar la plataforma Frente Amplio",
+          "que_ha_pasado": "La exalcaldesa de Barcelona ha condicionado asumir la candidatura principal del espacio Frente Amplio a que la confluencia integre a Podemos y resto de organizaciones bajo una sola candidatura. Colau rechazó encabezar el proyecto si se repiten escenarios de fragmentación entre las distintas siglas.",
+          "por_que_importa": "Las negociaciones dentro del espacio a la izquierda del PSOE afrontan un momento decisivo ante el calendario electoral. La exigencia de una papeleta unitaria busca evitar la dispersión del voto por la ley electoral en las circunscripciones provinciales medianas.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/catalunya/2026-10-08/colau-dispuesta-a-liderar-frente-amplio-si-suma-a-mucha-mas-gente-como-podemos.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Muere Margaret Hamilton, la programadora que hizo posible el aterrizaje del Apolo 11",
+          "que_ha_pasado": "La matemática y científica de la computación Margaret Hamilton ha fallecido a los 90 años. Como directora de la División de Ingeniería de Software del Laboratorio de Instrumental del MIT, lideró la creación del software de navegación para las misiones Apolo de la NASA.",
+          "por_que_importa": "Hamilton fue una de las verdaderas pioneras en acuñar y consolidar el concepto moderno de 'ingeniería de software'. Sus diseños de sistemas asíncronos y arquitectura de tolerancia a fallos impidieron el aborto del alunizaje del Apolo 11 y sentaron las bases de la programación de sistemas críticos.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/c8p3gzenvylyo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cx5yn46j41zpo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "La autora china Can Xue encabeza las quinielas para el Nobel de Literatura 2026",
+          "que_ha_pasado": "A las puertas del fallo de la Academia Sueca, la escritora Can Xue se sitúa al frente de las previsiones en las casas de apuestas para el Nobel de Literatura. La nómina de candidatos refleja las expectativas de un fallo volcado hacia tradiciones literarias no occidentales.",
+          "por_que_importa": "El galardón mantiene en los últimos años un esfuerzo por diversificar el perfil geográfico de sus premiados. El reconocimiento a autoras asiáticas de vanguardia consolidaría la apertura de la Academia hacia estéticas alejadas del canon eurocéntrico tradicional.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-08/quien-ganara-el-nobel-de-literatura-como-han-cambiado-los-premiados-y-quien-es-favorito-en-2026.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Riesgo soberano (Sovereign risk)",
+    "explicacion": "El riesgo soberano mide la probabilidad de que el Gobierno central de un Estado sea incapaz o reacio a cumplir con sus obligaciones de pago de deuda. Este indicador refleja la salud de las finanzas públicas, la estabilidad política y el acceso a la liquidez de un país. Un aumento del riesgo soberano incrementa el rendimiento exigido por los inversores —la prima de riesgo— para comprar títulos públicos, elevando los costes de emisión del Tesoro e impactando directamente en las condiciones de financiación del sector privado nacional.",
+    "ejemplo": "Las recientes dudas de los inversores sobre el cumplimiento de las metas de déficit en Francia han elevado las rentabilidades de su deuda soberana, reavivando el debate sobre el riesgo soberano dentro de la Eurozona."
+  },
+  "fecha": "2026-10-08"
+}
