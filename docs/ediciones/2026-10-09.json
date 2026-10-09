@@ -1,0 +1,218 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Europa encarará el invierno con depósitos de gas en mínimos y presión renovada en Kiev",
+      "resumen": "La bajada en las reservas comunitarias y los continuos ataques rusos a la red eléctrica ucraniana elevan la vulnerabilidad energética continental."
+    },
+    {
+      "titular": "SoftBank busca 100.000 millones de dólares en el Golfo Pérsico para sostener su apuesta por la IA",
+      "resumen": "El conglomerado japonés negocia con fondos soberanos de Emiratos Árabes para contrarrestar la reciente volatilidad en sus activos bursátiles."
+    },
+    {
+      "titular": "Estados Unidos bloquea la tramitación de residencias para profesionales cualificados en firmas tecnológicas",
+      "resumen": "La suspensión de procesos de 'Green Card' vinculados a visados H-1B salpica a gigantes como Microsoft y tensiona el mercado laboral del sector."
+    },
+    {
+      "titular": "Tensión en el sector de la IA entre la búsqueda de seguridad y denuncias de purgas internas",
+      "resumen": "Investigadores despedidos de OpenAI denuncian represalias críticas mientras Anthropic ofrece auditorías gratuitas para proteger el software libre."
+    },
+    {
+      "titular": "El Gobierno admite limitaciones para atajar la crisis habitacional ante las próximas citas electorales",
+      "resumen": "Las protestas sociales por el precio de la vivienda obligan al Ejecutivo a reconocer la falta de herramientas estatales directas en materia del suelo."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "El laborismo frena el avance Verde en las elecciones parciales de Holborn y St Pancras",
+          "que_ha_pasado": "La candidata laborista Sagal Abdi-Wali ha retenido el escaño del distrito londinense tras imponerse al líder del Partido Verde británico, Zack Polanski. La contienda estuvo marcada por intensos debates en política exterior y sobre el modelo socioeconómico del progresismo británico.",
+          "por_que_importa": "El resultado da un respiro a la directiva laborista frente a la amenaza de erosión de su electorado urbano tradicional hacia opciones ecologistas. Para los Verdes, el tropiezo evidencia la dificultad de convertir la contestación social en avances territoriales concretos frente a maquinarias electorales consolidadas.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-09/el-lider-del-partido-verde-britanico-polanski-fracasa-en-su-intento-de-sorpasso-al-laborismo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Europa afronta el riesgo de desabastecimiento de gas mientras Rusia recrudece sus ataques a Ucrania",
+          "que_ha_pasado": "Las reservas de gas de la Unión Europea se sitúan en niveles preocupantemente bajos antes del arranque del periodo invernal. Al mismo tiempo, la intensificación de las incursiones rusas contra infraestructuras energéticas en Kiev está forzando evacuaciones de población civil.",
+          "por_que_importa": "La convergencia de ambos factores reaviva la fragilidad de la seguridad energética europea frente a shocks de oferta. La incapacidad de sostener un almacenamiento holgado expone al tejido industrial comunitario a picos de volatilidad en los precios de los hidrocarburos si se registran olas de frío prolongadas.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-faces-gas-supply-shortage-iran-war-winter-looms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6zjx7jexz1do?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Bruselas estudia un 'banco malo' para canalizar activos rusos congelados hacia Ucrania",
+          "que_ha_pasado": "La Comisión Europea analiza crear un vehículo financiero especializado para asumir el control de los fondos soberanos rusos inmovilizados en la UE. La fórmula busca transferir esos recursos a la reconstrucción y equipamiento militar de Kiev sorteando las complejas barreras jurídicas actuales.",
+          "por_que_importa": "Esta arquitectura legal intenta salvar la reticencia de varios miembros comunitarios y del Banco Central Europeo ante los riesgos reputacionales que implicaría una confiscación directa. El uso de activos de un banco central sienta un precedente clave en el derecho internacional y la gobernanza financiera global.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-09/bruselas-sopesa-una-nueva-via-para-poder-entregar-a-ucrania-los-activos-rusos-congelados-en-la-ue-por-las-sanciones.html"
+            }
+          ]
+        },
+        {
+          "titular": "Estalla una ola de violencia xenófoba contra inmigrantes subsaharianos en Sudáfrica",
+          "que_ha_pasado": "Diversas localidades de Sudáfrica registran disturbios, saqueos a establecimientos comerciales y quema de vehículos dirigidos hacia migrantes de países vecinos. Las fuerzas de seguridad han desplegado dispositivos de emergencia para intentar contener los brotes violentos.",
+          "por_que_importa": "La persistencia de una elevada tasa de desempleo y la escasez de servicios públicos avivan periódicamente tensiones sociales en el país. Estos episodios minan la proyección diplomática de Pretoria como referente de estabilidad regional en la Comunidad de Desarrollo de África Austral.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwm24v45p4jgo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La tregua en el crudo da aire a las bolsas europeas y modera los rendimientos de la deuda",
+          "que_ha_pasado": "Los mercados bursátiles de la eurozona abrieron al alza favorecidos por el repliegue en el precio del barril de Brent, que cotiza en torno a los 103 dólares. La menor probabilidad de un conflicto abierto de gran escala en Oriente Próximo alivió la presión sobre los bonos soberanos.",
+          "por_que_importa": "El coste de la energía continúa operando como el vector central de incertidumbre e inflación para los inversores. Una estabilización en los precios del petróleo reduce el riesgo de que los bancos centrales deban mantener tipos de interés elevados durante más tiempo del previsto.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/09/6ac8811f468aeb820b8b4594.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-09/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "SoftBank negocia captar 100.000 millones de dólares en el Golfo para sus proyectos de IA",
+          "que_ha_pasado": "El consejero delegado de SoftBank, Masayoshi Son, ha iniciado conversaciones con fondos de inversión estatales en los Emiratos Árabes Unidos. La búsqueda de capital busca dar respaldo financiero a sus iniciativas en inteligencia artificial tras recientes caídas del grupo en bolsa.",
+          "por_que_importa": "El movimiento demuestra la dependencia de los grandes vehículos tecnológicos respecto a la liquidez proveniente de los petroestados para sufragar la ingente intensidad de capital que requiere la infraestructura de IA. Refleja además la necesidad de diversificar fuentes de financiación ante la cautela del mercado de renta variable.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/3bc0eaa5-a8d4-47e8-903c-7dd762d947dd?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-10-09/softbank-busca-100000-millones-de-dolares-entre-inversores-del-golfo-persico-para-sus-aventuras-en-la-ia.html"
+            }
+          ]
+        },
+        {
+          "titular": "EE. UU. frena el acceso a la residencia permanente para empleados extranjeros de multinacionales tecnológicas",
+          "que_ha_pasado": "La Administración estadounidense ha suspendido la tramitación de permisos de residencia legal para trabajadores acogidos al programa de visados H-1B en empresas como Microsoft o Adobe. La medida afecta directamente a perfiles de alta cualificación contratados en el sector del software.",
+          "por_que_importa": "El freno regulatorio incrementa las fricciones entre Washington y las corporaciones tecnológicas sobre la gestión del talento internacional. A largo plazo, esta restricción podría empujar a las grandes firmas a desplazar divisiones de investigación y desarrollo hacia jurisdicciones con marcos migratorios más flexibles.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/oct/08/jd-vance-microsoft-visa-workers-green-card-suspension"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Creciente tensión en el sector de la IA por la seguridad ética y la vulnerabilidad del código abierto",
+          "que_ha_pasado": "Investigadores apartados de OpenAI acusan a la cúpula de desatender las alertas sobre seguridad mediante maniobras disciplinarias. Por su parte, Anthropic ha lanzado una herramienta gratuita para escanear y corregir fallos de seguridad en proyectos de código abierto mediante sus modelos más potentes.",
+          "por_que_importa": "El contraste refleja el choque estructural entre el ritmo frenético de comercialización y la exigencia de controles de alineamiento ético en los desarrollos avanzados. La falta de transparencia en las auditorías internas aumenta la presión política para imponer estándares públicos mandatory a los laboratorios de IA.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+            }
+          ]
+        },
+        {
+          "titular": "SpaceX urge a coordinar el tráfico orbital tras detectar aproximaciones peligrosas entre satélites",
+          "que_ha_pasado": "La compañía espacial ha alertado sobre cruces a distancias de apenas decenas de metros entre dispositivos de su red Starlink y otros artefactos. Ante el riesgo de colisión, la firma ha hecho un llamamiento para implementar protocolos internacionales de navegación más precisos.",
+          "por_que_importa": "El despliegue masivo de megaconstelaciones comerciales está saturando la órbita terrestre baja, elevando el riesgo del efecto Kessler o colisiones en cadena. Sin un marco normativo global de gestión del espacio, la sostenibilidad de las telecomunicaciones y la observación satelital se encuentra amenazada.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El Gobierno reconoce la falta de margen estatal sobre la vivienda tras protestas multitudinarias",
+          "que_ha_pasado": "El Ministerio de Transportes y Movilidad Sostenible ha admitido que el Ejecutivo carece de competencias suficientes para corregir de forma inmediata las tensiones de precios en el mercado inmobiliario. La declaración se produce tras manifestaciones de más de 20.000 personas en la capital.",
+          "por_que_importa": "La vivienda se afianza como la principal grieta socioeconómica del debate político nacional en la antesala de los compromisos electorales. Las discrepancias normativas entre la administración central y las comunidades autónomas bloquean la adopción de medidas estructurales para ampliar la oferta de alquiler asequible.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-10-09/maricarmen-y-las-elecciones-del-29-n-en-directo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Consumo sanciona con 750.000 euros la rifa sin licencia promovida por un 'influencer' en Andorra",
+          "que_ha_pasado": "El Ministerio de Consumo ha impuesto una multa administrativa por el sorteo no autorizado de un automóvil de alta gama organizado en redes sociales. La promoción fue liderada por un creador de contenido residente en Andorra que sortea bienes de su propiedad.",
+          "por_que_importa": "La resolución sienta un antecedente directo contra las prácticas de juego no regulado articuladas mediante la economía de creadores digitales. Refuerza el escrutinio sobre esquemas que buscan eludir los marcos fiscales y de protección al consumidor desde fuera del territorio nacional.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-09/multa-rifa-coche-lujo-autorizacion-1tna-1tps_4441543/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Rosalía y Fontaines D.C. unen sus estilos en una colaboración inédita",
+          "que_ha_pasado": "La artista española ha lanzado una canción conjunta con la banda irlandesa de post-punk Fontaines D.C. El tema explora sonidos oscuros y nostálgicos para abordar las dificultades de las rupturas personales.",
+          "por_que_importa": "El proyecto evidencia la creciente porosidad entre el pop hispano global y las corrientes de rock alternativo europeo. Consolida la tendencia de los artistas contemporáneos a trascender fronteras de género e idioma para posicionarse en múltiples mercados de nicho.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-09/asi-suena-la-colaboracion-entre-rosalia-y-fontaines-dc.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/cultura/2026-10-09/asi-suena-la-colaboracion-entre-rosalia-y-fontaines-dc.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Efecto Curva de J",
+    "explicacion": "El efecto Curva de J describe la evolución del saldo comercial de un país tras la depreciación o devaluación de su divisa. Inicialmente, la balanza comercial empeora porque el coste de los productos e insumos importados se encarece de forma inmediata. Sin embargo, los volúmenes de exportación e importación tardan tiempo en reajustarse debido a los contratos vigentes y rigideces de mercado. Con el tiempo, la mejora en la competitividad-precio de las producciones nacionales estimula las ventas al exterior, corrigiendo el déficit inicial y generando un superávit.",
+    "ejemplo": "Tras la continuada depreciación del yen japonés, la factura de las importaciones de gas natural aumentó bruscamente en un primer momento, deteriorando el déficit comercial nipón antes de que sus exportaciones industriales comenzaran a recuperarse."
+  },
+  "fecha": "2026-10-09"
+}
