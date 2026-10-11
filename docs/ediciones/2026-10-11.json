@@ -1,0 +1,232 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "La UE endurece el régimen de visados rusos ante la escalada de la guerra híbrida",
+      "resumen": "Bruselas prepara nuevas restricciones de movilidad para contrarrestar los sabotajes y campañas de desinformación promovidas por Moscú en suelo europeo."
+    },
+    {
+      "titular": "Donald Trump exige la salida de Zelenski tras las críticas ucranianas al comercio de diésel ruso",
+      "resumen": "El expresidente estadounidense cuestiona el liderazgo de Kiev tras el rechazo de Ucrania a un acuerdo energético comercial entre Washington y Moscú."
+    },
+    {
+      "titular": "Bruselas y Pekín aproximan posturas comerciales con un acuerdo en el sector del automóvil híbrido",
+      "resumen": "Ambas potencias buscan rebajar la tensión arancelaria y proteger la estabilidad de sus cadenas de suministro ante el frenazo económico."
+    },
+    {
+      "titular": "EE. UU. intercepta un petrolero en el golfo de Omán y escala la tensión naval con Irán",
+      "resumen": "Las fuerzas armadas estadounidenses actuaron contra un buque mercante que intentaba eludir el bloqueo marítimo a los puertos de Teherán."
+    },
+    {
+      "titular": "Satya Nadella pide equipar los sistemas de inteligencia artificial con frenos de mano operativos",
+      "resumen": "El consejero delegado de Microsoft advierte sobre los riesgos de gobernabilidad de los modelos avanzados y reclama auditar las arquitecturas de confianza."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La Unión Europea estrecha el cerco sobre los visados rusos ante la amenaza de guerra híbrida",
+          "que_ha_pasado": "La Comisión Europea prevé presentar en enero normas más estrictas para la concesión de visados a ciudadanos rusos con el fin de blindar las fronteras comunitarias. La medida responde a las alertas lanzadas por Kiev sobre la intensificación de sabotajes, propaganda y ataques de desinformación por parte de Moscú en diversos Estados miembros.",
+          "por_que_importa": "Ante el relativo estancamiento en el frente terrestre ucraniano, el Kremlin ha volcado recursos en desestabilizar la cohesión política interna de Europa. Para los analistas en relaciones internacionales, restringir la movilidad rusa busca neutralizar operativos encubiertos, aunque reactiva el debate sobre el equilibrio entre seguridad nacional y los principios del espacio Schengen.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-europas-krieg-der-zukunft-mit-nico-lange/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-11/no-ayudes-al-enemigo-kiev-alerta-a-europa-del-peligro-de-la-guerra-hibrida-rusa.html"
+            }
+          ]
+        },
+        {
+          "titular": "Trump presiona para apartar a Zelenski tras las críticas al acuerdo de combustible con Rusia",
+          "que_ha_pasado": "El expresidente estadounidense afirmó que Ucrania necesita una nueva jefatura política tras rechazar un pacto para liberar diésel ruso hacia Estados Unidos. Volodímir Zelenski había denunciado públicamente que dicha transacción permite a Moscú obtener divisas para financiar su esfuerzo bélico.",
+          "por_que_importa": "El choque refleja las profundas discrepancias en la política exterior estadounidense sobre la gestión y continuidad del respaldo militar a Kiev. Cuestionar abiertamente la legitimidad del Ejecutivo ucraniano debilita la posición negociadora del país y proyecta señales de fractura en la alianza occidental.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania rechaza la propuesta presupuestaria europea por considerarla insuficiente en el receso del gasto",
+          "que_ha_pasado": "Berlín ha advertido a la Comisión Europea de que el recorte de 159.000 millones de euros planteado es escaso para las aspiraciones de los países fiscalmente rigurosos. Tras la última mediación impulsada por Irlanda, el bloque de socios frugales da prácticamente por descartado un acuerdo antes de que finalice el año.",
+          "por_que_importa": "El estancamiento evidencia las tensiones estructurales entre la disciplina fiscal exigida por el norte de Europa y los compromisos de gasto estratégico en defensa y transición ecológica. Sin un pacto financiero, la Unión corre el riesgo de paralizar partidas clave en un momento de alta volatilidad geopolítica.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/friedrich-merz-germany-warns-eu-e159b-budget-cuts-not-enough/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El descontento social en Francia intensifica las protestas contra el modelo institucional de Macron",
+          "que_ha_pasado": "Nuevas movilizaciones multitudinarias han recorrido las calles francesas congregando a diversos sectores afectados por la pérdida de poder adquisitivo y el deterioro de los servicios públicos. Las protestas canalizan una rabia acumulada tras casi una década de reformas impulsadas bajo el mandato de Emmanuel Macron.",
+          "por_que_importa": "La erosión del crédito político del Ejecutivo galo complica la gobernabilidad en la segunda mayor economía de la zona euro. Esta permanente inestabilidad social limita la capacidad de París para liderar iniciativas de calado en la UE y alimenta la polarización de cara a futuros compromisos electorales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-11/la-rabia-contra-las-instituciones-tras-una-decada-de-macronismo-incendia-francia.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Estados Unidos intercepta un petrolero en el golfo de Omán y eleva la tensión en las rutas del crudo",
+          "que_ha_pasado": "Las fuerzas navales del Mando Central de Estados Unidos atacaron un buque cisterna comercial que intentaba romper el bloqueo marítimo impuesto sobre las exportaciones hidrocarburíferas iraníes. Es la primera acción militar de estas características ejecutada por Washington en la zona en más de un mes.",
+          "por_que_importa": "El incidente reaviva la prima de riesgo geopolítico en uno de los cuellos de botella energéticos más transitados del planeta. El incremento del riesgo de conflicto en el estrecho de Ormuz e inmediaciones amenaza con encarecer los fletes de transporte e impactar en las cotizaciones internacionales del petróleo.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Bruselas y Pekín rebajan la tensión comercial mediante un principio de acuerdo sobre vehículos híbridos",
+          "que_ha_pasado": "La Unión Europea y China han alcanzado un entendimiento marco en el expediente de la automoción híbrida para aliviar aranceles y barreras recíprocas. El movimiento busca contener el riesgo de una escalada proteccionista bilateral que perjudique la cadena de valor industrial.",
+          "por_que_importa": "El acuerdo demuestra cómo la interdependencia económica impone un pragmatismo táctico sobre la rivalidad sistémica entre ambas potencias. El sector automovilístico europeo necesita asegurar el suministro de componentes asiáticos, mientras que Pekín requiere preservar su acceso al mercado comunitario ante la ralentización de su demanda interna.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-10-11/las-claves-el-acercamiento-entre-china-y-la-ue-recuerda-que-estan-condenados-a-entenderse.html"
+            }
+          ]
+        },
+        {
+          "titular": "El nuevo decreto del alquiler en España impone la prórroga obligatoria con penalizaciones al arrendador",
+          "que_ha_pasado": "Ha entrado en vigor el marco legal del Gobierno para la vivienda que contempla sanciones equivalentes a doce meses de renta a los propietarios que rechacen renovar el contrato tras su vencimiento. La normativa genera discrepancias entre plataformas de inquilinos y pequeños caseros sobre la efectividad de las medidas.",
+          "por_que_importa": "La reforma intenta frenar la escalada de precios, pero corre el peligro de retraer la oferta de alquiler residencial de larga estancia hacia modalidades de temporada o venta. La inseguridad jurídica condiciona la toma de decisiones en el sector inmobiliario e influye directamente en las carteras de inversión del país.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/10/10/6ac901da468aeb78798b4575.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/vivienda/2026-10-11/el-movimiento-de-vivienda-senala-a-los-pequenos-caseros-son-responsables-del-alza-de-los-precios.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Gobierno diseña una cuenta de inversión bonificada para dirigir el ahorro minorista a la Bolsa europea",
+          "que_ha_pasado": "El Ejecutivo ha presentado un vehículo financiero que permitirá aportaciones de hasta 150.000 euros con deducciones fiscales si los fondos se destinan a la renta variable del continente. El objetivo de la propuesta es estimular la cultura de inversión entre los pequeños ahorradores españoles.",
+          "por_que_importa": "La iniciativa se alinea con las recomendaciones comunitarias para movilizar el ahorro privado hacia los mercados de capitales europeos. Diversificar las fuentes de financiación empresarial reduce la dependencia bancaria tradicional y mejora la competitividad del tejido productivo europeo frente a mercados como el estadounidense.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/ahorro/2026/10/10/6aca4151468aebd2358b4579.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Satya Nadella reclaman equipar la IA con mecanismos de frenado de emergencia y mayor transparencia",
+          "que_ha_pasado": "El consejero delegado de Microsoft ha pedido un cambio de paradigma en el desarrollo de la inteligencia artificial, sosteniendo que los modelos avanzados deben ser evaluados como arquitecturas potencialmente comprometidas. Nadella enfatizó que el sector no puede continuar operando con herramientas que actúan como cajas negras opacas.",
+          "por_que_importa": "Que el principal directivo de una de las corporaciones líderes en la carrera tecnológica exija cautela pública subraya el temor a vulnerabilidades sistémicas y de ciberseguridad. En el ámbito de la consultoría corporativa, este giro anticipa exigencias de auditoría, control de riesgos y marcos de gobernanza mucho más rigurosos.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
+            }
+          ]
+        },
+        {
+          "titular": "La saturación de la red eléctrica impulsa el uso de células de combustible en centros de datos",
+          "que_ha_pasado": "La emergente Petra Power ha presentado sistemas de energía basados en pilas de combustible de alta eficiencia para abastecer insumos informáticos críticos y vehículos militares. La solución busca rebajar la factura energética y ofrecer alternativas descentralizadas a la infraestructura eléctrica tradicional.",
+          "por_que_importa": "El crecimiento acelerado de los centros de procesamiento dedicados a la IA está tensionando al límite la capacidad de las redes eléctricas mundiales. Contar con fuentes de generación in situ y bajas en emisiones resulta clave para no frenar la expansión del ecosistema digital y los grandes proyectos tecnológicos.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/"
+            }
+          ]
+        },
+        {
+          "titular": "Un fallo de seguridad en billeteras frías cripto expone la vulnerabilidad de la cadena de distribución",
+          "que_ha_pasado": "Usuarios de los dispositivos de custodia de criptomonedas Ledger han denunciado el vaciado inusual de sus carteras debido a la manipulación física de hardware comercializado por un tercero. La compañía ha solicitado paralizar las ventas del distribuidor implicado mientras lleva a cabo una auditoría exhaustiva.",
+          "por_que_importa": "El caso evidencia que los mayores riesgos en la custodia de activos digitales a menudo se encuentran en el eslabón físico y logístico. Demuestra que la seguridad de los sistemas no depende únicamente de algoritmos criptográficos robustos, sino del control estricto en la cadena de suministro de los componentes hardware.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La Policía desaloja el asentamiento irregular de la playa de El Guano en Ceuta previo a la visita real",
+          "que_ha_pasado": "Las fuerzas de seguridad completaron el desmantelamiento de un campamento en la costa de la ciudad autónoma donde malvivían cerca de 400 migrantes desde el mes de julio. El despliegue se ha ejecutado a pocas horas de la llegada de los Reyes para presidir un homenaje a los fallecidos en el mar.",
+          "por_que_importa": "La intervención pone de relieve la persistente presión migratoria en la frontera sur de la Unión Europea y el desafío logístico que representa para las Administraciones públicas. La gestión fronteriza en Ceuta sigue siendo un punto de atenta observación en la política de seguridad y la agenda diplomática entre Madrid y Rabat.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/10/11/6acb3418e85ece49688b458e.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-11/policia-desalojo-migrantes-guano-ceuta-1tna_4442792/"
+            }
+          ]
+        },
+        {
+          "titular": "Condenada a un año de prisión la vendedora de mascarillas falsificadas con emblemas futbolísticos",
+          "que_ha_pasado": "La Audiencia Provincial de Madrid ha impuesto una pena de cárcel e indemnizaciones superiores a los 24.000 euros a la responsable de comercializar mascarillas falsas con sellos del Real Madrid, el FC Barcelona y el Atlético de Madrid. La sentencia la considera autora de un delito contra la propiedad industrial.",
+          "por_que_importa": "El fallo consolida la jurisprudencia en la defensa del derecho de marca y los activos de propiedad intelectual frente a la piratería comercial nacida durante la crisis sanitaria. Refuerza la protección legal de los activos intangibles corporativos y el control de fraudes en el comercio minorista.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-10-11/condena-vender-mascarillas-falsas-real-madrid-marcas-1tna_4442790/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Cuenca acoge una retrospectiva de Manolo Millares en el centenario de su nacimiento",
+          "que_ha_pasado": "La Fundación Antonio Pérez rinde homenaje a Manolo Millares con una exposición que explora su vertiente más combativa a través de sus arpillera clásicas. La conmemoración coincide con la reedición de sus creaciones poéticas y el proceso de restauración de sus películas experimentales.",
+          "por_que_importa": "Millares es una figura clave del informalismo español de posguerra y cofundador del histórico grupo El Paso. Recuperar la totalidad de su corpus artístico permite reevaluar el peso de las vanguardias pictóricas de la España de los años cincuenta en la escena internacional del arte moderno.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-11/manolo-millares-el-artista-del-desgarro-y-la-violencia.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Impuesto Mínimo Global (Global Minimum Tax)",
+    "explicacion": "Es un marco normativo internacional impulsado por la OCDE y el G20 (Pilar 2) que fija un tipo impositivo efectivo mínimo del 15% para las grandes empresas multinacionales con ingresos anuales superiores a 750 millones de euros. Su propósito es frenar la competencia fiscal a la baja entre países y evitar la erosión de bases imponibles mediante la transferencia artificial de beneficios a jurisdicciones de baja o nula tributación.",
+    "ejemplo": "La entrada en vigor de la directiva europea sobre el Impuesto Mínimo Global obligó a varias grandes corporaciones tecnológicas a reestructurar la consolidación fiscal de sus filiales en Irlanda y Luxemburgo para ajustar sus tipos efectivos al mínimo del 15%."
+  },
+  "fecha": "2026-10-11"
+}
