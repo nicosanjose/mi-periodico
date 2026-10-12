@@ -1,0 +1,254 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Skepticism and Infrastructure Strikes Surge Following Trump's Proposed Ukrainian Energy Ceasefire",
+      "resumen": "Moscú y Kiev cruzan acusaciones de incumplimiento tras el anuncio de una tregua en el sector energético promovida por la Casa Blanca, mientras persiguen ataques a plantas eléctricas."
+    },
+    {
+      "titular": "Estados Unidos presiona a Kiev para frenar ataques contra refinerías rusas y mitigar el crudo",
+      "resumen": "La administración estadounidense amaza con restringir suministros bélicos si Ucrania continúa golpeando activos energéticos rusos, buscando contener los precios de los carburantes."
+    },
+    {
+      "titular": "La escalada de ataques hutíes contra aeropuertos saudíes amenaza con arrastrar a Washington",
+      "resumen": "Proyectiles y drones impactan nuevamente en el aeródromo de Riad provocando bajas mortales y la suspensión temporal de las operaciones aéreas en la capital saudí."
+    },
+    {
+      "titular": "Una jornada festiva del 12 de Octubre condicionada por el clima de precampaña electoral en España",
+      "resumen": "Los Reyes presiden el tradicional desfile de la Fiesta Nacional en Madrid entre mensajes cruzados de las fuerzas políticas tras el anuncio del adelanto de los comicios."
+    },
+    {
+      "titular": "Alemania y un bloque de países rechazan la propuesta de presupuesto plurianual de la UE",
+      "resumen": "La negociación del marco financiero del bloque se enroca tras las exigencias de mayores tijeretazos y la amenaza del Parlamento Europeo de vetar el acuerdo final."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Controversia y ataques cruzados tras la supuesta tregua energética en Ucrania",
+          "que_ha_pasado": "El presidente estadounidense anunció un pacto informal de cese del fuego limitado a las infraestructuras energéticas de Ucrania y Rusia. Sin embargo, Kiev denunció bombardeos rusos contra una central eléctrica de la capital horas después de la declaración. Al mismo tiempo, desde la presidencia ucraniana se afirma que no existía confirmación oficial previa de dicho compromiso.",
+          "por_que_importa": "Este episodio evidencia las crecientes tensiones entre la estrategia electoral estadounidense y la realidad del frente de batalla. La relajación de sanciones al diésel ruso por parte de Washington busca amortiguar la inflación de los carburantes antes de los comicios norteamericanos, pero compromete la cohesión del apoyo occidental a Ucrania. Para la arquitectura de seguridad europea, la vulneración de estos intentos de desescalada parcial constata la dificultad de lograr garantías duraderas sin un acuerdo global marco.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/oct/12/ukraine-russia-trump-energy-ceasefire-nato-zelenskyy-nobel-latest-news-updates"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/wie-trumps-olkrise-zur-ukraine-frage-wird/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Nuevos proyectiles hutíes golpean la capital saudí y agravan el conflicto regional",
+          "que_ha_pasado": "Un proyectil lanzado por la insurgencia hutí impactó en el aeropuerto internacional de Riad causando un fallecido y al menos once heridos. La acción forzó la suspensión inmediata de los vuelos y se suma a la oleada de ataques perpetrados los días previos en instalaciones del reino. La autoría del ataque vuelve a situar a Yemen en el centro de la desestabilización en el Golfo Pérsico.",
+          "por_que_importa": "El impacto directo en infraestructura estratégica de Arabia Saudí pone a prueba los frágiles equilibrios geopolíticos de la región tras años de intentos de apaciguamiento entre Riad y Teherán. Además, aumenta la presión sobre Estados Unidos para incrementar su presencia disuasoria militar en la zona defensiva del mar Rojo y los cielos del Golfo. Una interrupción prolongada en la aviación o infraestructuras saudíes afectaría de inmediato la prima de riesgo de los mercados energéticos globales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-11/la-oleada-de-ataques-huties-contra-aeropuertos-de-arabia-saudi-impulsa-otra-escalada-que-puede-arrastrar-a-trump.html"
+            }
+          ]
+        },
+        {
+          "titular": "Choque frontal entre los Estados miembros por el presupuesto comunitario",
+          "que_ha_pasado": "Alemania ha rechazado de forma categórica el borrador presentado para el presupuesto de los próximos siete años de la Unión Europea, al considerarlo insuficiente a pesar de incorporar recortes por valor de 159.000 millones de euros. Diversos gobiernos del norte se suman a las objeciones exigiendo mayor austeridad fiscal. Por su parte, la Eurocámara amenaza con vetar la propuesta si los tijeretazos comprometen las prioridades estratégicas del bloque.",
+          "por_que_importa": "El debate sobre el Marco Financiero Plurianual expone las fracturas estructurales entre los contribuyentes netos y los países receptores en un momento de estancamiento económico europeo. La falta de consenso amenaza con retrasar la ejecución de los programas de transición verde, digitalización y defensa común. La rigidez de las posiciones nacionales demuestra lo complejo que resulta financiar la autonomía estratégica en un contexto de restricción presupuestaria colectiva.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-eu-budget-battle-just-got-nastier/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Revelan entramados de asesoramiento contable para ocultar la riqueza de oligarcas rusos",
+          "que_ha_pasado": "Una investigación periodística sacó a la luz documentos y maniobras de alteración de fechas en la contabilidad financiera destinadas a ocultar los activos del magnate Roman Abramóvich. Según las filtraciones, firmas de consultoría y auditoría de primer nivel habrían colaborado en la reestructuración de propiedades para evitar que yates y mansiones quedaran congelados por las autoridades. Las revelaciones han puesto en la diana las prácticas de asesoramiento fiscal en el Reino Unido.",
+          "por_que_importa": "El caso subraya los agujeros regulatorios que persisten en la aplicación efectiva del régimen de sanciones internacionales contra la élite económica vinculada al Kremlin. Pone de manifiesto el dilema ético y reputacional al que se enfrentan las grandes firmas de servicios profesionales globales cuando prestan servicios a clientes de alto riesgo. Este tipo de hallazgos suele anticipar endurecimientos normativos sobre la responsabilidad legal de los intermediarios en la elusión de sanciones.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/c9rkynp1m01mo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "La diplomacia energética estadounidense impacta en la cotización internacional del crudo",
+          "que_ha_pasado": "El precio del barril de petróleo ha registrado volatilidad tras las gestiones de Washington para asegurar flujos de diésel ruso y presionar a Kiev para que cese sus incursiones contra refinerías en territorio ruso. Las autoridades estadounidenses llegaron a insinuar restricciones en el envío de material militar si las fuerzas ucranianas continúan amenazando la producción de derivados del petróleo. Tras los anuncios, la cotización de los futuros del crudo experimentó caídas en las principales plazas.",
+          "por_que_importa": "Demuestra la subordinación de la política exterior y la ayuda militar a las dinámicas de la política doméstica y los precios de los carburantes en vísperas de comicios en Estados Unidos. El uso del suministro bélico como palanca para influir en los mercados de commodities marca un precedente significativo en la gestión del conflicto. Para los analistas de mercado, el factor político estadounidense se confirma como la variable determinante de la curva de oferta petrolera a corto plazo.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/a663781e-2709-41f2-99df-4fb5a6162e6b?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El Ibex 35 supera los 19.200 puntos impulsado por la tregua del precio del petróleo",
+          "que_ha_pasado": "El selectivo español ha iniciado la semana con alzas significativas y ha logrado recuperar el nivel operativo de los 19.200 puntos en un contexto semifestivo. La jornada bursátil ha estado marcada por la moderación en los precios de las materias primas energéticas y el comportamiento positivo de los futuros en Europa. Los inversores mantienen la cautela a la espera del arranque inminente de la campaña de resultados trimestrales de las cotizadas.",
+          "por_que_importa": "La renta variable europea muestra una elevada sensibilidad ante cualquier alivio de los costes de los insumos energéticos, vitales para sostener los márgenes empresariales. La capacidad del selectivo español para consolidar estos niveles técnicos dependerá de las guías de beneficio que comuniquen los principales bancos e industrias en sus cuentas de cierre de trimestre. El comportamiento alcista evidencia una tregua temporal en el sentimiento de riesgo geopolítico global.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-12/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/12/6acc7280468aeb995a8b459f.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las entidades financieras elevan la rentabilidad ofrecida en los productos de renta vitalicia",
+          "que_ha_pasado": "El sector asegurador y bancario ha renovado la oferta de rentas vitalicias garantizadas tras el ajuste en la curva de tipos de interés oficial. Las firmas comercializan actualmente retornos garantizados de hasta el 4% anual que se mantienen inalterados durante toda la vida del asegurado. La medida busca captar el ahorro conservador de los segmentos de población de mayor edad.",
+          "por_que_importa": "La consolidación de rendimientos fijos elevados altera la competencia por el pasivo de los hogares entre depósitos, fondos de inversión y productos aseguradores. Para la planificación patrimonial, la opción de blindar un flujo de ingresos nominal constante resulta atractiva en entornos inflacionarios moderados. No obstante, estas estructuras exigen analizar detenidamente el riesgo de liquidez a largo plazo y el impacto fiscal al momento del rescate.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/seguros/2026/10/12/6acbbb97468aeb0d508b45a8.html"
+            }
+          ]
+        },
+        {
+          "titular": "El sector agrario británico advierte del impacto de los costes en la seguridad alimentaria",
+          "que_ha_pasado": "Asociaciones de productores agrícolas en el Reino Unido han lanzado una voz de alarma sobre la viabilidad financiera de las explotaciones familiares de cara a las próximas campañas de siembra. El fuerte incremento en los insumos, fertilizantes y financiación está llevando a muchos agricultores a recortar la superficie cultivada. El sector solicita medidas urgentes de apoyo institucional para evitar el colapso de la cadena de suministro nacional.",
+          "por_que_importa": "La crisis del campo británico pone de relieve las consecuencias a largo plazo de la reconfiguración de subsidios y barreras comerciales tras el Brexit. Si las explotaciones locales pierden rentabilidad, la dependencia de las importaciones alimentarias aumentará, dejando al mercado expuesto a shocks externos. Constituye además un dilema de política económica para el gobierno laborista ante la presión de la inflación de los alimentos.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/uk-news/2026/oct/11/farmers-uk-food-security-producers-supply-chains"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Grandes ejecutivos de Silicon Valley adoptan el término «superinteligencia» propuesto por la Casa Blanca",
+          "que_ha_pasado": "Líderes de las principales multinacionales tecnológicas han comenzado a incorporar el concepto de «superinteligencia» en sus discursos corporativos y estrategias comerciales. La alineación semántica responde a las iniciativas institucionales de la administración estadounidense para modificar la terminología con la que se regula y promueve la inteligencia artificial. A pesar de la reticencia inicial de parte de la comunidad académica, el sector privado se encamina hacia su homologación lingüística.",
+          "por_que_importa": "El cambio en el encuadre conceptual no es meramente estético, sino que busca redefinir la frontera normativa y el alcance de las regulaciones antimonopolio y de seguridad nacional. La adopción de este marco narrativo facilita a las grandes corporaciones justificar requerimientos de infraestructura masivos y regímenes de supervisión extraordinarios. Para las consultoras estratégicas, implica adaptar los marcos de gobernanza tecnológica a una nueva jerga institucional con implicaciones normativas directas.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+            }
+          ]
+        },
+        {
+          "titular": "Crece el escrutinio sobre las plataformas de videovigilancia corporativa que comparten datos con agencias de fronteras",
+          "que_ha_pasado": "Una institución educativa en Estados Unidos intentó rescindir su contrato con una firma proveedora de cámaras de lectura de matrículas tras descubrir la cesión de datos no autorizada a autoridades migratorias. La compañía proveedora se ha negado a cancelar el servicio citando compromisos contractuales vigentes. La controversia ha reavivado las críticas de estudiantes y organizaciones defensoras de los derechos civiles por el uso indiscriminado de la información biométrica.",
+          "por_que_importa": "El caso evidencia las fisuras en la gobernanza de datos y la gestión del riesgo reputacional al contratar proveedores de tecnología de vigilancia masiva. Muestra cómo la interoperabilidad de bases de datos privadas con organismos estatales de control fronterizo crea pasivos legales y éticos para las organizaciones. Subraya la necesidad impostergable de realizar auditorías de privacidad rigurosas antes de desplegar soluciones de Internet de las Cosas en espacios públicos o académicos.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras"
+            }
+          ]
+        },
+        {
+          "titular": "Apple perfila el lanzamiento de una pantalla inteligente integrada para el ecosistema domótico",
+          "que_ha_pasado": "Nuevas filtraciones del sector apuntan a que la compañía de Cupertino ultimaría el lanzamiento de un centro de control del hogar inteligente equipado con micrófonos ambientales integrados. La renovación del catálogo incluiría también mandos a distancia con altavoces propios para facilitar la interacción con asistentes de voz sin necesidad de dispositivos intermediarios. La propuesta comercial buscaría consolidar la presencia de la firma en la domótica residencial.",
+          "por_que_importa": "El movimiento representa el intento de Apple por recuperar terreno frente a competidores asentados en el segmento del hogar conectado como Amazon o Google. La inclusión de procesamiento local y micrófonos permanentes pone de manifiesto la apuesta por la integración de IA periférica en hardware de consumo masivo. Para la industria de la automatización del hogar, supone un impulso hacia ecosistemas más unificados y con menor fricción de uso.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El acto institucional del 12 de Octubre evidencia el clima de enfrentamiento ante las próximas elecciones",
+          "que_ha_pasado": "Los Reyes han presidido el desfile militar de la Fiesta Nacional en Madrid acompañados por el jefe del Ejecutivo y los principales mandos de la Defensa. La jornada ha estado marcada por el tono de precampaña electoral tras la reciente convocatoria anticipada de urnas. Las declaraciones políticas al margen de los actos oficiales han puesto de relieve las profundas discrepancias en materia presupuestaria y territorial.",
+          "por_que_importa": "La politización de los símbolos institucionales refleja el grado de polarización que dominará la escena pública hasta la cita con las urnas. La incertidumbre sobre la futura conformación de mayorías parlamentarias condiciona la aprobación de medidas clave como los Presupuestos Generales del Estado. Para la inversión y las empresas, se abre un periodo de impás regulatorio en el que muchas decisiones estratégicas quedan supeditadas al resultado electoral.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-10-12/ultima-hora-del-dia-de-la-hispanidad-y-reacciones-politicas-en-directo.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-12/defensa-militares-espanoles-misiones-exterior-ceuta-1tps_4443173/"
+            }
+          ]
+        },
+        {
+          "titular": "La industria asturiana reclama certidumbre sobre el despliegue del anillo eléctrico tras el adelanto electoral",
+          "que_ha_pasado": "Organizaciones empresariales e industriales de Asturias han expresado su preocupación por la posible congelación de las inversiones en el anillo eléctrico de alta tensión de 400 kV de la región. La red infraestructural proyectada rodea las zonas industriales de Gijón y Avilés, concentrando el mayor volumen de consumo energético de la zona. Las compañías temen que el adelanto electoral paralice los trámites de ejecución de este proyecto decisivo.",
+          "por_que_importa": "La disponibilidad de una red eléctrica robusta y competitiva es un requisito indispensable para acometer los planes de descarbonización de la gran industria electrointensiva. El retraso en las infraestructuras compromete la llegada de proyectos de inversión extranjera y pone en riesgo la competitividad del tejido fabril frente a otras regiones europeas. El caso ilustra cómo la inestabilidad del calendario político repercute directamente en la planificación industrial a largo plazo.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-12/industria-asturias-planificacion-electrica-cortes_4441135/"
+            }
+          ]
+        },
+        {
+          "titular": "Crecen las voces de exdirigentes comunitarios sobre la respuesta europea a la crisis diplomática en Ceuta",
+          "que_ha_pasado": "El expresidente del Parlamento Europeo Martin Schulz se ha sumado a las valoraciones sobre la contestación internacional recibida por el Gobierno español tras los choques fronterizos en Ceuta. Schulz tachó de excesiva la postura de las naciones críticas con la gestión española y criticó la falta de unidad en el seno de la UE frente a presiones externas. Paralelamente, el Ministerio de Defensa ha reiterado el compromiso operativo de las Fuerzas Armadas en la protección de la soberanía de la ciudad autónoma.",
+          "por_que_importa": "La gestión de las fronteras exteriores en el norte de África continúa siendo un punto de fricción de primer orden en las relaciones entre España, el entorno norteafricano y sus socios europeos. Las discrepancias entre Gobiernos comunitarios evidencian la ausencia de una política migratoria y de defensa de fronteras plenamente armonizada. A nivel diplomático, la controversia desgasta la capacidad de proyección de influencia del bloque en el Mediterráneo occidental.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-10-12/martin-schulz-echar-a-una-mujer-de-87-anos-de-la-casa-en-la-que-ha-vivido-decadas-es-de-una-frialdad-insuperable.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El auge de los formatos de deducción lógica impulsan el mercado editorial y del entretenimiento",
+          "que_ha_pasado": "El éxito comercial de sagas de acertijos de lógica como 'Murdoku', que supera ya las 600.000 copias vendidas en España, consolida una tendencia al alza en el sector cultural basada en el enigma y la deducción. Editoriales y desarrolladores de juegos están multiplicando la oferta de obras interactivas y narrativas policíacas para responder a una demanda creciente. El fenómeno abarca desde literatura de misterio tradicional hasta pasatiempos analógicos y aplicaciones digitales.",
+          "por_que_importa": "El cambio en las pautas de consumo demuestra un apetito renovado por experiencias culturales activas frente a la recepción pasiva de contenidos audiovisuales en plataformas de streaming. Para la industria del ocio y la edición, estas dinámicas abren nichos de negocio altamente rentables con costes de producción contenidos y gran fidelización de clientes. Refleja además cómo los formatos híbridos entre el juego de mesa y la literatura logran captar la atención de públicos de diversas edades.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-12/millones-de-detectives-aficionados-se-enganchan-a-resolver-casos-en-libros-y-juegos.html"
+            }
+          ]
+        },
+        {
+          "titular": "Llega a las salas de cine la versión íntegra y restaurada del clásico censurado 'Los demonios'",
+          "que_ha_pasado": "La película de culto dirigida por Ken Russell en 1971 se estrena por primera vez de forma comercial en cines de forma íntegra tras décadas de cortes y prohibiciones en diversos países. La cinta, que fue recortada por la censura británica por sus explícitas escenas religiosas y eróticas, ha sido restaurada a partir del metraje original. El pase previo en certámenes especializados como el Festival de Sitges cosechó una notable recepción de crítica y público.",
+          "por_que_importa": "El reestreno de obras cinematográficas históricas sin trabas de censura constituye un hito para la preservación del patrimonio audiovisual internacional. Pone de relieve cómo las normas morales e institucionales sobre el arte audiovisual han evolucionado desde la década de 1970 hasta la actualidad. Asimismo, pone de manifiesto el interés comercial de las salas de cine independientes por programar contenidos de archivo de alta calidad para diferenciarse de la oferta doméstica masiva.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-10-12/los-demonios-cuando-ken-russell-rodo-unas-monjas-masturbandose-con-un-gigantesco-cristo-crucificado.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Estanflación (Stagflation)",
+    "explicacion": "Situación económica compleja caracterizada por la coexistencia de un estancamiento del crecimiento económico (o recesión), un elevado desempleo y una inflación persistentemente alta. Representa un dilema crítico para la política monetaria de los bancos centrales: elevar los tipos de interés para contener los precios agrava la contracción económica y la pérdida de empleo, mientras que bajarlos para estimular la actividad acelera aún más la espiral inflacionaria. Suele estar provocada por shocks negativos de oferta, como crisis energéticas o perturbaciones severas en las cadenas de suministro mundiales.",
+    "ejemplo": "El repunte de los precios del petróleo por las tensiones geopolíticas en Europa del Este y el Golfo Pérsico, combinado con la desaceleración del sector manufacturero, reaviva el temor a un escenario estanflacionario en las economías occidentales."
+  },
+  "fecha": "2026-10-12"
+}
