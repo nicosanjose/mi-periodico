@@ -1,0 +1,246 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Trump congela temporalmente las sanciones a Rusia aprobadas por el Congreso",
+      "resumen": "La Casa Blanca apela al interés nacional para suspender varias medidas de castigo económico contra Moscú, buscando margen de maniobra diplomático a costa de tensionar la relación con el legislativo y sus socios europeos."
+    },
+    {
+      "titular": "La UE busca alternativas para mitigar la dependencia militar de Ucrania respecto a Starlink",
+      "resumen": "Los líderes comunitarios debaten la financiación de redes de comunicación satelital alternativas tras los recortes operativos impuestos por la empresa de Elon Musk en el frente de batalla."
+    },
+    {
+      "titular": "Feijóo anticipa un escenario de conflicto social y frena los contactos formales con los sindicatos",
+      "resumen": "El líder del Partido Popular prevé protestas masivas en las calles si llega a Moncloa y advierte a CCOO y UGT sobre posibles recortes presupuestarios ante la falta de entendimiento."
+    },
+    {
+      "titular": "Las empresas del Ibex 35 lideran la creación de empleo corporativo en Europa",
+      "resumen": "Las principales cotizadas españolas incrementaron sus plantillas un 0,9 % durante el último ejercicio, desmarcándose de los recortes de personal aplicados por las grandes corporaciones en Francia y Alemania."
+    },
+    {
+      "titular": "OpenAI detecta capacidades autónomas de ciberataque en sus nuevos modelos",
+      "resumen": "Pruebas internas de seguridad revelan que los sistemas de IA lograron vulnerar monederos cripto y sitios web sin intervención humana, lo que reactiva el debate sobre la regulación de estas herramientas."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "EE. UU. congela temporalmente las sanciones del Congreso contra Rusia apelando al interés nacional",
+          "que_ha_pasado": "El presidente Donald Trump ha hecho uso de sus prerrogativas para suspender de forma temporal la aplicación de varias sanciones económicas contra Moscú aprobadas por el Congreso estadounidense. La medida afecta a la legislación promovida para ahogar los ingresos del Kremlin en el contexto de la guerra en Ucrania.",
+          "por_que_importa": "La decisión refleja las constantes discrepancias entre la Casa Blanca y el poder legislativo sobre la estrategia hacia Rusia y la conveniencia de los castigos automáticos. Al invocar el interés nacional, la Administración estadounidense busca mantener margen de maniobra en eventuales contactos diplomáticos con Moscú, aunque arriesga tensionar las relaciones con sus aliados europeos, que abogan por mantener una presión económica inflexible.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/10/17/6ad3068ffdddffb8258b45b6.html"
+            }
+          ]
+        },
+        {
+          "titular": "La UE se moviliza para suplir el vacío de conectividad de Ucrania tras los recortes en Starlink",
+          "que_ha_pasado": "Los líderes europeos debaten fórmulas urgentes para financiar e instalar alternativas satelitales a la red Starlink en el frente ucraniano. Las restricciones impuestas por la empresa de Elon Musk y las oscilaciones en el respaldo de Washington han comprometido las comunicaciones del ejército de Kiev.",
+          "por_que_importa": "La crisis resalta el riesgo de seguridad nacional que supone la dependencia de infraestructuras críticas en manos de corporaciones privadas no sujetas a compromisos de defensa multilateral. Para la Unión Europea, asumir la cobertura de conectividad militar en Ucrania implica acelerar sus capacidades espaciales soberanas y destinar nuevos fondos de emergencia a la defensa del flanco este.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-ukraine-starlink-dependence-european-satellite-alternatives/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La cumbre europea concluye sin acuerdo sobre el presupuesto plurianual y la ayuda a Ucrania",
+          "que_ha_pasado": "Los jefes de Estado y de Gobierno de la Unión Europea cerraron su encuentro en Bruselas posponiendo hasta finales de año las decisiones clave sobre el marco financiero a largo plazo y la financiación continuada para Kiev. Los desacuerdos entre las diferentes sensibilidades nacionales sobre migración y gasto público bloquearon los avances.",
+          "por_que_importa": "La parálisis del Consejo Europeo evidencia la creciente dificultad para lograr unanimidad en asuntos estructurales en un contexto de restricción presupuestaria en las capitales. Retrasar las decisiones presupuestarias deja en el aire las partidas de asistencia macrofinanciera a Kiev para el próximo año y compromete la credibilidad del liderazgo comunitario ante la acumulación de crisis geopolíticas.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/eu-summit-decisions-ukraine-funding-budget-migration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Ciberataques masivos a la cadena de frío comercial en Francia fuerzan pérdidas millonarias",
+          "que_ha_pasado": "Cientos de termostatos digitales de zonas de congelado en supermercados franceses sufrieron un sabotaje informático que alteró la temperatura de los equipos y destruyó toneladas de alimentos. Las autoridades francesas e investigadoras analizan si el ataque fue obra de ciberdelincuentes o responde a una operación de desestabilización patrocinada por un Estado extranjero.",
+          "por_que_importa": "El incidente pone de manifiesto la extrema vulnerabilidad de los sistemas de automatización industrial y de la cadena de suministro alimentaria frente a intervenciones digitales. Francia, uno de los países europeos que registra mayor número de ciberataques, afronta este suceso como un aviso sobre las posibles consecuencias del sabotaje de infraestructuras civiles esenciales mediante ciberarmas de bajo coste.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Las grandes cotizadas españolas lideran la creación de empleo en la gran empresa europea",
+          "que_ha_pasado": "Las compañías integradas en el Ibex 35 registraron un incremento del 0,9 % en sus plantillas globales durante el último periodo analizado, en contraposición a los recortes de empleo acometidos por las grandes empresas de Alemania y Francia.",
+          "por_que_importa": "El diferencial refleja la resistencia del tejido corporativo español, impulsado por el crecimiento en sectores como el bancario, el turístico y el de las energías renovables, en un contexto de estancamiento industrial en el norte de Europa. No obstante, la dependencia de servicios e infraestructuras expone a los grupos del selectivo a una eventual desaceleración del consumo privado en el continente.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-10-17/las-empresas-del-ibex-lideran-la-creacion-de-empleo-entre-las-grandes-cotizadas-europeas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los fabricantes de vehículos eléctricos afrontan riesgos reputacionales por la minería de níquel",
+          "que_ha_pasado": "Diversas investigaciones han revelado que las cadenas de suministro de baterías para fabricantes como Volkswagen, Ford y Tesla están vinculadas a proyectos mineros de níquel en Indonesia que provocan deforestación masiva en tierras indígenas.",
+          "por_que_importa": "El hallazgo sitúa a las automotrices occidentales en una posición comprometida frente a la normativa europea de debida diligencia ambiental y de derechos humanos en la cadena de valor. El dilema entre acelerar la transición energética mediante el acopio masivo de minerales críticos y garantizar estándares ESG estrictos expone a los fabricantes a importantes sanciones regulatorias e impugnaciones de inversores institucionales.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands"
+            }
+          ]
+        },
+        {
+          "titular": "El sector aéreo anticipa tensiones operativas por el impacto persistente de la inflación",
+          "que_ha_pasado": "Las principales aerolíneas mundiales han advertido de que la presión inflacionaria en los costes de combustible y personal continuará trasladándose al precio de los pasajes durante los próximos años. Las compañías temen que la menor renta disponible termine por erosionar la demanda turística de larga distancia y los viajes de negocios.",
+          "por_que_importa": "Tras la intensa recuperación de la demanda tras la pandemia, el transporte aéreo se enfrenta a una fase de maduración condicionada por el encarecimiento estructural de los insumos operativos y las exigencias de descarbonización. El aumento de los precios del pasaje amenaza con limitar el dinamismo del sector turístico global, una variable crucial para las economías del sur de Europa.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/993940f2-c9a3-4e20-8c0a-f73d448f090d?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El apetito del inversor internacional transforma la vivienda de ultralujo en Madrid",
+          "que_ha_pasado": "La llegada continua de compradores extranjeros de elevado patrimonio está reconfigurando las promociones residenciales en la capital, exigiendo la inclusión de servicios comunitarios de bienestar e instalaciones complejas en los edificios históricos rehabilitados.",
+          "por_que_importa": "El dinamismo del segmento inmobiliario de ultralujo consolida a Madrid como un polo regional de atracción de capital para grandes patrimonios, rivalizando con plazas tradicionales como Londres o París. Sin embargo, este encarecimiento del suelo del centro urbano tensiona aún más el mercado de alquiler residencial y complica el acceso a la vivienda para los perfiles de ingresos medios.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/fortunas/2026-10-17/a-los-ricos-no-les-basta-con-la-piscina-las-zonas-comunes-se-adaptan-al-gusto-del-comprador-extranjero-en-los-edificios-de-ultralujo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Los modelos de IA de OpenAI demuestran capacidad autónoma para realizar ciberataques",
+          "que_ha_pasado": "Durante pruebas de seguridad y evaluación de riesgos, los modelos desarrollados por OpenAI lograron acceder de forma autónoma a un monedero de criptomonedas y vulnerar las defensas de varios sitios web sin intervención humana directa.",
+          "por_que_importa": "La demostración subraya el riesgo emergente de los sistemas de IA con capacidad de ejecución autónoma cuando se aplican al ámbito informático. El hallazgo incrementará las exigencias regulatorias sobre las empresas desarrolladoras para auditar y limitar las capacidades invasivas de sus algoritmos antes de su despliegue comercial o en entornos abiertos.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+            }
+          ]
+        },
+        {
+          "titular": "Apple se adentra en la telefonía plegable con el lanzamiento del iPhone Duo",
+          "que_ha_pasado": "La multinacional de Cupertino ha presentado oficialmente el iPhone Duo, un dispositivo con pantalla exterior de 5,4 pulgadas y panel interno flexible de 7,6 pulgadas con acabado antirreflejos. El terminal sustituye el reconocimiento facial por Touch ID en el botón lateral e integra un sistema fotográfico simplificado.",
+          "por_que_importa": "El movimiento de Apple convalida de forma definitiva la categoría de smartphones plegables, dominada hasta ahora por sus competidores asiáticos. La entrada del gigante tecnológico en este nicho busca reactivar las tasas de sustitución de terminales de gama alta en un mercado maduro donde las mejoras incrementales en factores de forma tradicionales habían perdido tracción comercial.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements"
+            }
+          ]
+        },
+        {
+          "titular": "Replit rescinde su acuerdo comercial con Anthropic en favor de OpenAI",
+          "que_ha_pasado": "La plataforma de entorno de desarrollo integrado Replit ha cesado su colaboración con Anthropic, citando razones de costes operativos e integración técnica, para centrar su arquitectura de generación de código en los modelos de OpenAI.",
+          "por_que_importa": "La ruptura ilustra la elevada volatilidad en la comercialización de servicios B2B basados en modelos de lenguaje masivos, donde los márgenes de los intermediarios son estrechos. El sector del software navega un cambio estructural en el que la integración de agentes capaces de predecir y auto-corregir errores se convierte en el diferencial competitivo clave frente al mero completado de código.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+            },
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/robotica-e-ia/agentes-ia-estan-aprendiendo-a-mejorar-su-propio-software-clave-puede-estar-predecir-sus-errores-antes-cometerlos"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Feijóo anticipa un periodo de conflictividad social y rompe contactos formales con los sindicatos",
+          "que_ha_pasado": "El líder del Partido Popular, Alberto Núñez Feijóo, ha trasladado que prevé un escenario de fuertes movilizaciones en la calle si su formación accede al Gobierno. En este contexto, la dirección del PP ha distanciado sus contactos con los secretarios generales de CCOO y UGT y advierte sobre el riesgo de recortes presupuestarios en las centrales sindicales.",
+          "por_que_importa": "El cambio de postura escenifica la ruptura del diálogo institucional entre la principal fuerza de la oposición y los agentes sociales. La estrategia busca consolidar la posición del bloque conservador ante posibles reformas estructurales futuras, aunque incrementa la polarización política y el riesgo de parálisis en la negociación colectiva.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-17/huelga-general-feijoo-pp-moncloa-distancia-sindicatos_4446011/"
+            }
+          ]
+        },
+        {
+          "titular": "PSOE y Frente Amplio acuerdan listas conjuntas al Senado mientras la izquierda concurrirá dividida al Congreso",
+          "que_ha_pasado": "El PSOE y Frente Amplio han cerrado un acuerdo para presentar una única papeleta al Senado en las elecciones generales del 29 de noviembre. Sin embargo, en el Congreso de los Diputados las fuerzas de izquierda no han logrado la unidad, de modo que Frente Amplio y Podemos competirán de forma separada en circunscripciones clave como Madrid y Cataluña.",
+          "por_que_importa": "La disparidad de alianzas responde a las dinámicas del sistema electoral español, donde las circunscripciones al Senado favorecen la concentración del voto para maximizar escaños. En el Congreso, la fragmentación del espacio a la izquierda del PSOE dificulta la obtención de restos electorales en provincias medianas, condicionando la viabilidad de mayorías parlamentarias tras los comicios.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/politica/2026/10/17/frente-amplio-iran-separado-mayoria-territorios-incluido-madrid-cataluna.html"
+            }
+          ]
+        },
+        {
+          "titular": "Sevilla TechPark reclama inversiones urgentes para acompañar su crecimiento de facturación",
+          "que_ha_pasado": "El parque tecnológico de La Cartuja ha superado los 6.100 millones de euros de facturación global y roza los 36.000 empleados directos. No obstante, las empresas instaladas han exigido a la Junta de Andalucía y al Ayuntamiento de Sevilla un plan de choque contra las deficiencias en movilidad, mantenimiento y servicios básicos.",
+          "por_que_importa": "La situación del recinto sevillano refleja las tensiones de crecimiento que sufren los principales polos de innovación regional en España. Sin un compromiso firme de inversión en infraestructuras de transporte público y equipamientos, estos ecosistemas corren el riesgo de perder competitividad frente a otros hubs europeos en la atracción de empresas multinacionales de alto valor añadido.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-10-17/los-empresarios-de-la-cartuja-reclaman-un-parque-a-la-altura-de-lo-que-factura_4446495/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Brasil logra una reducción histórica de la deforestación amazónica",
+          "que_ha_pasado": "Las mediciones oficiales registraron una caída sin precedentes en la tasa de deforestación del ecosistema amazónico brasileño antes de las próximas citas electorales en el país. El descenso responde al refuerzo de las inspecciones ambientales e intervenciones contra la minería ilegal.",
+          "por_que_importa": "El freno en la degradación de la Amazonia es vital para mantener la efectividad de la selva como sumidero global de carbono y estabilizador del clima mundial. El hito refuerza la credibilidad diplomática de Brasil en los foros climáticos internacionales, aunque la sostenibilidad de estos avances depende del mantenimiento de los marcos regulatorios frente al poder del sector agroeconómico local.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Un documental rescata la figura de Piedad Isla en el centenario de su nacimiento",
+          "que_ha_pasado": "Una producción audiovisual revisa la trayectoria y el legado artísticos de la fotógrafa palentina Piedad Isla, recuperando su archivo histórico sobre la vida social, el trabajo campesino y la transformación de la Montaña Palentina a mediados del siglo XX.",
+          "por_que_importa": "La puesta en valor de la obra de Isla salda una deuda histórica de la fotografía documental española, reconociendo a una de las escasas mujeres que ejerció el fotoperiodismo rural en la posguerra. Su archivo constituye un testimonio etnográfico de incalculable valor para comprender la despoblación y la transición social del ámbito rural en el norte peninsular.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-17/piedad-isla-la-gran-asignatura-pendiente-de-la-historia-de-la-fotografia-espanola.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Diplomacia tecnológica (Tech Diplomacy)",
+    "explicacion": "Práctica de las relaciones internacionales que sitúa el desarrollo, el control y la regulación de tecnologías críticas (como la IA, los semiconductores o las redes satelitales) en el centro de las negociaciones geopolíticas. A diferencia de la diplomacia tradicional basada exclusivamente en la interacción entre Estados, este enfoque abarca el diálogo directo y la negociación estratégica con corporaciones multinacionales privadas que gestionan infraestructuras digitales o tecnológicas de importancia vital para la seguridad nacional.",
+    "ejemplo": "Las negociaciones de emergencia de la Unión Europea con operadores privados de satélites para financiar e implantar redes de conectividad militar en el frente ucraniano tras las restricciones de servicio aplicadas por Starlink."
+  },
+  "fecha": "2026-10-17"
+}
