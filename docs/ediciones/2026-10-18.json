@@ -1,0 +1,244 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Francia se sume en el caos social tras protestas masivas y más de 1.800 detenciones",
+      "resumen": "Las movilizaciones violentas por el coste de la vida cercan al Gobierno francés previo a la comparecencia urgente del presidente Emmanuel Macron."
+    },
+    {
+      "titular": "Ucrania ataca con drones infraestructuras clave e instalaciones petroleras en San Petersburgo",
+      "resumen": "Kiev reanuda los bombardeos sobre nodos energéticos y logísticos rusos en el Báltico para golpear la financiación de la guerra."
+    },
+    {
+      "titular": "Replit sustituye a Anthropic por OpenAI como proveedor por defecto en su plataforma de desarrollo",
+      "resumen": "El movimiento intensifica la contienda entre los gigantes de la inteligencia artificial por integrarse nativamente en los entornos de programación."
+    },
+    {
+      "titular": "Fast Retailing acelera su crecimiento con un beneficio récord y estrecha distancias con Inditex",
+      "resumen": "La matriz japonesa de Uniqlo gana 3.000 millones de euros impulsada por la eficiencia operativa y su expansión internacional."
+    },
+    {
+      "titular": "‘La bola negra’ bate récords históricos de taquilla en España y arranca su campaña en Estados Unidos",
+      "resumen": "La película de los Javis supera los 28 millones de euros de recaudación nacional antes de su estreno en las salas estadounidenses."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Ola de disturbios y protestas masivas pone en jaque al Ejecutivo francés",
+          "que_ha_pasado": "Más de 1.800 personas han sido detenidas y cientos de agentes han resultado heridos durante violentas manifestaciones en las principales ciudades francesas por el coste de la vida y la crisis educativa. El presidente Emmanuel Macron ha convocado un mensaje extraordinario a la nación tras jornadas de saqueos y destrozos urbanos.",
+          "por_que_importa": "El estallido evidencia la honda fractura social y la erosión del capital político de Macron a solo seis meses de afrontar la negociación presupuestaria en un Parlamento fragmentado. La inestabilidad en el motor político de la Unión Europea debilita la capacidad de liderazgo de París en las grandes decisiones comunitarias frente al empuje de la extrema derecha.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/oct/18/paris-protests-france-demonstrations-europe-live-latest-news"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/police-protesters-clash-ahead-of-mass-demonstrations-in-france/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Ucrania perpetra un masivo ataque con drones contra nodos estratégicos en San Petersburgo",
+          "que_ha_pasado": "Las fuerzas armadas ucranianas han golpeado una terminal petrolera, un centro de datos y un complejo logístico en la segunda ciudad de Rusia. La operación se produce tras la orden expresa de la presidencia ucraniana de reactivar las incursiones directas sobre refinerías e infraestructuras energéticas enemigas.",
+          "por_que_importa": "Tras una breve pausa táctica, Kiev busca reanudar la presión sobre las fuentes de ingresos por exportación de hidrocarburos de Moscú. Al alcanzar activos estratégicos en el mar Báltico, lejos de la línea del frente, Ucrania demuestra capacidad para desorganizar la logística militar e industrial dentro del propio territorio ruso.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-18/ucrania-lanza-un-intenso-ataque-sobre-san-petersburgo-y-golpea-una-terminal-petrolera-un-centro-de-datos-y-un-centro-logistico.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/ukraine-strikes-oil-facility-st-petersburg-part-massive-drone-attack/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Las movilizaciones por la inasequibilidad de la vivienda se extienden a Lisboa y Milán",
+          "que_ha_pasado": "Cientos de manifestantes han instalado acampadas y secundado marchas en el centro de Lisboa, Oporto y Milán para exigir medidas severas frente al encarecimiento del alquiler. Las jornadas han registrado choques puntuales con la policía y desalojos forzosos.",
+          "por_que_importa": "La crisis habitacional ha dejado de ser un conflicto aislado para consolidarse como un vector de malestar social transnacional en el sur de Europa. El endurecimiento de las condiciones crediticias y la rigidez de la oferta alimentan un descontento urbano que amenaza con desestabilizar a los gobiernos regionales y alimentar discursos populistas.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/18/lisbon-milan-protests-housing-living-costs"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/sociedad/2026/10/18/acampadas-vivienda-desafian-autoridades-lisboa-oporto.html"
+            }
+          ]
+        },
+        {
+          "titular": "Kiev atribuye las limitaciones de velocidad en Starlink a una prueba operativa planificada",
+          "que_ha_pasado": "El Ejecutivo ucraniano ha confirmado que las recientes restricciones puntuales en la velocidad del servicio satelital de Starlink obedecieron a un ensayo programado. Las verificaciones técnicas mostraron que dicho estrangulamiento no afectó a la red en otros puntos del continente europeo.",
+          "por_que_importa": "El incidente pone de manifiesto la estrecha dependencia estratégica que mantiene el mando militar ucraniano de infraestructuras de telecomunicaciones pertenecientes al sector privado. Gestionar el acceso de banda ancha en el frente resulta vital para la coordinación táctica y el guiado de sistemas no tripulados.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/volodymyr-zelenskyy-says-vladimir-putin-looking-cause-ukraine-wide-blackout/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Fast Retailing, matriz de Uniqlo, estrecha el margen frente a Inditex tras lograr ganancias récord",
+          "que_ha_pasado": "El grupo textil japonés cerró su último año fiscal con un beneficio neto sin precedentes de 3.000 millones de euros, acelerando su ritmo de expansión interanual por encima del gigante gallego. El rendimiento operativo en Asia y Estados Unidos ha sido el principal motor de estas cifras.",
+          "por_que_importa": "La carrera por el liderazgo global del comercio minorista textil se recrudece. La capacidad de Fast Retailing para escalar su modelo de ropa básica de alto margen desafía la hegemonía de Inditex, obligando a los operadores tradicionales a optimizar sus cadenas de suministro y reforzar su presencia digital.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-10-18/tadashi-yanai-el-hombre-mas-rico-de-japon-acecha-a-inditex.html"
+            }
+          ]
+        },
+        {
+          "titular": "Accenture contempla la venta de su filial en China por 1.500 millones de dólares",
+          "que_ha_pasado": "La mayor consultora tecnológica mundial sopesa la desinversión total de sus operaciones operativas en territorio chino. La decisión coincide con fluctuaciones bursátiles de la firma provocadas por la incertidumbre sobre la implantación comercial de la inteligencia artificial.",
+          "por_que_importa": "El movimiento refleja el progresivo desacoplamiento de las multinacionales de servicios profesionales de alto valor en mercados geopolíticamente complejos. La creciente fiscalización regulatoria sobre el flujo de datos y los riesgos de cumplimiento obligan a reevaluar la presencia directa en la segunda economía global.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Gesprisa revalida el liderazgo patrimonial en el segmento español de las sicavs",
+          "que_ha_pasado": "La sociedad de inversión vinculada al fundador de Pronovias alcanzó los 1.797 millones de euros gestionados a cierre del tercer trimestre, logrando una rentabilidad del 19,43%. El vehículo se consolida como el de mayor volumen en el mercado nacional.",
+          "por_que_importa": "Demuestra la capacidad de resiliencia de los grandes patrimonios privados mediante carteras altamente diversificadas en un entorno de tipos volátiles. A pesar de los cambios regulatorios que redujeron drásticamente el número de sicavs en España, las entidades de gran tamaño continúan operando con solvencia.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/2026/10/18/6ad4a04a468aeb494d8b4580.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Replit designa a OpenAI como su modelo predeterminado en detrimento de Anthropic",
+          "que_ha_pasado": "La plataforma de desarrollo de código Replit ha configurado los modelos de OpenAI como opción nativa predeterminada para sus usuarios. Pese al cambio de proveedor principal, las herramientas desarrolladas por Anthropic seguirán estando disponibles en el catálogo del servicio.",
+          "por_que_importa": "Subraya la encarnizada batalla comercial por controlar los flujos de trabajo de los desarrolladores de software. Integrar modelos de lenguaje en plataformas de codificación garantiza volumen masivo de uso y fidelización en la infraestructura sobre la que se edifica la nueva generación de aplicaciones.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+            }
+          ]
+        },
+        {
+          "titular": "TikTok bloquea la cuenta promocional del documental independiente sobre Elon Musk",
+          "que_ha_pasado": "La red social de origen chino ha suspendido definitivamente la cuenta comercial destinada a publicitar el nuevo largometraje documental del cineasta Alex Gibney sobre Elon Musk. Paralelamente, el magnate ha cerrado acuerdos judiciales para zanjar demandas derivadas de sus sorteos electorales.",
+          "por_que_importa": "El caso evidencia la creciente vulnerabilidad de la distribución cultural y cinematográfica frente a los algoritmos de moderación de las grandes plataformas digitales. Muestra además la tensión latente entre los intereses de visibilidad de las producciones independientes y las políticas corporativas de las redes sociales.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El PP exige mano dura contra la okupación y encomienda la redacción de una nueva ley",
+          "que_ha_pasado": "El líder de la oposición, Alberto Núñez Feijóo, ha reclamado tolerancia cero ante las usurpaciones de vivienda y ha pedido al grupo parlamentario que impulse en el Congreso una propuesta legislativa de la mano de su federación catalana.",
+          "por_que_importa": "El Partido Popular busca situar el debate sobre la propiedad privada y la seguridad jurídica inmobiliaria en el centro del combate político. Esta ofensiva parlamentaria pretende poner a prueba la cohesión de la mayoría gubernamental en materia de vivienda e incentivar el voto urbano conservador.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-10-18/ultima-hora-de-la-actualidad-politica-en-directo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Albert Rivera apela al deseo de cambio político ante la proximidad de los comicios",
+          "que_ha_pasado": "El expresidente de Ciudadanos ha reaparecido en la escena pública para manifestar su convencimiento de que existe un amplio consenso social que demanda un relevo al frente del Gobierno central.",
+          "por_que_importa": "Las valoraciones de antiguos referentes del espacio de centro buscan condicionar el debate público y movilizar al electorado moderado en un escenario de creciente polarización y reordenación del tablero político nacional.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-18/albert-rivera-elecciones-sorprenda-nadie-votar-pedro-sanchez_4447426/"
+            }
+          ]
+        },
+        {
+          "titular": "El Supremo apura los plazos sobre las alegaciones a la suspensión del voto por la ley de nietos",
+          "que_ha_pasado": "El Alto Tribunal concluye esta semana el periodo habilitado para que los afectados presenten alegaciones tras mantener la congelación cautelar del sufragio de los nuevos nacionalizados acogidos a la ley de memoria democrática.",
+          "por_que_importa": "El dictamen judicial definitivo alterará de forma sustancial el peso del voto exterior en el censo electoral de los próximos comicios. La controversia refleja la complejidad jurídica de equiparar derechos políticos con procedimientos de concesión masiva de nacionalidad.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/18/6ad49806e5fdeaa7358b457d.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "‘La bola negra’ hace historia en la taquilla española y desembarca en las salas de Estados Unidos",
+          "que_ha_pasado": "La película dirigida por los Javis ha alcanzado los 28,6 millones de euros de recaudación en España, situándose como la cuarta producción nacional más taquillera de la historia. El largometraje inicia ahora su exhibición en cines norteamericanos con pases agotados.",
+          "por_que_importa": "El éxito de público y crítica consolida el músculo de la industria cinematográfica española en la carrera hacia los Oscar. Demuestra la rentabilidad de las producciones de autor nacionales cuando cuentan con una estrategia agresiva de distribución internacional.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-10-18/la-bola-negra-adelanta-a-torrente-presidente-como-la-pelicula-espanola-mas-taquillera-de-2026-y-la-cuarta-en-el-listado-historico.html"
+            }
+          ]
+        },
+        {
+          "titular": "La orquesta del Teatro Real culmina con éxito su gira por Nueva York y Miami",
+          "que_ha_pasado": "La formación titular del coliseo madrileño concluyó sus actuaciones en el Lincoln Center neoyorquino y en el Adrienne Arsht Center con el aforo completo bajo la dirección del maestro Gustavo Gimeno.",
+          "por_que_importa": "La recepción positiva en auditorios de referencia internacional fortalece la proyección de las instituciones culturales españolas en el extranjero, revalidando la excelencia de sus cuerpos estables en los principales circuitos globales de música clásica.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-18/la-orquesta-del-teatro-real-conquista-miami-y-pone-a-prueba-la-acustica-de-nueva-york.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Nearshoring (Relocalización de cercanía)",
+    "explicacion": "El *nearshoring* es una estrategia de reestructuración operativa que consiste en trasladar la producción, fabricación o prestación de servicios a países geográficamente próximos al mercado de consumo final, en contraposición al *offshoring* (deslocalización a países lejanos con mano de obra barata). Surge como respuesta a las disrupciones en las cadenas globales de suministro, el alza de costes logísticos y las crecientes fricciones geopolíticas. Permite a las empresas acortar los tiempos de transporte, alinear zonas horarias y reducir riesgos operacionales sin perder competitividad en costes.",
+    "ejemplo": "El masivo traslado de plantas de ensamblaje e infraestructuras industriales de multinacionales desde Asia hacia el norte de México para abastecer directamente al mercado estadounidense."
+  },
+  "fecha": "2026-10-18"
+}
