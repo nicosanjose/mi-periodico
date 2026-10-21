@@ -1,0 +1,271 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Rusia libera a un ciudadano estadounidense durante la visita del enviado de Washington a San Petersburgo",
+      "resumen": "Moscú ha puesto en libertad a Stephen Hubbard sin exigir contrapartidas mientras el comisionado de Donald Trump, Steve Witkoff, se reúne con Vladímir Putin para explorar vías de negociación sobre Ucrania."
+    },
+    {
+      "titular": "Tesla y SpaceX evalúan formalmente una megafusión corporativa",
+      "resumen": "Las juntas directivas de ambas compañías han establecido comités independientes para analizar una integración de activos que consolidaría el imperio industrial y tecnológico de Elon Musk."
+    },
+    {
+      "titular": "Ryanair proyecta subidas de hasta el 20% en los billetes aéreos europeos por el encarecimiento del crudo",
+      "resumen": "La prolongación de la inestabilidad en Oriente Medio eleva los costes del combustible de aviación, exponiendo a las aerolíneas que carecen de coberturas financieras ante la volatilidad."
+    },
+    {
+      "titular": "El pulso político por la vivienda se intensifica en España entre incentivos fiscales y retrasos legislativos",
+      "resumen": "El PP plantea exenciones de impuestos a la compra para jóvenes, mientras el Ejecutivo aplaza la convalidación de sus decretos clave hasta después de las movilizaciones sectoriales."
+    },
+    {
+      "titular": "Reino Unido autoriza el yacimiento de gas Jackdaw en el Mar del Norte pese a la oposición ecologista",
+      "resumen": "El Gobierno británico prioriza la seguridad del suministro energético nacional frente a las protestas de organizaciones ambientales por el impacto del proyecto en las metas climáticas."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Moscú libera a un estadounidense sin exigencias a cambio en vísperas del encuentro entre Witkoff y Putin",
+          "que_ha_pasado": "Rusia ha puesto en libertad al profesor estadounidense Stephen Hubbard tras permanecer bajo custodia por acusaciones de combatir con tropas ucranianas. La medida coincide con el viaje oficial a San Petersburgo de Steve Witkoff, emisario de la Administración de Donald Trump, para entregar una propuesta de paz al Kremlin.",
+          "por_que_importa": "El gesto unidireccional de Moscú señala la intención del Kremlin de generar una atmósfera propicia para el diálogo directo con la nueva diplomacia estadounidense. Para la política exterior de EE. UU., esta vía de contacto paralela al marco multilateral con la OTAN evidencia un giro hacia un pragmatismo transaccional que busca acelerar un acuerdo sobre el conflicto ucraniano.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-21/rusia-libera-al-estadounidense-stephen-hubbard-en-pleno-acercamiento-entre-trump-y-putin.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/us-special-envoy-witkoff-to-putin-you-are-a-humanitarian-i-salute-that/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Francia e Italia alertan del uso geopolítico de la desinformación en los disturbios urbanos",
+          "que_ha_pasado": "Emmanuel Macron ha criticado con dureza las valoraciones de líderes internacionales que atribuyen los recientes episodios de violencia en calles francesas a la política migratoria. Simultáneamente, la inteligencia italiana investiga si grupos extranjeros instrumentaron las protestas en Milán para erosionar el orden público.",
+          "por_que_importa": "El cruce de acusaciones refleja el impacto de las narrativas cruzadas en la estabilidad interna de los Estados de la Unión Europea. La penetración de relatos promovidos desde el exterior busca exacerbar las fracturas sociales locales e influir en los debates políticos nacionales en un entorno de alta polarización.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-21/italia-sospecha-que-el-caos-de-milan-no-fue-espontaneo-y-cree-que-un-actor-extranjero-pudo-agitar-a-los-jovenes.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/macron-slams-unacceptable-and-stupid-comments-after-trump-pins-french-riots-on-immigration/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El uso intensivo de inteligencia artificial amenaza con distorsionar la campaña de las legislativas en EE. UU.",
+          "que_ha_pasado": "Especialistas en procesos electorales advierten de que las próximas elecciones legislativas estadounidenses se están convirtiendo en el primer gran ensayo de manipulación política automatizada a gran escala. La proliferación de contenidos sintéticos hiperpersonalizados supera los métodos tradicionales de propaganda y desinformación.",
+          "por_que_importa": "La automatización del impacto electoral mediante herramientas algorítmicas dificulta la capacidad de respuesta de los organismos reguladores y las plataformas de comunicación. Este fenómeno plantea un desafío inédito para la integridad de los procesos democráticos al difuminar las fronteras de la verificación informativa.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/2026-10-21/la-ia-convierte-las-midterms-en-un-gran-laboratorio-electoral.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Ryanair prevé un encarecimiento de los billetes de hasta un 20% en 2027 por la tensión en Oriente Medio",
+          "que_ha_pasado": "El máximo ejecutivo de Ryanair ha advertido de que las tarifas aéreas en el continente europeo registrarán incrementos muy significativos debido a la subida ininterrumpida del queroseno. El conflicto geopolítico regional ha desequilibrado los costes operativos de la industria civil de aviación.",
+          "por_que_importa": "El sector aéreo europeo afronta un escenario de márgenes estrechos derivado de la ausencia de coberturas financieras duraderas contra la volatilidad del petróleo. Este encarecimiento estructural repercutirá directamente en el consumo privado y acelerará las presiones inflacionistas sobre la industria turística del continente.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs"
+            }
+          ]
+        },
+        {
+          "titular": "El Ibex 35 intenta asentarse sobre los 19.000 puntos impulsado por los resultados del sector tecnológico",
+          "que_ha_pasado": "El selectivo español cotiza al alza recuperando el umbral simbólico de los 19.000 enteros tras varias sesiones de indefinición. La mejora del sentimiento inversor responde a las buenas métricas financieras presentadas por las grandes cotizadas de la industria tecnológica internacional.",
+          "por_que_importa": "El comportamiento de los índices europeos constata cómo la salud del sector tecnológico global sirve de amortiguador frente a las incertidumbres macroeconómicas locales. La rotación de carteras hacia valores de alto crecimiento permite sostener la valoración de los mercados en un ciclo marcado por tipos de interés elevados.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/21/6ad854efe5fdea57578b458a.html"
+            }
+          ]
+        },
+        {
+          "titular": "La producción de vehículos eléctricos en España crece un 153% en septiembre pese al estancamiento general",
+          "que_ha_pasado": "Las plantas de fabricación de automóviles situadas en España registraron en septiembre un repunte extraordinario en el ensamblaje de modelos electrificados gracias a la adjudicación de nuevos lanzamientos. A pesar de este dato positivo, las previsiones sectoriales anticipan un descenso leve de la producción global del sector para todo el ejercicio.",
+          "por_que_importa": "La reindustrialización hacia el vehículo de cero emisiones resulta vital para que España mantenga su posición como segundo fabricante de automóviles en Europa. No obstante, las discrepancias entre la oferta industrial y la lenta adopción de la infraestructura de recarga doméstica amenazan con ralentizar la consolidación del segmento.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-10-21/la-produccion-de-coches-electricos-en-espana-se-dispara-un-153-en-septiembre-tras-la-llegada-de-nuevos-modelos.html"
+            }
+          ]
+        },
+        {
+          "titular": "La farmacéutica Esteve destina 71 millones a la ampliación de sus capacidades industriales en China",
+          "que_ha_pasado": "La compañía Esteve ha anunciado una inversión millonaria orientada a reubicar y modernizar su centro de producción en territorio chino. El proyecto busca reforzar de forma determinante la división especializada en la síntesis de principios activos farmacéuticos para clientes internacionales.",
+          "por_que_importa": "La estrategia de la firma española pone de manifiesto que la diversificación y presencia local en los mercados asiáticos continúa siendo crítica para la competitividad del sector químico-farmacéutico. Pese a las tendencias globales hacia el desacople estratégico de China, las cadenas de valor complejas siguen requiriendo implantación sobre el terreno.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-10-21/esteve-invierte-71-millones-en-reubicar-y-ampliar-su-fabrica-de-china.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "SpaceX y Tesla estudian formalmente una fusión para unificar los activos industriales de Elon Musk",
+          "que_ha_pasado": "Las comisiones independientes formadas dentro de los consejos de administración de Tesla y SpaceX han comenzado la revisión técnica de un proyecto de integración empresarial. El propio Elon Musk se ha abstenido de integrar dichos comités para evitar potenciales conflictos de interés en el proceso de valoración.",
+          "por_que_importa": "Una operación de esta magnitud vincularía la capacidad de generación de caja del negocio automovilístico con el elevado perfil intensivo en capital que demanda la exploración espacial y las telecomunicaciones satelitales. El movimiento responde al deseo de crear un conglomerado tecnológico con capacidad de dominio absoluto en áreas estratégicas cruzadas.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/"
+            },
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/"
+            }
+          ]
+        },
+        {
+          "titular": "Apple penetra en el segmento plegable con el iPhone Duo entre dudas sobre su adopción masiva",
+          "que_ha_pasado": "Apple ha presentado el iPhone Duo, su primera incursión comercial en el mercado de dispositivos con pantallas flexibles. El terminal introduce importantes innovaciones como un acabado mate en la pantalla interior, aunque los analistas apuntan a compromisos de usabilidad y precios elevados típicos de una primera generación.",
+          "por_que_importa": "El movimiento representa la mayor alteración conceptual del producto estrella de Apple en años, presionada por el empuje de los fabricantes asiáticos en esta categoría. Su éxito o fracaso condicionará si la tecnología de pantallas plegables logra asentarse definitivamente en la gama ultra-premium de consumo masivo.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/analisis/iphone-duo-analisis-mayor-cambio-iphone-su-historia-no-mejor-iphone-otro-iphone"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte"
+            }
+          ]
+        },
+        {
+          "titular": "Anthropic propone un marco regulatorio que condiciona el bloqueo de modelos de IA a decisiones de los tribunales",
+          "que_ha_pasado": "La firma de inteligencia artificial Anthropic ha sugerido una propuesta de seguridad que prohíbe a las agencias federales paralizar de forma preventiva el lanzamiento de modelos avanzados sin autorización judicial previa. La norma pretende establecer criterios estrictos para mitigar riesgos extremos sin ahogar el desarrollo comercial.",
+          "por_que_importa": "El debate refleja la pugna abierta entre las grandes tecnológicas y la administración sobre el alcance del poder regulador en el desarrollo del software. Las empresas buscan blindarse legalmente para evitar parones burocráticos discrecionales mientras se mantiene la presión política para supervisar los riesgos sistémicos de la tecnología.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El acceso a la vivienda fractura la política nacional entre rebajas fiscales y aplazamientos normativos",
+          "que_ha_pasado": "Alberto Núñez Feijóo ha presentado un paquete de medidas que incluye reducciones impositivas a los jóvenes compradores y la construcción masiva de inmuebles. Por su parte, el Ejecutivo ha decidido posponer la convalidación de sus decretos sobre alquiler hasta después de las convocatorias de paro sectorial.",
+          "por_que_importa": "El problema habitacional se ha consolidado como el centro de la confrontación ideológica y electoral en España. La disparidad entre recetas liberalizadoras mediante incentivos a la demanda y las políticas gubernamentales de contención de precios tensiona la estabilidad de la legislatura y la negociación parlamentaria.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/10/21/gobierno-retrasa-maximo-convalidacion-decretos-vivienda-votaran-huelga-general.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html"
+            }
+          ]
+        },
+        {
+          "titular": "El plano judicial estrecha el cerco a la aplicación consular de la 'ley de nietos'",
+          "que_ha_pasado": "El Tribunal Constitucional ha avalado la inadmisión de recursos frente al criterio del Supremo que restringe el voto de nacionalizados recientes por esta norma. Paralelamente, un juzgado madrileño investiga la actuación de la cúpula del Ministerio de Justicia por supuestas irregularidades en las instrucciones dictadas a los consulados.",
+          "por_que_importa": "El despliegue de la legislación sobre nacionalidad histórica ha generado importantes controversias por sus implicaciones en el censo electoral exterior. El escrutinio judicial pone de manifiesto los problemas de seguridad jurídica que entraña la tramitación administrativa acelerada de este tipo de reformas normativas.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/21/6ad85f20e9cf4ace438b456d.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-21/juzgado-madrid-querella-sofia-puente-prevaricar-ley-nietos_4449692/"
+            }
+          ]
+        },
+        {
+          "titular": "Condenado un teniente general de la Guardia Civil por cohecho en el 'caso cuarteles'",
+          "que_ha_pasado": "Un tribunal ha declarado culpable de cohecho al teniente general jubilado de la Guardia Civil imputado en la trama de irregularidades en las obras de instalaciones del cuerpo. El fallo considera probado que el mando percibió dádivas económicas directas a cambio de favorecer la adjudicación discrecional de expedientes públicos.",
+          "por_que_importa": "La resolución judicial supone un duro varapalo institucional a la cadena de mando del instituto armado en un asunto de corrupción interna. La clarificación del proceso reafirma el rigor contable exigible en las licitaciones públicas del ámbito de la seguridad y la defensa.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-21/caso-cuarteles-culpables-cohecho-1tps_4449770/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Londres autoriza el yacimiento de gas Jackdaw en el Mar del Norte pese al rechazo ecologista",
+          "que_ha_pasado": "El Gobierno británico ha dado luz verde definitiva a la explotación del campo de gas de Jackdaw con el objetivo de abastecer la demanda interna a finales de mes. Varios grupos de protección ambiental han criticado con dureza la decisión por considerarla incompatible con los objetivos de descarbonización del país.",
+          "por_que_importa": "La reactivación de licencias energéticas en el Mar del Norte escenifica la tensión existente en las economías europeas entre garantizar la soberanía energética de inmediato y cumplir con los compromisos internacionales de reducción de emisiones a largo plazo.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news"
+            }
+          ]
+        },
+        {
+          "titular": "Jon Savage vincula la contestación punk con la historia LGTBIQ+ en su obra 'El público secreto'",
+          "que_ha_pasado": "El reputado ensayista y crítico musical Jon Savage explora en su nuevo trabajo las conexiones subterráneas entre la eclosión de la subcultura punk y los movimientos de liberación e identidad sexual a lo largo de la segunda mitad del siglo XX.",
+          "por_que_importa": "El análisis historiográfico de Savage ofrece una perspectiva profunda sobre cómo los movimientos contraculturales de vanguardia han servido históricamente de altavoz para la visibilización de derechos civiles en las sociedades occidentales contemporáneas.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-21/jon-savage-critico-musical-ser-un-hombre-heterosexual-me-parecia-aburrido-de-ahi-mi-interes-por-el-punk.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Riesgo sistémico",
+    "explicacion": "El riesgo sistémico hace referencia a la posibilidad de que el colapso o la inestabilidad de una entidad, mercado o infraestructura clave desencadene una reacción en cadena que desestabilice a la totalidad del sistema financiero o económico. A diferencia del riesgo individual o específico de una firma, este fenómeno se transmite mediante la interconexión de balances, la falta de liquidez cruzada y el contagio de la desconfianza generalizada entre los participantes del mercado.",
+    "ejemplo": "La evaluación formal de la fusión entre Tesla y SpaceX por sus consejos plantea un análisis de riesgo sistémico corporativo, dado que un fallo operativo o financiero en una de las empresas podría arrastrar la cotización y la viabilidad de la otra mediante participaciones e instrumentos de deuda cruzados."
+  },
+  "fecha": "2026-10-21"
+}
