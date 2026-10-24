@@ -1,0 +1,262 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "El barril de petróleo supera los 117 dólares ante el temor a una escalada militar con Irán",
+      "resumen": "Las amenazas de Teherán contra infraestructuras del Golfo impulsan el crudo a máximos de seis meses y reavivan la presión inflacionaria."
+    },
+    {
+      "titular": "OpenAI suspende el entrenamiento en vivo con internet por graves riesgos de ciberseguridad",
+      "resumen": "La tecnológica aislará el desarrollo de sus modelos avanzados en entornos 'offline' tras sufrir ciberataques e incursiones externas."
+    },
+    {
+      "titular": "Francia moviliza a 70.000 agentes ante el temor a disturbios masivos este fin de semana",
+      "resumen": "El Gobierno galo despliega unidades antiterroristas y amplía los controles policiales tras los peores episodios de violencia callejera en años."
+    },
+    {
+      "titular": "Las elecciones en Israel miden la capacidad de supervivencia política de Netanyahu",
+      "resumen": "Decenas de miles de israelíes regresan al país para votar en unos comicios muy ajustados donde la paz con Palestina ha quedado fuera del debate."
+    },
+    {
+      "titular": "Analistas advierten del severo ajuste fiscal que afrontará España ante las exigencias de la UE",
+      "resumen": "Los compromisos de gasto en pensiones y salarios obligarán al Ejecutivo a reformas estructurales con la crisis francesa de trasfondo."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Francia moviliza a 70.000 agentes ante la ola de violencia y protestas en todo el país",
+          "que_ha_pasado": "El Gobierno francés ha ordenado un despliegue policial masivo que incluye unidades de élite antiterroristas para prevenir la convocatoria de nuevas manifestaciones no autorizadas. Las autoridades temen un repunte de los disturbios tras registrar los episodios de violencia callejera más graves de los últimos años.",
+          "por_que_importa": "La crisis de seguridad evidencia la erosión del capital político del Ejecutivo y la profunda polarización de la sociedad francesa. Con las finanzas públicas bajo escrutinio internacional y la extrema derecha al acecho, la inestabilidad interna limita la capacidad de París para ejercer el liderazgo defensivo y político en la Unión Europea.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/23/france-police-demonstrations-civil-unrest"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Israel celebra unas elecciones decisivas condicionadas por la continuidad de Netanyahu",
+          "que_ha_pasado": "Decenas de miles de israelíes residentes en el extranjero vuelan al país para participar en los comicios generales en los que Benjamín Netanyahu busca revalidar su mandato frente a rivales procedentes del estamento militar. La campaña se ha articulado en torno al liderazgo del primer ministro, obviando la cuestión palestina.",
+          "por_que_importa": "La extrema fragmentación parlamentaria anticipa difíciles negociaciones para la formación de un Gobierno estable. El resultado definirá si Israel mantiene una postura de confrontación unilateral en la región o si abre la puerta a coaliciones centristas con una visión estratégica renovada.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-24/viven-fuera-de-israel-ahora-vuelven-para-echar-a-netanyahu-en-las-urnas.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/peace-is-not-on-the-ballot-in-israeli-elections/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El giro conservador de las clases trabajadoras aprieta la carrera presidencial en Brasil",
+          "que_ha_pasado": "Lula da Silva y Jair Bolsonaro apuran el tramo final de las elecciones en un escenario de extrema paridad demoscópica tras el ajustado triunfo del expresidente en la primera vuelta. El crecimiento del apoyo popular a políticas de mano dura y penas más severas está obligando a adaptar los discursos de campaña.",
+          "por_que_importa": "El panorama electoral en la mayor economía de América Latina refleja la pérdida de tracción del discurso de izquierda tradicional ante las demandas de seguridad de la población. La orientación política del nuevo Gobierno resultará determinante para los acuerdos comerciales de Mercosur y la cohesión regional.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/america/2026-10-24/la-agenda-ultra-inunda-brasil-con-lideres-cada-vez-mas-jovenes.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/10/24/6adc423ae85ece24098b458c.html"
+            }
+          ]
+        },
+        {
+          "titular": "El asedio ruso intensifica el desgaste humano y logístico en el este de Ucrania",
+          "que_ha_pasado": "Las fuerzas rusas mantienen una intensa presión militar sobre la región de Donetsk, lo que ha llevado a las autoridades ucranianas a decretar toques de queda de hasta 19 horas diarias en ciudades como Kramatorsk. Las duras condiciones sobre el terreno dificultan las labores de evacuación y el rescate de heridos.",
+          "por_que_importa": "El control de Donetsk es central en la estrategia de desgaste del Kremlin para fracturar las defensas ucranianas en el Donbás. Ante la paralización del frente, la capacidad de resistencia de Kiev depende de sostener el suministro de munición y apoyo logístico por parte de sus aliados occidentales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-24/el-asedio-ruso-complica-sobrevivir-en-kramatorsk-cuando-te-quedas-herido-es-mejor-que-te-maten.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "El petróleo se dispara por encima de los 117 dólares ante la tensión entre EE. UU. e Irán",
+          "que_ha_pasado": "El precio del barril de Brent ha alcanzado máximos de más de seis meses debido a las advertencias de Teherán sobre posibles ataques a refinerías y centros de datos del Golfo si Washington renueva sus operaciones militares. La tensión geopolítica ha desatado compras de cobertura en los mercados de materias primas.",
+          "por_que_importa": "Un repunte prolongado de la energía pone en riesgo el sendero de bajada de los tipos de interés de los bancos centrales al amenazar con reactivar la inflación. Para las economías europeas, altamente dependientes del crudo importado, el aumento repercutirá negativamente en los costes de la industria y la energía.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran"
+            }
+          ]
+        },
+        {
+          "titular": "EE. UU. levanta aranceles a Canadá en un giro táctico de política interna",
+          "que_ha_pasado": "La Administración estadounidense ha cancelado de forma imprevista parte de los gravámenes aplicados a las importaciones canadienses argumentando razones de interés público. La medida beneficia de forma directa a la economía de Maine, donde una senadora clave del partido gobernante se juega su reelección.",
+          "por_que_importa": "El movimiento demuestra cómo la política comercial exterior de la primera economía mundial se subordina con frecuencia a intereses electorales de ámbito local. Esta volatilidad regulatoria añade incertidumbre a las cadenas de suministro trasatlánticas y altera la estabilidad de los pactos bilaterales.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada"
+            }
+          ]
+        },
+        {
+          "titular": "IAG se alinea con el crecimiento orgánico mientras el sector aéreo europeo se consolida",
+          "que_ha_pasado": "Tras la integración de la aerolínea portuguesa TAP en el grupo Lufthansa, International Airlines Group (IAG) ha optado por no participar en las últimas operaciones corporativas en Europa. Los análisis del sector señalan que el holding de Iberia focalizará sus recursos en ampliar la rentabilidad de sus rutas transatlánticas.",
+          "por_que_importa": "La reorganización del negocio aéreo en el continente responde al encarecimiento de los costes de operación y a las altas exigencias de descarbonización impuestas por Bruselas. La cautela de IAG refleja la dificultad de acometer fusiones complejas bajo un marco regulatorio europeo muy restrictivo.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/transporte/2026/10/24/6adba3c4468aeb861d8b4592.html"
+            }
+          ]
+        },
+        {
+          "titular": "El reemplazo de la plantilla sénior supone un coste anual de 27.000 millones para las empresas españolas",
+          "que_ha_pasado": "Las compañías que operan en España gastan unos 27.000 millones de euros al año en sustituir a trabajadores mayores de 45 años, una franja de edad donde los despidos se han incrementado un 20% en los dos últimos años. Las empresas priorizan la reducción de costes salariales y la incorporación de nuevos perfiles técnicos.",
+          "por_que_importa": "El ritmo de salida de empleados sénior pone en evidencia el riesgo de pérdida de conocimiento técnico acumulado en las corporaciones. Además, la sustitución acelerada de profesionales veteranos genera presiones adicionales sobre las arcas públicas y reabre el debate sobre la sostenibilidad del mercado laboral.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-10-24/cuando-rejuvenecer-las-plantillas-no-es-barato-las-empresas-se-gastan-27000-millones-al-ano-en-reemplazar-a-los-trabajadores-seniors.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "OpenAI renuncia a entrenar a sus modelos avanzados con datos de internet en tiempo real",
+          "que_ha_pasado": "OpenAI ha modificado la metodología de entrenamiento de sus modelos más capaces para realizarlos en entornos cerrados y sin conexión activa a la red. La decisión responde al riesgo de intrusión de ciberataques y a la posibilidad de que los sistemas absorban código o contenidos maliciosos.",
+          "por_que_importa": "El cambio de estrategia evidencia los límites del aprendizaje automático masivo basado en la red abierta, priorizando la seguridad operativa sobre la frescura del dato. El aislamiento previene incidentes de manipulación remota y sienta un precedente regulatorio para el desarrollo seguro de la IA generativa.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+            }
+          ]
+        },
+        {
+          "titular": "IBM desafía el monopolio de la IA cerrada con modelos eficientes a bajo coste",
+          "que_ha_pasado": "IBM ha presentado resultados sobre sus modelos de código abierto, demostrando que alcanzan hasta un 90% del rendimiento de las plataformas propietarias de la competencia con apenas un 10% del coste por token. La compañía defiende este enfoque para acelerar la adopción en el sector empresarial.",
+          "por_que_importa": "La propuesta cuestiona la viabilidad financiera de invertir sumas multimillonarias en modelos gigantescos de uso general. Para el sector corporativo y de consultoría, disponer de modelos especializados más económicos facilita la integración tecnológica sin disparar los gastos operativos.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/robotica-e-ia/ibm-tiene-unas-cifras-que-desafian-a-gigantes-ia-cerrada-90-rendimiento-solo-10-coste-token"
+            }
+          ]
+        },
+        {
+          "titular": "El Pentágono alerta sobre los riesgos para la seguridad de los mercados de predicción militar",
+          "que_ha_pasado": "El Departamento de Defensa de EE. UU. ha emitido una alerta interna que advierte que el uso de mercados de especulación financiera sobre operaciones del ejército pone en peligro a las tropas. La directiva señala que las apuestas realizadas con datos de inteligencia interna ofrecen pistas estratégicas a las fuerzas enemigas.",
+          "por_que_importa": "La proliferación de plataformas especulativas descentralizadas crea nuevos vectores de fuga de información estratégica en materia de defensa. La intersección entre mercados financieros e inteligencia militar obligará a endurecer el cumplimiento normativo dentro de los estamentos de seguridad.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Milei eleva el tono diplomático y califica de nuevo a Pedro Sánchez de corrupto",
+          "que_ha_pasado": "El presidente de Argentina, Javier Milei, ha vuelto a proferir insultos directos contra Pedro Sánchez durante un discurso institucional en su país tras su reciente paso por Madrid. La dirección del PSOE ha respondido promoviendo actos de rechazo y mensajes defensivos en redes sociales.",
+          "por_que_importa": "La reiteración de estos ataques personales deteriora gravemente la interlocución diplomática formal entre España y Argentina. El distanciamiento institucional dificulta la defensa de los intereses de las empresas españolas en el país latinoamericano y complica la búsqueda de acuerdos bilaterales.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/10/24/6adc4677e9cf4a96448b45b0.html"
+            }
+          ]
+        },
+        {
+          "titular": "Expertos advierten de los ajustes fiscales que afrontará España ante las exigencias de la UE",
+          "que_ha_pasado": "Diversos análisis económicos advierten de las reformas inaplazables que aguardan al Ejecutivo español en materia de pensiones, salarios y política fiscal para cumplir con el marco de gasto de la Unión Europea. Los analistas toman la parálisis económica y social de Francia como un claro aviso de los riesgos de postergar estas decisiones.",
+          "por_que_importa": "El restablecimiento estricto de las reglas fiscales comunitarias reduce notablemente el margen de maniobra presupuestaria del Gobierno. Acometer recortes o alzas impositivas exigirá consensos políticos complejos en un Parlamento fragmentado y tensionado por el ciclo electoral.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-24/francia-es-un-aviso-para-espana_4451282/"
+            }
+          ]
+        },
+        {
+          "titular": "El colapso en los consulados dificulta la gestión de la Ley de Memoria Democrática",
+          "que_ha_pasado": "Los ministerios de Exteriores y Justicia admiten dificultades extremas para cuantificar las solicitudes procesadas al amparo de la denominada 'Ley de Nietos'. Cerca de la mitad de las oficinas consulares en el extranjero aún no han logrado volcar los datos completos debido a la falta de medios humanos y al volumen de expedientes.",
+          "por_que_importa": "La saturación administrativa retrasa la concesión de la nacionalidad española a miles de solicitantes en Latinoamérica, generando malestar entre las comunidades de descendientes. El problema evidencia las carencias estructurales de la red diplomática para gestionar procedimientos masivos dentro de los plazos legales.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/10/24/6adbb2d321efa03e428b45c4.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La Seminci defiende su independencia creativa frente a las críticas políticas",
+          "que_ha_pasado": "Durante la gala de apertura de la Semana Internacional de Cine de Valladolid, la organización reivindicó el festival como un espacio libre de injerencias tras los cuestionamientos formulados por el consejero de Cultura de Vox. El alcalde del Partido Popular evitó el choque directo calificando los comentarios de su socio como opiniones individuales.",
+          "por_que_importa": "El desacuerdo pone de manifiesto cómo las tensiones de la política partidista se trasladas a la financiación e institucionalización de los certámenes culturales. Mantener la autonomía del festival resulta clave para consolidar su relevancia dentro del circuito cinematográfico internacional.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-10-23/la-seminci-se-defiende-en-su-gala-inaugural-como-espacio-de-libertad-creativa-ante-los-ataques-de-vox.html"
+            }
+          ]
+        },
+        {
+          "titular": "Lara Croft cumple 30 años como referente de la narrativa audiovisual",
+          "que_ha_pasado": "La saga 'Tomb Raider' conmemora tres décadas desde su lanzamiento, reafirmando la vigencia de Lara Croft como uno de los personajes más icónicos en la historia del videojuego. La efeméride se celebra con el anuncio de dos nuevos títulos interactivos y una producción televisiva.",
+          "por_que_importa": "El éxito prolongado del personaje supuso un cambio de paradigma en la representación de figuras femeninas dentro del entretenimiento digital. Además, la franquicia fue pionera en la construcción de universos transmedia que conectan videojuegos, cine y producciones de televisión.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-24/rompedora-sexualizada-legendaria-lara-croft-y-tomb-raider-cumplen-30-anos-de-aventuras.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Aislamiento de red (Air-gapping)",
+    "explicacion": "El aislamiento de red o 'air-gapping' es una medida de ciberseguridad que consiste en desconectar físicamente un sistema informático de cualquier tipo de red externa, incluidas la red internet y las redes locales expuestas. Su propósito es impedir que atacantes externos puedan acceder al sistema, extraer datos confidenciales o inyectar código malicioso a través de vectores digitales. Tradicionalmente reservada a infraestructuras críticas, sistemas de control militar y plantas nucleares, esta técnica se está extendiendo al entrenamiento de modelos avanzados de inteligencia artificial para evitar el envenenamiento de datos e interferencias en el desarrollo de la tecnología.",
+    "ejemplo": "La decisión de OpenAI de entrenar sus modelos de IA de frontera en entornos 'offline' sin acceso a internet para proteger sus algoritmos de incursiones externas y vulnerabilidades de red."
+  },
+  "fecha": "2026-10-24"
+}
