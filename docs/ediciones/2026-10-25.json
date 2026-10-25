@@ -1,0 +1,262 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Francia se adentra en una profunda crisis social tras el fracaso de las reformas de Macron",
+      "resumen": "La ola de protestas por la subida de la energía y los recortes fiscales deriva en altercados masivos y casi un millar de detenciones, erosionando la gobernabilidad de París."
+    },
+    {
+      "titular": "El mercado castiga las grandes tecnológicas ante las dudas sobre el retorno de la inversión en IA",
+      "resumen": "El desplome de valores de infraestructura como CoreWeave arrastra al sector de semiconductores y reabre el debate sobre la sostenibilidad financiera del esfuerzo inversor en inteligencia artificial."
+    },
+    {
+      "titular": "Brasil decide su futuro político en unas elecciones de extrema polarización",
+      "resumen": "Luiz Inácio Lula da Silva y el desafío de la derecha encabezado por la órbita de Bolsonaro miden sus modelos de país con repercusiones inmediatas para el equilibrio regional y geopolítico."
+    },
+    {
+      "titular": "El FMI sitúa a España al frente del aumento de gasto público entre las economías avanzadas",
+      "resumen": "El organismo alerta de que el consumo de la Administración ha sostenido el crecimiento del PIB desde 2018, anticipando la necesidad de consolidación fiscal futura."
+    },
+    {
+      "titular": "Crece la tensión en Oriente Próximo mientras la crisis humanitaria marca las elecciones en Israel",
+      "resumen": "Las incursiones en Cisjordania y la devastación en Gaza dominan el debate electoral israelí, ensombreciendo las perspectivas de un alto el fuego."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La fractura social e institucional acorrala al Gobierno francés en la calle",
+          "que_ha_pasado": "Francia registra disturbios generalizados y cerca de mil detenciones tras jornadas de protestas masivas iniciadas por el encarecimiento energético. Las manifestaciones, consolidadas en periferias golpeadas por la desigualdad como Seine-Saint-Denis, evidencian el malestar con la política fiscal de Emmanuel Macron.",
+          "por_que_importa": "El modelo de incentivos fiscales a la oferta impulsado por el Elíseo no ha generado la dinamización económica prometida, disparando la frustración social. Este escenario de inestabilidad fortalece a la oposición radical y amenaza con paralizar las reformas estructurales en la segunda economía de la eurozona.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/security-sunday-bringen-frankreichs-proteste-marine-le-pen-an-die-macht-mit-martina-meister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-25/viaje-a-la-zona-cero-de-la-revuelta-en-francia.html"
+            }
+          ]
+        },
+        {
+          "titular": "El futuro de Gaza y Cisjordania condiciona la recta final de las elecciones en Israel",
+          "que_ha_pasado": "Las fuerzas armadas israelíes demolieron varias viviendas en Hebrón tras la muerte de dos soldados en combates recientes. Al mismo tiempo, la dramática situación humanitaria en la Franja de Gaza se ha convertido en el centro de la pugna electoral entre Benjamin Netanyahu y sus rivales políticos.",
+          "por_que_importa": "La instrumentalización de la seguridad y el conflicto en la campaña electoral reduce el margen para negociaciones multilaterales de paz. El estancamiento prolonga la inestabilidad en la frontera sur de Israel y complica los esfuerzos de estabilización diplomática de Estados Unidos y sus socios árabes.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election"
+            }
+          ]
+        },
+        {
+          "titular": "Brasil acude a las urnas dividida entre la continuidad social y el modelo conservador",
+          "que_ha_pasado": "Las elecciones presidenciales de Brasil enfrentan dos modelos de desarrollo antitéticos representados por el proyecto de Luiz Inácio Lula da Silva y la plataforma de la derecha conservadora. La campaña ha estado marcada por la división social, el debate sobre el crimen organizado y el rumbo macroeconómico.",
+          "por_que_importa": "El resultado en el gigante latinoamericano redefinirá la política ambiental en la Amazonia, la cohesión de los BRICS y la relación geopolítica de la región con la administración estadounidense y la Unión Europea.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/29033fb9-2dc7-4af0-a2ff-55d1bdd5dece?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/10/25/6adcd212e9cf4a41288b456f.html"
+            }
+          ]
+        },
+        {
+          "titular": "SpaceX restablece la conectividad completa de Starlink en el frente ucraniano",
+          "que_ha_pasado": "El Ministerio de Defensa de Ucrania ha confirmado la restauración del servicio de internet satelital Starlink a alta velocidad tras varios días de restricciones operativas. La interrupción se produjo en un momento crítico de la logística del conflicto.",
+          "por_que_importa": "El episodio subraya la dependencia militar y estratégica que sufren los Estados respecto a la infraestructura digital en manos de actores corporativos privados. La volatilidad en las decisiones de empresas como SpaceX impone riesgos operativos directos en la guerra moderna.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/starlink-connection-high-speed-ukraine-defense-minister-yevhenii-khmara/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Dudas sobre la rentabilidad de la inteligencia artificial desencadenan ventas en el sector tecnológico",
+          "que_ha_pasado": "El desplome bursátil de la firma de centros de datos CoreWeave ha arrastrado al sector de semiconductores a sus peores registros recientes. La corrección responde al temor de los inversores ante el desacoplamiento entre el elevado gasto en capital y la monetización efectiva de la tecnología.",
+          "por_que_importa": "Aunque la demanda operativa se mantiene sólida, el mercado comienza a exigir retornos financieros concretos al esfuerzo inversor en infraestructura de IA. Una prolongada revisión de los beneficios futuros podría enfriar las valoraciones macroeconómicas y reducir los flujos de capital hacia la alta tecnología.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-25/las-tecnologicas-pinchan-en-bolsa-y-reabren-el-debate-sobre-la-factura-de-la-ia.html"
+            }
+          ]
+        },
+        {
+          "titular": "El frenazo del consumo en China borra 250.000 millones de euros del sector del lujo europeo",
+          "que_ha_pasado": "Las grandes corporaciones del lujo de la eurozona sufren pérdidas acumuladas por valor de 250.000 millones de euros debido a la debilidad de la demanda interna en China. El enfriamiento de los mercados bursátiles mundiales agrava la caída de ingresos del sector.",
+          "por_que_importa": "El sector del lujo actuó como un motor contracíclico de exportación clave para la industria europea durante los últimos años. La debilidad del comprador chino constata la persistencia de los problemas estructurales de consumo en la segunda economía global.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El Mar Negro se convierte en la ruta marítima comercial con mayor mortalidad global",
+          "que_ha_pasado": "El aumento de hostilidades entre Rusia y Ucrania ha elevado las víctimas mortales en buques de transporte comercial en el Mar Negro, superando las cifras del Golfo Pérsico. Los ataques contra la navegación mercante amenazan las cadenas de suministro de grano y fertilizantes.",
+          "por_que_importa": "El incremento del riesgo geoeconómico encarece los costes de los seguros marítimos y distorsiona el comercio internacional de materias primas. Esta perturbación directa en las rutas de abastecimiento agrava las presiones inflacionarias en los mercados agrícolas globales.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/8c874f60-0041-476d-9c53-8524c374443f?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La debilidad del euro reorienta las estrategias de cartera hacia activos estadounidenses",
+          "que_ha_pasado": "La constante depreciación de la divisa europea frente al dólar está llevando a los gestores de inversión a reposicionar carteras hacia renta variable de la eurozona con alta exposición comercial en Estados Unidos. Asimismo, aumenta el atractivo de la deuda soberana norteamericana.",
+          "por_que_importa": "El diferencial de tipos de interés y el menor ritmo de crecimiento europeo castigan la moneda única. Esta dinámica beneficia a las grandes multinacionales exportadoras de la eurozona, pero encarece las importaciones energéticas denominadas en billetes verdes.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/inversion/2026/10/24/6adb9ab9e5fdea911e8b45a9.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Pensilvania aprueba etiquetar obligatoriamente la publicidad generada por IA",
+          "que_ha_pasado": "El estado de Pensilvania ha promulgado una legislación que exige identificar de forma explícita cualquier anuncio político o comercial modificado o creado mediante inteligencia artificial. La norma abarca formatos de imagen, vídeo, audio y texto sintético.",
+          "por_que_importa": "La iniciativa marca un antecedente regulatorio estatal clave ante el riesgo de manipulación del electorado mediante contenidos hiperrealistas. La normativa presionará a las plataformas tecnológicas y agencias publicitarias para implementar mecanismos de verificación robustos.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+            }
+          ]
+        },
+        {
+          "titular": "El volumen de datos de la IA pone a prueba las costuras de la red de internet",
+          "que_ha_pasado": "Analistas del sector advierten que la proliferación acelerada de modelos de lenguaje y la automatización intensiva están saturando los nodos fundamentales de transporte de datos de la red. La infraestructura física de fibra óptica y centros de procesamiento muestra signos de rigidez.",
+          "por_que_importa": "El cuello de botella computacional no radica únicamente en la fabricación de microchips, sino en el ancho de banda y la resistencia de los cables intercontinentales. La falta de inversiones en modernización del 'core' de la red puede limitar la velocidad de implementación de herramientas avanzadas para empresas y consultoría.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
+            }
+          ]
+        },
+        {
+          "titular": "Cierra una oleada de startups de inteligencia artificial tras no alcanzar sus objetivos de negocio",
+          "que_ha_pasado": "Decenas de empresas emergentes desarrolladoras de aplicaciones de IA han cesado operaciones tras agotar su capital inicial sin lograr modelos de ingresos sostenibles. En paralelo, grandes corporaciones posponen lanzamientos de asistentes virtuales por falta de precisión.",
+          "por_que_importa": "El sector inicia una fase inevitable de consolidación tras el entusiasmo inversor inicial. Las compañías incapaces de construir ventajas competitivas duraderas o modelos propietarios están sucumbiendo al elevado coste operativo de la infraestructura subyacente.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El FMI constata la primacía de España en el crecimiento del gasto público desde 2018",
+          "que_ha_pasado": "Un informe del Fondo Monetario Internacional posiciona a España a la cabeza de los países desarrollados en incremento del gasto de la Administración Pública. La institución señala que el consumo público explica un porcentaje significativo del crecimiento del PIB registrado durante los últimos ejercicios.",
+          "por_que_importa": "Aunque el impulso fiscal ha blindado el PIB frente a shocks externos, el FMI advierte sobre la necesidad de definir un plan claro de consolidación. El cumplimiento de las reglas fiscales comunitarias exigirá disciplina en las cuentas públicas en las próximas legislaturas.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/macroeconomia/2026/10/25/6ada3edbe9cf4a4d178b4595.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Tribunal de Cuentas inicia actuaciones por pagos irregulares en Badajoz",
+          "que_ha_pasado": "El Tribunal de Cuentas ha abierto diligencias previas para perseguir la restitución de 400.000 euros abonados de forma presuntamente irregular a través de contratos de la Diputación de Badajoz. La decisión cuenta con el respaldo de la Fiscalía del órgano fiscalizador.",
+          "por_que_importa": "El expediente reabre el foco de control institucional sobre las políticas de contratación pública en administraciones provinciales. La causa añade desgaste político en un contexto de estrecho margen parlamentario y estrecha vigilancia de la gestión de fondos públicos.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/10/25/6adcd78fe9cf4a40228b4575.html"
+            }
+          ]
+        },
+        {
+          "titular": "La presión migratoria e informalidad social tensionan la barriada de El Príncipe en Ceuta",
+          "que_ha_pasado": "Tres meses después de las entradas masivas por la frontera de Ceuta, las condiciones socioeconómicas en la barriada de El Príncipe se han deteriorado de forma severa. Organizaciones sobre el terreno denuncian hacinamiento en viviendas y situaciones de explotación laboral de personas vulnerables.",
+          "por_que_importa": "La persistencia de bolsas de marginación en la frontera sur de España refleja la fragilidad de los mecanismos de acogida e integración local. El escenario pone a prueba la descoordinación entre la política migratoria nacional y la gestión de la seguridad fronteriza europea.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/cronica/2026/10/25/6add19aee9cf4a3f358b4572.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La gestión cultural municipal acentúa la confrontación ideológica en España",
+          "que_ha_pasado": "Las alianzas entre PP y Vox en diversos ayuntamientos y autonomías han consolidado un giro en la programación y subvención de proyectos culturales. La priorización de eventos vinculados a la tradición patriótica genera fricciones con la creación artística independiente.",
+          "por_que_importa": "El control de los presupuestos culturales se ha transformado en un terreno prioritario de la batalla ideológica. Este fenómeno pone en riesgo la neutralidad institucional en la distribución de fondos públicos y la estabilidad financiera del tejido escénico y audiovisual.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-25/vox-mete-la-motosierra-en-la-cultura.html"
+            }
+          ]
+        },
+        {
+          "titular": "Ricardo Gómez indaga en la memoria familiar en su debut cinematográfico en la Seminci",
+          "que_ha_pasado": "El actor Ricardo Gómez ha presentado en la Semana Internacional de Cine de Valladolid su primer largometraje como director, titulado 'Una familia'. La obra combina elementos autoficcionales con la exploración de las relaciones paternofiliales.",
+          "por_que_importa": "El salto a la dirección de una de las caras más populares del audiovisual español consolida el relevo generacional en la industria del cine nacional. Su propuesta destaca por alejarse de los códigos comerciales convencionales para abordar la intimidad familiar.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-10-25/ricardo-gomez-actor-y-director-llevo-toda-la-vida-escuchando-te-conozco-te-he-visto-crecer-y-a-mi-no-me-ha-visto-crecer-nadie.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "CapEx (Gastos de capital / Capital Expenditures)",
+    "explicacion": "El CapEx representa los fondos que una empresa destina a adquirir, actualizar o mantener activos físicos fijos, como maquinaria, instalaciones o infraestructura tecnológica clave. A diferencia del OpEx (gastos operativos recurrentes), el CapEx constituye una inversión estratégica a largo plazo orientada a asegurar la competitividad e ingresos futuros. En contextos de cambio tecnológico acelerado, incurrir en un elevado CapEx es imprescindible para mantener el liderazgo, aunque acarrea el peligro de comprometer la rentabilidad de la compañía si los flujos de caja previstos tardan en materializarse o las expectativas de demanda no se cumplen.",
+    "ejemplo": "Las correcciones bursátiles en el sector de semiconductores tras las dudas planteadas sobre empresas como CoreWeave obedecen a la incertidumbre del mercado sobre si las masivas inversiones en centros de procesamiento para inteligencia artificial retornarán capital en los plazos proyectados."
+  },
+  "fecha": "2026-10-25"
+}
