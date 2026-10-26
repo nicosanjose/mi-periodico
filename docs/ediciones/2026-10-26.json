@@ -1,0 +1,195 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Lula revalida la presidencia de Brasil mientras el bolsonarismo impugna el escrutinio",
+      "resumen": "El mandatario de izquierdas se impone en una ajustada segunda vuelta, pero los partidarios de Flávio Bolsonaro rechazan el resultado y anuncian acciones legales."
+    },
+    {
+      "titular": "Los bancos centrales encaran decisiones de tipos presionados por la inflación y la política",
+      "resumen": "El BCE y la Fed se reúnen esta semana en un entorno de repunte de precios, volatilidad en el crudo y tensiones políticas en Francia y EE. UU."
+    },
+    {
+      "titular": "Apollo advierte sobre el nulo retorno financiero de la inversión en IA fuera del sector tecnológico",
+      "resumen": "Un informe del grupo inversor señala que el gasto masivo en inteligencia artificial aún no se traduce en mejoras de beneficio para la empresa tradicional."
+    },
+    {
+      "titular": "Volkswagen invierte 4.000 millones de dólares en EE. UU. para esquivar las barreras arancelarias",
+      "resumen": "El grupo alemán construirá una planta para Audi en Georgia pese a ejecutar ajustes de plantilla en sus instalaciones europeas."
+    },
+    {
+      "titular": "Los altercados en Barcelona elevan la tensión política ante la cercanía de las elecciones",
+      "resumen": "Los disturbios del fin de semana desatan reproches cruzados entre los partidos y colocan la seguridad en el centro del debate electoral."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Lula se impone en las elecciones de Brasil y el bolsonarismo anuncia el recurso judicial del resultado",
+          "que_ha_pasado": "Luiz Inácio Lula da Silva ha logrado la victoria en la segunda vuelta de las elecciones presidenciales brasileñas, asegurando un cuarto mandato no consecutivo tras derrotar a Flávio Bolsonaro. Inmediatamente después de confirmarse el escrutinio, el entorno del candidato derrotado rehusó conceder el triunfo y anunció medidas legales para pedir la anulación del proceso.",
+          "por_que_importa": "El triunfo de Lula afianza la presencia de la izquierda en la gobernanza sudamericana, pero la impugnación del resultado anticipa un periodo de elevada tensión institucional. La polarización parlamentaria y judicial dificultará la aprobación de reformas estructurales y la consolidación del crecimiento en la principal economía de la región.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/america/2026-10-26/bolsonaro-no-reconoce-el-triunfo-de-lula-y-pide-la-anulacion-de-las-elecciones.html"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/10/26/6adeb20fe4d4d868108b4590.html"
+            }
+          ]
+        },
+        {
+          "titular": "La Unión Europea y Canadá renegocian el alcance estratégico de su alianza comercial",
+          "que_ha_pasado": "Delegaciones de la UE y Canadá ultiman las negociaciones del texto marco previo a la cumbre bilateral de Montreal para fijar objetivos concretos en inversión e industria. Aunque ambas partes mantienen una estrecha consonancia geopolítica, persisten diferencias sobre las normas regulatorias y la denominación legal de la relación.",
+          "por_que_importa": "En un escenario caracterizado por la reconfiguración de cadenas de valor globales, Bruselas y Ottawa buscan asegurar el suministro transatlántico de materias primas críticas. La negociación evidencia lo complejo que resulta armonizar estándares normativos e incentivos industriales incluso entre aliados tradicionales.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/its-complicated-the-status-of-eu-canada-relations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "María Corina Machado regresa a Venezuela tras la incautación de activos y la detención de Maduro",
+          "que_ha_pasado": "La dirigente opositora venezolana María Corina Machado ha vuelto a Caracas tras varios meses de exilio. Su retorno se produce semanas después del arresto de Nicolás Maduro por parte de fuerzas estadounidenses y la incautación de activos estatales en el exterior.",
+          "por_que_importa": "La presencia de Machado sobre el terreno resulta clave para estructurar la representación política opositora y negociar una transición institucional. El gran reto de las fuerzas democráticas será reconstruir el marco institucional e incentivar el retorno del capital internacional al sector energético.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Los bancos centrales abordan sus decisiones de tipos bajo la presión de la inflación y la inestabilidad política",
+          "que_ha_pasado": "El Banco Central Europeo y la Reserva Federal estadounidense celebran esta semana sus reuniones sobre política monetaria en un contexto de ligero repunte inflacionario y moderación del precio del petróleo. Los encuentros coinciden con la inestabilidad política en Francia y la proximidad de citas electorales clave.",
+          "por_que_importa": "Las instituciones monetarias se enfrentan a un equilibrio delicado: recortar tipos para sostener la actividad o mantenerlos elevados para aplacar las presiones sobre los costes. La coincidencia con incertidumbres fiscales y políticas complica la transmisión de las decisiones monetarias a los costes de financiación soberana y corporativa.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-10-26/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "Volkswagen destina 4.000 millones de dólares a una nueva planta en EE. UU. para mitigar el impacto arancelario",
+          "que_ha_pasado": "El grupo Volkswagen levantará una fábrica en Georgia dedicada a la producción de todoterrenos de la marca Audi, lo que supondrá una inversión de 4.000 millones de dólares y la creación de 4.500 empleos. El anuncio se produce en paralelo al ajuste de costes y reestructuración de personal en sus plantas europeas.",
+          "por_que_importa": "La estrategia evidencia la reubicación de capacidades productivas directamente en mercados con barreras arancelarias o esquemas de subsidio local. Esta dinámica expone el paulatino deterioro de la competitividad de la base manufacturera europea frente a las políticas de incentivo estadounidenses.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania acuerda la compra de misiles desarrollados en Ucrania para reequipar sus fuerzas armadas",
+          "que_ha_pasado": "El Ministerio de Defensa de Alemania ha formalizado el encargo del sistema de misiles de ataque 'Bars', diseñado y producido en Ucrania. La operación supone la primera compra directa de armamento ofensivo ucraniano por parte de la Bundeswehr.",
+          "por_que_importa": "El contrato pone de manifiesto la madurez técnica alcanzada por la industria militar de Ucrania bajo requerimientos de combate real. Para Berlín representa una vía para acelerar el reabastecimiento de sus arsenales e integrar paulatinamente la producción militar ucraniana en las cadenas de suministro europeas.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/f9476b15-c2b6-4b8b-86fc-58ae5795fb87?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Un análisis de Apollo concluye que la inversión en IA no se traduce en beneficios para la empresa tradicional",
+          "que_ha_pasado": "Un informe de la firma de inversión Apollo señala que el gasto masivo en inteligencia artificial no ha generado retornos financieros mensurables para las empresas cotizadas ajenas al sector tecnológico. Los beneficios financieros del despliegue tecnológico permanecen concentrados en los proveedores de infraestructura de computación.",
+          "por_que_importa": "El informe pone de relieve el desacople entre las valoraciones bursátiles fundamentadas en la automatización y la realidad de los procesos operativos. Un prolongado desfase en el retorno del capital invertido podría llevar a las corporaciones a recortar sus presupuestos en tecnología, corrigiendo las expectativas del mercado.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/"
+            }
+          ]
+        },
+        {
+          "titular": "Los exámenes técnicos al iPhone Duo revelan problemas estructurales en su pantalla plegable",
+          "que_ha_pasado": "Análisis e inspecciones técnicas del nuevo iPhone Duo han detectado vulnerabilidades mecánicas en la zona de la bisagra del dispositivo. Los datos señalan que la fricción del mecanismo causa grietas prematuras en el panel flexible a las pocas horas de uso.",
+          "por_que_importa": "Los fallos de diseño en formatos plegables ilustran la complejidad de llevar arquitecturas mecánicas complejas a niveles de producción masiva. Las incidencias repercuten en elevados costes de garantía para el fabricante y reducen la tasa de adopción de la telefonía de alta gama.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Los disturbios de Barcelona polarizan el clima político en vísperas de la campaña electoral",
+          "que_ha_pasado": "Los altercados violentos producidos este fin de semana en el centro de Barcelona han provocado una oleada de reproches entre las fuerzas políticas de cara al 29-N. La oposición acusa a los ejecutivos central y autonómico de falta de previsión, mientras que la izquierda responsabiliza a la extrema derecha de inflamar las calles.",
+          "por_que_importa": "La reaparición del debate sobre el orden público altera las prioridades del electorado y presiona el discurso de los partidos mayoritarios. La tensión condicionará la capacidad de acuerdo para formar mayorías tras la cita con las urnas.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-10-26/disturbios-barcelona-envena-campana-electoral_4452600/"
+            }
+          ]
+        },
+        {
+          "titular": "El delegado del Gobierno en Madrid renuncia tras quedar excluido de las listas electorales",
+          "que_ha_pasado": "Francisco Martín ha dimitido de su cargo como delegado del Gobierno en Madrid tras confirmarse que no irá en las candidaturas del PSOE para los próximos comicios. La salida supone la pérdida automática de su condición de aforado en vísperas de las acciones judiciales anunciadas por la oposición.",
+          "por_que_importa": "El cese imprevisto refleja fricciones en la confección de las listas del partido y debilita la posición de uno de los perfiles institucionales más beligerantes contra las administraciones madrileñas. Su nueva situación procesal expone al exdelegado a las querellas en curso.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/madrid/2026/10/26/6ade5e52fdddffb1248b4581.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Stevie Wonder conmemora los cincuenta años de 'Songs in the Key of Life' con una gira europea",
+          "que_ha_pasado": "El músico estadounidense ha iniciado un tour internacional centrado en la interpretación completa de su emblemático doble álbum de 1976. Tras recalar en Estocolmo, el artista ha reunido a miles de seguidores repasando los grandes hitos de su discografía.",
+          "por_que_importa": "La pervivencia del repertorio de Wonder evidencia la vigencia de una obra que redefinió los estándares de la producción musical afroamericana. El éxito de la gira reafirma el peso del catálogo histórico en la industria del directo frente al consumo digital acelerado.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-26/stevie-wonder-el-sumo-sacerdote-del-soul-sigue-obrando-milagros.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Efectos de desbordamiento (Spillover effects)",
+    "explicacion": "Los efectos de desbordamiento u 'externalidades transfronterizas' se producen cuando las decisiones económicas, regulatorias o monetarias adoptadas por un actor principal generan impactos no previstos en terceros países o sectores. En macroeconomía y relaciones internacionales, analizar los spillovers resulta decisivo para prever cómo la subida de tipos de interés en una gran potencia encarece la deuda de los mercados emergentes, o cómo los subsidios industriales de un bloque provocan la fuga de capitales y plantas manufactureras en las economías vecinas.",
+    "ejemplo": "La decisión de Volkswagen de construir su nueva planta en Estados Unidos para sortear aranceles genera un efecto de desbordamiento negativo en el empleo industrial y en la red de proveedores auxiliares de Alemania."
+  },
+  "fecha": "2026-10-26"
+}
