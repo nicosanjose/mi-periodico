@@ -1,0 +1,267 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Sin mayoría clara en Israel tras unas elecciones marcadas por el auge de los partidos árabes",
+      "resumen": "El bloque de Benjamin Netanyahu lidera los comicios pero no alcanza los 61 escaños requeridos para gobernar, dejando el futuro político del país en manos de complejas negociaciones."
+    },
+    {
+      "titular": "Banco Santander dispara su beneficio un 20% impulsado por las plusvalías e integraciones internacionales",
+      "resumen": "La entidad logra ganancias de 12.405 millones de euros hasta septiembre gracias al impacto extraordinario en Polonia y el crecimiento ordinario en sus principales mercados."
+    },
+    {
+      "titular": "Fisuras en la cohesión europea por las llamadas directas de líderes nórdicos a Vladímir Putin",
+      "resumen": "Contactos bilaterales mantenidos por Finlandia y Noruega con el Kremlin suscitan malestar entre socios comunitarios, a pesar del respaldo de Kiev a dichas gestiones."
+    },
+    {
+      "titular": "Una multitudinaria marcha de tractores colapsa el tráfico céntrico de Madrid",
+      "resumen": "Cientos de vehículos agrícolas colapsan los principales accesos y arterias de la capital española en una jornada de protesta por las condiciones del sector agrario."
+    },
+    {
+      "titular": "Elon Musk restringe la red Starlink para evitar su uso en operaciones ofensivas de Ucrania",
+      "resumen": "El ejecutivo alega violaciones de las condiciones de servicio tras detectarse el empleo de la conexión satelital para el guiado de drones militares."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Netanyahu vence en las elecciones de Israel pero queda lejos de la mayoría parlamentaria",
+          "que_ha_pasado": "El bloque favorable al primer ministro Benjamin Netanyahu ha logrado unos 55 escaños en la Knesset, mientras que la oposición se sitúa en torno a los 50 escaños con el recuento avanzado. El crecimiento sin precedentes de la representación de los partidos árabes israelíes bloquea una suma directa para ambos bandos.",
+          "por_que_importa": "El escenario aboca a Israel a intensas negociaciones de coalición o a la perspectiva de una nueva repetición electoral. La fragmentación del parlamento otorga a las formaciones minoritarias y árabes un poder de negociación inédito en la configuración de la política interior y la estrategia de seguridad regional.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/internacional/2026-10-28/resultados-y-reacciones-de-las-elecciones-en-israel-en-directo.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/10/27/6ae0e59dfc6c839c3a8b459d.html"
+            }
+          ]
+        },
+        {
+          "titular": "Llamadas de mandatarios europeos a Putin generan división interna en la Unión Europea",
+          "que_ha_pasado": "El presidente de Finlandia, Alexander Stubb, y el primer ministro noruego, Jonas Gahr Støre, han establecido contactos directos por teléfono con Vladímir Putin. La iniciativa ha recibido reproches de diversos socios comunitarios por romper el frente diplomático unificado frente a Moscú.",
+          "por_que_importa": "Aunque las gestiones cuentan con el beneplácito del Gobierno ucraniano, evidencian un debate táctico en la diplomacia europea sobre el alcance del aislamiento del Kremlin. Mantener vías de comunicación abiertas permite explorar corredores humanitarios o acuerdos locales de alto el fuego, pero corre el riesgo de debilitar la posición de presión conjunta de la UE.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-putin-call-dividing-eu-leaders/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Flávio Bolsonaro abandona Brasil tras la derrota en los comicios presidenciales",
+          "que_ha_pasado": "El senador de extrema derecha Flávio Bolsonaro ha salido del país en vuelo privado con destino a Estados Unidos tras hacer escala en Argentina y Ecuador. Su marcha se produce inmediatamente después de confirmarse la victoria de la candidatura de izquierda en las elecciones del domingo.",
+          "por_que_importa": "La salida del país de uno de los principales activos políticos del movimiento bolsonarista refleja el temor a represalias judiciales o investigaciones penales tras la pérdida del poder ejecutivo. El movimiento deja descabezada a la oposición conservadora en el Senado en un momento clave de transición institucional.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
+            }
+          ]
+        },
+        {
+          "titular": "El pacto migratorio europeo colapsa la capacidad de acogida en las islas griegas",
+          "que_ha_pasado": "La aplicación de los nuevos marcos regulatorios europeos de asilo ha provocado el hacinamiento de miles de solicitantes en los centros de detención insulares de Grecia. Aunque la norma suprime los plazos para salidas voluntarias, las trabas operativas impiden la ejecución de expulsiones.",
+          "por_que_importa": "El atasco administrativo en la frontera exterior de la UE pone de manifiesto la falta de mecanismos eficaces de repatriación e infraestructura de reparto solidario entre los Estados miembros. La situación incrementa la presión humanitaria y política en los países de primera entrada del Mediterráneo.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-28/el-pacto-migratorio-de-la-ue-deja-a-miles-de-solicitantes-de-asilo-atrapados-en-las-islas-griegas.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Santander eleva sus ganancias un 20% empujado por operaciones extraordinarias en Europa",
+          "que_ha_pasado": "Banco Santander reportó un beneficio neto de 12.405 millones de euros en los nueve primeros meses del año, apalancado en las plusvalías generadas por la venta de su filial en Polonia y la consolidación de activos bancarios. El negocio ordinario de la entidad creció un 16% en el periodo.",
+          "por_que_importa": "Los resultados reflejan la solidez del negocio bancario europeo en un entorno de tipos de interés altos, a la vez que muestran la estrategia del grupo de rotar capital hacia mercados con mayor margen de crecimiento. Brasil y Estados Unidos siguen aportando estabilidad operativa frente a las dinámicas del mercado continental.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/economia/2026/10/28/santander-gana-12-405-millones-20-plusvalia-polonia.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/b12e4896-5c72-460c-b1c4-df433e5e8ca9?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://cincodias.elpais.com/companias/2026-10-28/el-santander-gana-un-20-mas-hasta-septiembre-por-el-efecto-de-la-venta-de-polonia-y-las-compras-de-webster-y-tsb.html"
+            }
+          ]
+        },
+        {
+          "titular": "Grandes fondos internacionales de capital privado se disputan la compra de esPublico",
+          "que_ha_pasado": "Firmas como Blackstone, Advent, Cinven, Hg y Permira preparan ofertas no vinculantes para adquirir la empresa tecnológica esPublico. La transacción está siendo coordinada por JPMorgan con una valoración prevista de unos 1.000 millones de euros.",
+          "por_que_importa": "El elevado interés del capital riesgo confirma el atractivo de las compañías especializadas en software de gestión para la administración pública y el cumplimiento normativo. Muestra la liquidez disponible en el sector del private equity para activos defensivos con ingresos recurrentes.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/2026/10/28/6ae116fee5fdea08258b457c.html"
+            }
+          ]
+        },
+        {
+          "titular": "Mapfre incrementa sus ingresos y sitúa su beneficio neto en 924 millones",
+          "que_ha_pasado": "La aseguradora española obtuvo un beneficio atribuido de 924,3 millones de euros hasta septiembre, lo que representa una subida del 11,5% respecto al año anterior. La facturación total del grupo aumentó un 2% impulsada por la división de seguros de no vida.",
+          "por_que_importa": "El comportamiento del sector asegurador refleja la capacidad de trasladar la inflación a precios en las primas sin perder volumen de negocio. La diversificación geográfica permite moderar el impacto del repunte de siniestros y la volatilidad financiera global.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-10-28/el-beneficio-de-mapfre-alcanza-los-9243-millones-hasta-septiembre-un-115-mas.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Starlink impone restricciones operativas a las fuerzas armadas ucranianas",
+          "que_ha_pasado": "Elon Musk ha confirmado la limitación del acceso a la red satelital Starlink a las tropas de Kiev, argumentando que el servicio estaba siendo utilizado para dirigir ataques con drones ofensivos. Según la compañía, este uso incurría en una violación directa de los términos de contratación comercial.",
+          "por_que_importa": "El episodio expone la vulnerabilidad de depender de proveedores privados de infraestructura crítica en escenarios de conflicto bélico. La decisión subraya los dilemas de gobernanza cuando empresas tecnológicas civiles imponen unilateralmente reglas de empeñamiento sobre el terreno militar.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/science/1019879/elon-musk-starlink-ukraine-terms-of-service"
+            }
+          ]
+        },
+        {
+          "titular": "La conversión de deuda consolida la posición mayoritaria de Amazon en Anthropic",
+          "que_ha_pasado": "La ejecución masiva de notas convertibles otorgará a Amazon un volumen de participación en la firma de inteligencia artificial Anthropic sustancialmente superior al de los fondos de capital riesgo tradicionales. Las firmas de venture capital obtendrán elevadas plusvalías, pero menor peso político interno.",
+          "por_que_importa": "El movimiento acentúa la concentración de control en la industria de la inteligencia artificial generativa por parte de las grandes tecnológicas (*Big Tech*). La vinculación directa garantiza a los gigantes de la nube el acceso exclusivo o preferente a los modelos de computación más avanzados.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/"
+            }
+          ]
+        },
+        {
+          "titular": "Investigadores critican la falta de transparencia en los descubrimientos recientes de OpenAI",
+          "que_ha_pasado": "Comunidad científica y académicos han expresado su descontento con la política de divulgación de OpenAI tras el anuncio de avances en matemáticas y física sin acompañamiento de datos completos. Los investigadores acusan a la firma de actuar como guardiana opaca de los métodos de entrenamiento.",
+          "por_que_importa": "El alejamiento del modelo de código e investigación abierta dificulta la réplica independiente de los hallazgos y la verificación de la seguridad de los algoritmos. Tensa la relación entre el desarrollo comercial acelerado y los principios tradicionales de la ciencia entre pares.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Una tractorada masiva provoca el colapso del tráfico en el centro de Madrid",
+          "que_ha_pasado": "Cerca de medio millar de tractores y organizaciones agrarias han tomado los accesos y vías principales del centro de la capital desde primeras horas de la mañana. La movilización demanda medidas de apoyo frente al incremento de costes de producción y las exigencias normativas europeas.",
+          "por_que_importa": "La protesta evidencia la persistente tensión entre las exigencias regulatorias medioambientales y la rentabilidad del sector primario. Supone un reto de gestión para la administración estatal y autonómica ante el descontento de los productores rurales.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-10-28/cortes-trafico-madrid-28-octubre-tractorada-horario-calles-afectadas-1qrt_4454245/"
+            }
+          ]
+        },
+        {
+          "titular": "Tensiones comerciales entre el mercado chino y LaLiga por un conflicto institucional",
+          "que_ha_pasado": "Las disculpas ofrecidas por la patronal del fútbol español no han logrado frenar las campañas de boicot comercial en China. Patrocinadores, medios de comunicación y marcas locales han comenzado a cancelar contratos tras comentarios emitidos por directivos del entorno deportivo.",
+          "por_que_importa": "El conflicto muestra la extrema sensibilidad política de los mercados asiáticos frente a declaraciones públicas de socios extranjeros. Pone en riesgo acuerdos multimillonarios de derechos de televisión e imagen en un mercado clave para la expansión internacional del deporte español.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/deportes/futbol/primera-division/2026/10/28/6ae1978ce85ece26308b45a4.html"
+            }
+          ]
+        },
+        {
+          "titular": "Comunidad académica y arquitectos se oponen al derribo de edificios de la Complutense",
+          "que_ha_pasado": "El Colegio Oficial de Arquitectos y colectivos docentes han exigido la paralización de las demoliciones en el campus de Somosaguas de la Universidad Complutense. Los opositores reclaman la protección patrimonial del conjunto arquitectónico por su simbolismo histórico durante la transición democrática.",
+          "por_que_importa": "El debate enfrenta la modernización de las infraestructuras universitarias con la preservación del patrimonio del siglo XX. Pone de relieve los criterios cambiantes sobre qué inmuebles deben gozar de protección urbanística e histórica.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/educacion/2026-10-28/profesores-y-arquitectos-piden-frenar-el-derribo-inminente-de-edificios-historicos-de-la-complutense-en-somosaguas.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/educacion/2026-10-28/profesores-y-arquitectos-piden-frenar-el-derribo-inminente-de-edificios-historicos-de-la-complutense-en-somosaguas.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El hallazgo de una gran muralla en La Almoloya desafía el conocimiento de la sociedad argárica",
+          "que_ha_pasado": "Arqueólogos han descubierto una estructura defensiva de siete metros de anchura con torres integradas en el yacimiento de La Almoloya. La muralla, levantada hace unos 4.000 años sobre un cerro escarpado, resulta inusual por su envergadura en un enclave de difícil acceso natural.",
+          "por_que_importa": "El descubrimiento replantea las hipótesis sobre la capacidad de organización territorial, la jerarquización social y los conflictos bélicos en la Edad del Bronce de la península ibérica. Demuestra un nivel de planificación urbana y militar superior al estimado para la cultura argárica.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-28/el-hallazgo-de-una-gran-muralla-en-la-almoloya-amplia-el-misterio-de-la-sociedad-argarica-por-que-levantarla-en-una-ciudad-inexpugnable.html"
+            }
+          ]
+        },
+        {
+          "titular": "Debate académico sobre la validez y autoría de trabajos elaborados mediante inteligencia artificial",
+          "que_ha_pasado": "Disputas entre científicos por la precisión de la IA en descubrimientos y denuncias sobre la autoría de obras literarias galardonadas han encendido las alarmas en el ámbito académico y cultural. Diversos creadores defienden la autenticidad de sus obras frente a acusaciones de uso no declarado de modelos generativos.",
+          "por_que_importa": "La proliferación de herramientas sintéticas cuestiona los sistemas tradicionales de verificación de la ciencia y los premios de creación artística. Exige regular de manera clara la trazabilidad y la responsabilidad ética en la publicación de contenidos.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-27/el-escritor-david-silva-rojas-defiende-en-un-comunicado-que-su-novela-donde-el-agua-trabaja-no-esta-escrita-por-la-ia.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Titulización de activos (Asset Securitization)",
+    "explicacion": "Es la técnica financiera mediante la cual una entidad agrupa activos financieros ilíquidos pero que generan flujos de caja recurrentes —como préstamos hipotecarios, créditos al consumo o facturas— y los transforma en títulos valores negociables en los mercados de capitales. Al vender estos paquetes a un vehículo de propósito especial (SPV), la entidad emisora saca el riesgo de crédito de su balance, libera capital regulatorio y obtiene liquidez inmediata para conceder nueva financiación, repartiendo el riesgo crediticio entre inversores institucionales.",
+    "ejemplo": "Las emisiones periódicas de bonos respaldados por préstamos hipotecarios residenciales (RMBS) que realizan las entidades financieras de la eurozona para optimizar sus balances bajo la normativa de Basilea III."
+  },
+  "fecha": "2026-10-28"
+}
