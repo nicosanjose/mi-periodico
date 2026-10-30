@@ -1,0 +1,266 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Binance sufre el mayor ciberataque de la historia de las criptomonedas",
+      "resumen": "El robo de 6.300 millones de dólares, atribuido a hackers norcoreanos, obliga a congelar las retiradas de fondos en la principal plataforma del sector."
+    },
+    {
+      "titular": "Christine Lagarde dimite por sorpresa como presidenta del Banco Central Europeo",
+      "resumen": "La mandataria adelanta nueve meses su salida para asumir la dirección del Foro Económico Mundial y recuperar su libertad de discurso internacional."
+    },
+    {
+      "titular": "El trágico accidente ferroviario de Urda paraliza la red de alta velocidad y colapsa las conexiones con Andalucía",
+      "resumen": "La catástrofe reabre el debate técnico sobre las lagunas en los protocolos de emergencia del sistema de señalización tras el fallo masivo."
+    },
+    {
+      "titular": "Israel entra en punto muerto político tras perder Netanyahu la mayoría parlamentaria",
+      "resumen": "La oposición israelí enfrenta el dilema de formar una coalición inédita con partidos árabes mientras los colonos temen la congelación de los asentamientos."
+    },
+    {
+      "titular": "DoorDash adquiere Instacart por 17.000 millones de dólares en la mayor fusión del 'e-grocery'",
+      "resumen": "La operación consolida el mercado del reparto de compras a domicilio bajo una sola plataforma para rentabilizar la compleja logística de última milla."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La pérdida de mayoría de Netanyahu abre un dilema inédito de alianzas con la minoría árabe",
+          "que_ha_pasado": "Tras las últimas elecciones en Israel, Benjamín Netanyahu ha quedado sin la mayoría parlamentaria necesaria para gobernar. La oposición sopesa ahora una alianza sin precedentes con formaciones políticas árabes para articular una alternativa de gobierno. Por su parte, las comunidades de colonos en Cisjordania expresan una creciente inquietud ante la posibilidad de que ministros ultras abandonen el Ejecutivo y se paralicen las políticas de expansión territorial.",
+          "por_que_importa": "La integración formal o el respaldo externo de partidos árabes a una coalición de gobierno transformaría el tablero político israelí, donde estas formaciones han sido históricamente marginadas de la gobernabilidad nacional. Para la estabilidad de Oriente Próximo, un cambio de alineación política en Jerusalén podría alterar la dinámica de los asentamientos e impactar en los frágiles acuerdos regionales de seguridad. El escenario expone la fractura social entre la agenda expansionista y la urgencia de refrescar el liderazgo político.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-30/el-miedo-de-los-colonos-israelies-a-un-gobierno-con-los-partidos-arabes-nadie-nos-protegera.html"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties"
+            }
+          ]
+        },
+        {
+          "titular": "La transición en la Siria post-Asad enfrenta su primera prueba por el fin de los subsidios",
+          "que_ha_pasado": "El nuevo Gobierno sirio liderado por Ahmed al-Sharaa se enfrenta a un creciente malestar social debido al aumento desenfrenado de los precios de productos básicos. La suspensión abrupta de los subsidios estatales ha erosionado el respaldo ciudadano inicial en plena fase de reconstrucción económica. El coste de la vida se perfila como el principal obstáculo para afianzar la estabilidad tras el régimen de Asad.",
+          "por_que_importa": "Las transiciones tras la caída de regímenes autoritarios suelen fracasar no por la violencia inmediata, sino por el colapso de la capacidad administrativa y el deterioro del bienestar social. Si la nueva administración en Damasco es incapaz de contener la inflación y asegurar el suministro mínimo a la población, el riesgo de fragmentación territorial y el resurgimiento de grupos extremistas aumentará de manera drástica.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "El desencanto democrático impulsa el apoyo al autoritarismo en África occidental",
+          "que_ha_pasado": "Un informe de la red Afrobarómetro constata un claro retroceso en la defensa de los derechos humanos y las libertades en la región de África occidental. Los ciudadanos muestran una receptividad creciente hacia regímenes autoritarios y juntas militares como solución a la inseguridad y el estancamiento económico. La tendencia coincide con una intensificación de la persecución de minorías y un aumento de las detenciones arbitrarias.",
+          "por_que_importa": "El deterioro de los estándares democráticos en el Sahel y el golfo de Guinea crea un entorno fértil para el alineamiento con potencias geopolíticas rivales de Occidente, como Rusia o China. La pérdida de legitimidad de la democracia formal ante la falta de resultados socioeconómicos complica el trabajo de organismos regionales como la CEDEAO e incrementa los flujos migratorios irregulares.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-30/los-derechos-retroceden-en-africa-occidental-pena-de-muerte-persecucion-de-homosexuales-y-arrestos-arbitrarios.html"
+            }
+          ]
+        },
+        {
+          "titular": "Letonia acelera la fabricación secreta de drones para reforzar la frontera de la OTAN",
+          "que_ha_pasado": "El Gobierno letón ha puesto en marcha un programa industrial militar reservado para la producción masiva de sistemas aéreos no tripulados. La iniciativa surge tras recientes incidentes con incursiones de aeronaves en su espacio aéreo y busca dotar de autonomía táctica a las Fuerzas Armadas del país báltico. La infraestructura no solo reforzará el blindaje de la frontera este de la Alianza Atlántica, sino que nutrirá de tecnología militar a sus aliados.",
+          "por_que_importa": "El conflicto en Ucrania ha demostrado que la supremacía táctica moderna depende de la capacidad de producir drones de bajo coste y alta escala, desplazando a la industria pesada tradicional. La iniciativa de Letonia consolida a los países bálticos como un polo de innovación en guerra electrónica y sistemas autónomos, reduciendo su dependencia directa del suministro armamentístico estadounidense.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-30/letonia-fabrica-un-pequeno-ejercito-de-drones-en-secreto-a-las-puertas-del-enemigo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Binance sufre un ciberataque histórico de 6.300 millones de dólares vinculado a Corea del Norte",
+          "que_ha_pasado": "La mayor plataforma de negociación de criptomonedas del mundo ha paralizado la retirada de fondos tras sufrir una vulneración de seguridad sin precedentes. El ataque, que supuso el robo de 6.300 millones de dólares, se inició mediante la infección del equipo portátil de uno de sus ingenieros. Firmas de ciberanálisis apuntan a la unidad estatal de ciberespionaje norcoreana TraderTraitor como responsable de la incursión.",
+          "por_que_importa": "Un ciberrobo de esta magnitud pone de relieve la vulnerabilidad sistémica que sigue aquejando a la infraestructura financiera descentralizada y a sus intermediarios centrales. Que actores estatales utilicen estas brechas para financiar actividades sancionadas internacionalmente acelerará las exigencias de regulación estricta en materia de seguridad cibernética sobre las plataformas globales.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Christine Lagarde adelanta su salida del BCE para asumir las riendas del Foro Económico Mundial",
+          "que_ha_pasado": "Christine Lagarde ha anunciado su dimisión como presidenta del Banco Central Europeo nueve meses antes de que expire su mandato oficial. La alta funcionaria argumentó su deseo de disponer de libertad de discurso para abordar la coyuntura geopolítica global desde la dirección del Foro Económico Mundial. Su marcha precipitada deja una vacante imprevista al frente de la política monetaria de la eurozona.",
+          "por_que_importa": "La dimisión anticipada de Lagarde abre un periodo de incertidumbre en el BCE justo cuando la economía europea bordea la recesión y la inflación da muestras de volatilidad. El proceso de sucesión desencadenará una intensa batalla diplomática entre las potencias del euro por el control de la institución central en una fase crítica para los tipos de interés.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+            }
+          ]
+        },
+        {
+          "titular": "DoorDash absorbe Instacart por 17.000 millones para dominar el mercado del 'e-grocery'",
+          "que_ha_pasado": "La compañía estadounidense de reparto DoorDash ha cerrado un acuerdo para adquirir su rival Instacart por 17.000 millones de dólares. Pese a la fusión de estructuras de capital, la empresa mantendrá la marca e interfaz de Instacart operando de forma independiente para los consumidores. El movimiento busca consolidar la división de entrega de alimentación a domicilio, históricamente una de las más complejas y costosas del sector.",
+          "por_que_importa": "El sector del reparto de comida a domicilio entra en una etapa de madurez donde la acumulación de volumen es la única vía para lograr márgenes operativos positivos. La integración de capacidades logísticas y bases de usuarios reduce la competencia de costes en EE. UU., marcando un patrón de consolidación que probablemente replicarán otras plataformas europeas y asiáticas.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery"
+            }
+          ]
+        },
+        {
+          "titular": "La contracción económica de Francia y las dudas sobre la IA sacuden las bolsas globales",
+          "que_ha_pasado": "El PIB francés cayó un 0,1% en el tercer trimestre presionado por el elevado coste energético y las altas tasas de interés. En paralelo, la publicación de resultados trimestrales de las grandes tecnológicas estadounidenses ha reavivado las dudas de los inversores sobre los elevados gastos de capital en inteligencia artificial. Esta combinación provocó caídas generalizadas en los mercados de renta variable desde Asia hasta Fráncfort y Wall Street.",
+          "por_que_importa": "La debilidad de la economía francesa confirma que el impacto del endurecimiento monetario aún lastra la actividad industrial del núcleo duro europeo. Al mismo tiempo, los mercados exigen a las grandes tecnológicas un retorno tangible sobre sus colosales inversiones en IA, abandonando el optimismo ciego que sostenía las valoraciones bursátiles.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/mercados/2026/10/30/ibex-intenta-resistir-tormenta-tecnologica.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/6f879bc5-be07-4a66-afea-bcbe73723a9f?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Reddit denuncia el impacto destructivo del modo IA de Google sobre el tráfico web",
+          "que_ha_pasado": "La directiva de Reddit ha confirmado desplomes de tráfico tras la implantación masiva de las respuestas generadas por inteligencia artificial en el buscador de Google. Ante esta pérdida de visibilidad en búsquedas orgánicas, la plataforma ha comenzado a virar hacia un modelo que exigirá el inicio de sesión para acceder a sus contenidos. Las cifras trimestrales de la compañía reflejan pérdidas de más de un millón de visitas directas desde buscadores.",
+          "por_que_importa": "El cambio de paradigma en las búsquedas mediante IA generativa amenaza el modelo de negocio básico de la web abierta, basado en el intercambio de contenido por tráfico y publicidad. Si las grandes plataformas cierran sus contenidos tras muros de registro para evitar ser exprimidas por los modelos de lenguaje, la red corre el riesgo de fragmentarse en jardines vallados impenetrables.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic"
+            }
+          ]
+        },
+        {
+          "titular": "Waymo se alía con Toyota para desplegar flotadores de robotaxis eléctricos en Japón y Reino Unido",
+          "que_ha_pasado": "Waymo ha alcanzado un acuerdo estratégico con el fabricante automovilístico Toyota para integrar sus sistemas de conducción autónoma en el modelo eléctrico bZ4X. Las pruebas operativas en vía pública comenzarán el próximo año en Japón como paso previo al desembarco en el mercado británico. La alianza expande la tecnología de Alphabet fuera del mercado estadounidense.",
+          "por_que_importa": "El acuerdo acelera la internacionalización del transporte autónomo de la mano del mayor fabricante mundial de vehículos, reduciendo drásticamente los costes de escalabilidad del hardware. Para la industria de la consultoría y la movilidad, la llegada de robotaxis comerciales a mercados con volante a la derecha marca un hito regulatorio y operativo clave.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/"
+            }
+          ]
+        },
+        {
+          "titular": "Intel agota sus chips económicos ante la rotación de demanda del mercado informático",
+          "que_ha_pasado": "La dirección de Intel ha comunicado que la demanda de sus microprocesadores asequibles de la gama Wildcat Lake ha superado completamente su capacidad de producción actual. Las existencias del chip enfocado a portátiles de gama media se han agotado en el mercado. Este repunte contrasta con las caídas de ingresos generales que sufre la división de semiconductores.",
+          "por_que_importa": "El agotamiento de inventario en la gama de entrada refleja un cambio en la conducta del consumidor y de las empresas, que priorizan el renuevo eficiente de equipos sobre las opciones de altísimo rendimiento. La capacidad de Intel para ajustar sus líneas de producción hacia estos componentes determinará la protección de sus márgenes frente a competidores como AMD y fabricantes basados en arquitectura ARM.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La tragedia de Urda colapsa la movilidad con Andalucía y abre una investigación sobre la señalización",
+          "que_ha_pasado": "El grave accidente ferroviario acontecido en Urda (Toledo) ha dejado decenas de fallecidos y heridos, interrumpiendo por completo la circulación de alta velocidad entre Madrid y el sur de la Península. Las familias de los desaparecidos afrontan horas complejas mientras los forenses avanzan en la identificación de los cuerpos. Expertos en ingeniería ferroviaria han criticado que la investigación apunte preliminarmente a fallos humanos, señalando la necesidad de auditar los sistemas automáticos de protección como el LZB.",
+          "por_que_importa": "Más allá del tremendo coste humano, el siniestro pone a prueba la resiliencia del sistema nacional de transportes en una fecha crítica de alta movilidad como el puente festivo. La polémica sobre si fallaron los protocolos de señalización o la supervisión humana tendrá consecuencias en la contratación de infraestructuras públicas, el régimen de responsabilidad de los operadores y la reforma técnica de las líneas de alta velocidad.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-10-30/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/madrid/2026/10/30/6ae3ab68fdddffc6708b4597.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/2026-10-30/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Neinor lanza una OPA de exclusión sobre Aedas para consumar la consolidación del sector promotor",
+          "que_ha_pasado": "La promotora inmobiliaria Neinor ha presentado una oferta pública de adquisición de exclusión a 24 euros por acción sobre Aedas Homes con el fin de sacarla de bolsa. Tras varias operaciones corporativas ejecutadas durante los dos últimos años, Neinor ya controla más del 98% del capital de su antigua rival. La transacción fija la valoración definitiva de la compañía absorbida.",
+          "por_que_importa": "La exclusión de bolsa de Aedas ratifica la tendencia de concentración en el mercado residencial español, donde los fondos de capital riesgo prefieren estructuras privadas para gestionar suelo y promociones. La creación de un gigante inmobiliario indiscutible reduce la fragmentación del mercado promotor, aunque limita las opciones de inversión cotizada directa en el ladrillo nacional.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://cincodias.elpais.com/companias/2026-10-30/neinor-lanzara-una-opa-de-exclusion-a-24-euros-por-su-antigua-competidora-aedas.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-10-30/neinor-lanzara-una-opa-de-exclusion-a-24-euros-por-su-antigua-competidora-aedas.html"
+            }
+          ]
+        },
+        {
+          "titular": "La Delegación del Gobierno exige desmantelar la acampada de la Puerta del Sol",
+          "que_ha_pasado": "La Delegación del Gobierno en Madrid ha remitido una notificación formal a los organizadores de la protesta instalada en la Puerta del Sol instándoles a abandonar la plaza. Las autoridades consideran que el derecho de reunión se ha ejercido suficientemente y que las circunstancias originarias de la convocatoria han cambiado. La carta pretende dar por finalizada la ocupación del espacio público.",
+          "por_que_importa": "El movimiento busca gestionar la tensión entre el derecho fundamental de manifestación y la restitución del orden urbano en un punto neurálgico para el comercio y el turismo madrileño. La resolución del conflicto medirá la capacidad del Ejecutivo central para desactivar protestas continuadas en la calle sin generar episodios de confrontación policial.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-10-30/delegacion-gobierno-madrid-carta-acampados-sol_4455830/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El sector editorial busca límites normativos ante la irrupción de obras generadas por IA",
+          "que_ha_pasado": "Sellos editoriales e instituciones culturales han abierto un debate urgente para fijar pautas éticas y jurídicas sobre la inteligencia artificial en la creación literaria. La controversia se ha intensificado tras la detección de contenido sintético en obras presentadas a certámenes y publicadas comercialmente. La industria busca fórmulas para proteger la propiedad intelectual y la autoría humana sin bloquear la innovación tecnológica.",
+          "por_que_importa": "El debate no es solo estético sino estrictamente económico: la proliferación de textos generados por algoritmos amenaza los modelos de derechos de autor y la valoración del trabajo creativo. La falta de un etiquetado claro o de un marco legal unificado deja en desamparo tanto a los creadores como a los lectores frente a la automatización del catálogo cultural.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-30/el-mundo-editorial-busca-como-marcar-las-lineas-rojas-en-el-uso-de-la-ia.html"
+            }
+          ]
+        },
+        {
+          "titular": "Una alianza ecologista respaldada por Attenborough adquiere la emblemática finca Rothbury",
+          "que_ha_pasado": "Un consorcio de organizaciones de conservación del Reino Unido ha completado la compra de la extensa propiedad de Rothbury por 30 millones de libras. La operación contó con el apoyo público y financiero del naturalista David Attenborough. La adquisición asegurará la protección de miles de hectáreas para proyectos de reforestación y recuperación de fauna autóctona.",
+          "por_que_importa": "La compra ilustra la efectividad del filantrocismo ambiental y la inversión privada en la preservación del patrimonio natural frente al desarrollo inmobiliario o la explotación agraria intensiva. Este modelo de gestión de reservas biológicas sienta un precedente sobre cómo la sociedad civil puede asumir la propiedad de ecosistemas clave para cumplir objetivos de biodiversidad.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Ataque a la cadena de suministro de software (Software Supply Chain Attack)",
+    "explicacion": "Ocurre cuando los ciberdelincuentes no atacan directamente la red central de una organización, sino que vulneran a un tercero de confianza —un proveedor de software, un contratista o un dispositivo con accesos privilegiados— para penetrar en el sistema objetivo. Al comprometer este eslabón intermedio, los atacantes heredan las credenciales y permisos de la víctima primaria, burlando los cortafuegos y controles perimetrales tradicionales. Es una estrategia de alto impacto, ya que permite acceder a infraestructuras críticas o grandes bases de datos utilizando canales legítimos de la propia organización.",
+    "ejemplo": "El ciberataque de 6.300 millones de dólares a la plataforma de criptomonedas Binance, perpetrado mediante la infección previa del ordenador portátil de un ingeniero de la empresa."
+  },
+  "fecha": "2026-10-30"
+}
