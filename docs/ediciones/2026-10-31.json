@@ -1,0 +1,254 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "La UE y Canadá estrechan lazos estratégicos frente a las tensiones globales",
+      "resumen": "La cumbre de Montreal concluye con un acuerdo para reforzar la cooperación bilateral en comercio, seguridad energética y cadenas de suministro críticas."
+    },
+    {
+      "titular": "Choque institucional en Polonia tras la suspensión del presidente del Tribunal Constitucional",
+      "resumen": "La medida ordenada por el Gobierno de Donald Tusk eleva la tensión con la oposición ultraconservadora, que denuncia un quebrantamiento del orden constitucional."
+    },
+    {
+      "titular": "El desplome de las tecnológicas arrastra a los mercados por las dudas sobre la rentabilidad de la IA",
+      "resumen": "Wall Street sufre fuertes correcciones tras unos resultados trimestrales que avivan el escepticismo sobre los retornos del masivo gasto en infraestructura de IA."
+    },
+    {
+      "titular": "Binance sufre un ciberataque masivo de 6.300 millones de dólares atribuido a Corea del Norte",
+      "resumen": "El mayor robo de criptomonedas registrado obliga a la plataforma a congelar fondos e intervenir para cubrir el impacto patrimonial de los clientes."
+    },
+    {
+      "titular": "Investigación política y técnica tras el grave accidente ferroviario de Urda",
+      "resumen": "El Ministerio de Transportes y los operadores implicados afrontan la gestión de la crisis tras completarse la identificación de las víctimas fatales."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La UE y Canadá acuerdan una nueva alianza estratégica en la cumbre de Montreal",
+          "que_ha_pasado": "La presidenta de la Comisión Europea, Ursula von der Leyen, y el presidente del Consejo Europeo, António Costa, mantuvieron una reunión de dos días en Montreal con el primer ministro canadiense, Mark Carney. La cita concluyó con el compromiso de profundizar las alianzas en materia de comercio, tecnología y aprovisionamiento energético.",
+          "por_que_importa": "Para la Unión Europea, diversificar sus lazos comerciales con democracias occidentales afines es una prioridad para reducir dependencias estratégicas de competidores autoritarios. El acuerdo fortalece el marco del tratado CETA y sitúa a Canadá como un socio clave en el suministro de minerales críticos indispensables para la transición digital y verde.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/special-episode-an-exclusive-interview-with-canadian-pm-mark-carney/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La suspensión del presidente del Tribunal Constitucional desata una grave crisis institucional en Polonia",
+          "que_ha_pasado": "La suspensión del máximo responsable del Tribunal Constitucional polaco ha desatado un agrio enfrentamiento entre el Ejecutivo y la oposición. Mientras el Gobierno de Donald Tusk defiende la medida como necesaria para restaurar la independencia judicial, los conservadores acusan al Gabinete de ejecutar un golpe institucional.",
+          "por_que_importa": "La independencia de la judicatura polaca ha sido la principal manzana de la discordia entre Varsovia y Bruselas durante la última década. Aunque el Ejecutivo proeuropeo de Tusk busca normalizar relaciones con la UE, la resistencia de las estructuras nombradas por el anterior régimen demuestra la enorme complejidad de revertir el deterioro institucional sin generar mayor inestabilidad.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-30/el-presidente-de-polonia-regresa-a-su-pais-en-pleno-vuelo-a-senegal-por-una-crisis-en-el-tribunal-constitucional.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/internacional/2026-10-30/el-presidente-de-polonia-regresa-a-su-pais-en-pleno-vuelo-a-senegal-por-una-crisis-en-el-tribunal-constitucional.html"
+            }
+          ]
+        },
+        {
+          "titular": "El veto cruzado entre Rusia y EE. UU. paraliza la misión de la ONU en el Sáhara Occidental",
+          "que_ha_pasado": "El Consejo de Seguridad de Naciones Unidas no ha logrado renovar el mandato de la misión MINURSO debido al bloqueo diplomático entre Washington y Moscú. Rusia ha rechazado la propuesta estadounidense que respaldaba el plan de autonomía marroquí como única base de negociación.",
+          "por_que_importa": "La maniobra rusa desbarata la estrategia de Estados Unidos de afianzar la soberanía marroquí tras los Acuerdos de Abraham. Este bloqueo evidencia cómo las tensiones entre grandes potencias continúan paralizando los organismos multilaterales, convirtiendo los conflictos regionales congelados en escenarios de disputa geopolítica indirecta.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-10-30/el-cruce-de-vetos-entre-rusia-y-ee-uu-deja-en-el-aire-la-mision-de-la-onu-en-el-sahara.html"
+            }
+          ]
+        },
+        {
+          "titular": "Joseph Kabila reaparece en la escena política de la RD del Congo al mando de una milicia rebelde",
+          "que_ha_pasado": "El expresidente de la República Democrática del Congo, Joseph Kabila, ha hecho pública la creación de una nueva organización armada para oponerse al Gobierno central. El paso consuma la abierta ruptura de Kabila con la actual administración del país africano.",
+          "por_que_importa": "La incursión de un expresidente en la vía insurgente amenaza con avivar la inestabilidad en el este del Congo, una región rica en recursos minerales donde ya operan decenas de milicias. La reactivación de este foco de conflicto incrementa el riesgo operativo para las cadenas de suministro globales de materias primas críticas como el cobalto y el coltán.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Los mercados castigan al sector tecnológico por las dudas sobre la rentabilidad de la IA",
+          "que_ha_pasado": "Una ola de ventas en las bolsas estadounidenses ha restado casi un billón de dólares de capitalización en las grandes compañías tecnológicas. La reacción negativa de los inversores responde a unos resultados trimestrales que no muestran retornos proporcionales a los elevados desembolsos en inteligencia artificial.",
+          "por_que_importa": "El mercado financiero está pasando de una etapa de optimismo especulativo a una de exigencia de disciplina de capital. Si las grandes empresas tecnológicas no logran monetizar la IA con rapidez a través de incrementos claros de productividad o ingresos, la sostenibilidad del enorme esfuerzo inversor en infraestructura digital quedará seriamente cuestionada.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-10-31/otra-sacudida-tecnologica-a-las-puertas-de-recibir-a-anthropic.html"
+            }
+          ]
+        },
+        {
+          "titular": "Corea del Norte es señalada como responsable del ciberataque de 6.300 millones de dólares a Binance",
+          "que_ha_pasado": "La plataforma de intercambio de criptomonedas Binance ha sufrido una intrusión cibernética que se ha saldado con la pérdida de 6.300 millones de dólares en activos digitales. Diversas firmas de ciberseguridad atribuyen la autoría del incidente a grupos vinculados al régimen norcoreano.",
+          "por_que_importa": "Se trata del mayor atraco financiero de la historia y pone de relieve cómo el ciberdelito estatal se ha convertido en un pilar de financiación para países sujetos a severas sanciones internacionales. El incidente forzará una aceleración de la regulación global sobre las medidas de custodia y liquidez de las plataformas de criptoactivos.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack"
+            }
+          ]
+        },
+        {
+          "titular": "La banca española encadena su quinto año consecutivo de beneficios récord",
+          "que_ha_pasado": "Las previsiones del sector bancario español señalan que 2026 cerrará de nuevo con ganancias históricas para las principales entidades. El mantenimiento de márgenes sólidos y el control de la morosidad sostienen esta racha de rentabilidad.",
+          "por_que_importa": "El sector financiero español se ha visto fuertemente favorecido por el entorno prolongado de tipos de interés altos, que ha disparado el margen de intereses. El reto futuro residirá en preservar estos niveles de rentabilidad a medida que el ciclo monetario comience a relajarse y el volumen de crédito repunte de forma moderada.",
+          "fuentes": [
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/banca/2026/10/31/banca-espanola-enfila-quinto-ano-consecutivo-beneficios.html"
+            }
+          ]
+        },
+        {
+          "titular": "La depreciación del real brasileño tras las elecciones presiona a la baja los precios agrícolas mundiales",
+          "que_ha_pasado": "La divisa de Brasil ha registrado fuertes caídas tras los resultados de los comicios en el país, lo que ha abaratado sustancialmente sus exportaciones agropecuarias. Esta coyuntura ha provocado un retroceso generalizado en las cotizaciones internacionales de los granos.",
+          "por_que_importa": "Brasil es el mayor exportador mundial de productos como la soja o el azúcar. Un real débil incrementa la competitividad de sus agricultores en los mercados globales, lo que erosiona el poder de negociación de los productores de Estados Unidos y Europa en un momento de tensión en los costes de insumos agrícolas.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/f0ca6771-20a2-4146-bd3f-4796d3c86094?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Apple planea el despliegue de sus servicios de inteligencia artificial en China",
+          "que_ha_pasado": "Apple ha confirmado que sus funciones de IA desembarcarán en el mercado chino con la versión beta de iOS 27.3 en noviembre. La compañía estadounidense busca así relanzar sus ventas en el ecosistema asiático.",
+          "por_que_importa": "Operar herramientas de inteligencia artificial en China exige un cumplimiento estricto con los requisitos locales de auditoría de algoritmos y localización de datos impuestos por Beijing. Superar este filtro es indispensable para que Apple frene el avance de competidores locales que ganan cuota en el segmento de gama alta.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3"
+            }
+          ]
+        },
+        {
+          "titular": "El auge de los centros de datos choca con la capacidad de la red eléctrica y la normativa ambiental",
+          "que_ha_pasado": "Informes del sector energético en España advierten de que la instalación masiva de centros de datos requiere reformas estructurales en la red de distribución que no se resuelven solo sumando potencia renovable. Paralelamente, en Finlandia, Google afronta pesquisas judiciales tras desbrozar 330 hectáreas de bosque para construir una instalación de servidores.",
+          "por_que_importa": "La expansión de la nube y la IA exige un volumen sin precedentes de energía de respaldo continua y espacio físico. Estos cuellos de botella ponen en evidencia la desconexión entre los objetivos de descarbonización de la Unión Europea y la realidad operacional de las grandes infraestructuras digitales.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/energia/estudio-explica-que-espana-1-gw-centros-datos-no-se-solucionara-instalando-simplemente-1-gw-renovables"
+            }
+          ]
+        },
+        {
+          "titular": "Nvidia evalúa actuar como avalista bancario para financiar infraestructuras de IA",
+          "que_ha_pasado": "El fabricante de chips Nvidia contempla la opción de respaldar crediticiamente los préstamos solicitados por empresas de datacenters, como Nscale en Virginia Occidental, para acelerar la construcción de sus instalaciones.",
+          "por_que_importa": "El movimiento pone de manifiesto la necesidad de la industria de seguir canalizando liquidez hacia los centros de computación ante la cautela del sector financiero tradicional. Al actuar como avalista, el propio fabricante asume riesgo de crédito para garantizar la venta continua de sus semiconductores.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Investigación técnica y tensión política tras la tragedia ferroviaria en la línea de Urda",
+          "que_ha_pasado": "Las autoridades han concluido la identificación de las víctimas del descarrilamiento en Urda, mientras la investigación se centra en Adif, los operadores Renfe e Iryo y los suministradores tecnológicos Thales e Hitachi Rail. El ministro Óscar Puente defendió la gestión del sistema ferroviario en una tensa comparecencia parlamentaria.",
+          "por_que_importa": "Este accidente sitúa bajo máxima exigencia la supervisión de la red de alta velocidad española, uno de los pilares de la infraestructura nacional. La asignación de responsabilidades contractuales o de mantenimiento impactará en los futuros pliegos de contratación pública y en la reputación del sector ferroviario español a nivel internacional.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/10/31/6ae4fedffc6c836b7a8b4593.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-10-31/de-las-tecnologicas-del-lzb-a-las-operadoras-de-trenes-cuales-son-las-empresas-presentes-en-el-accidente-de-urda.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Planetario de Madrid cumple 40 años como referente de divulgación científica",
+          "que_ha_pasado": "El Planetario de Madrid conmemora cuatro décadas de funcionamiento en el parque Enrique Tierno Galván tras haber superado los siete millones de visitantes desde su apertura en 1986.",
+          "por_que_importa": "La efeméride resalta el valor institucional de la divulgación científica continuada. En una economía cada vez más dependiente del talento técnico, consolidar la cultura científica en el espacio urbano resulta clave para incentivar vocaciones tempranas en áreas STEM.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-10-31/planetario-madrid-40-anos-astronomia-ciencia_4455781/"
+            }
+          ]
+        },
+        {
+          "titular": "Los antiguos cines Verdi de Madrid abren una nueva etapa convertidos en espacio teatral",
+          "que_ha_pasado": "Las emblemáticas salas de exhibición cinematográfica Verdi han culminado su proceso de reconversión para reabrir como el Teatro Espacio Alma, una sala centrada en propuestas escénicas de carácter comunitario.",
+          "por_que_importa": "La transformación de los cines tradicionales en espacios polivalentes muestra la readaptación del tejido cultural en las grandes ciudades, que busca fórmulas económicamente sostenibles ante la mutación de los hábitos de consumo de ocio audiovisual.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-10-31/alma-teatral-antiguos-cines-verdi_4456218/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La RAE defiende la solidez del español frente a la influencia de los extranjerismos",
+          "que_ha_pasado": "Durante la presentación de la 24ª edición del Diccionario de la Lengua Española, el director de la RAE, Santiago Muñoz Machado, rechazó que el auge del inglés suponga un deterioro estructural para el idioma español.",
+          "por_que_importa": "La preservación de la unidad y vigencia del español en los entornos digitales y científicos constituye un elemento central de proyección geopolítica e industrial para la comunidad hispanohablante a nivel global.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-31/santiago-munoz-machado-director-de-la-rae-el-ingles-no-esta-destrozando-el-espanol.html"
+            }
+          ]
+        },
+        {
+          "titular": "Michel Houellebecq analiza la creación literaria y el encasillamiento político en Bilbao",
+          "que_ha_pasado": "El autor francés Michel Houellebecq participó en el Ja! Festival de Bilbao, donde reflexionó sobre el papel de la sátira en su narrativa y el debate sobre las etiquetas ideológicas que se atribuyen a su obra.",
+          "por_que_importa": "Houellebecq se mantiene como una de las miradas más incisivas para analizar las contradicciones de la sociedad europea contemporánea, abordando cuestiones como el declive demográfico y la alienación en las sociedades postindustriales.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-10-31/michel-houellebecq-escritor-es-agotador-que-te-llamen-escritor-facha-pero-uno-termina-por-resignarse.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Petición de margen (Margin call)",
+    "explicacion": "Una petición de margen ocurre cuando el valor de la cuenta de valores de un inversor cae por debajo del nivel mínimo requerido por el intermediario financiero debido a pérdidas en posiciones financiadas con endeudamiento. Para mantener la operativa abierta, el inversor debe aportar fondos adicionales o garantías colaterales de forma inmediata. Si no se atiende el requerimiento en el plazo estipulado, la entidad liquida de manera ejecutiva y automática los activos de la cuenta al precio de mercado existente para limitar el riesgo de crédito asumido por el bróker.",
+    "ejemplo": "Durante la reciente racha de ventas masivas en el sector tecnológico, varios fondos que operaban apalancados recibieron peticiones de margen que los obligaron a vender activos a la desesperada para restablecer las garantias requeridas."
+  },
+  "fecha": "2026-10-31"
+}
