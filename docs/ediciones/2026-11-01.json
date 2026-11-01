@@ -1,0 +1,239 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Oleada de protestas masivas en Alemania y Francia por la subida del coste de la vida",
+      "resumen": "Decenas de miles de ciudadanos se movilizan en las principales ciudades europeas exigiendo medidas contra la inflación, en jornadas que registraron saqueos en territorio alemán."
+    },
+    {
+      "titular": "EE. UU. acusa a Corea del Norte del ciberataque de 6.300 millones de dólares contra Binance",
+      "resumen": "El FBI vincula al grupo estatal TraderTraitor con el mayor atraco cripto registrado hasta la fecha, mientras la plataforma afirma haber repuesto el 90 % de los activos robados."
+    },
+    {
+      "titular": "Las petroleras se niegan a ampliar la capacidad de refinado pese al encarecimiento del combustible",
+      "resumen": "Las grandes compañías prefieren consolidar dividendos antes que invertir a largo plazo en plantas de refinado, anticipando el fin de la era de los combustibles fósiles."
+    },
+    {
+      "titular": "Alemania incumple sus objetivos de reservas de gas e incrementa la presión sobre los precios europeos",
+      "resumen": "Al no alcanzar las metas fijadas para el invierno, Berlín acudirá masivamente al mercado al contado, lo que amenaza con encarecer la energía en todo el continente."
+    },
+    {
+      "titular": "La expansión de los centros de datos para IA irrumpe en la política electoral de EE. UU.",
+      "resumen": "El elevado consumo energético e impacto ambiental de las infraestructuras tecnológicas se convierten en eje del debate político local previo a las elecciones de medio mandato."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Las protestas masivas contra la subida del coste de la vida se extienden por Alemania y Francia",
+          "que_ha_pasado": "Decenas de miles de manifestantes han marchado en ciudades alemanas como Berlín y Hamburgo, sumándose a las movilizaciones que paralizan Francia por tercera semana consecutiva. En varios puntos de Alemania las protestas degeneraron en disturbios y saqueos de comercios.",
+          "por_que_importa": "La persistente inflación y el encarecimiento energético están erosionando la cohesión social e incrementando la presión política sobre las coaliciones de gobierno europeas. Este malestar social amenaza con traducirse en mayor polarización y avance de posiciones euroescépticas en los próximos ciclos electorales.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/france-youth-protests-cost-of-living-spread-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La oposición india se moviliza masivamente exigiendo la dimisión del jefe del comité electoral",
+          "que_ha_pasado": "Las fuerzas de oposición de India han convocado grandes manifestaciones en Nueva Delhi para exigir la renuncia del responsable de la comisión electoral nacional. Las protestas responden al proceso de revisión del censo, que podría excluir a unos 130 millones de votantes de las listas oficiales.",
+          "por_que_importa": "El censo electoral es la columna vertebral de la legitimidad democrática en el país más poblado del mundo. La supuesta exclusión arbitraria de electores profundiza la desconfianza institucional en India y erosiona su imagen exterior como contrapeso democrático en la región Indopacífica.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
+            }
+          ]
+        },
+        {
+          "titular": "EE. UU. atribuye a ciberdelincuentes norcoreanos el ciberataque récord de 6.300 millones de dólares a Binance",
+          "que_ha_pasado": "El FBI ha identificado al grupo estatal norcoreano TraderTraitor como responsable del ciberataque a Binance, en el que se sustrajeron 6.300 millones de dólares. La plataforma de criptomonedas asegura haber repuesto el 90 % de los fondos de sus clientes y reanudado las retiradas.",
+          "por_que_importa": "Demuestra que los ataques patrocinados por Estados nación han alcanzado una escala capaz de comprometer infraestructuras financieras globales. Para Corea del Norte, estos ciberataques multimillonarios representan una vía fundamental para esquivar las sanciones internacionales y financiar sus programas armamentísticos.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto"
+            }
+          ]
+        },
+        {
+          "titular": "La UE advierte de que el retorno de Putin al G20 corre el riesgo de normalizar los crímenes de guerra",
+          "que_ha_pasado": "La jefa de la diplomacia europea, Kaja Kallas, ha rechazado tajantemente la posible reintegración de Vladimir Putin en las cumbres del G20. Kallas advirtió de que invitar de nuevo al líder ruso enviaría un mensaje de impunidad tras los acontecimientos en Ucrania.",
+          "por_que_importa": "Ilustra las fricciones internas y occidentales sobre la estrategia de aislamiento a Moscú a medida que se prolonga el conflicto. Para la UE, mantener el cordón sanitario diplomático es vital para preservar el principio de inviolabilidad territorial y el derecho internacional.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/kaja-kallas-vladimir-putin-g20-return-risks-normalizing-russian-war-crimes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Las grandes petroleras frenan el gasto en refinerías a pesar de los elevados márgenes del combustible",
+          "que_ha_pasado": "A pesar de que los conflictos en Oriente Próximo y Ucrania han reducido la oferta y elevado los precios de los carburantes, los gigantes petroleros rechazan invertir en nueva capacidad de refinado. La industria prefiere maximizar el flujo de caja actual antes que comprometer capital a largo plazo.",
+          "por_que_importa": "Revela un cambio estructural en el sector energético, que asume que la transición ecológica limitará la demanda futura de refinados. Sin embargo, a corto plazo esta contención inversora mantendrá tensionados los precios de la gasolina y el diésel, alimentando la inflación global.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/4d63f08d-3556-4d84-8e1d-40f866741d15?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Alemania incumple su objetivo de almacenamiento de gas e impacta en el mercado energético europeo",
+          "que_ha_pasado": "La mayor economía de la Unión Europea no ha logrado alcanzar sus metas de reservas de gas natural para el invierno. Esta situación forzará a Berlín a realizar compras masivas en el mercado al contado en los próximos meses.",
+          "por_que_importa": "El recurso al mercado al contado por parte de un comprador con el volumen de Alemania incrementa la volatilidad de precios en todo el bloque comunitario. Además, demuestra la fragilidad de la seguridad energética europea ante perturbaciones imprevistas en la cadena de suministro.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/99b0bbf1-4604-4e56-bc66-9f49d2814737?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Elon Musk bate récords al destinar 446 millones de dólares a las elecciones de medio mandato en EE. UU.",
+          "que_ha_pasado": "El empresario Elon Musk ha aportado 446 millones de dólares en donaciones para respaldar candidaturas republicanas en el presente ciclo electoral. La cifra sitúa al magnate como el mayor donante individual en la historia reciente de la política estadounidense.",
+          "por_que_importa": "Pone de relieve el peso creciente de la riqueza tecnológica en la financiación política de Estados Unidos tras las desregulaciones del Tribunal Supremo. Asimismo, consolida la alineación directa del sector tecnológico ultraliberal con el Partido Republicano.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized"
+            }
+          ]
+        },
+        {
+          "titular": "El fondo cuantitativo Xantium se escinde de Tudor en un lanzamiento histórico de 9.000 millones de dólares",
+          "que_ha_pasado": "El grupo de inversión Xantium se independizará el próximo año del imperio financiero controlado por el multimillonario Paul Tudor Jones II. La operación supone la creación de un fondo cuantitativo independiente con un volumen inicial récord de 9.000 millones de dólares.",
+          "por_que_importa": "Refleja la fuerte demanda institucional por estrategias cuantitativas automatizadas frente a la gestión tradicional en un entorno de elevada volatilidad. La magnitud de la escisión marca un hito en la reestructuración de la industria de los hedge funds.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/8ee19897-1d15-4dd7-8ca8-162c4ea22b3a?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "El despliegue de centros de datos para IA irrumpe en la agenda electoral local en EE. UU.",
+          "que_ha_pasado": "El debate sobre el consumo energético y el impacto urbano de las infraestructuras de inteligencia artificial ha llegado a la campaña electoral en zonas urbanas como Brooklyn. Los centros de datos han pasado de ser un tema técnico a un argumento de discusión política entre candidatos locales.",
+          "por_que_importa": "Demuestra que la huella física y ambiental de la IA ya compite con temas clave de la política municipal, como la vivienda o el empleo. Para el sector consultor y tecnológico, anticipar la regulación y la resistencia vecinal será tan crucial como la propia capacidad de cómputo.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+            }
+          ]
+        },
+        {
+          "titular": "Tim Cook defiende la prudencia de Apple en la carrera de la inteligencia artificial",
+          "que_ha_pasado": "El consejero delegado de Apple, Tim Cook, se ha reafirmado en la postura cautelosa de la compañía al asegurar que no lanzarán soluciones de IA puramente por subirse a la moda. El directivo argumenta que las funciones deben aportar valor práctico directo a los usuarios.",
+          "por_que_importa": "Marca una distancia estratégica respecto a rivales como Microsoft o Google, que priorizan el despliegue acelerado de modelos de lenguaje masivos. La decisión de Apple subraya el riesgo de saturación del mercado con funciones de IA redundantes o poco probadas.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+            }
+          ]
+        },
+        {
+          "titular": "La FDA afronta un dilatado proceso legal para retirar un medicamento aprobado con datos manipulados",
+          "que_ha_pasado": "El regulador farmacéutico de EE. UU. busca revocar la autorización del fármaco Tavneos tras detectar que el ensayo clínico inicial contenía datos alterados. No obstante, las trabas burocráticas y legales impiden retirar de inmediato el fármaco del mercado.",
+          "por_que_importa": "Pone en evidencia las vulnerabilidades del sistema de supervisión farmacéutica cuando la integridad científica se ve comprometida. Además, plantea un dilema ético y legal sobre el acceso continuado de los pacientes a tratamientos bajo sospecha técnica.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Polémica política por la alta presencia mediática del ministro Óscar López en la televisión pública",
+          "que_ha_pasado": "La habitual participación del secretario general del PSOE-M y ministro en espacios de TVE, con más de 50 intervenciones en dos años, ha generado críticas sobre la neutralidad de la cadena. Sectores de la oposición interpretan esta exposición como una campaña de visibilidad institucional preconcebida.",
+          "por_que_importa": "El uso de las plataformas públicas de radiodifusión en periodos preelectorales reabre el debate recurrente sobre la gobernanza y la independencia editorial de TVE. Este caso subraya las tensiones estructurales en la comunicación política institucional en España.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/madrid/2026-11-01/oscar-lopez-rival-ayuso-ministro-mananeros-entrevistas-tve_4456229/"
+            }
+          ]
+        },
+        {
+          "titular": "Un amplio operativo policial frena la celebración de fiestas ilegales en Barcelona durante Halloween",
+          "que_ha_pasado": "Las fuerzas de seguridad en Cataluña desplegaron un dispositivo preventivo en diez puntos clave para evitar la convocatoria de raves no autorizadas. La intervención impidió incidentes graves, mientras en Madrid la jornada discurrió con normalidad.",
+          "por_que_importa": "Las intervenciones policiales preventivas responden al incremento de grandes fiestas clandestinas que eluden normativas de aforo y seguridad. Muestra la creciente coordinación de las fuerzas de seguridad autonómicas para gestionar eventos de alta concurrencia juvenil.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-11-01/barcelona-halloween-dispositivo-seguridad-sin-incidentes-1hms_4457046/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El grupo satírico 'Everyone Hates Elon' utiliza el activismo de guerrilla contra las élites tecnológicas",
+          "que_ha_pasado": "Un colectivo de acción satírica ha captado la atención mediática tras sabotear eventos publicitarios e infraestructuras vinculadas a figuras como Elon Musk, Jeff Bezos y Mark Zuckerberg. El grupo sostiene que el objetivo es visibilizar la concentración extrema de riqueza en el sector tecnológico.",
+          "por_que_importa": "Muestra el resurgimiento del activismo cultural y político enfocado directamente en la percepción pública de los magnates de la tecnología. Estas acciones reflejan un cambio en la narrativa pública respecto al prestigio social de las grandes corporaciones de Silicon Valley.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-01/detras-de-la-guerrilla-de-everyone-hates-elon-y-sus-tres-lecciones-para-acabar-con-los-superricos.html"
+            }
+          ]
+        },
+        {
+          "titular": "Hallan en Gales una especie rara de escarabajo que se daba por extinguida desde hace seis décadas",
+          "que_ha_pasado": "Investigadores y entomólogos han vuelto a localizar ejemplares del escarabajo aceitero de cuello corto en Gales tras 60 años sin avistamientos en la región. El hallazgo confirma que la especie ha mantenido una población discreta en hábitats preservados.",
+          "por_que_importa": "Supone un hito para la biodiversidad local y aporta información valiosa sobre la resiliencia de los insectos amenazados frente al cambio climático. Destaca la importancia de los programas continuados de prospección biológica para la conservación medioambiental.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Crack spread (Margen de refinado)",
+    "explicacion": "El 'crack spread' es la diferencia de precio entre el petróleo crudo y los productos refinados derivados de él, como la gasolina o el diésel. Este indicador mide la rentabilidad teórica de las plantas de refinado. Cuando la capacidad global de procesado se reduce debido a tensiones geopolíticas o a la falta de inversión continuada, la brecha de precio se ensancha. Esto permite a las empresas energéticas registrar beneficios extraordinarios en la fase de transformación sin necesidad de incrementar el volumen total de extracción de petróleo.",
+    "ejemplo": "La reciente negativa de las petroleras a construir nuevas refinerías ha mantenido elevados los márgenes de refinado globales a causa de la escasez de oferta, elevando los precios en surtidor a pesar de la estabilidad en el precio del crudo."
+  },
+  "fecha": "2026-11-01"
+}
