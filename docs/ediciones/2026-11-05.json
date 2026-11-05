@@ -1,0 +1,264 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Vuelco electoral en EE. UU.: los demócratas toman el Congreso y fracturan el mensaje republicano",
+      "resumen": "El Partido Demócrata conquista la mayoría parlamentaria tras ganar en plazas clave como Mississippi, mientras J. D. Vance achaca la derrota a la impopularidad de la guerra en Irán."
+    },
+    {
+      "titular": "Hong Kong asesta otro golpe a la oposición y condena a Joshua Wong a diez años más de cárcel",
+      "resumen": "La justicia hongkonesa impone una nueva pena al activista bajo la Ley de Seguridad Nacional, dinamitando sus opciones de salir en libertad a principios de 2027."
+    },
+    {
+      "titular": "El Gobierno de España elevará el salario mínimo hasta los 1.286 euros mensuales en 2027",
+      "resumen": "El Ministerio de Trabajo fija un incremento del 5,3% para el próximo año, rebasando la recomendación del panel de expertos pero manteniendo la compensación de pluses."
+    },
+    {
+      "titular": "Acesur y Dcoop compran Deoleo por 520 millones para blindar el control español del grupo",
+      "resumen": "La alianza nacional se impone a la oferta italiana para hacerse con la matriz de marcas emblemáticas como Carbonell y consolidar la cadena de valor olivarera."
+    },
+    {
+      "titular": "Qualcomm vira hacia la infraestructura de IA ante el continuo desgaste de la telefonía móvil",
+      "resumen": "Con las ventas de procesadores para smartphones cayendo un 20%, el diseñador tecnológico acuerda alianzas como la de Amazon para volcarse en los centros de datos."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Los demócratas ganan el Congreso de EE. UU. e inician el debate sobre la guerra en Irán",
+          "que_ha_pasado": "El Partido Demócrata ha logrado el control del Congreso estadounidense tras arrebatar escaños clave a los republicanos en las elecciones legislativas de mitad de mandato. El propio vicepresidente J. D. Vance ha reconocido públicamente que la intervención militar en Irán ha sido el desencadenante directo del castigo electoral sufrido por su formación.",
+          "por_que_importa": "El cambio de mayorías en el poder legislativo merma severamente la capacidad de la Administración Trump para tramitar presupuestos y mantener su agenda exterior sin cortapisas. Aunque el presidente conserva la capacidad de veto ejecutivo, la nueva composición parlamentaria tratará de condicionar el gasto militar en Oriente Próximo, el envío de ayuda a Ucrania y el despliegue de nuevos aranceles comerciales.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/berlin-playbook-podcast/donald-trump-von-allmachtig-zu-ohnmachtig/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Hong Kong impone una nueva condena de diez años de prisión al activista Joshua Wong",
+          "que_ha_pasado": "La justicia hongkonesa ha dictado una pena adicional de diez años de cárcel contra Joshua Wong por supuesta colusión con potencias extranjeras. El líder prodemocrático, que tenía previsto salir en libertad a principios del próximo año, ha recibido esta sentencia tras argumentarse que solicitó medidas de presión a Washington.",
+          "por_que_importa": "Este fallo consagra el desmantelamiento sistemático de la oposición política y de los derechos civiles en el territorio bajo el amparo de la Ley de Seguridad Nacional aprobada por Pekín. Para la comunidad internacional, el caso simboliza la liquidación práctica del principio «un país, dos sistemas» y la asimilación plena de Hong Kong al marco penal autoritario del continente.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-05/hong-kong-condena-a-otros-10-anos-de-prision-al-activista-joshua-wong-que-debia-salir-de-prision-el-proximo-enero.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/internacional/2026-11-05/hong-kong-condena-a-otros-10-anos-de-prision-al-activista-joshua-wong-que-debia-salir-de-prision-el-proximo-enero.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/11/05/6aec0fae21efa0a21a8b4579.html"
+            }
+          ]
+        },
+        {
+          "titular": "Fallece en Berlín Hubert Aiwanger, viceprimer ministro de Baviera",
+          "que_ha_pasado": "El dirigente del partido conservador Electores Libres y viceprimer ministro bávaro ha sido encontrado sin vida en un hotel de Berlín. Aiwanger se había desplazado a la capital alemana para presidir la inauguración formal de la sede nacional de su grupo político.",
+          "por_que_importa": "La repentina desaparición de una de las figuras más influyentes del conservadurismo regional introduce incertidumbre en el equilibrio de gobierno en Baviera y en las dinámicas del espacio político de la derecha alemana. Su formación se enfrenta ahora a un complejo proceso de sucesión interna en un momento de reconfiguración de alianzas federales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-05/hallado-muerto-en-un-hotel-de-berlin-hubert-aiwanger-viceprimer-ministro-de-baviera.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/internacional/2026-11-05/hallado-muerto-en-un-hotel-de-berlin-hubert-aiwanger-viceprimer-ministro-de-baviera.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Wall Street sube y el petróleo cae de los 100 dólares tras los resultados electorales en EE. UU.",
+          "que_ha_pasado": "Las bolsas estadounidenses reaccionaron al alza y el precio del barril de crudo descendió por debajo de los 100 dólares tras confirmarse la victoria demócrata en el Congreso. No obstante, los parqués tecnológicos asiáticos experimentaron descensos ante el temor a trabas regulatorias en el desarrollo de infraestructuras para IA.",
+          "por_que_importa": "La reacción de los mercados refleja la expectativa de que un gobierno dividido en Washington mitigue la agresividad bélica en Oriente Próximo y modere la incertidumbre arancelaria global. La bajada del crudo incorpora la esperanza de una desescalada diplomática, mientras que el retroceso tecnológico advierte del riesgo de parón legislativo en los proyectos intensivos en capital.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears"
+            }
+          ]
+        },
+        {
+          "titular": "CVS Health acuerda la segregación de su red de farmacias de su división aseguradora",
+          "que_ha_pasado": "El conglomerado de salud estadounidense ha anunciado la partición de su estructura operativa para separar las tiendas físicas de farmacia del negocio asegurador gestionado por Aetna y Caremark. La firma busca reestructurar un negocio valorado globalmente en torno a los 117.000 millones de dólares.",
+          "por_que_importa": "La decisión certifica el agotamiento del modelo de integración vertical masiva en la sanidad privada estadounidense, asediado por estrechos márgenes minoristas y una vigilancia regulatoria creciente. Esta escisión marcará la pauta para una ola de simplificaciones corporativas orientadas a recuperar la rentabilidad del sector.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance"
+            }
+          ]
+        },
+        {
+          "titular": "ArcelorMittal sufre una caída del 70% en su beneficio por la persistencia del conflicto ucraniano",
+          "que_ha_pasado": "La compañía siderúrgica ha presentado un beneficio neto de 800 millones de euros en los nueve primeros meses del año, lo que representa una contracción del 70,8% en comparación con el ejercicio anterior. Pese a haber incrementado un 5% sus ventas, el grupo confía en obtener métricas más estables en los próximos trimestres.",
+          "por_que_importa": "El resultado del mayor fabricante de acero occidental pone en evidencia las dificultades estructurales que afronta la industria pesada europea debido a los elevados costes de los insumos y la débil demanda industrial. La severa caída del margen operativo demuestra la lentitud de la recuperación manufacturera en un entorno de choques geopolíticos persistentes.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-11-05/arcelormittal-reduce-un-708-su-beneficio-a-septiembre-hasta-800-millones-por-la-guerra-en-ucrania.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Qualcomm se orienta a los centros de datos tras caer un 20% sus ventas para telefonía",
+          "que_ha_pasado": "Ante una bajada superior al 20% en las ventas globales de componentes para smartphones, Qualcomm ha hecho pública una estrategia para acelerar su incursión en el mercado de la IA en la nube. La empresa ha cerrado alianzas con grandes operadores tecnológicos para comercializar chips para centros de procesamiento.",
+          "por_que_importa": "La maniobra refleja la madurez del mercado global de dispositivos móviles y la urgencia de los diseñadores de semiconductores por reasignar capacidad de desarrollo hacia la infraestructura de nube. Penetrar en la cadena de suministro de cómputo para inteligencia artificial es hoy condición crítica para sostener el crecimiento de los fabricantes de chips tradicionales.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers"
+            }
+          ]
+        },
+        {
+          "titular": "La regulación de los centros de datos se convierte en materia de debate legislativo tras el 4-N",
+          "que_ha_pasado": "El resultado de las legislativas en EE. UU. ha encendido las alarmas en las grandes tecnológicas tras comprobarse el avance de la oposición local al despliegue de infraestructura para IA. Pese a que los comités de acción política del sector invirtieron millones en la campaña, la resistencia social a las instalaciones energéticas cruzó las líneas partidistas.",
+          "por_que_importa": "El debate tecnológico en las instituciones abandona el ámbito puramente teórico sobre el riesgo algorítmico para centrarse en los costes tangibles de la transición digital. El alto consumo hídrico y eléctrico de los centros de procesamiento situará el despliegue de la IA bajo un fuerte escrutinio presupuestario y medioambiental en las cámaras.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/"
+            }
+          ]
+        },
+        {
+          "titular": "Apple aplica ajustes de costes a sus partidas presupuestarias internas para desarrollo de IA",
+          "que_ha_pasado": "Apple ha decidido reducir de forma significativa el presupuesto corporativo asignado al consumo de herramientas de inteligencia artificial por parte de sus equipos de ingeniería interna. La decisión implica un mayor control de los gastos operativos vinculados a esta tecnología.",
+          "por_que_importa": "La contención del gasto interno por parte de una de las corporaciones más solventes del planeta muestra una evaluación más rigurosa sobre el retorno real de la inversión en modelos generativos. Subraya que la fase de gasto ilimitado en adopción tecnológica da paso a una etapa centrada en la rentabilidad y la eficiencia de costes.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El Gobierno elevará el Salario Mínimo Interprofesional hasta los 1.286 euros en 2027",
+          "que_ha_pasado": "El Ministerio de Trabajo ha fijado la propuesta definitiva para incrementar el salario mínimo un 5,3%, hasta situarlo en 1.286 euros al mes en 14 pagas para el año 2027. La cifra supera en cinco euros la recomendación emitida por la comisión de expertos, manteniendo el mecanismo de compensación de complementos.",
+          "por_que_importa": "La medida pretende amortiguar el impacto de la inflación en las rentas más bajas, si bien intensifica el choque con la patronal al sobrepasar las recomendaciones técnicas. Al conservarse la absorción de pluses, el incremento efectivo repercutirá principalmente en los sueldos base sin complementos acumulados.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/11/05/6aec1d10fc6c8369448b4582.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html"
+            }
+          ]
+        },
+        {
+          "titular": "Acesur y Dcoop compran Deoleo por 520 millones para mantener la firma en manos españolas",
+          "que_ha_pasado": "La alianza constituida por los grupos aceiteros Acesur y Dcoop ha resultado ganadora en el proceso de puja por Deoleo, imponiéndose a ofertas extranjeras. Los fondos de inversión propietarios han aceptado la propuesta valorada en unos 520 millones de euros.",
+          "por_que_importa": "La transacción garantiza el control nacional sobre la matriz de marcas históricas del mercado oleícola como Carbonell, evitando la transferencia de activos clave a grupos competidores italianos. La operación fortalece la integración vertical del sector desde las cooperativas agrícolas de origen hasta la comercialización internacional.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://cincodias.elpais.com/companias/2026-11-05/dcoop-y-acesur-se-imponen-en-la-puja-por-deoleo-por-520-millones-para-crear-un-gigante-aceitero-espanol.html"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/empresas/2026/11/05/acesur-dcoop-ganan-puja-deoleo-dueno-carbonell.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Asador Etxebarri se encumbra como el mejor restaurante del mundo en la lista '50 Best'",
+          "que_ha_pasado": "El galardón gastronómico 'The World's 50 Best Restaurants' ha situado al Asador Etxebarri en el primer puesto de su clasificación mundial. España ha colocado a cuatro establecimientos entre los cincuenta primeros puestos, junto al reconocimiento honorífico otorgado al chef Ferran Adrià.",
+          "por_que_importa": "El liderazgo gastronómico apuntala la proyección exterior de la marca país y funciona como un motor clave para atraer turismo internacional de alto valor añadido. La distinción consolida la relevancia de la cocina basada en el producto local y la excelencia técnica en la industria turística y de servicios.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/metropoli/gastronomia/restaurantes/2026/11/05/6aec1d2be9cf4ae0398b45a7.html"
+            },
+            {
+              "nombre": "Expansión",
+              "url": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/11/05/etxebarri-mejor-restaurante-mundo-2026.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Nintendo rehace 'Ocarina of Time' actualizando la apartado visual sin alterar el diseño clásico",
+          "que_ha_pasado": "Eiji Aonuma y Hidemaro Fujibayashi han presentado la reedición adaptada para Switch 2 de 'The Legend of Zelda: Ocarina of Time', desarrollada casi tres décadas después del original. La versión combina un motor gráfico contemporáneo con las mecánicas de juego que definieron la versión de 1998.",
+          "por_que_importa": "El proyecto muestra la creciente apuesta de la industria del videojuego por rentabilizar franquicias históricas mediante procesos de modernización técnica. Esta estrategia busca fidelizar al público nostálgico mientras se introducen títulos fundamentales del patrimonio digital a nuevas generaciones de consumidores.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-05/eiji-aonuma-nunca-imagine-que-despues-de-terminar-ocarina-of-time-seguiria-haciendo-juegos-de-zelda.html"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi"
+            }
+          ]
+        },
+        {
+          "titular": "Fallece a los 93 años el cineasta italiano Tinto Brass",
+          "que_ha_pasado": "El director cinematográfico italiano Tinto Brass, conocido por producciones como 'Calígula', ha fallecido a los 93 años de edad. Tras unos inicios vinculados a la cinematografía de vanguardia, el realizador centró su trayectoria posterior en el cine de contenido erótico y provocador.",
+          "por_que_importa": "La muerte de Brass despide a una de las figuras más polémicas del cine europeo del siglo XX, caracterizada por desafiar los límites de la censura y la convención social. Su evolución desde el cine de autor hacia el erotismo de masas ilustra las transformaciones de las industrias culturales europeas durante las últimas décadas.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-11-04/muere-a-los-93-anos-el-cineasta-tinto-brass-director-de-caligula-y-uno-de-los-realizadores-de-cine-erotico-y-transgresor-mas-famosos.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Pato cojo (Lame duck)",
+    "explicacion": "En ciencia política y economía institucional, la expresión «pato cojo» define a un gobernante o representante electo cuyo poder real se encuentra severamente mermado al aproximarse el fin de su mandato o al haber perdido la mayoría en las cámaras legislativas. En este escenario, la capacidad de iniciativa política, la autoridad negociadora y la eficacia para aprobar grandes reformas estructurales decaen sustancialmente, limitando la acción del Ejecutivo al uso defensivo del derecho de veto o a la gestión administrativa corriente.",
+    "ejemplo": "Tras la pérdida del control de las dos cámaras del Congreso estadounidense en las legislativas de 2026, Donald Trump pasa a ser un presidente 'pato cojo', forzado a negociar cada partida presupuestaria con la oposición demócrata."
+  },
+  "fecha": "2026-11-05"
+}
