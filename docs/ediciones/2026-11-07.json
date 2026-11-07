@@ -1,0 +1,262 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Descalabro en Wall Street: las tecnológicas pierden un billón de dólares tras el giro electoral en EE. UU.",
+      "resumen": "La victoria demócrata en las legislativas desata el pánico inversor sobre la regulación de la IA y el gasto masivo en centros de datos, provocando caídas históricas en los gigantes del sector."
+    },
+    {
+      "titular": "Destituido y detenido el presidente paraguayo Santiago Peña tras el colapso del sistema bancario",
+      "resumen": "El Congreso aprueba el juicio político de urgencia después de que la quiebra financiera dejase a millones de ciudadanos sin acceso a sus depósitos."
+    },
+    {
+      "titular": "OpenAI alcanza los 1,25 billones de valoración en una mega ronda mientras Anthropic perfila su salida a bolsa",
+      "resumen": "La compañía creadora de ChatGPT levanta 11.000 millones adicionales en plena reestructuración del mercado de inteligencia artificial."
+    },
+    {
+      "titular": "Tensión migratoria extrema en Ceuta tras el paso inesperado de 100.000 personas en solo 24 horas",
+      "resumen": "Las fuerzas de seguridad confirman la devolución de más de 88.000 migrantes a Marruecos en una jornada que ha desbordado las capacidades institucionales de la ciudad."
+    },
+    {
+      "titular": "La inteligencia china intentó infiltrar la cúpula de Nvidia mediante el reclutamiento de una directiva",
+      "resumen": "Los servicios secretos de Pekín buscaron obtener información privilegiada sobre chips avanzados y presionar sobre las decisiones estratégicas de Jensen Huang."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Destitución exprés y arresto del presidente de Paraguay tras una grave crisis bancaria",
+          "que_ha_pasado": "El mandatario Santiago Peña fue destituido por el Congreso e inmediatamente detenido por las autoridades. La decisión se produjo tras el colapso repentino del sistema bancario nacional, que bloqueó los ahorros de millones de paraguayos y desató altercados en todo el país.",
+          "por_que_importa": "La caída traumática de Peña abre un foco de severa inestabilidad política en el Cono Sur y pone a prueba las salvaguardas institucionales de Paraguay. Para el análisis geoeconómico, pone de relieve el riesgo latente de insolvencia sistémica en mercados emergentes cuando los reguladores fallan en supervisar el sector financiero.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Trump nombra a Stephen Miller jefe de Gabinete y avanza un rediseño de la seguridad europea",
+          "que_ha_pasado": "Tras el revés republicano en las elecciones de mitad de mandato, Donald Trump ha designado al ideólogo migratorio Stephen Miller como nuevo jefe de Gabinete de la Casa Blanca. En paralelo, Washington impulsa una propuesta de reestructuración de la arquitectura de seguridad europea que ha generado fuerte preocupación entre los aliados del continente.",
+          "por_que_importa": "El nombramiento de Miller presagia una postura aún más dura en política interior para el tramo final del mandato, mientras que la propuesta de defensa insinúa un repliegue estratégico estadounidense en Europa. Para la diplomacia comunitaria, el temor estriba en que Washington negocie condiciones de seguridad de forma bilateral o ventajosa para Moscú, forzando a la UE a asumir aceleradamente su propia defensa.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/2026-11-06/trump-nombra-al-arquitecto-de-su-politica-migratoria-stephen-miller-como-nuevo-jefe-de-gabinete-de-la-casa-blanca.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/jared-kushner-european-security-plan-is-not-convincing-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Los conservadores alemanes proponen a Ilse Aigner como primera mujer al frente de la Presidencia federal",
+          "que_ha_pasado": "La CDU y la CSU han acordado proponer a la política bávara Ilse Aigner como candidata a la Presidencia de la República Federal de Alemania para suceder a Frank-Walter Steinmeier. La candidatura ha recibido un respaldo transversal que incluye apoyos de dirigentes del centroizquierda.",
+          "por_que_importa": "Aunque la Presidencia en Alemania representa un papel eminentemente institucional y arbitral, la elección de Aigner proyecta un mensaje de estabilidad bipartidista en Berlín. En un contexto de fragmentación política en el Bundestag, contar con una figura de consenso en la Jefatura del Estado facilitará la cohesión institucional del motor económico europeo.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-06/la-socialcristiana-ilse-aigner-aspirara-a-ser-la-primera-mujer-presidenta-de-alemania.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/merz-conservatives-poised-nominate-ilse-aigner-first-woman-president-germany/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Europa investiga una oleada coordinada de amenazas de bomba contra vuelos comerciales",
+          "que_ha_pasado": "Más de quince vuelos en espacio aéreo europeo, cuatro de ellos con destino a Madrid, se han visto obligados a activar protocolos de emergencia por falsas amenazas de bomba. Los gobiernos de España e Irlanda han denunciado una campaña intencionada, mientras los servicios de inteligencia investigan la autoría de grupos vinculados al Kremlin.",
+          "por_que_importa": "Las tácticas de perturbación del espacio aéreo civil representan una vuelta de tuerca en la zona gris del conflicto geopolítico entre Rusia y Occidente. Este tipo de operaciones busca generar costes económicos masivos en la aviación comercial, saturar los servicios de seguridad estatales y testear los tiempos de respuesta de los sistemas de defensa aérea de los países miembros de la OTAN.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-06/varios-aviones-en-vuelos-europeos-reciben-nuevas-alertas-de-bomba.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/0845687f-1f74-4bbf-88c9-5c6b031c7f20?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Las tecnológicas pierden un billón de dólares tras el giro político en EE. UU.",
+          "que_ha_pasado": "El triunfo demócrata en las elecciones legislativas provocó una venta masiva en los mercados financieros internacionales, destruyendo un billón de dólares en valoración de cotizadas como Apple, Tesla y Nvidia. Los inversores reaccionaron con temor ante el avance del programa demócrata, que plantea frenos regulatorios a los centros de datos e intensifica las dudas sobre la rentabilidad del gasto en inteligencia artificial.",
+          "por_que_importa": "Este desplome evidencia que el mercado bursátil empieza a exigir retornos reales a la descomunal inversión de capital en infraestructura de IA. La perspectiva de un mayor escrutinio ambiental y regulatorio sobre la huella energética de los centros de datos en Estados Unidos rompe la premisa de crecimiento ilimitado que sostenía las elevadas valoraciones del sector tecnológico.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5a6806f0-e82e-4b34-b761-f9877e2b511c?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-11-07/los-votantes-de-ee-uu-dieron-un-palo-a-la-ia-la-bolsa-tardo-en-entenderlo.html"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
+            }
+          ]
+        },
+        {
+          "titular": "Tesla cancela la fabricación del Cybertruck para centrarse en el taxi autónomo",
+          "que_ha_pasado": "Elon Musk ha anunciado el fin paulatino de la producción de la camioneta Cybertruck para reacondicionar la planta de Texas en favor del Cybercab, su futuro vehículo de transporte autónomo. La decisión pone punto final a la apuesta comercial de la firma en el segmento de las camionetas tradicionales.",
+          "por_que_importa": "El repliegue estratégico confirma las dificultades operativas y de demanda que arrastraba el Cybertruck frente a sus competidores en Estados Unidos. Para los analistas del sector automotriz, esta reasignación de capital muestra la urgencia de Tesla por consolidar su transición de fabricante de hardware a operador de plataformas de movilidad e inteligencia artificial.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai"
+            }
+          ]
+        },
+        {
+          "titular": "El mercado laboral estadounidense muestra resiliencia con 165.000 nuevos empleos en octubre",
+          "que_ha_pasado": "La economía de Estados Unidos generó 165.000 puestos de trabajo netos el pasado mes de octubre, superando las previsiones del consenso de mercado. Los datos confirman una dinámica de bajas contrataciones pero escasos despidos, manteniendo la expectativa de una subida de tipos de interés por parte de la Reserva Federal en diciembre.",
+          "por_que_importa": "A pesar de la volatilidad política y los costes de financiación elevados, la solidez del empleo frena los augurios de recesión inminente. Esta firmeza da margen a la Reserva Federal para priorizar el control de la inflación, manteniendo tipos elevados que encarecen el crédito global e impactan en la deuda de las corporaciones y economías emergentes.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october"
+            }
+          ]
+        },
+        {
+          "titular": "Las comunidades autónomas proyectan rebajas fiscales por valor de 2.300 millones hasta 2031",
+          "que_ha_pasado": "Los gobiernos autonómicos en España han diseñado planes de minoración de tributos que restarían 2.300 millones de euros a la recaudación pública en los próximos años. Los recortes se dirigen principalmente a los tramos autonómicos del IRPF, la imposición sobre transmisiones patrimoniales y los impuestos de sucesiones y donaciones.",
+          "por_que_importa": "Esta competencia fiscal entre regiones tensa el debate sobre la financiación autonómica y la sostenibilidad de las arcas públicas en pleno reajuste de las reglas fiscales europeas. La reducción de ingresos fiscales en los gobiernos regionales puede obligar a recortes de gasto en sanidad y educación o exigir mayores transferencias del Estado central en el mediano plazo.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-11-07/las-comunidades-autonomas-proyectan-rebajas-fiscales-por-2300-millones-hasta-2031.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "OpenAI eleva su valoración a 1,25 billones de dólares mientras Anthropic prepara su salida a bolsa",
+          "que_ha_pasado": "OpenAI ha cerrado una nueva ronda de financiación por valor de 11.000 millones de dólares, situando su valoración de mercado en 1,25 billones. Al mismo tiempo, su principal competidor, Anthropic, ultima los preparativos para su oferta pública inicial de venta de acciones.",
+          "por_que_importa": "La astronómica cifra consolida a OpenAI entre las firmas de mayor capitalización del planeta y refleja una polarización extrema en la captación de capital privado. La simultánea salida al mercado público de Anthropic marcará el primer gran test bursátil para medir si el apetito de los inversores institucionales por los modelos del lenguaje se mantiene ante la presión por lograr rentabilidad.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+            }
+          ]
+        },
+        {
+          "titular": "La inteligencia china recluta a una directiva tecnológica para espiar a Nvidia",
+          "que_ha_pasado": "El Ministerio de Seguridad del Estado de China captó a Alice Huang, alta ejecutiva de la firma Megaspeed, para recopilar información estratégica sobre los semiconductores de Nvidia. El objetivo de la inteligencia china era acceder a secretos industriales del consejero delegado Jensen Huang e influir en los envíos de chips de altas prestaciones a Asia.",
+          "por_que_importa": "El caso subraya que la competencia geopolítica por los semiconductores ha trascendido los aranceles y controles de exportación para adentrarse en el espionaje industrial directo. Para las multinacionales tecnológicas, la infiltración en la cadena de mando demuestra el elevado riesgo operativo y de cumplimiento normativo al operar en la intersección del desarrollo de hardware avanzado.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+            }
+          ]
+        },
+        {
+          "titular": "Teherán amenaza los cables submarinos de telecomunicaciones ante la escalada militar con EE. UU.",
+          "que_ha_pasado": "Diversos buques de carga y apoyo permanecen posicionados de forma inusual cerca de infraestructuras críticas de comunicación submarina tras las advertencias del gobierno iraní. Teherán ha amenazado abiertamente con sabotear las redes de fibra óptica submarina si la administración estadounidense intensifica sus ataques militares en Oriente Próximo.",
+          "por_que_importa": "Más del 95% del tráfico global de datos e interconexión financiera entre continentes circula a través de cables submarinos con escasa protección física. Su vulnerabilidad convierte a esta infraestructura en un objetivo idóneo de coacción asimétrica, capaz de paralizar transacciones bancarias globales y comunicaciones continentales en cuestión de minutos.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Entrada masiva de más de 100.000 personas en Ceuta en 24 horas desborda a las autoridades",
+          "que_ha_pasado": "La ciudad autónoma de Ceuta registró en un solo día el cruce irregular de más de 100.000 personas procedentes del territorio marroquí, superando la cifra total de la población local. La Guardia Civil logró la devolución inmediata de 88.146 migrantes a Marruecos, mientras más de 12.000 permanecen acogidos en la ciudad.",
+          "por_que_importa": "Se trata de uno de los episodios de presión fronteriza más graves registrados en la frontera sur de la Unión Europea. La magnitud del evento evidencia la fragilidad de los acuerdos de control migratorio bilaterales y tensiona de inmediato las relaciones diplomáticas entre Madrid y Rabat, además de exigir asistencia financiera y logística urgente a Bruselas.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/11/07/6aee1271e9cf4ae17b8b458e.html"
+            }
+          ]
+        },
+        {
+          "titular": "El PNV apoyará la norma de alquileres a pesar del desplome del 27% de la oferta en el País Vasco",
+          "que_ha_pasado": "El Partido Nacionalista Vasco ha confirmado su voto favorable a la convalidación del decreto de vivienda en el Congreso de los Diputados. La formación justifica su posición sosteniendo que la medida protege a los pequeños propietarios, pese a que la oferta disponible de vivienda en arrendamiento en el País Vasco se ha reducido un 27%.",
+          "por_que_importa": "La decisión del PNV resulta clave para garantizar la estabilidad legislativa del Ejecutivo central en la Cámara Baja. Sin embargo, pone de manifiesto la contradicción entre los incentivos políticos parlamentarios y los efectos distorsionadores que las intervenciones de precios y la rigidez regulatoria generan sobre el stock real del mercado inmobiliario.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/11/07/6aedc605e9cf4aff5d8b4576.html"
+            }
+          ]
+        },
+        {
+          "titular": "Consumo expedienta a una compañía de autobuses por cargos ocultos en sus billetes",
+          "que_ha_pasado": "El Ministerio de Consumo ha abierto un expediente sancionador a una relevante operadora de transporte de pasajeros por carretera por aplicar prácticas comerciales engañosas. Las inspecciones detectaron que la firma ocultaba los costes reales de gestión hasta el paso final de la compra e incluía cláusulas abusivas en la contratación.",
+          "por_que_importa": "La actuación de Consumo se enmarca en la ofensiva regulatoria contra los denominados 'costes ocultos' en la venta electrónica de pasajes en el sector del transporte. El procedimiento sienta un precedente disuasorio para las empresas digitales que utilizan patrones oscuros de diseño web para incrementar el margen de beneficio a costa de la transparencia del consumidor.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/empresas/2026/11/07/6aeed08afdddff540c8b4579.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Fallece a los 52 años el director chileno Sebastián Lelio, ganador del Oscar por 'Una mujer fantástica'",
+          "que_ha_pasado": "El cineasta chileno Sebastián Lelio ha sido hallado sin vida en su domicilio de Santiago de Chile a los 52 años de edad. Reconocido internacionalmente por su exploración de la identidad y la marginalidad, Lelio hizo historia al lograr el Oscar a la mejor película de habla no inglesa en 2018.",
+          "por_que_importa": "La muerte prematura de Lelio priva al cine hispanoamericano de uno de sus autores más audaces y renovadores de las últimas décadas. Su cinematografía fue pionera en abrir debates sociales sobre los derechos LGTBIQ+ y el envejecimiento femenino, abriendo el camino para la proyección internacional de la industria audiovisual sudamericana.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-11-06/muere-a-los-52-anos-el-director-chileno-sebastian-lelio-ganador-del-oscar-por-una-mujer-fantastica.html"
+            }
+          ]
+        },
+        {
+          "titular": "Hallan en Granada el cuero curtido más antiguo del mundo con ADN intacto de 7.200 años",
+          "que_ha_pasado": "Un equipo de investigación ha identificado en la Cueva de los Murciélagos de Albuñol (Granada) una pieza de piel de cabra procesada en el Neolítico. El fragmento conserva material genético original que ha permitido secuenciar el ADN de la especie caprina empleada en la península ibérica hace más de siete milenios.",
+          "por_que_importa": "El hallazgo desvela un nivel de sofisticación técnica insospechado en las técnicas de curtido y manufactura de indumentaria por parte de los primeros agricultores peninsulares. Asimismo, la preservación del genoma caprino aporta datos clave para reconstruir las rutas de domesticación del ganado en el Mediterráneo occidental.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/magnet/cuero-antiguo-mundo-esta-granada-tiene-7-200-anos-conserva-adn-cabra-neolitica"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Cláusula de Nación Más Favorecida (NMF)",
+    "explicacion": "Principio fundamental del derecho de la Organización Mundial del Comercio (OMC) según el cual cualquier ventaja, favor, privilegio o inmunidad concedido por un Estado miembro a un producto originario o destinado a otro país debe extenderse de forma inmediata e incondicional a los productos similares de todos los demás Estados miembros. Diseñada para evitar discriminaciones comerciales y distorsiones de mercado, obliga a otorgar el mejor trato arancelario y normativo a la totalidad de los socios comerciales firmantes del sistema multilateral.",
+    "ejemplo": "En las negociaciones arancelarias posteriores al reajuste de bloques comerciales, si la UE otorga una reducción arancelaria sobre componentes tecnológicos a un socio bajo normas OMC, está obligada por la cláusula NMF a extender ese mismo arancel mínimo a los demás miembros sin exigencias adicionales."
+  },
+  "fecha": "2026-11-07"
+}
