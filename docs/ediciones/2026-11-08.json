@@ -1,0 +1,250 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Derrota republicana en las 'midterms': Trump afianza su núcleo duro con Stephen Miller mientras encara un Congreso hostil",
+      "resumen": "El revés electoral obliga al mandatario a reorganizar su Gabinete mientras crecen los indicios de que pivotará hacia la política exterior ante el bloqueo legislativo demócrata."
+    },
+    {
+      "titular": "Apple traslada la gestión de sus beneficios a Singapur y ahorra 2.700 millones de dólares en impuestos",
+      "resumen": "La tecnológica desplaza a Irlanda como su principal enclave fiscal global en una maniobra que evidencia la adaptabilidad corporativa ante la presión normativa internacional."
+    },
+    {
+      "titular": "La oleada de ciberataques con IA pone en jaque la seguridad de la cadena alimentaria e infraestructuras básicas",
+      "resumen": "Las cadenas de distribución y operadores clave refuerzan sus protocolos de cifrado digital ante el incremento de agresiones informáticas automatizadas contra la logística."
+    },
+    {
+      "titular": "Inteligencia de EE. UU. detecta una operación de espionaje del Gobierno chino dirigida a la cúpula de Nvidia",
+      "resumen": "La interceptación de intentos de infiltración sobre la dirección del fabricante de microchips subraya el valor estratégico de los semiconductores en la pugna entre Washington y Pekín."
+    },
+    {
+      "titular": "Andalucía acelera las ayudas públicas para competir con Polonia por una inversión de 500 millones de Ryanair",
+      "resumen": "El Ejecutivo regional intensifica los incentivos para captar el centro de mantenimiento de motores en Sevilla frente a ofertas rivales de Europa Central y el Reino Unido."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Derrota republicana en las 'midterms': Trump nombra a Stephen Miller y afianza el giro radical mientras encara un Congreso hostil",
+          "que_ha_pasado": "Los votantes estadounidenses han asestado un duro golpe al Partido Republicano en las elecciones de medio mandato, impulsados por el malestar por la inflación y la prolongación de conflictos internacionales. Donald Trump ha reaccionado nombrando al halcón Stephen Miller como jefe de Gabinete para blindar su círculo de confianza y evitar una autocreciente revisión interna de su liderazgo.",
+          "por_que_importa": "Con el Congreso dominado por la oposición demócrata, la capacidad del Ejecutivo para sacar adelante legislación interna queda prácticamente anulada. Históricamente, las administraciones estadounidenses en situación de bloqueo parlamentario tienden a concentrar sus esfuerzos en la política exterior a través de ordenes ejecutivas y sanciones, lo que incrementará la volatilidad diplomática global en los dos años restantes de mandato.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/2026-11-08/trump-cae-derrotado-en-las-urnas-pero-aun-es-poderoso-e-impredecible-en-politica-exterior.html"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world"
+            }
+          ]
+        },
+        {
+          "titular": "El presidente de Israel encarga la formación de Gobierno al líder opositor Eisenkot tras el bloqueo electoral",
+          "que_ha_pasado": "El jefe de Estado israelí ha encomendado la constitución del nuevo Ejecutivo al opositor Gadi Eisenkot tras unas elecciones generales que dejaron un parlamento fragmentado en el que ni Benjamin Netanyahu ni la oposición lograron mayoría absoluta.",
+          "por_que_importa": "El encargo a una figura de perfil militar y moderado busca romper el parálisis institucional en un momento delicado para la seguridad nacional. La continuidad de la inestabilidad política limita la capacidad de Tel Aviv para cerrar acuerdos estratégicos duraderos en la región y complica la formulación de una postura unificada frente al eje liderado por Teherán.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Un tiroteo de motivación ultraderechista deja al menos seis muertos en la plaza mayor de Cracovia",
+          "que_ha_pasado": "Un individuo armado vinculado a ideologías de extrema derecha abrió fuego en el centro histórico de Cracovia matando a seis personas e hiriendo a dieciséis, antes de que la policía hallara a otras tres víctimas mortales en su domicilio. El Gobierno polaco ha tipificado el ataque como un acto de terrorismo ultranacionalista.",
+          "por_que_importa": "El suceso pone de manifiesto el repunte de la amenaza terrorista de cuño autóctono y extrema derecha en Europa Central. El atentado reabrirá la discusión sobre la efectividad de las redes de inteligencia interior en el rastreo de perfiles radicalizados fuera de los cauces islamistas tradicionales.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+            }
+          ]
+        },
+        {
+          "titular": "'Nóvaya Gazeta' cesa su publicación en Rusia tras décadas de acoso administrativo y judicial del Kremlin",
+          "que_ha_pasado": "El periódico independiente 'Nóvaya Gazeta', referente internacional del periodismo de investigación ruso, publicará su último número obligado por la asfixia legal y policial ejercida por las autoridades de Moscú.",
+          "por_que_importa": "El cierre consuma la erradicación de la prensa crítica dentro de la Federación Rusa y priva al público local y a los observadores internacionales de una fuente directa sobre la corrupción institucional y el coste real de los conflictos bélicos rusos. Profundiza además el aislamiento informativo de la sociedad rusa respecto al resto de Europa.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-08/novaya-gazeta-simbolo-del-gran-periodismo-ruso-cierra-por-el-acoso-del-kremlin-poca-gente-sabe-que-esta-pasando-en-rusia.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Apple traslada a Singapur la gestión de sus beneficios internacionales y ahorra 2.700 millones en impuestos",
+          "que_ha_pasado": "Informaciones financieras recientes confirman que Apple ha desplazado a Irlanda por Singapur como su principal nodo para la consolidación de beneficios mundiales fuera de EE. UU., reduciendo su factura fiscal en 2.700 millones de dólares mediante deducciones acordadas con el Gobierno asiático.",
+          "por_que_importa": "El movimiento demuestra la elevada agilidad de las multinacionales tecnológicas para reestructurar sus tenencias de propiedad intelectual en respuesta a las reformas tributarias en la UE. Evidencia la dura competencia entre plazas financieras asiáticas y europeas por atraer la contabilidad de las Big Tech.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La ola de ciberataques impulsados por IA expone la fragilidad de las cadenas de suministro alimentario",
+          "que_ha_pasado": "Cadenas de distribución minorista y gestores de infraestructuras básicas están aplicando esquemas severos de cifrado y segmentación defensiva de redes tras sufrir agresiones digitales automatizadas que han amenazado la logística diaria.",
+          "por_que_importa": "La democratización de la inteligencia artificial generativa ha reducido los costes del cibercrimen, permitiendo ataques coordinados a gran escala contra los sistemas informáticos de la economía real. Para la consultoría corporativa, garantizar la resiliencia operativa y la ciberseguridad industrial pasa a ser un requisito operativo básico de la cadena de suministro.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html"
+            }
+          ]
+        },
+        {
+          "titular": "El nuevo Congreso de EE. UU. estará dominado por demócratas moderados que estrecharán el cerco sobre las criptomonedas",
+          "que_ha_pasado": "Pese al protagonismo del ala izquierda del partido, los candidatos demócratas victoriosos en las 'midterms' pertenecen abrumadoramente al sector moderado. Esta nueva mayoría legislativa se dispone a iniciar investigaciones sobre la regulación del mercado cripto y sus nexos con el ámbito político.",
+          "por_que_importa": "La hegemonía del centro demócrata modera las expectativas de subidas fiscales radicales a las empresas, pero garantiza una supervisión financiera más estricta. El sector de los criptoactivos enfrentará mayor fiscalización en Washington, forzando a las firmas del sector a aumentar su inversión en cumplimiento normativo.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Los expertos advierten de los riesgos de distorsión en el mercado tras las intervenciones en el precio del aceite",
+          "que_ha_pasado": "Ante la volatilidad en origen que ha castigado la cesta de la compra, los mecanismos públicos para retirar excedentes de aceite del mercado buscan estabilizar los costes, aunque los economistas señalan posibles impactos indeseados en la oferta.",
+          "por_que_importa": "La intervención en materias primas agrícolas responde a la presión política contra la inflación, pero corre el riesgo de enviar señales erróneas a los productores y desincentivar la eficiencia. Refleja el delicado equilibrio entre amortiguar el impacto social del coste de la vida y respetar las dinámicas de mercado.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-11-08/las-claves-el-mecanismo-de-retirada-del-aceite-debera-ser-evaluado-con-atencion.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Inteligencia de EE. UU. detecta un intento de espionaje del Gobierno chino dirigido a la cúpula de Nvidia",
+          "que_ha_pasado": "Informes del espionaje estadounidense señalan que el Ministerio de Seguridad del Estado chino intentó captar a una ejecutiva tecnológica para obtener información confidencial sobre las actividades y planes del consejero delegado de Nvidia.",
+          "por_que_importa": "El suceso ratifica el valor del hardware avanzado para la inteligencia artificial como activo geopolítico estratégico de primer nivel. El espionaje corporativo enfocado en directivos clave subraya la presión de Pekín por recortar distancia frente a los bloqueos a la exportación de microchips impuestos por EE. UU.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+            }
+          ]
+        },
+        {
+          "titular": "El resultado de las 'midterms' frena la expansión de los centros de datos para la inteligencia artificial",
+          "que_ha_pasado": "La nueva correlación de fuerzas políticas tras las elecciones legislativas en EE. UU. amenaza con encarecer y ralentizar las licencias y la capacidad de red eléctrica necesarias para abastecer la vertiginosa construcción de data centers promovida por el sector tecnológico.",
+          "por_que_importa": "La infraestructura física necesaria para procesar modelos masivos de IA se enfrenta ahora a obstáculos regulatorios y ambientales severos a nivel regional y federal. Este cuello de botella energético puede alterar las proyecciones de gasto en capital (CapEx) de las grandes tecnológicas a corto plazo.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+            }
+          ]
+        },
+        {
+          "titular": "Crece la oferta de dispositivos móviles limitados ante la exigencia de restringir los smartphones a menores",
+          "que_ha_pasado": "Diversos fabricantes están lanzando teléfonos móviles con funciones cerradas y sin acceso libre a internet ni redes sociales, respondiendo a la creciente demanda de las familias por alternativas seguras para niños.",
+          "por_que_importa": "Este nicho comercial anticipa probables restricciones regulatorias a la conectividad de los menores de edad. Para las grandes plataformas de redes sociales implica la pérdida progresiva del relevo generacional de usuarios y abre la puerta a normas de verificación de edad más estrictas.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Andalucía acelera las ayudas industriales para disputar a Polonia la inversión de 500 millones de Ryanair",
+          "que_ha_pasado": "La Junta de Andalucía ha elevado su oferta de incentivos económicos para convencer a la aerolínea Ryanair de instalar su centro de mantenimiento de motores en Sevilla, en una puja donde compite directamente con Polonia e Irlanda del Norte.",
+          "por_que_importa": "El movimiento demuestra la agresividad de las comunidades autónomas por atraer proyectos de alto componente tecnológico e industrial. Ganar la licitación afianzaría a Andalucía como un polo aeronáutico de referencia en el sur de Europa y generaría puestos de trabajo de alta cualificación.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-11-08/la-junta-cambia-sus-ayudas-industriales-para-acelerar-la-inversion-de-ryanair-en-sevilla_4460417/"
+            }
+          ]
+        },
+        {
+          "titular": "El programa 'Aulas Senda' abre un conflicto entre la Xunta de Galicia y los sindicatos docentes",
+          "que_ha_pasado": "Sindicatos educativos y asociaciones de familias han rechazado el plan piloto 'Aulas Senda' implantado por la Consellería de Educación gallega, al considerar que fomenta la segregación de los alumnos con necesidades especiales, mientras la administración defiende su carácter voluntario y de refuerzo.",
+          "por_que_importa": "El conflicto reabre el debate autonómico sobre el modelo de inclusión en la escuela pública: si se debe priorizar la integración total en aulas ordinarias o contar con recursos específicos segregados. El desenlace marcará la pauta para la reforma del apoyo a la diversidad en otras regiones.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/galicia/2026-11-08/inclusion-o-segregacion-la-polemica-de-la-xunta-con-sindicatos-y-familias-por-el-programa-aulas-senda_4460540/"
+            }
+          ]
+        },
+        {
+          "titular": "El seguimiento de las medidas en justicia juvenil ratifica la viabilidad de la reinserción en casos de violencia filioparental",
+          "que_ha_pasado": "La resolución favorable del caso de una joven internada tras agredir a su madre, que ha vuelto a convivir de forma estable con ella cinco años después, pone en valor la eficacia del tratamiento interdisciplinar durante el cumplimiento de medidas judiciales.",
+          "por_que_importa": "En un momento de creciente preocupación social por el aumento de querellas intra-familiares entre menores y progenitores, la experiencia demuestra la utilidad de los modelos de mediación e internamiento educativo frente a las posturas puramente punitivas.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/madrid/2026/11/08/6acff4ede4d4d8be758b459c.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La musicología forense actualiza sus métodos para perseguir la apropiación de derechos por la IA generativa",
+          "que_ha_pasado": "Peritos melódicos y expertos en acústica están adaptando sus metodologías para identificar plagios en obras creadas por algoritmos de inteligencia artificial, en el marco de las demandas entabladas por discográficas internacionales contra empresas tecnológicas.",
+          "por_que_importa": "La propiedad intelectual entra en un terreno en el que la delimitación legal dependerá de la prueba técnica sobre los datos de entrenamiento del algoritmo. El desarrollo de estas herramientas determinará el futuro modelo de negocio y el pago de cánones en la industria musical.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-08/los-detectives-del-plagio-peritos-melodicos-a-la-caza-del-algoritmo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Un libro recupera la memoria de Emilio García Riera, el historiador republicano que catalogó el cine mexicano",
+          "que_ha_pasado": "La publicación del volumen 'El cine es mejor que la vida' rescata la peripecia del crítico exiliado tras la Guerra Civil española, quien se convirtió en la máxima autoridad historiográfica del cine en su país de acogida.",
+          "por_que_importa": "La obra pone de relieve la enorme huella dejada por la emigración intelectual republicana en la creación de instituciones y estudios culturales en América Latina, mostrando cómo la diáspora transformó la industria cultural hispanoamericana durante el siglo XX.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-08/el-nino-del-exilio-republicano-que-catalogo-todo-el-cine-mexicano.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Erosión de la base imponible y traslado de beneficios (BEPS)",
+    "explicacion": "El fenómeno de erosión de la base imponible y traslado de beneficios (BEPS, por sus siglas en inglés) agrupa las estrategias de planificación fiscal utilizadas por empresas multinacionales para aprovechar las discrepancias y vacíos entre los sistemas tributarios de distintos países. Mediante el registro de patentes, intangibles o servicios intragrupo en jurisdicciones de reducida o nula fiscalidad, las corporaciones transfieren artificialmente las ganancias operativas desde los países donde se genera el valor económico real hacia territorios con esquemas impositivos muy favorables. Esto priva a los Estados de recursos tributarios masivos y desequilibra la competencia frente a empresas locales.",
+    "ejemplo": "La decisión de Apple de trasladar la consolidación de sus beneficios globales desde Irlanda hacia Singapur para recortar 2.700 millones de dólares en su factura impositiva global."
+  },
+  "fecha": "2026-11-08"
+}
