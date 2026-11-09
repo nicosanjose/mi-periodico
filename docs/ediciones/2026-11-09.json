@@ -1,0 +1,271 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Investigación a Jensen Huang por espionaje chino sacude la cúpula de Nvidia",
+      "resumen": "El consejo de administración examina la relación extramatrimonial del CEO con una presunta agente de Pekín, desatando dudas sobre la seguridad nacional y la estabilidad de la compañía."
+    },
+    {
+      "titular": "La corrección tecnológica se profundiza por el temor regulatorio sobre la IA",
+      "resumen": "Los mercados globales registran volatilidad tras perder casi 400.000 millones de euros en el sector tecnológico asiático y extenderse los recortes a Wall Street."
+    },
+    {
+      "titular": "Rusia intensifica la reclutación de civiles en Europa para ejecutar sabotajes",
+      "resumen": "Los servicios de inteligencia alertan de una estrategia del Kremlin para emplear a intermediarios locales en ataques coordinados contra infraestructuras europeas."
+    },
+    {
+      "titular": "Semana crítica en Rodalies por paros y fallos en la gestión de maquinistas",
+      "resumen": "Las incidencias operativas de Renfe y las huelgas convocadas causan retrasos generalizados y limitaciones drásticas de servicio en los trenes de Cataluña."
+    },
+    {
+      "titular": "Los expertos proyectan que 2026 batirá el récord histórico de temperaturas",
+      "resumen": "El arranque de la cumbre COP31 viene marcado por advertencias sobre el impacto combinado del fenómeno de El Niño y el calentamiento global acumulado."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Fallece en el hospital el sospechoso del atentado que dejó seis muertos en Cracovia",
+          "que_ha_pasado": "El presunto autor del tiroteo en una concurrida plaza de Cracovia, un hombre de 24 años, ha muerto tras ser abatido por las fuerzas de seguridad. Las autoridades locales han hallado además los cadáveres de tres de sus familiares en su vivienda, eleva a nueve el total de víctimas vinculadas al incidente.",
+          "por_que_importa": "El suceso ha llevado a la apertura inmediata de una investigación por terrorismo en Polonia. En un contexto de máxima alerta en Europa del Este, el ataque pone a prueba la seguridad interna de un país clave en la logística militar y diplomática del flanco oriental de la OTAN.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-09/muere-en-el-hospital-el-atacante-del-atentado-en-cracovia-que-causo-seis-muertos.html"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead"
+            }
+          ]
+        },
+        {
+          "titular": "El Kremlin externaliza sus operaciones de sabotaje en suelo europeo mediante civiles",
+          "que_ha_pasado": "Informes de inteligencia señalan que Moscú está reclutando a ciudadanos comunes en diversos países de Europa para llevar a cabo actos de sabotaje y desestabilización. Paralelamente, en Ucrania, la infraestructura civil intenta mantener la actividad comercial en Kiev entre severos cortes de luz y agua.",
+          "por_que_importa": "Esta táctica de 'sabotaje desechable' permite a Rusia mantener una presión de guerra híbrida contra la Unión Europea reduciendo la huella directa de sus servicios secretos. Para la OTAN representa un desafío complejo, ya que desdibuja los límites entre la delincuencia común y la agresión estatal no declarada.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-09/la-moral-decae-pero-kiev-se-niega-a-bajar-la-persiana.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/russia-hybrid-war-europe-low-level-agents/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Eisenkot asume el encargo de formar Gobierno en Israel con una postura de contención",
+          "que_ha_pasado": "Gadi Eisenkot, exjefe del Estado Mayor del ejército israelí, ha recibido el mandato presidencial para constituir un nuevo Ejecutivo. El líder político aboga por frenar la violencia de los colonos y contener la tensión regional, aunque rechaza de forma explícita la creación de un Estado palestino.",
+          "por_que_importa": "El perfil de Eisenkot busca proyectar pragmatismo militar frente a los sectores más extremistas del arco político israelí. Sin embargo, su negativa al principio de los dos Estados deja poco margen para un giro estructural en el proceso de paz, lo que condicionará el diálogo estratégico de Israel con Washington y los países árabes firmantes de los Acuerdos de Abraham.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-09/la-incognita-de-eisenkot-en-politica-exterior-mas-pragmatico-que-religioso-pero-contrario-al-estado-palestino.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Los mercados tecnológicos contienen el aliento tras el desplome de la IA en Asia y EE. UU.",
+          "que_ha_pasado": "Las bolsas europeas y estadounidenses intentan estabilizarse tras semanas de ventas masivas en el sector tecnológico, provocadas por dudas sobre la rentabilidad de las inversiones masivas en IA y el temor a mayores restricciones regulatorias. El índice de tecnológicas asiáticas acumula pérdidas de casi 394.000 millones de euros desde junio.",
+          "por_que_importa": "El mercado empieza a exigir retornos tangibles ante el esfuerzo inversor en centros de datos y hardware especializado. Esta corrección pone a prueba la valoración del sector tecnológico global y podría ralentizar los planes de gasto de capital (CapEx) en infraestructura digital a medio plazo.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-09/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Autoridades de Países Bajos registran las sedes de BYD por presunto plagio a Jaguar Land Rover",
+          "que_ha_pasado": "Agentes judiciales han incautado registros digitales en las oficinas neerlandesas del fabricante chino de vehículos eléctricos BYD. La intervención responde a una demanda promovida por Jaguar Land Rover, que acusa a la firma asiática de vulnerar sus derechos de propiedad intelectual al copiar el diseño del Land Rover Defender.",
+          "por_que_importa": "El caso acentúa la pugna comercial y jurídica entre los constructores automovilísticos tradicionales europeos y los competidores chinos. Con la Unión Europea endureciendo su escrutinio sobre las prácticas de las multinacionales asiáticas, el pleito sienta un precedente relevante en la protección del diseño industrial en el sector de la movilidad.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim"
+            }
+          ]
+        },
+        {
+          "titular": "IAG advierte de que el encarecimiento de las tasas verdes lastrará la aviación europea",
+          "que_ha_pasado": "El consejero delegado de IAG, Luis Gallego, ha afirmado que la acumulación de recargos ambientales proyectados en la Unión Europea y el Reino Unido amenaza la viabilidad económica del sector aéreo. Según el directivo, la disparidad regulatoria encarecerá los billetes y perjudicará la competitividad de las aerolíneas europeas frente a sus rivales internacionales.",
+          "por_que_importa": "El debate evidencia el dilema entre las metas de descarbonización de la UE y la competitividad de sus industrias intensivas en energía. La traslación de estos costes al billete final puede resentir el turismo y el transporte de carga comercial en el espacio aéreo europeo.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/4330a15b-f91d-4095-909f-92617b9caf1e?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Klaas Knot se muestra dispuesto a desplegar nuevas herramientas si surge una crisis de deuda",
+          "que_ha_pasado": "El presidente del Banco Central de los Países Bajos y aspirante a la dirección del Banco Central Europeo, Klaas Knot, ha asegurado que no dudará en actuar ante eventuales turbulencias en los mercados soberanos. Knot dejó abierta la puerta a diseñar nuevos instrumentos de contención financiera si la estabilidad del euro lo requiere.",
+          "por_que_importa": "Las palabras de un perfil considerado tradicionalmente 'halcón' buscan calmar a los inversores en un entorno de elevados niveles de deuda pública en la eurozona. Su mensaje recalca que la salvaguarda de la transmisión monetaria sigue siendo la prioridad del BCE ante eventuales fragmentaciones del mercado crediticio.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/4dfbc7b0-1add-4bc3-ab5e-78c18b2ca87a?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "El consejo de Nvidia investiga a Jensen Huang por una relación con una presunta espía de Pekín",
+          "que_ha_pasado": "El consejo de administración de Nvidia ha abierto una investigación formal sobre su consejero delegado, Jensen Huang, tras hacerse pública su relación extramatrimonial con una ejecutiva del sector acusada de operar como agente del Gobierno chino. Huang ha emitido un comunicado interno disculpándose ante la plantilla, mientras analistas valoran al 50% las probabilidades de que mantenga su cargo y el valor bursátil de la firma se hunde cerca de un 6%.",
+          "por_que_importa": "Jensen Huang es la figura central del auge del hardware de inteligencia artificial a nivel global. Un relevo forzado o una brecha de seguridad en el principal proveedor de microchips avanzados tendría repercusiones geopolíticas inmediatas, dada la estricta regulación de Washington sobre la exportación de tecnología crítica a China.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+            },
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/empresas-y-economia/debo-disculpa-a-mi-familia-jensen-huang-confiesa-su-infidelidad-nvidia-investiga-posible-espionaje-chino"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-11-09/nvidia-se-desploma-en-bolsa-tras-confirmar-una-investigacion-sobre-la-relacion-extramatrimonial-de-su-ceo-con-una-presunta-espia-china.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Físicos captan el ruido eléctrico para desentrañar el comportamiento de los superconductores",
+          "que_ha_pasado": "Un equipo de investigadores ha logrado medir las fluctuaciones mínimas del ruido electrónico en materiales avanzados para comprobar el emparejamiento de electrones. La técnica permite verificar si el material ha entrado en fase superconductora sin recurrir a métodos destructivos.",
+          "por_que_importa": "Comprender la superconductividad a temperaturas más accesibles es una de las metas clave de la física aplicada. De consolidarse estos avances diagnósticos, se acelerará el desarrollo de redes eléctricas sin pérdidas de energía y de procesadores para computación cuántica.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+            }
+          ]
+        },
+        {
+          "titular": "Epic Games confirma la llegada de su tienda digital al sistema operativo SteamOS",
+          "que_ha_pasado": "La desarrolladora Epic Games ha ratificado que su cliente oficial será compatible de forma nativa con SteamOS, el sistema operativo basado en Linux desarrollado por Valve. El movimiento facilita la instalación directa de títulos de su catálogo en dispositivos portátiles de juego.",
+          "por_que_importa": "El movimiento supone una grieta en la rigidez de las plataformas cerradas dentro del videojuego informático. Supone además un avance decisivo en la adopción de Linux como entorno alternativo a Windows para el consumo de software interactivo.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La red de Rodalies colapsa por fallos en la gestión de maquinistas y paros convocados",
+          "que_ha_pasado": "Las líneas de Rodalies y los trenes Regionales de Cataluña sufren severas demoras y cancelaciones debido a incidencias operativas en la asignación de maquinistas por parte de Renfe. El problema se superpone a las jornadas de huelga convocadas para esta semana, que fijan servicios mínimos reducidos.",
+          "por_que_importa": "El conflicto recurrente en el transporte de cercanías catalán mantiene la tensión entre el Gobierno central y la Generalitat en pleno proceso de traspaso de competencias. Las deficiencias de gestión impactan directamente en la movilidad laboral diaria en la región.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/cataluna/2026/11/09/6af1719be4d4d88a508b4578.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-11-09/rodalies-trenes-retrasos-huelga-1tna-1tps_4461449/"
+            }
+          ]
+        },
+        {
+          "titular": "Una investigación alerta a la Fiscalía de una red de contenidos pedófilos en TikTok",
+          "que_ha_pasado": "Un trabajo del equipo de Maldita.es ha identificado miles de perfiles y vídeos con contenidos de explotación infantil en TikTok que acumulaban millones de visualizaciones. La organización ha llevado el caso ante la Fiscalía denunciando la falta de moderación efectiva por parte de la plataforma.",
+          "por_que_importa": "El hallazgo incrementa la presión regulatoria sobre las grandes plataformas digitales en la Unión Europea bajo la Ley de Servicios Digitales (DSA). La inacción en la retirada automática de contenidos ilícitos expone a la compañía a sanciones severas y al escrutinio penal.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/tecnologia/2026-11-09/una-investigacion-espanola-descubre-miles-de-nuevos-videos-y-perfiles-pedofilos-en-tiktok.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Papa y Milei abordan los retos de la economía de mercado y la inteligencia artificial",
+          "que_ha_pasado": "El papa Francisco ha recibido en audiencia al presidente argentino, Javier Milei, en un encuentro donde el pontífice ha defendido que la economía debe anteponer las necesidades humanas. Durante la reunión también analizaron las implicaciones éticas y laborales del avance acelerado de la IA.",
+          "por_que_importa": "La reunión busca tender puentes diplomáticos tras los desencuentros verbales del pasado entre el mandatario libertario y el Vaticano. La discusión evidencia cómo el impacto distributivo de las reformas de mercado y la irrupción de la tecnología se han convertido en ejes del debate geopolítico internacional.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/11/09/6af16f2efdddffcf658b4573.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La ONU advierte al inicio de la COP31 de que 2026 camina hacia un nuevo récord térmico",
+          "que_ha_pasado": "Coincidiendo con la apertura de la cumbre del clima COP31, la Organización Meteorológica Mundial prevé que 2026 se convertirá en el año más cálido registrado. Los científicos destacan el efecto combinado del uso continuado de combustibles fósiles y de un episodio especialmente intenso del fenómeno El Niño.",
+          "por_que_importa": "Con 12 años consecutivos en umbrales de temperatura récord, la presión sobre las negociaciones climáticas se intensifica. La cumbre arranca con el reto de pactar compromisos financieros más firmes para mitigación y adaptación en el Sur Global.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-09/el-planeta-encadena-ya-12-anos-de-calor-record-hemos-entrado-en-una-nueva-era-de-fenomenos-extremos.html"
+            }
+          ]
+        },
+        {
+          "titular": "La asociación CIMA cumple dos décadas denunciando la brecha de género en el cine",
+          "que_ha_pasado": "La Asociación de Mujeres Cineastas y de Medios Audiovisuales (CIMA) celebra 20 años de trayectoria centrados en la paridad laboral, la igualdad presupuestaria en proyectos dirigidos por mujeres y la erradicación del acoso en la industria audiovisual española.",
+          "por_que_importa": "El trabajo de CIMA ha sido clave en la articulación de cuotas de género en las ayudas públicas al cine en España. Su balance tras dos décadas refleja avances institucionales, aunque persistencias en la disparidad de presupuestos asignados a las realizadoras.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-11-09/cima-20-anos-de-lucha-feminista-en-el-mundo-audiovisual-muchos-hombres-no-entendieron-el-objetivo-de-la-asociacion.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Desacoplamiento estratégico (Strategic Decoupling)",
+    "explicacion": "Proceso mediante el cual dos economías altamente interconectadas reducen de forma deliberada sus vínculos comerciales, tecnológicos y de inversión por motivos de seguridad nacional o rivalidad geopolítica. A diferencia de las medidas puntuales de diversificación de riesgo, el desacoplamiento busca fragmentar las cadenas de valor para evitar la dependencia estructural de un rival sistémico.",
+    "ejemplo": "Las restricciones impuestas por Washington al suministro de semiconductores avanzados a Pekín y la auditoría sobre ejecutivos tecnológicos con acceso a tecnología crítica."
+  },
+  "fecha": "2026-11-09"
+}
