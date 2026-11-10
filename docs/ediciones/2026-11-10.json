@@ -1,0 +1,258 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "EE UU, Rusia y Ucrania reanudan en Emiratos Árabes las conversaciones de paz",
+      "resumen": "Los primeros contactos trilaterales desde febrero buscan explorar vías diplomáticas, aunque la firmeza de las posturas de Moscú mantiene las expectativas en niveles prudentes."
+    },
+    {
+      "titular": "El FBI investiga al consejero delegado de Nvidia por su vinculación con una supuesta espía china",
+      "resumen": "Jensen Huang se enfrenta a pesquisas federales y demandas de accionistas tras salir a la luz su relación personal con una agente infiltrada, amenazando la cúpula del gigante de los chips."
+    },
+    {
+      "titular": "Una huelga de maquinistas paraliza Cercanías Madrid y Rodalies en toda España",
+      "resumen": "Los paros convocados por el sindicato Semaf provocan el caos en el transporte ferroviario metropolitano, con líneas totalmente suspendidas e incumplimiento de servicios mínimos."
+    },
+    {
+      "titular": "California rechaza en votación el impuesto extraordinario a las grandes fortunas",
+      "resumen": "La propuesta para gravar con un 5% el patrimonio de los multimillonarios cae derrotada tras una intensa y millonaria campaña de presión liderada por los ejecutivos de Silicon Valley."
+    },
+    {
+      "titular": "SoftBank sufre pérdidas de 7.000 millones de dólares tras el enfriamiento de sus apuestas en IA",
+      "resumen": "El conglomerado japonés firma su peor trimestre en casi dos años ante la depreciación de las valoraciones tecnológicas y las dudas sobre el retorno del sector de la inteligencia artificial."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Trilaterales de paz para Ucrania en Emiratos Árabes con la mediación de Washington",
+          "que_ha_pasado": "Delegaciones de Kiev, Moscú y Washington se han reunido en los Emiratos Árabes Unidos para reanudar los contactos diplomáticos directos por primera vez desde febrero. Las partes han mostrado cierta flexibilidad en los preliminares, aunque el despliegue responde más a la presión diplomática internacional que a un cambio estructural inmediato en el frente.",
+          "por_que_importa": "La reapertura de un canal de negociación trilateral señala un desgaste soterrado en los compromisos financieros y militares de los aliados, así como la necesidad de explorar escenarios de salida ante la prolongación del conflicto. Sin embargo, las demandas territoriales del Kremlin y las exigencias de garantías de seguridad por parte de Ucrania complican la consecución de un acuerdo duradero a corto plazo.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/352539b3-41fd-4418-a171-43975897ec0e?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Escándalo de espionaje en Nvidia: el FBI investiga a Jensen Huang",
+          "que_ha_pasado": "El presidente estadounidense confirmó que el FBI investiga al consejero delegado de Nvidia por su presunta relación con una supuesta espía china. La noticia ha desatado además demandas colectivas de los accionistas por desprotección de la compañía y fraude financiero.",
+          "por_que_importa": "Nvidia no es solo una tecnológica cotizada, sino la columna vertebral de la infraestructura de semiconductores para inteligencia artificial de Occidente. Un fallo de seguridad de este nivel en su cúpula erosiona la confianza estratégica de Washington y abre un delicado frente geopolítico sobre la fuga de propiedad intelectual crítica hacia Pekín.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+            }
+          ]
+        },
+        {
+          "titular": "La cumbre del clima COP31 arranca condicionada por el giro electoral en Europa",
+          "que_ha_pasado": "Más de 90 líderes mundiales se citan en la cumbre del clima COP31 con el objetivo de fijar nuevas metas de reducción de emisiones globales. No obstante, las discrepancias internas en la Unión Europea amenazan con diluir el liderazgo climático que históricamente ha ejercido el bloque comunitario.",
+          "por_que_importa": "El auge de fuerzas populistas y conservadoras en los recientes procesos electorales europeos está poniendo en jaque los consensos del Pacto Verde y los compromisos de financiación climática. Sin la cohesión y ambición de la UE, la capacidad de negociación global para exigir esfuerzos a economías emergentes queda seriamente mermada.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/can-the-eus-climate-strategy-survive-election-season/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El ejército del Congo condena a muerte a 66 soldados por cobardía",
+          "que_ha_pasado": "Un tribunal militar de la República Democrática del Congo ha dictado la pena capital contra 66 efectivos de sus fuerzas armadas acusados de abandonar sus posiciones frente a grupos rebeldes. La medida busca frenar la indisciplina endémica que sufre el estamento militar en el este del país.",
+          "por_que_importa": "El endurecimiento de las penas refleja la desesperación de Kinshasa ante la incapacidad de sus fuerzas armadas de frenar el avance insurgente en una región rica en minerales críticos. La desarticulación institucional y la falta de cohesión en las tropas complican la estabilización del conflicto y agravan la crisis humanitaria de la región de los Grandes Lagos.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "SoftBank registra números rojos de 7.000 millones de dólares por el ajuste de valoración en la IA",
+          "que_ha_pasado": "El gigante inversor japonés SoftBank ha reportado una pérdida trimestral inesperada de 7.000 millones de dólares, rompiendo una racha positiva de casi dos años. El desplome de sus cotizaciones responde al ajuste de valoración en su cartera de proyectos orientados a la inteligencia artificial.",
+          "por_que_importa": "Los resultados de SoftBank operan como un termómetro del apetito inversor global hacia la inteligencia artificial. El tropiezo del fondo confirma que los mercados están empezando a exigir métricas de rentabilidad reales y flujos de caja sostenibles frente a las valoraciones especulativas que caracterizaron las etapas iniciales del boom tecnológico.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "California tumba la 'Propuesta 40' y rechaza gravar el patrimonio de los multimillonarios",
+          "que_ha_pasado": "Los votantes del estado de California han rechazado en referéndum la tasa del 5% que pretendía gravar de forma puntual a las fortunas más elevadas. Los líderes y fundadores de Silicon Valley invirtieron sumas récord en publicidad y cabildeo para frenar la medida.",
+          "por_que_importa": "La derrota del tributo subraya el enorme poder de influencia política del sector tecnológico en EE. UU. y el temor de los estados a desencadenar una fuga de capitales y talento ejecutivo hacia jurisdicciones con mayor laxitud fiscal como Texas o Florida.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/us-news/2026/nov/09/california-tax-billionaires-prop-40"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/"
+            }
+          ]
+        },
+        {
+          "titular": "El Ibex 35 acaricia los 20.000 puntos impulsado por las tecnológicas y la tregua del petróleo",
+          "que_ha_pasado": "El selectivo español ha experimentado un notable avance hasta rozar el umbral de los 20.000 puntos. La subida se ha visto favorecida por la recuperación de las cotizadas tecnológicas y la relajación del precio del barril de Brent, que ha caído a los 91 dólares.",
+          "por_que_importa": "La caída de los precios del crudo alivia los temores inflacionistas en Europa, otorgando margen a las empresas del selectivo para sostener sus márgenes operativos. El comportamiento del mercado refleja además cómo las expectativas de tipos de interés más estables favorecen el flujo de capital hacia la renta variable europea.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-10/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "Boeing recortará un 5% de su plantilla comercial ante el ajuste en la producción",
+          "que_ha_pasado": "El fabricante aeronáutico estadounidense reducirá aproximadamente el 5% de la plantilla en su división de aviación comercial mediante despidos y bajas no cubiertas. La compañía busca moderar el ritmo de ensamblaje de sus aeronaves para estabilizar sus operaciones.",
+          "por_que_importa": "El ajuste refleja los cuellos de botella persistentes en las cadenas de suministro globales de la aviación y los continuos problemas de control de calidad que arrastra la firma. Reducir la cadencia de producción frena la entrega de pedidos a las aerolíneas, ralentizando la modernización del sector aéreo mundial.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/09/boeing-to-cut-commercial-plane-workforce"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Otter AI lanza la traducción cruzada e inmediata en más de 30 idiomas",
+          "que_ha_pasado": "La plataforma de transcripción e inteligencia artificial Otter AI ha añadido soporte para 27 nuevas lenguas y presentado una función capaz de seguir conversaciones donde los ponentes alternan entre varios idiomas en tiempo real.",
+          "por_que_importa": "El procesamiento del lenguaje natural multilingüe en directo supone un avance sustancial para la productividad en entornos de trabajo corporativos e internacionales. Esta capacidad reduce las barreras lingüísticas en la consultoría y la diplomacia corporativa, automatizando actas y análisis en tiempo real.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+            }
+          ]
+        },
+        {
+          "titular": "Paramount Skydance sitúa la IA como la mayor revolución creativa en la historia del cine",
+          "que_ha_pasado": "David Ellison, consejero delegado del grupo audiovisual Paramount Skydance, afirmó durante la presentación de resultados que el impacto de la IA generativa en la producción cinematográfica superará al que tuvo la introducción del CGI.",
+          "por_que_importa": "La postura de las grandes productoras confirma que la inteligencia artificial está dejando de ser una herramienta experimental para convertirse en un pilar del proceso industrial del entretenimiento. La adopción masiva redefinirá la estructura de costes de producción, los derechos de propiedad intelectual y los modelos laborales en Hollywood.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai"
+            }
+          ]
+        },
+        {
+          "titular": "Exingenieros de SpaceX desarrollan propulsión espacial basada en agua",
+          "que_ha_pasado": "Una nueva empresa fundada por tres antiguos ingenieros de SpaceX busca llevar a cabo misiones por el Sistema Solar utilizando motores espaciales propulsados por agua, como alternativa a los combustibles convencionales y nucleares.",
+          "por_que_importa": "La búsqueda de propelentes abundantes e inertes como el agua es crucial para la viabilidad comercial de la minería espacial y las misiones de larga distancia. Disminuir la dependencia de refinados químicos costosos y peligrosos abarataría la logística orbital y la exploración interplanetaria.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/espacio/tres-hermanos-ex-ingenieros-spacex-quieren-cruzar-sistema-solar-nave-que-funciona-agua"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "La huelga de maquinistas colapsa Cercanías Madrid y paraliza el mapa ferroviario",
+          "que_ha_pasado": "El sindicato de maquinistas Semaf ha iniciado jornadas de paro que han paralizado las líneas principales de Cercanías Madrid, Rodalies y conexiones en la Comunidad Valenciana, registrándose un incumplimiento masivo de los servicios mínimos fijados.",
+          "por_que_importa": "El colapso del transporte público ferroviario tensiona la movilidad en los principales nodos urbanos e industriales del país, generando pérdidas millonarias en horas de trabajo. Las fricciones laborales en Renfe ponen de manifiesto las dificultades de gestión operativa y laboral tras la liberalización del sector.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/madrid/2026/11/10/6af2b45cfdddff60378b4587.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-11-10/huelga-trenes-renfe-semaf-noviembre-reembolsos-madrid-cataluna-valencia_4461853/"
+            }
+          ]
+        },
+        {
+          "titular": "El Gobierno crea el título de familia monoparental equiparándolo a las numerosas",
+          "que_ha_pasado": "El Ministerio de Derechos Sociales ha anunciado la creación de un título oficial de familia monoparental a nivel estatal, permitiendo que los hogares con dos hijos accedan a los mismos beneficios fiscales y sociales que las familias numerosas.",
+          "por_que_importa": "La medida busca corregir la brecha de vulnerabilidad económica que sufren más de 760.000 hogares en España, encabezados en su mayoría por mujeres. Supone un avance en la homogeneización de las ayudas sociales estatales frente al mosaico de regulaciones autonómicas previas.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/sociedad/2026-11-10/el-gobierno-creara-un-titulo-de-familia-monoparental-las-que-tengan-dos-hijos-tendran-los-mismos-beneficios-de-las-numerosas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Alerta roja por lluvias de hasta 120 litros en Extremadura y Castilla y León",
+          "que_ha_pasado": "El paso de las borrascas Bruna y Charles ha obligado a activar la alerta roja en el norte de Cáceres y el sur de Ávila, provocando la suspensión de clases y el corte de carreteras por precipitaciones acumuladas de 120 litros por metro cuadrado.",
+          "por_que_importa": "Los episodios severos de precipitaciones concentradas vuelven a poner a prueba las infraestructuras de drenaje y los protocolos de emergencia autonómicos. La frecuencia de estos fenómenos adversos resalta la urgencia de adaptar las redes de obras públicas ante eventos climáticos extremos.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/11/10/6af2c4acfc6c83526d8b457f.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Planeta publicará la biografía de Vargas Llosa tras la renuncia del sello Debate",
+          "que_ha_pasado": "El grupo editorial Planeta ha asumido la publicación de la biografía del Nobel Mario Vargas Llosa, redactada por el británico Gerald Martin, después de que el sello Debate (Penguin Random House) cancelara el contrato por discrepancias sobre su contenido.",
+          "por_que_importa": "El movimiento refleja las tensiones comerciales y editoriales que suscitan las biografías no autorizadas o de tono crítico sobre figuras del canon literario mundial. La puja entre los dos grandes gigantes editoriales en español demuestra además la vigencia comercial del legado del boom latinoamericano.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-10/la-polemica-biografia-de-vargas-llosa-que-el-grupo-editorial-del-nobel-no-quiso-publicar.html"
+            }
+          ]
+        },
+        {
+          "titular": "París acoge la retrospectiva de Kerry James Marshall sobre la identidad negra en el arte",
+          "que_ha_pasado": "Una gran exposición retrospectiva en la capital francesa repasa la trayectoria del pintor afroamericano Kerry James Marshall, célebre por situar a la comunidad negra en el centro de obras construidas sobre el canon de la pintura clásica occidental.",
+          "por_que_importa": "La muestra consagra institucionalmente a uno de los artistas contemporáneos más influyentes en la revisión de la historia del arte. Su propuesta desafía la invisibilización histórica de las minorías en las pinacotecas tradicionales, reevaluando el papel de la representación pictórica en la construcción de poder y memoria cultural.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-10/kerry-james-marshall-pintor-de-la-experiencia-negra-de-todos-los-artistas-que-conozco-prefiero-mis-propios-cuadros.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Trampa de miel (Honeypot)",
+    "explicacion": "En el ámbito de la inteligencia y la seguridad corporativa, una 'trampa de miel' es una técnica de espionaje en la que se utiliza una relación afectiva o romántica para comprometer a un individuo con acceso a información altamente sensible de carácter geopolítico o tecnológico. El objetivo principal es chantajear a la víctima, extraer secretos industriales o comprometer la seguridad operativa de una organización o Estado clave.",
+    "ejemplo": "La investigación abierta por el FBI al consejero delegado de Nvidia, Jensen Huang, ante las sospechas de que su relación personal con una supuesta agente china buscaba filtrar secretos sobre semiconductores estratégicos a Pekín."
+  },
+  "fecha": "2026-11-10"
+}
