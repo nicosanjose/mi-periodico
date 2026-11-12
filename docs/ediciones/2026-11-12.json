@@ -1,0 +1,286 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Nvidia sopesa destituir a Jensen Huang tras destaparse un escándalo personal e investigaciones de seguridad",
+      "resumen": "El consejo del gigante de los chips se reúne de urgencia mientras el valor en bolsa cae un 8% y el FBI investiga presuntas ramificaciones de espionaje."
+    },
+    {
+      "titular": "Los demócratas consolidan su mayoría en el Senado de EE. UU. tras una histórica victoria en Misisipi",
+      "resumen": "Scott Colom da la sorpresa en un feudo republicano, elevando a 55 los escaños del partido azul y reactivando la presión para una reforma migratoria."
+    },
+    {
+      "titular": "Francia apoya la candidatura del español Pablo Hernández de Cos para presidir el Banco Central Europeo",
+      "resumen": "El exgobernador del Banco de España gana enteros en París y Berlín dentro de las negociaciones para la renovación de la cúpula del organismo monetario."
+    },
+    {
+      "titular": "Jornada de huelga y protestas por la vivienda en España acaba con más de cien detenidos y disturbios",
+      "resumen": "Las movilizaciones concluyen con fuertes cargas policiales en Madrid y altercados en Barcelona, tensando las relaciones en el bloque de investidura."
+    },
+    {
+      "titular": "La UE y el Reino Unido pospondrán los aranceles del 10% a los vehículos eléctricos",
+      "resumen": "Bruselas y Londres buscan dar oxígeno al sector automovilístico europeo frente al avance arrollador de los fabricantes chinos."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "El Partido Demócrata amplía su control del Senado de EE. UU. a 55 escaños tras vencer en Misisipi",
+          "que_ha_pasado": "El candidato demócrata Scott Colom ha logrado una victoria histórica en Misisipi frente a la republicana Cindy Hyde-Smith, convirtiéndose en el primer senador azul de este estado en casi cuarenta años. A raíz de los resultados de las elecciones de medio término, los nuevos legisladores y el ala empresarial han exigido de inmediato una reforma migratoria en el Capitolio.",
+          "por_que_importa": "El control de 55 escaños da a los demócratas una holgura legislativa clave para frenar el programa ejecutivo de la Administración saliente o entrante y confirmar nombramientos judiciales. Además, el resultado evidencia fisuras en el voto conservador del sur profundo y reconfigura el debate sobre los flujos migratorios y la mano de obra en sectores intensivos como la agricultura y la construcción.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/2026-11-11/scott-colom-gana-en-misisipi-el-primer-democrata-que-manda-el-estado-al-senado-en-casi-cuatro-decadas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Estonia reclama que António Costa y Kaja Kallas asuman la voz de la UE en las negociaciones sobre Ucrania",
+          "que_ha_pasado": "El primer ministro estonio, Kristen Michal, ha solicitado formalmente que la futura diplomacia europea en un eventual proceso de paz para Ucrania recaiga en el presidente del Consejo Europeo, António Costa, y la alta representante, Kaja Kallas. El movimiento busca garantizar que la posición de los Veintisiete sea unitaria y transparente frente a las iniciativas unilaterales de grandes potencias.",
+          "por_que_importa": "El temor de los países bálticos y del flanco este es quedar al margen de una negociación relámpago entre Washington y Moscú. Delegar la interlocución en Costa y Kallas refuerza la cohesión institucional de la UE y busca evitar pactos sobre la seguridad europea que no cuenten con la aquiescencia directa de las capitales más expuestas a la amenaza rusa.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/estonia-antonio-costa-kaja-kallas-europe-ukraine-peace-talks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La Cumbre de la Comunidad Política Europea en Dublín afronta dudas sobre su utilidad estratégica",
+          "que_ha_pasado": "Más de cincuenta líderes del continente europeo se reúnen hoy en Dublín en el marco de la Comunidad Política Europea (CPE). El encuentro está marcado por la falta de agenda ejecutiva clara y el creciente escepticismo entre los diplomáticos comunitarios sobre la viabilidad del formato a largo plazo.",
+          "por_que_importa": "Ideada originalmente por Emmanuel Macron para mantener un puente con el Reino Unido tras el Brexit y con los países candidatos a la UE, la CPE corre el riesgo de convertirse en un foro de mera foto institucional. En un contexto geopolítico fragmentado, la falta de capacidad decisoria de este foro debilita su efectividad frente a estructuras tradicionales como la OTAN o las cumbres bilaterales.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/the-summit-europe-loves-to-hate/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La red eléctrica de Ucrania al límite crítico tras intensificarse los ataques rusos contra infraestructuras",
+          "que_ha_pasado": "Los bombardeos masivos de las fuerzas rusas sobre la infraestructura energética ucraniana han dejado a amplias zonas del país con apenas unas horas de electricidad al día a las puertas del invierno. Las autoridades locales advierten de que el sistema se encuentra al borde del colapso estructural.",
+          "por_que_importa": "La estrategia de desgaste sobre la red eléctrica busca erosionar la moral de la población civil e inutilizar la capacidad industrial y logística ucraniana. La crisis energética sobrecarga además la asistencia de emergencia europea y aumenta la necesidad de transferir sistemas de defensa aérea de forma inmediata.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "París apoya a Pablo Hernández de Cos para la presidencia del Banco Central Europeo",
+          "que_ha_pasado": "Francia ha emitido señales claras de respaldo a la candidatura del exgobernador del Banco de España, Pablo Hernández de Cos, para asumir la presidencia del Banco Central Europeo. El movimiento posiciona favorablemente a Madrid en las negociaciones cruzadas entre París y Berlín para el reparto de cargos en las instituciones financieras comunitarias.",
+          "por_que_importa": "El apoyo francés resulta decisivo para equilibrar los contrapesos entre los países del norte y del sur en el seno del BCE. Hernández de Cos cuenta con un perfil técnico de elevado prestigio internacional, idóneo para pilotar el ciclo de relajación monetaria en un momento de estancamiento económico en la eurozona.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/b0d03a62-a75d-41f9-bac3-1518cefe400a?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La UE y el Reino Unido pactan aplazar los aranceles del 10% a los vehículos eléctricos",
+          "que_ha_pasado": "Bruselas y Londres ultiman un acuerdo para retrasar la aplicación del arancel del 10% a los vehículos eléctricos transfronterizos. La medida responde a las presiones de los constructores europeos, debilitados por la caída de ventas de motorizaciones de combustión y por la expansión masiva de las marcas chinas en el mercado global.",
+          "por_que_importa": "Aplicar estas tarifas en el marco post-Brexit habría encarecido de forma inmediata la cadena de suministro automotriz dentro de Europa. El aplazamiento concede tiempo a la industria continental para escalar su producción de baterías locales y ganar competitividad frente a los subsidios estatales de China.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/b6c31ee9-0837-4fb0-83d9-a0e70100d0a3?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El PIB del Reino Unido crece un 0,7% en el tercer trimestre, su ritmo más elevado en dos años",
+          "que_ha_pasado": "La economía británica registró una expansión del 0,7% entre julio y septiembre, impulsada por la resistencia del consumo privado y la actividad empresarial a pesar de los elevados precios de la energía. La cifra confirma el avance mensual del 0,2% registrado en septiembre.",
+          "por_que_importa": "El dato supera las expectativas de los analistas y da cierto margen de maniobra fiscal al Gobierno británico. Sin embargo, persisten las dudas sobre la sostenibilidad del crecimiento a medio plazo ante la rigidez de los tipos de interés y el estancamiento de la productividad.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp"
+            }
+          ]
+        },
+        {
+          "titular": "Las bolsas europeas aguantan en positivo pese a la turbulencia generada por Nvidia",
+          "que_ha_pasado": "Las bolsas europeas y el Ibex 35 mantuvieron avances moderados del 0,2%, desligándose del desplome de casi el 9% en las horas posteriores al cierre del Nasdaq por la crisis directiva en Nvidia. Por su parte, el crudo Brent anotó un descenso del 1,5%.",
+          "por_que_importa": "El desacoplamiento temporal entre la renta variable europea y el sector tecnológico estadounidense refleja una rotación de carteras hacia valores defensivos y bancarios. Muestra además cómo los inversores europeos diferencian el riesgo reputacional de una gran tecnológica del escenario macroeconómico general.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-12/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "La junta de Nvidia debate la destitución de Jensen Huang tras revelarse un nuevo escándalo personal e investigaciones de seguridad",
+          "que_ha_pasado": "El consejo de administración de Nvidia se ha reunido de urgencia para abordar la destitución de su fundador y consejero delegado, Jensen Huang, tras publicarse informaciones sobre una segunda relación extramarital y la apertura de investigaciones por parte del FBI relacionadas con presunto espionaje chino. El valor bursátil de la compañía ha caído más de un 8% tras el anuncio.",
+          "por_que_importa": "Huang ha sido la figura central de la revolución de la inteligencia artificial y el artífice de una valoración que supera los 4 billones de dólares. Su eventual salida sin un plan de sucesión claro introduce una enorme volatilidad en la cadena de suministro global de semiconductores y expone el flanco geopolítico de la supremacía tecnológica estadounidense frente a China.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/2026-11-11/la-revelacion-de-una-nueva-relacion-extramarital-del-consejero-delegado-de-nvidia-compromete-su-futuro-en-la-compania.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+            },
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/empresas-y-economia/cupula-nvidia-se-prepara-para-destituir-a-jensen-huang-descubrirse-segunda-infidelidad-wsj"
+            },
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+            }
+          ]
+        },
+        {
+          "titular": "United Airlines prohíbe el uso de agentes de IA personales para la reserva de billetes",
+          "que_ha_pasado": "United Airlines ha anunciado que bloqueará las operaciones automatizadas de agentes virtuales de IA que intenten reservar o comprar billetes en nombre de usuarios. La aerolínea alega motivos de privacidad, ciberseguridad y limitaciones regulatorias.",
+          "por_que_importa": "La decisión marca un choque directo entre las plataformas de IA generativa que buscan automatizar tareas cotidianas y el modelo comercial de las grandes empresas, celosas de controlar el canal de venta y la relación directa con los datos del consumidor.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+            }
+          ]
+        },
+        {
+          "titular": "Apple reorienta su estrategia de hardware hacia las gafas inteligentes ligeras para 2027",
+          "que_ha_pasado": "Apple proyecta el lanzamiento de unas nuevas gafas inteligentes de realidad asistida para el próximo año, lo que supondrá un cambio de rumbo respecto al formato voluminoso de las Vision Pro actuales.",
+          "por_que_importa": "El giro confirma que el mercado no ha absorbido los visores pesados de alto coste. La apuesta por dispositivos ligeros busca competir directamente en el terreno de las gafas conectadas cotidianas, integrando asistentes de voz e IA en el día a día del usuario.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/smartlife/gadgets/2026-11-12/apple-nuevas-gafas-inteligentes-2027.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Más de cien detenidos y cargas policiales en el cierre de la jornada de protesta por la vivienda",
+          "que_ha_pasado": "La jornada de movilizaciones y huelga por el acceso a la vivienda culminó con altercados nocturnos, saqueos en Barcelona y cargas de los antidisturbios en Madrid. Los enfrentamientos dejaron más de un centenar de arrestados en todo el país y han provocado peticiones de dimisión del ministro del Interior por parte del socio parlamentario del Gobierno.",
+          "por_que_importa": "La crisis habitacional se ha consolidado como el principal vector de tensión social y política en España. La respuesta policial eleva el tono del debate entre los socios de investidura y condiciona la tramitación de los decretos legislativos sobre alquiler en la Diputación Permanente del Congreso.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-11-12/ultima-hora-de-la-actualidad-politica-en-directo.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-11-12/video-diputacion-permanente-debate-vota-aprobacion-decretos-vivienda_4463246/"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/11/11/6af4d97dfc6c83e1258b459e.html"
+            }
+          ]
+        },
+        {
+          "titular": "Feijóo condiciona la legislatura a los Presupuestos mientras se reabre el debate en la derecha",
+          "que_ha_pasado": "El líder del Partido Popular, Alberto Núñez Feijóo, afirmó que si no se aprueban unos nuevos Presupuestos Generales tras una prórroga se deberían convocar elecciones. Paralelamente, la relación con Vox experimenta roces tras la cancelación de compromisos públicos por parte de Santiago Abascal y las disputas mediáticas en el entorno de la derecha.",
+          "por_que_importa": "Las declaraciones fijan la estrategia de la oposición para desgastar al Ejecutivo central en el plano presupuestario. Al mismo tiempo, la volatilidad en la relación entre PP y Vox evidencia las dificultades de gestionar bloques de gobernabilidad autonómica estables cara a futuros escenarios electorales.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/elecciones-generales/2026-11-12/se-ha-cagado-los-youtubers-reaccionan-al-planton-de-abascal-con-jordi-wild-y-la-orbita-de-vox-lanza-teorias-conspiranoicas.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-11-12/feijoo-abascal-hormiguero-vox-pactos_4463267/"
+            }
+          ]
+        },
+        {
+          "titular": "Científicos alertan del deterioro del lago de Sanabria por el turismo masivo y el cambio climático",
+          "que_ha_pasado": "Un equipo multidisciplinar de biólogos e ingenieros ha hecho públicos los resultados de un análisis sobre el impacto del calentamiento global y la presión turística en el lago de Sanabria, el mayor cuerpo de agua glaciar de la península ibérica.",
+          "por_que_importa": "El informe evidencia la fragilidad de los ecosistemas de alta montaña peninsulares ante la alteración del régimen de temperaturas y la sobreexplotación turística, planteando la necesidad de aplicar restricciones severas de acceso para evitar daños ecológicos irreversibles.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/2026-11-12/el-lago-de-sanabria-se-resiste-a-cambiar-ante-la-amenaza-del-cambio-climatico-y-del-turismo-masivo.html"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/2026-11-12/el-lago-de-sanabria-se-resiste-a-cambiar-ante-la-amenaza-del-cambio-climatico-y-del-turismo-masivo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Los premios Pritzker Souto de Moura y Chipperfield sitúan la crisis de la vivienda como el mayor reto político contemporáneo",
+          "que_ha_pasado": "Los reconocidos arquitectos Eduardo Souto de Moura y David Chipperfield mantuvieron un debate público en el que argumentaron que el problema del acceso al alojamiento trasciende la técnica constructiva y requiere un compromiso político e institucional de gran escala.",
+          "por_que_importa": "La intervención de dos referentes de la arquitectura internacional subraya la incapacidad del diseño urbano por sí solo para resolver problemas estructurales de suelo, especulación y modelos financieros, reclamando una intervención pública coordinada.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-12/souto-de-moura-y-chipperfield-dos-premios-pritzker-debaten-sobre-la-crisis-de-la-vivienda-es-el-principal-problema-politico.html"
+            }
+          ]
+        },
+        {
+          "titular": "El filósofo Valerio Rocco advierte sobre la deriva antiintelectual y los riesgos para la libertad de creación",
+          "que_ha_pasado": "En una entrevista reflexiva, el director del Círculo de Bellas Artes de Madrid, Valerio Rocco, analizó las amenazas a la libertad artística derivativas del auge del pensamiento simplificado, la polarización ideológica y el desprestigio del esfuerzo intelectual.",
+          "por_que_importa": "El análisis pone de relieve el desgaste del debate público en la sociedad contemporánea, donde el rechazo a la complejidad y al pensamiento crítico dificulta el consenso cultural y la labor de las instituciones dedicadas a la divulgación de las ideas.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-12/valerio-rocco-filosofo-nos-matamos-en-el-gimnasio-pero-evitamos-el-dolor-de-pensar.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Splinternet (Balcanización de la red)",
+    "explicacion": "Concepto que describe la fragmentación de la red global de internet en subsistemas regionales o nacionales divididos por barreras regulatorias, tecnológicas, de ciberseguridad y geopolíticas. En lugar de un espacio digital abierto e interconectado a nivel mundial, la 'Splinternet' surge cuando los Estados imponen soberanía sobre sus datos, bloquean servicios extranjeros, restringen la exportación de tecnología de vanguardia o imponen cortafuegos nacionales para proteger su infraestructura crítica e influir en la narrativa pública.",
+    "ejemplo": "Las restricciones impuestas por United Airlines a agentes externos de IA y las investigaciones de seguridad sobre el liderazgo de Nvidia reflejan cómo las fronteras corporativas y estatales están fragmentando el ecosistema digital global."
+  },
+  "fecha": "2026-11-12"
+}
