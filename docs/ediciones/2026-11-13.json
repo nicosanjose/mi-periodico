@@ -1,0 +1,247 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Jensen Huang dimite en Nvidia tras salir a la luz un escándalo de espionaje vinculado a China",
+      "resumen": "El director ejecutivo renuncia al frente del gigante de los semiconductores mientras el Congreso estadounidense inicia una investigación formal por riesgos para la seguridad nacional."
+    },
+    {
+      "titular": "Una caída global de Microsoft invalida durante 12 horas las operaciones de miles de empresas",
+      "resumen": "La interrupción masiva de servicios como Outlook, Teams y Copilot ha mostrado la fragilidad de la dependencia corporativa mundial respecto a un solo proveedor en la nube."
+    },
+    {
+      "titular": "Alemania y Francia abren paso a Pablo Hernández de Cos para la presidencia del BCE",
+      "resumen": "Berlín y París encauzan un acuerdo clave que posiciona al exgobernador del Banco de España como favorito con el respaldo implícito de Christine Lagarde y Mario Draghi."
+    },
+    {
+      "titular": "El 70% de los ciudadanos comunitarios apoya la creación de un ejército europeo unificado",
+      "resumen": "El último informe de GLOBSEC confirma un respaldo sin precedentes a la integración militar ante el deterioro del marco de seguridad global y las dudas sobre el compromiso de EE. UU."
+    },
+    {
+      "titular": "Filtraciones oficiales rusas cifran en más de 450.000 los combatientes de Moscú muertos en Ucrania",
+      "resumen": "Un ataque informático a la base de datos de estadísticas de Rusia deja al descubierto el vertiginoso coste humano de la invasión para el Kremlin."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La salida forzada del CEO de Nvidia por espionaje chino sacude la seguridad nacional en EE. UU.",
+          "que_ha_pasado": "Jensen Huang ha presentado su dimisión como consejero delegado de Nvidia tras revelarse relaciones extramatrimoniales con una presunta espía del Gobierno chino asociada a la firma Megaspeed. La Cámara de Representantes de EE. UU. le ha citado a declarar e investiga si las operaciones de exportación de microchips a Pekín comprometieron tecnología crítica.",
+          "por_que_importa": "Nvidia es el pilar central del despliegue global de inteligencia artificial y su hardware posee estatus de activo estratégico militar. Que el liderazgo de la empresa se vea salpicado por operaciones de inteligencia china evidencia cómo las disputas tecnológicas de las dos potencias trascienden lo comercial para convertirse en infiltraciones de contrainteligencia.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/technology/2026/nov/13/a-baffling-trail-from-australia-to-singapore-what-is-megaspeed-the-company-implicated-in-downfall-of-nvidias-jensen-huang"
+            }
+          ]
+        },
+        {
+          "titular": "Una filtración informática desvela más de 450.000 muertos en las filas rusas durante la invasión",
+          "que_ha_pasado": "Grupos de activistas cibernéticos han accedido y publicado por primera vez la base de datos oficial de la agencia estatal de estadísticas de Rusia. Los datos demuestran que más de 450.000 combatientes encuadrados en el bando ruso han perdido la vida desde el inicio del conflicto en 2022.",
+          "por_que_importa": "El Kremlin ha mantenido en secreto sus cifras de bajas para evitar un desgaste político interno y disuadir el rechazo social a las levas masivas. Revelar un desgaste humano de esta escala expone la ineficiencia táctica de las ofensivas terrestres de Moscú y tensiona la sostenibilidad demográfica y económica de su maquinaria de guerra a largo plazo.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-13/mas-de-450000-combatientes-del-bando-ruso-han-muerto-desde-el-inicio-de-la-guerra-segun-la-base-de-datos-oficial.html"
+            }
+          ]
+        },
+        {
+          "titular": "El respaldo popular a un ejército propio de la Unión Europea alcanza el 70%",
+          "que_ha_pasado": "Según el informe de tendencias GLOBSEC 2026, más de siete de cada diez ciudadanos europeos respaldan la creación de unas fuerzas armadas comunitarias. Además, cerca del 80% demanda reforzar de forma drástica las capacidades operativas e industriales de defensa del continente.",
+          "por_que_importa": "Históricamente, la defensa nacional ha sido un reducto celosamente guardado por los Estados miembros de la UE. El cambio de percepción en la opinión pública refleja el temor a un desacoplamiento estratégico por parte de Estados Unidos y consolida la urgencia de estructurar una verdadera autonomía militar paneuropea.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/european-citizens-overwhelmingly-back-creation-of-an-eu-army-survey-finds/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "El mar Negro se convierte en la ruta marítima comercial más peligrosa del mundo",
+          "que_ha_pasado": "Marineros y tripulaciones de buques mercantes han denunciado que las fuerzas rusas y ucranianas están recurriendo a tácticas letales que atacan directamente a la navegación civil. Desde el mes de junio se han contabilizado decenas de agresiones que se han cobrado la vida de más de 70 marinos.",
+          "por_que_importa": "La paralización o encarecimiento del tránsito en el mar Negro amenaza los flujos internacionales de cereal y materias primas. La degradación del principio de libre navegación y la falta de corredores seguros fuerzan un repunte en los costes de aseguramiento marítimo y amenazan la seguridad alimentaria en mercados dependientes.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-13/los-marineros-denuncian-las-nuevas-tacticas-de-rusia-y-ucrania-contra-los-buques-comerciales-disparan-a-matar.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Una caída global de Microsoft paraliza los sistemas informáticos de miles de empresas",
+          "que_ha_pasado": "La compañía tecnológica Microsoft no ha logrado restaurar la operatividad de sus servicios clave tras una interrupción global que superó las 12 horas. El fallo ha dejado inoperativos el correo de Outlook, la plataforma de colaboración Teams y las herramientas de IA corporativa de Copilot.",
+          "por_que_importa": "Aunque la multinacional descarta que el incidente se deba a un ataque cibernético, la paralización subraya la extrema vulnerabilidad de la economía global a los fallos en la infraestructura en la nube. La concentración de servicios esenciales en un puñado de gigantes tecnológicos genera un riesgo sistémico operacional para el sector privado y las instituciones.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/tecnologia/2026-11-13/microsoft-no-logra-recuperar-sus-servicios-tras-una-caida-global-de-mas-de-12-horas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Volatilidad en los mercados europeos ante el encarecimiento del Brent y el seísmo en Nvidia",
+          "que_ha_pasado": "Las bolsas europeas han cotizado en terreno negativo arrastradas por las caídas en el sector tecnológico chino y el temor a mayores restricciones de exportación tras la crisis directiva en Nvidia. Paralelamente, el barril de petróleo Brent se ha situado cerca de los 96 dólares en un entorno marcado por tensiones geopolíticas y dudas sobre los tipos de interés.",
+          "por_que_importa": "El sector tecnológico lidera la valoración de los índices globales, por lo que cualquier perturbación en sus actores principales se contagia de inmediato al resto del mercado. La coincidencia con un crudo rozando los 100 dólares reacelera los temores a tensiones inflacionistas que limiten el margen de maniobra de los bancos centrales.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-13/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/0d4e93e4-895e-4ae0-a01b-833a3ed440a8?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La compraventa de vivienda en EE. UU. se desploma a mínimos de 16 años por los tipos hipotecarios",
+          "que_ha_pasado": "Las ventas de viviendas de segunda mano en Estados Unidos cayeron a 3,75 millones de unidades anualizadas en octubre, lo que supone un descenso interanual del 8,8%. Se trata del nivel de transacción más bajo registrado en los últimos 16 años.",
+          "por_que_importa": "El mercado inmobiliario estadounidense está agarrotado por un 'efecto congelación': las elevadas tasas hipotecarias desincentivan a los propietarios a vender para no perder préstamos antiguos a tipos bajos, mientras que la elevada inflación resta poder adquisitivo a los compradores. Esto frena un motor de consumo clave para la economía norteamericana.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "El Congreso de EE. UU. investiga a Nvidia y Trump sugiere a Tim Cook como sustituto",
+          "que_ha_pasado": "Los legisladores demócratas han abierto una investigación parlamentaria contra la cúpula de Nvidia por sus entramados comerciales con China y sus vínculos con el entorno del expresidente Donald Trump. Entre el revuelo del sector, Trump ha sugerido públicamente que Tim Cook (CEO de Apple) tome las riendas del fabricante de chips.",
+          "por_que_importa": "La vacante en la dirección de la empresa más valiosa de la era de la IA desencadena una dura batalla política y corporativa. La interferencia del poder político en la selección de liderazgos tecnológicos evidencia que el control sobre el hardware de inteligencia artificial es ya una cuestión de soberanía y poder estatal.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang"
+            }
+          ]
+        },
+        {
+          "titular": "La FAA extiende el uso de Inteligencia Artificial para gestionar el tráfico aéreo en EE. UU.",
+          "que_ha_pasado": "La Administración Federal de Aviación de EE. UU. (FAA) ha ampliado la implantación de una plataforma de IA destinada a predecir y gestionar la congestión del espacio aéreo nacional. Aunque las aerolíneas han aplaudido la medida, el sindicato de controladores aéreos critica no haber sido consultado.",
+          "por_que_importa": "El despliegue automatizado en infraestructuras críticas ilustra la transición hacia modelos de optimización operativa en tiempo real. No obstante, la fricción con los colectivos laborales pone de manifiesto el reto de integrar la automatización en entornos de alta responsabilidad operativa sin generar rechazo social o dudas sobre la seguridad.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+            }
+          ]
+        },
+        {
+          "titular": "Los agentes de IA comienzan a realizar llamadas telefónicas salientes autónomas a empresas",
+          "que_ha_pasado": "La firma tecnológica Muse ha actualizado su sistema de IA permitiéndole efectuar llamadas salientes de forma directa a empresas estadounidenses para realizar gestiones en nombre del usuario. El servicio se comercializa bajo un modelo de pago por uso.",
+          "por_que_importa": "Este desarrollo marca un paso significativo desde los asistentes conversacionales pasivos hacia agentes autónomos con capacidad de ejecución e interacción en el mundo real. Para las firmas de consultoría y servicios, anticipa una ola de automatización en tareas operativas de atención al cliente, reservas y gestión de proveedores.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Francia y Alemania perfilan un acuerdo para situar a Hernández de Cos al frente del BCE",
+          "que_ha_pasado": "París y Berlín han acercado posturas para respaldar la candidatura del exgobernador del Banco de España, Pablo Hernández de Cos, a la presidencia del Banco Central Europeo. La propuesta cuenta además con el apoyo informal de figuras influyentes como Christine Lagarde y Mario Draghi.",
+          "por_que_importa": "Lograr la presidencia del instituto emisor de la eurozona situaría a España en el máximo centro de decisión monetaria del continente. Hernández de Cos cuenta con un perfil técnico muy respetado por el eje franco-alemán, capaz de conciliar la visión entre los países del norte y el sur respecto a la consolidación fiscal y los tipos de interés.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/11/13/6af6013de85eceee538b4575.html"
+            }
+          ]
+        },
+        {
+          "titular": "La UCO revela que Moncloa gestionó la reunión del presidente Sánchez con un investigado",
+          "que_ha_pasado": "Mensajes aportados por la Unidad Central Operativa (UCO) de la Guardia Civil desvelan que el actual ministro Óscar López impulsó en su momento la cita de 35 minutos entre Pedro Sánchez y el chófer implicado en la trama judicial, Cristian Corvillo. El encuentro se produjo en Córdoba a pesar de que la versión gubernamental previa lo había descartado.",
+          "por_que_importa": "El goteo de informaciones sumarialmente contrastadas por la UCO erosiona la credibilidad de las explicaciones oficiales y acentúa la presión política sobre el Ejecutivo. La controversia dificulta el desempeño legislativo del Gobierno en un momento clave de negociación presupuestaria.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/espana/2026/11/12/6af61ead21efa0bb048b458b.html"
+            }
+          ]
+        },
+        {
+          "titular": "La inflación en España se estanca en el 4,9% en octubre empujada por el gas y el turismo",
+          "que_ha_pasado": "El Índice de Precios de Consumo (IPC) en España no ha registrado variaciones en octubre y se sitúa en el 4,9% interanual. La contención en el precio de los alimentos no ha bastado para compensar el impacto alcista de los servicios turísticos y de la factura energética.",
+          "por_que_importa": "La persistencia de una inflación cercana al 5% reduce la renta disponible de los hogares y encarece los costes operativos para el tejido empresarial. Además, dificulta el retiro gradual de las medidas extraordinarias de apoyo fiscal sobre los carburantes y la energía impulsadas por el Gobierno.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/economia/2026-11-13/la-inflacion-se-mantiene-en-el-49-en-octubre-por-la-presion-del-turismo-y-el-gas.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Rosalía arrolla en los Latin Grammy 2026 tras ganar el premio a mejor álbum por 'Lux'",
+          "que_ha_pasado": "La artista española Rosalía se ha consagrado como la gran triunfadora de la 27ª edición de los Latin Grammy al obtener cinco galardones, incluidos el de Álbum del Año por su trabajo 'Lux' y Canción del Año por 'La Perla'.",
+          "por_que_importa": "El triunfo de Rosalía ratifica el peso decisivo de la industria musical en español en el panorama global y la capacidad de los creadores hispanos para liderar la vanguardia pop internacional mezclando experimentación conceptual y éxito comercial masivo.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/us/entretenimiento/2026-11-13/los-ganadores-a-los-premios-latin-grammy-2026-en-vivo.html"
+            }
+          ]
+        },
+        {
+          "titular": "El National Trust británico recupera terrenos clave para proyectos de restauración ambiental",
+          "que_ha_pasado": "La entidad de conservación National Trust ha asumido nuevamente la propiedad de diversos terrenos en el Reino Unido con la finalidad de restaurar hábitats naturales degradados, fomentar la biodiversidad local y garantizar el acceso de la ciudadanía a espacios verdes protegidos.",
+          "por_que_importa": "Frente a la presión urbanística y el cambio climático, la adquisición proactiva de terrenos por parte de fundaciones privadas sin ánimo de lucro se consolida como una estrategia eficaz de mitigación ambiental y preservación del patrimonio natural.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cqvg257kl440o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Riesgo de concentración",
+    "explicacion": "El riesgo de concentración es la exposición financiera, operativa o estratégica excesiva a un único activo, proveedor, cliente, tecnología o área geográfica. Ocurre cuando una entidad o una industria entera depende de forma desproporcionada de un único eslabón de la cadena de valor. En este escenario, cualquier vulnerabilidad, interrupción técnica, litigio o sanción que afecte al proveedor dominante se transmite inmediatamente al resto del sistema, provocando paradas operativas masivas o pérdidas económicas en cadena.",
+    "ejemplo": "La paralización global de 12 horas sufrida por miles de empresas tras el fallo en la nube de Microsoft (Outlook y Teams) ilustra la vulnerabilidad del mercado ante el riesgo de concentración digital."
+  },
+  "fecha": "2026-11-13"
+}
