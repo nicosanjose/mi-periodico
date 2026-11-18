@@ -1,0 +1,278 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Xi y Putin exhiben sintonía en Shenzhen antes de recibir a Trump en la cumbre de la APEC",
+      "resumen": "Beijing y Moscú reivindican la consolidación de un orden multipolar frente al proteccionismo occidental en la antesala del foro de cooperación Asia-Pacífico."
+    },
+    {
+      "titular": "Nvidia logra ingresos récord pero ajusta su gobernanza tras el despido de Jensen Huang",
+      "resumen": "La compañía calma a los mercados garantizando la rentabilidad al accionista mientras congela su agresiva política de inversión en startups tras la salida de su fundador."
+    },
+    {
+      "titular": "Rusia intensifica los sabotajes de baja intensidad contra la industria de defensa europea",
+      "resumen": "Los servicios de inteligencia alertan del reclutamiento de agentes locales por parte de Moscú para atentar contra instalaciones vinculadas al suministro de armas a Ucrania."
+    },
+    {
+      "titular": "Sánchez frena las reformas sociales para no alimentar a sus socios antes del 29-N",
+      "resumen": "El Ejecutivo congela iniciativas clave como la reducción de jornada laboral en la recta final de la campaña electoral para controlar el marco del debate político."
+    },
+    {
+      "titular": "Microsoft rediseña Office para integrarlo de forma nativa dentro de Copilot",
+      "resumen": "La tecnológica desplaza el protagonismo del documento tradicional para convertir la interfaz conversacional y los agentes autónomos de IA en el núcleo del trabajo."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Xi Jinping y Vladímir Putin coordinan una alternativa multilateral antes del inicio de la APEC",
+          "que_ha_pasado": "En el marco de su encuentro en Shenzhen, los líderes de China y Rusia han ratificado la solidez de su alianza estratégica y han cargado contra el proteccionismo de las potencias occidentales. La reunión se celebra a las puertas de la cumbre del foro Asia-Pacífico, a la que está prevista la asistencia de Donald Trump.",
+          "por_que_importa": "Beijing y Moscú buscan proyectar un frente unido que afiance su influencia sobre el sur global antes del reinicio de tensiones comerciales con Washington. Esta sintonía escenifica el intento de estructurar bloques de cooperación e intercambios económicos que funcionen al margen de la hegemonía y las instituciones de Occidente.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-18/xi-jinping-y-putin-reivindican-su-firme-relacion-poco-antes-de-la-llegada-de-trump-a-la-cumbre-de-la-apec-en-china.html"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/ef5dab0d-7335-4dc6-9e44-254bdd9cdc06?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/internacional/2026/11/18/6afd1bfc21efa0e3378b4570.html"
+            }
+          ]
+        },
+        {
+          "titular": "Europa alerta de una escalada en los actos de sabotaje ruso contra contratistas de defensa",
+          "que_ha_pasado": "Los servicios de seguridad europeos denuncian una multiplicación de ataques de baja intensidad contra infraestructuras y fábricas de armamento con ventas destinadas a Ucrania. El Kremlin está recurriendo cada vez más a intermediarios locales y simpatizantes para ejecutar acciones de interrupción logística y vandalismo.",
+          "por_que_importa": "Esta estrategia forma parte de una campaña coordinada para debilitar la capacidad industrial de apoyo a Kiev manteniéndose por debajo de la línea que activaría una respuesta militar directa de la OTAN. Para las empresas del sector, supone un reto directo en la protección de sus cadenas de suministro y seguridad física.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-18/rusia-pasa-a-una-nueva-fase-en-su-ofensiva-en-europa-sabotajes-a-los-fabricantes-de-armas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las solapadas competencias en la diplomacia europea generan tensiones operativas",
+          "que_ha_pasado": "La delimitación de funciones entre la Alta Representante de la UE, Kaja Kallas, y el Comisario para el Mediterráneo está provocando roces internos en la gestión de expedientes diplomáticos prioritarios. Ambas figuras han protagonizado duplicidades en misiones clave en Oriente Medio y el norte de África.",
+          "por_que_importa": "La falta de claridad en el reparto de poder reduce la eficacia y la credibilidad exterior de la Unión Europea en un momento de reconfiguración geopolítica global. Esta fragmentación de la vocación diplomática europea limita la capacidad de Bruselas para actuar como un mediador único y relevante.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/when-eu-foreign-policy-jobs-collide/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Washington atribuye los fallos tecnológicos recientes a fallos técnicos y descarta un ciberataque",
+          "que_ha_pasado": "El Gobierno estadounidense ha asegurado que no existen evidencias de ataques sistemáticos o coordinados tras la sucesión de caídas digitales que han afectado a aerolíneas, bancos y sistemas operativos. El Departamento de Estado busca contener la especulación pública sobre una supuesta agresión extranjera.",
+          "por_que_importa": "A pesar de descartarse la injerencia de potencias rivales, la vulnerabilidad mostrada por infraestructuras críticas pone de relieve la fragilidad de la dependencia digital masiva. La rápida propagación de teorías conspirativas tras estos incidentes evidencia la volatilidad social y el deterioro de la confianza en las instituciones.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/us/2026-11-18/psicosis-conspiranoia-y-desconfianza-en-el-gobierno-la-acumulacion-de-fallos-en-el-sistema-inquieta-a-los-ciudadanos.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Nvidia bate récords de ingresos pero congela su agresiva política de inversión en startups",
+          "que_ha_pasado": "La tecnológica ha presentado unos resultados trimestrales históricos apoyados en la demanda de infraestructura para IA, aunque sus acciones se han visto presionadas tras confirmar que no readmitirá a Jensen Huang. La dirección provisional priorizará el retorno de capital a los accionistas y endurecerá los criterios para financiar a empresas de su ecosistema.",
+          "por_que_importa": "Bajo la gestión de Huang, Nvidia actuaba como un vehículo de inversión clave para la industria, acumulando participaciones valoradas en 65.000 millones de dólares. Su salida y el cambio de rumbo estratégico alteran el flujo de capital hacia las startups desarrolladoras de tecnología emergente.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-11-18/nvidia-no-necesita-a-jensen-huang-queremos-nombrar-al-nuevo-ceo-lo-antes-posible-pero-queremos-a-la-persona-idonea.html"
+            },
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/economia/2026-11-18/nvidia-no-necesita-a-jensen-huang-queremos-nombrar-al-nuevo-ceo-lo-antes-posible-pero-queremos-a-la-persona-idonea.html"
+            }
+          ]
+        },
+        {
+          "titular": "Filtraciones operativas salpican los controles de cumplimiento de Deutsche Bank",
+          "que_ha_pasado": "Investigaciones periodísticas basadas en documentos internos han revelado que Deutsche Bank desoyó advertencias sobre clientes corporativos e individuales de alto riesgo para asegurar ingresos por comisiones. Los informes vinculan la flexibilidad de estos controles con operaciones ligadas a fortunas rusas y miembros de familias reales.",
+          "por_que_importa": "El caso expone las debilidades persistentes en los sistemas antiblanqueo y de gobernanza de la gran banca europea. Eventuales expedientes sancionadores por parte de los reguladores internacionales podrían castigar los márgenes operativos de la entidad y endurecer las exigencias de capital.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/9edd3730-3a15-4e1a-b33a-629aff00e847?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim"
+            }
+          ]
+        },
+        {
+          "titular": "El CIADI da la razón a Enagás en su litigio con el Gobierno de Perú",
+          "que_ha_pasado": "El tribunal arbitral del Banco Mundial ha fallado a favor de la compañía española Enagás en su demanda contra Perú por sus inversiones en los gasoductos TGP y COGA. La resolución permitirá a la firma recuperar una garantía financiera de 65 millones de dólares.",
+          "por_que_importa": "El laudo aporta certidumbre regulatoria y liquidez a la firma en un momento de reposicionamiento estratégico de sus activos internacionales. Además, refuerza la seguridad jurídica de las concesiones energéticas e infraestructuras operadas por multinacionales en la región.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-11-18/enagas-gana-el-arbitraje-contra-peru-sobre-sus-inversiones-en-tgp-y-coga.html"
+            }
+          ]
+        },
+        {
+          "titular": "La salida a bolsa de Anthropic prepara retornos millonarios para sus primeros inversores",
+          "que_ha_pasado": "La inminente oferta pública de venta de Anthropic se perfila como un hito financiero para un grupo de pequeñas firmas de capital riesgo que financiaron sus fases iniciales de desarrollo en inteligencia artificial.",
+          "por_que_importa": "La operación respalda las elevadas valoraciones alcanzadas por las compañías dedicadas a la creación de modelos de lenguaje en los últimos años. Las plusvalías liberadas alimentarán un nuevo ciclo de liquidez disponible en el mercado de capital privado para empresas de base tecnológica.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Microsoft integra Office en Copilot para migrar hacia un modelo centrado en agentes inteligentes",
+          "que_ha_pasado": "Microsoft ha comenzado a ejecutar herramientas como Word, Excel o PowerPoint de forma nativa dentro de Copilot. La rediseñada arquitectura está pensada para dar paso a agentes virtuales capaces de realizar tareas complejas en segundo plano de manera continua.",
+          "por_que_importa": "El movimiento traslada el eje de la informática corporativa desde la edición de documentos individuales hacia la automatización mediante lenguaje natural. Para el sector de la consultoría y los servicios globales, esta integración redefine la eficiencia operativa y los perfiles de habilidades requeridos.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/"
+            }
+          ]
+        },
+        {
+          "titular": "El capital riesgo europeo exige medidas para evitar el éxodo de startups maduras hacia EEUU",
+          "que_ha_pasado": "El último informe sobre el estado de la tecnología en Europa elaborado por Atomico subraya la rápida creación de empresas emergentes en la región, pero denuncia que las compañías siguen migrando al mercado estadounidense para ejecutar sus salidas a bolsa y rondas avanzadas.",
+          "por_que_importa": "La incapacidad europea para escalar proyectos consolidados limita el retorno del valor económico generado localmente. Sin la rápida consolidación de un mercado único de capitales, el continente corre el riesgo de quedar relegado a un papel secundario en el panorama tecnológico global.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/"
+            }
+          ]
+        },
+        {
+          "titular": "San Diego cancela su red de sensores urbanos tras cuestionamientos sobre su privacidad",
+          "que_ha_pasado": "La ciudad de San Diego ha procedido a la desconexión de más de 500 cámaras y sensores inteligentes instalados en luminarias públicas tan solo tres años después de promover su aprobación.",
+          "por_que_importa": "La marcha atrás institucional pone de manifiesto la resistencia ciudadana y legal frente a las herramientas de vigilancia masiva desplegadas en entornos urbanos. Supone un toque de atención para los municipios que abordan inversiones en proyectos de 'Smart City' sin el debido marco ético y regulatorio.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El Gobierno congela su agenda de reformas sociales en vísperas del 29-N",
+          "que_ha_pasado": "El presidente Pedro Sánchez ha descartado impulsar compromisos laborales y de protección social, como la reducción de la jornada laboral, antes de la cita con las urnas a finales de mes. La estrategia busca frenar el crecimiento electoral de sus socios de coalición.",
+          "por_que_importa": "La paralización de estas medidas tensiona la relación del PSOE con la plataforma de sus aliados legislativos a las puertas de las elecciones. El choque complica el horizonte de gobernabilidad y la capacidad del Ejecutivo para articular mayorías parlamentarias estables tras los comicios.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/campana-electoral-29-n-y-actualidad-politica-en-directo.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afca37ee4d4d8d41e8b4588.html"
+            }
+          ]
+        },
+        {
+          "titular": "Gobierno y oposición exhiben sus diferencias estructurales sobre la regulación de la vivienda",
+          "que_ha_pasado": "La ministra de Vivienda y el responsable económico del Partido Popular han cruzado propuestas contrapuestas en el debate sobre la tensión inmobiliaria. Mientras el Ejecutivo aboga por intervenir precios e imponer contenciones de mercado, la oposición insiste en la liberalización de suelo e incentivos fiscales.",
+          "por_que_importa": "El acceso a la vivienda se ha erigido en el principal foco de discrepancia política y económica del país. La falta de un pacto normativo duradero desincentiva la inversión en oferta de alquiler residencial a largo plazo y acentúa la brecha de liquidez entre generaciones.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/debate-sobre-la-vivienda-cara-a-cara-entre-isabel-rodriguez-psoe-y-juan-bravo-pp.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las huelgas en la sanidad pública se extienden por el bloqueo de las mesas de negociación",
+          "que_ha_pasado": "Los sindicatos médicos de Andalucía y de la Comunidad de Madrid mantienen sus convocatorias de paro y movilizaciones ante la ausencia de avances con sus respectivas consejerías de Sanidad. Las protestas provocan el aplazamiento de consultas externas y cirugías no urgentes.",
+          "por_que_importa": "El conflicto prolongado visibiliza la sobrecarga estructural y la carencia de facultativos que arrastra la atención primaria autonómica. El deterioro de la capacidad asistencial perjudica los tiempos de demora e incrementa la exigencia política sobre la gestión de los servicios públicos sanitarios.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/andalucia/2026-11-18/huelga-medicos-andalucia-fechas-y-detalles-1qrt_4467244/"
+            },
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/madrid/2026-11-18/los-medicos-madrilenos-retoman-la-huelga-con-una-protesta-ante-el-hospital-de-mostoles-para-exigir-dialogo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Un cuadro de Van Gogh expoliado en la Segunda Guerra Mundial sale a subasta tras un acuerdo de restitución",
+          "que_ha_pasado": "La casa de subastas Sotheby’s ofrece la obra 'Los castaños en flor' tras cerrarse un pacto financiero entre la familia heredera de su propietario judío original y los actuales poseedores del lienzo.",
+          "por_que_importa": "La transacción pone de relieve la vigencia del proceso de justicia restitutiva sobre bienes culturales saqueados durante el nazismo. Muestra cómo los acuerdos de transacción privada se han convertido en la vía habitual para resolver litigios sobre obras expuestas a lagunas de titularidad jurídica.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/us/2026-11-18/del-expolio-nazi-a-la-dictadura-argentina-la-historia-tras-el-van-gogh-que-subasta-hoy-sothebys.html"
+            }
+          ]
+        },
+        {
+          "titular": "El festival de documentales IDFA debate el papel del cine ante los regímenes autoritarios",
+          "que_ha_pasado": "La dirección artística del Festival Internacional de Cine Documental de Ámsterdam ha fijado sus principios de programación, asegurando que evitarán dar voz a Gobiernos que violen derechos humanos sin por ello boicotear o censurar la obra de cineastas independientes procedentes de esos territorios.",
+          "por_que_importa": "La decisión aborda la tensión ético-política a la que se enfrentan las grandes instituciones culturales en un periodo de polarización geopolítica. El certamen busca equilibrar la neutralidad artística con el compromiso irrenunciable hacia las libertades y la defensa de los derechos fundamentales.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-18/el-dilema-del-festival-idfa-el-cannes-de-los-documentales-no-damos-voz-a-gobiernos-en-contra-de-los-derechos-humanos-pero-tampoco-condenamos-a-los-cineastas-por-el-camino.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Riesgo de contraparte",
+    "explicacion": "El riesgo de contraparte es la probabilidad de que una de las partes involucradas en una operación financiera u obligación mercantil incumpla sus compromisos de pago o entrega, provocando una pérdida económica directa a la otra entidad. Es una métrica crítica en el mercado de derivados, préstamos sin garantía y operaciones comerciales a plazo, donde la estabilidad de las partes es incierta en el tiempo. Para atenuar este riesgo, el sistema financiero exige la constitución de colaterales y garantías periódicas, fija límites de crédito por entidad e intermediación mediante cámaras centrales de compensación.",
+    "ejemplo": "Las informaciones sobre la relajación de controles de Deutsche Bank en sus operaciones con clientes de alto riesgo han reactivado la preocupación de los analistas sobre la evaluación del riesgo de contraparte y la solidez de sus garantías."
+  },
+  "fecha": "2026-11-18"
+}
