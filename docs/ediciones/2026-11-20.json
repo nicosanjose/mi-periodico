@@ -1,0 +1,203 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Londres y Bruselas pactan un esquema de movilidad juvenil en el mayor acercamiento tras el Brexit",
+      "resumen": "El Reino Unido y la Unión Europea ultiman un acuerdo histórico que permitirá la llegada anual de 100.000 jóvenes e impulsará el comercio agroalimentario."
+    },
+    {
+      "titular": "Anthropic debuta en bolsa con una valoración récord de 1,3 billones de dólares pero frena el mercado tecnológico",
+      "resumen": "La salida a bolsa del creador de Claude marca un hito histórico, aunque las dudas sobre la rentabilidad del sector provocan caídas generalizadas en los parqués internacionales."
+    },
+    {
+      "titular": "El FMI advierte de que el despliegue de la IA empujará al alza los tipos de interés mundiales",
+      "resumen": "Kristalina Georgieva alerta de que las masivas necesidades de inversión en infraestructura energética y tecnológica obligarán a los bancos centrales a mantener una política monetaria restrictiva."
+    },
+    {
+      "titular": "Francia y Reino Unido lideran en Polonia las mayores maniobras militares para el flanco oriental de la OTAN",
+      "resumen": "El ejercicio 'Koalicja 26.2' ensaya el despliegue de fuerzas aliadas en Europa del Este en pleno repunte de las agresiones con misiles de Rusia contra la red eléctrica e infraestructuras ucranianas."
+    },
+    {
+      "titular": "Apple recluta ingenieros para desarrollar su propio agente de inteligencia artificial nativo",
+      "resumen": "El gigante de Cupertino busca competir directamente con OpenAI y Anthropic mediante un sistema capaz de ejecutar tareas complejas y autónomas entre aplicaciones dentro del ecosistema Mac y iOS."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Bruselas y Londres acuerdan un plan de movilidad para 100.000 jóvenes en vísperas de la cumbre bilateral",
+          "que_ha_pasado": "Los equipos negociadores del Reino Unido y la Unión Europea han cerrado un preacuerdo que permitirá a 100.000 ciudadanos comunitarios residir y trabajar anualmente en territorio británico bajo un nuevo régimen de movilidad. El pacto, que se formalizará este viernes, incluye también la armonización de estándares en el comercio de productos alimentarios y emisiones de carbono.",
+          "por_que_importa": "Supone el reinicio diplomático más ambicioso entre ambas partes desde la entrada en vigor del Brexit. Para la economía británica implica aliviar la escasez de mano de obra en sectores clave, mientras que para la UE consolida el principio de que cualquier acceso preferente al mercado único exige concesiones en la libre circulación de personas.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Rusia destruye puentes estratégicos en Kiev mientras los aliados ensayan despliegues en Polonia",
+          "que_ha_pasado": "Moscú ha lanzado un ataque masivo con misiles sobre tres puentes clave en Kiev tras las advertencias del Kremlin sobre represalias por los daños en el puente de Crimea. De forma paralela, tropas francesas y británicas han iniciado en Polonia las maniobras 'Koalicja 26.2', concebidas como antesala de un eventual despliegue defensivo en suelo ucraniano.",
+          "por_que_importa": "La destrucción de infraestructura crítica busca ahogar la logística civil y militar ucraniana antes del invierno. El ejercicio de la OTAN en Polonia constata que las capitales europeas asumen que la contención de Rusia requerirá una presencia militar permanente en el flanco este a largo plazo.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/russia-hits-3-kyiv-bridges-in-major-attack-while-poland-reports-airspace-violation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-20/mijail-jodorkovski-putin-quiere-aterrorizar-a-europa-con-su-guerra-hibrida-para-que-acabe-el-apoyo-a-ucrania.html"
+            }
+          ]
+        },
+        {
+          "titular": "La crisis de los rohinyás cumple casi una década sin vías de retorno ni integración en el exilio",
+          "que_ha_pasado": "Más de un millón de miembros de la minoría musulmana de Myanmar continúan hacinados en campamentos de refugiados en Bangladesh tras huir de la campaña de limpieza étnica iniciada por el ejército birmano. Las organizaciones sobre el terreno advierten del agotamiento de la ayuda internacional y la falta de perspectivas de regularización.",
+          "por_que_importa": "Ilustra el parálisis de la diplomacia multilateral ante conflictos olvidados en Asia-Pacífico. Sin un marco de retorno seguro en Myanmar ni opciones de inserción laboral en Bangladesh, la población desplazada queda expuesta a la violencia de bandas armadas y a las redes de tráfico de personas.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-20/la-desgracia-sin-fin-de-los-rohinyas-perseguidos-en-su-pais-y-olvidados-en-el-exilio.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Anthropic marca un hito bursátil de 1,3 billones pero desencadena una recogida de beneficios generalizada",
+          "que_ha_pasado": "La compañía desarrolladora del modelo Claude cerró su primera sesión bursátil tras completar la mayor oferta pública de venta de la historia, fijando sus acciones en 97 dólares. Pese al éxito de la colocación, los principales índices mundiales como el Dow Jones y el Ibex 35 registraron caídas notables arrastrados por el sector tecnológico.",
+          "por_que_importa": "El contraste entre el megadebut de Anthropic y la caída generalizada del sector refleja la creciente prudencia de los inversores. Existe un temor fundado a que la enorme valoración de las firmas de inteligencia artificial no se traduzca con la suficiente rapidez en flujos de caja operativos para el resto del ecosistema corporativo.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-bolsa-y-el-ibex-35.html"
+            },
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El FMI prevé que la fuerte demanda inversora de la IA presionará al alza los tipos de interés",
+          "que_ha_pasado": "La directora ejecutiva del Fondo Monetario Internacional, Kristalina Georgieva, ha alertado de que la masiva adopción de la inteligencia artificial exigirá un volumen de capital e infraestructuras energéticas de tal magnitud que acabará elevando los costes de financiamiento global.",
+          "por_que_importa": "El aviso del FMI rompe con la narrativa tradicional de que la IA generará impulsos puramente deflacionarios por ganancias de productividad. A corto y medio plazo, el apetito inversor en centros de datos y redes eléctricas competirá por el ahorro global, forzando a los bancos centrales a mantener los tipos reales más altos de lo previsto.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
+            }
+          ]
+        },
+        {
+          "titular": "La diplomacia del cumbreamiento en Pekín proyecta la imagen de un nuevo orden multipolar",
+          "que_ha_pasado": "Analistas internacionales evalúan los efectos del reciente encuentro tripartito entre Xi Jinping, Donald Trump y Vladimir Putin. La cobertura estatal china presenta la cita como una confirmación del papel del gigante asiático como mediador imprescindible en el tablero global.",
+          "por_que_importa": "El simbolismo geopolítico refleja cómo China busca institucionalizar una suerte de gobernanza compartida que diluya el peso de las alianzas occidentales tradicionales. Este tipo de cumbres consolida el giro hacia un sistema transaccional donde las grandes potencias negocian áreas de influencia directa.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/c1c540af-f9ba-479a-8473-4b7619859453?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Apple diseña un agente de inteligencia artificial autónomo para ejecutar tareas avanzadas en sus dispositivos",
+          "que_ha_pasado": "Ofertas de empleo de Apple revelan el desarrollo de un sistema de IA capaz de navegar por la web, redactar código informático y operar de forma autónoma entre distintas aplicaciones sin intervención constante del usuario.",
+          "por_que_importa": "Supone el paso definitivo de Apple hacia la carrera de los modelos de acción y los agentes digitales autónomos. Tras quedarse rezagada en la primera ola de modelos del lenguaje, la compañía busca controlar la capa de interacción del usuario final integrando la automatización directamente en el sistema operativo.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+            }
+          ]
+        },
+        {
+          "titular": "La salida a bolsa de Anthropic embolsa 2.000 millones a sus fundadores e impulsa el debate sobre modelos de código abierto",
+          "que_ha_pasado": "Los siete fundadores de Anthropic ingresaron cerca de 280 millones de dólares cada uno tras el estreno bursátil de la firma. Paralelamente, competidores del sector como Fireworks AI defienden que las empresas pueden reducir gastos operativos recurriendo a modelos abiertos frente a las costosas licencias propietarias.",
+          "por_que_importa": "El choque de modelos de negocio evidencia el dilema de costes para las empresas en proceso de transformación digital. Mientras las grandes tecnológicas monetizan capital intensivo a través de IPOs masivas, la alternativa 'open source' gana terreno en consultoría por su eficiencia de costes y flexibilidad de despliegue.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El Ayuntamiento de Badajoz solicita refuerzos policiales urgentes ante la escalada de violencia entre clanes",
+          "que_ha_pasado": "El alcalde de Badajoz ha exigido la intervención del Ministerio del Interior debido al incremento de enfrentamientos armados a plena luz del día entre grupos rivales vinculados al tráfico de drogas en la ciudad.",
+          "por_que_importa": "El deterioro de la seguridad ciudadana en entornos urbanos medianos evidencia la dispersión de las redes del narcotráfico hacia zonas con menor presencia de efectivos especializados. La presión política sobre el Ministerio busca evitar el arraigo de estructuras criminales organizadas en la región.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/19/6aff52a3fdddff59668b457b.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Sindicat d'Estudiants convoca paros en Barcelona en el marco de una protesta internacional",
+          "que_ha_pasado": "Estudiantes de secundaria y universidad secundan una jornada de huelga en Barcelona convocada contra los recortes en la enseñanza pública y el aumento de la inversión militar en Europa.",
+          "por_que_importa": "La movilización muestra la reactivación de la protesta estudiantil vinculada a la coyuntura geopolítica europea. Las demandas educativas conectan con la crítica hacia el incremento de las partidas presupuestarias de defensa aprobadas por los Estados miembros.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/cataluna/2026-11-20/huelga-estudiantes-barcelona-20-noviembre-1qrt_4468921/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La nave espacial BepiColombo encara su fase más crítica en la exploración de Mercurio",
+          "que_ha_pasado": "Tras un viaje de ocho años por el sistema solar interior, la misión conjunta de la Agencia Espacial Europea y la JAXA se dispone a realizar su sobrevuelo más cercano a la superficie del planeta Mercurio para capturar datos geológicos inéditos.",
+          "por_que_importa": "Mercurio sigue siendo uno de los cuerpos celestes más desconocidos debido a la dificultad extrema de insertar una sonda en su órbita. Los datos obtenidos permitirán comprender la formación del núcleo terrestre y la evolución de los planetas rocosos cercanos a sus estrellas.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Parada repentina (Sudden Stop)",
+    "explicacion": "Una parada repentina es la interrupción drástica e inesperada de la entrada de flujos de capital extranjero hacia una economía, acompañada habitualmente por una salida masiva de fondos internacionales. Este fenómeno afecta de forma desproporcionada a países emergentes con elevados déficits por cuenta corriente o endeudamiento contratado en divisas extranjeras. Al secarse la financiación externa, la moneda local sufre una fuerte depreciación, el crédito interno se desploma y las autoridades se ven obligadas a subir los tipos de interés para frenar la fuga de capitales, provocando una contracción severa de la actividad económica.",
+    "ejemplo": "La crisis de liquidez que sufrió la economía turca tras la pérdida de confianza de los inversores internacionales en su política monetaria, lo que provocó una rápida fuga de divisas y una depreciación extrema de la lira."
+  },
+  "fecha": "2026-11-20"
+}
