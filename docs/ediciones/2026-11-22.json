@@ -1,0 +1,258 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "La Unión Europea asume la externalización migratoria tras respaldar centros de deportación en Ruanda",
+      "resumen": "Cinco países comunitarios pactan la derivación de solicitantes de asilo al país africano, consolidando un viraje restrictivo impulsado por el avance electoral de la derecha."
+    },
+    {
+      "titular": "La ONU fracasa en regular las armas autónomas tras el bloqueo ruso y aplaza el acuerdo a 2028",
+      "resumen": "Las conversaciones en Ginebra para establecer un marco normativo sobre los llamados 'robots asesinos' se saldan sin consenso por el rechazo de varias potencias."
+    },
+    {
+      "titular": "Los costes de la infraestructura de Inteligencia Artificial se disparan con subidas de hasta el 45%",
+      "resumen": "Los proveedores de hardware revisan al alza los contratos celebrados, tensando la viabilidad financiera de las empresas del sector del cálculo masivo de datos."
+    },
+    {
+      "titular": "Un ciberataque compromete las bases de datos policiales y del Departamento de Agricultura en EE. UU.",
+      "resumen": "El FBI investiga la vulneración del Centro Nacional de Información Criminal en la segunda intrusión de calado sufrida por las agencias federales en pocos meses."
+    },
+    {
+      "titular": "El PP redobla su ofensiva en el tramo final de campaña para captar al electorado conservador de Vox",
+      "resumen": "Alberto Núñez Feijóo busca maximizar el voto útil en un escenario donde los análisis internacionales dan por sentada la necesidad de pactos para gobernar."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "La UE consolida su giro en inmigración al avalar la creación de centros de deportación en Ruanda",
+          "que_ha_pasado": "Un grupo de cinco países europeos ha alcanzado un acuerdo con el Gobierno de Kigali para enviar a solicitantes de asilo fuera de las fronteras comunitarias. La medida supone un cambio radical en la postura oficial de Bruselas, que años atrás consideraba estos esquemas incompatibles con el derecho internacional.",
+          "por_que_importa": "El pacto refleja cómo la presión política interna y el auge de formaciones de extrema derecha están reconfigurando la arquitectura de asilo de la Unión Europea. La estrecha cooperación judicial desarrollada con Ruanda para juzgar a los responsables del genocidio de 1994 ha facilitado una alianza institucional que sienta un precedente divisivo en el control de fronteras.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-22/la-ue-abraza-la-linea-dura-sobre-migracion-al-aceptar-los-centros-de-deportacion-en-ruanda-que-tachaba-de-inhumanos.html"
+            }
+          ]
+        },
+        {
+          "titular": "El bloqueo diplomático pospone hasta 2028 la regulación global sobre sistemas de armas autónomas",
+          "que_ha_pasado": "Las conversaciones del grupo de expertos de la ONU en Ginebra para acordar límites al desarrollo de armamento guiado por inteligencia artificial han concluido sin acuerdo. Rusia y otros Estados se opusieron a fijar normas vinculantes, reduciendo el compromiso final a continuar los debates dentro de dos años.",
+          "por_que_importa": "La falta de un marco ético y jurídico internacional deja el campo libre a la integración acelerada de algoritmos en el campo de batalla. En un contexto de creciente rivalidad estratégica entre grandes potencias, el vacío normativo aumenta el riesgo de escaladas involuntarias y de proliferación de tecnologías bélicas sin supervisión humana directa.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/effort-regulate-killer-robots-delayed-until-2028-ai-un/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+            }
+          ]
+        },
+        {
+          "titular": "Europa evalúa el impacto geopolítico de un plan de paz para Ucrania bajo el paraguas de EE. UU.",
+          "que_ha_pasado": "Diversos gobiernos europeos han comenzado a contemplar con cautela la posibilidad de que la administración estadounidense promueva una salida negociada al conflicto ucraniano. Tras meses de incertidumbre diplomática, algunos aliados confían en que Washington mantenga garantías de seguridad creíbles en la negociación.",
+          "por_que_importa": "Para las cancillerías europeas, equilibrar la estabilidad en el flanco oriental sin dinamitar la cohesión transatlántica resulta clave. Un eventual acuerdo forzado por EE. UU. exigirá a Europa asumir mayores costes de defensa y reconstrucción, acelerando los esfuerzos continentales de disuasión militar en el espacio possoviético.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/europeans-dare-to-believe-trump-could-deliver-security-for-ukraine/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La cumbre del clima COP31 se prorroga en Antalya ante la falta de consenso financiero",
+          "que_ha_pasado": "La Conferencia de las Naciones Unidas sobre el Cambio Climático que se celebra en Turquía ha extendido sus negociaciones por segundo día consecutivo. Las delegaciones no han logrado pactar la redacción final sobre las aportaciones de los países desarrollados a los fondos de mitigación y adaptación.",
+          "por_que_importa": "El estancamiento pone de relieve las fricciones estructurales entre el Norte y el Sur global en plena reconfiguración de la diplomacia climática. Sin un compromiso firme sobre transferencias económicas y metas de reducción de emisiones, aumenta el riesgo de fragmentación en el cumplimiento del Acuerdo de París.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Los fabricantes de hardware incrementan hasta un 45% los costes de los servidores destinados a la IA",
+          "que_ha_pasado": "Firmas como Dell, HPE, Lenovo y Supermicro han exigido revisiones de precios al alza en contratos de equipamiento tecnológico previamente cerrados. Las subidas afectan de lleno a las grandes firmas de centros de datos y proveedores de servicios en la nube.",
+          "por_que_importa": "Este encarecimiento sobrevenido presiona la estructura de costes de los operadores altamente endeudados, como CoreWeave, que han invertido masivamente en capacidad de cálculo. La espiral de gastos pone a prueba la rentabilidad real de la fiebre inversora en Inteligencia Artificial y eleva las dudas sobre la sostenibilidad bursátil del sector tecnológico.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian Business",
+              "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Anthropic prepara su salto a Bolsa entre señales de desaceleración en el sector de la IA",
+          "que_ha_pasado": "La compañía desarrolladora de modelos de inteligencia artificial ultima una oferta pública de venta valorada en torno a los dos billones de dólares. Sin embargo, la operación coincide con las primeras evidencias de enfriamiento en el crecimiento interanual de sus ingresos.",
+          "por_que_importa": "El debut bursátil de Anthropic servirá como termómetro de la valoración real que los mercados asignan a las empresas generadoras de IA. Si la demanda de los inversores decae, se confirmará que la fase de entusiasmo desmedido está dando paso a una exigencia estricta de rendimientos operativos y flujos de caja positivos.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-11-22/la-opv-de-2-billones-de-anthropic-puede-ser-el-ultimo-gran-festejo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los supervisores financieros endurecen el control sobre los neobancos por grietas en el antiblanqueo",
+          "que_ha_pasado": "Sanciones recientes a entidades digitales como Revolut, N26, Monzo o Starling han reabierto el debate regulatorio sobre sus controles internos. Las autoridades europeas investigan fallos sistemáticos en la verificación de identidad y la detección de operaciones sospechosas.",
+          "por_que_importa": "La rapidez en el alta de usuarios y el ritmo de crecimiento agresivo de las fintech han chocado con los estándares exigidos a la banca tradicional. El aumento del escrutinio forzará a estas firmas a elevar sus gastos de cumplimiento normativo, reduciendo su ventaja competitiva en márgenes de intermediación.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-11-22/los-fallos-en-los-sistemas-antiblanqueo-ponen-a-revolut-y-otros-neobancos-en-el-punto-de-mira.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las acciones de la industria de defensa sufren un parón en Bolsa a causa de los cuellos de botella",
+          "que_ha_pasado": "Los principales valores del sector de la defensa encaminan su primer ejercicio con retornos negativos desde el inicio de la pandemia. Pese al aumento constante de los presupuestos militares gubernamentales, las empresas no logran convertir la demanda de pedidos en entregas efectivas.",
+          "por_que_importa": "El atasco operativo revela las limitaciones de las cadenas de suministro industriales para escalar la producción de armamento a corto plazo. Tras el fuerte repunte del gasto de rearmamento, las valoraciones bursátiles habían alcanzado niveles desmedidos que ahora se corrigen ante la ralentización del crecimiento de beneficios.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-22/la-defensa-pincha-en-bolsa-y-se-encamina-a-su-primer-ano-en-rojo-desde-la-pandemia.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Un ataque informático compromete datos confidenciales del FBI y del Gobierno estadounidense",
+          "que_ha_pasado": "El FBI ha iniciado una investigación tras detectarse un acceso no autorizado a la base de datos del Centro Nacional de Información Criminal. La intrusión ha afectado también a sistemas informáticos del Departamento de Agricultura de EE. UU.",
+          "por_que_importa": "Se trata del segundo ciberincidente grave que sufre la agencia federal en los últimos meses, evidenciando vulnerabilidades persistentes en la infraestructura de seguridad nacional. La filtración de datos policiales estratégicos expone operativos en marcha e incrementa la desconfianza en la custodia pública de información sensible.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+            },
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+            }
+          ]
+        },
+        {
+          "titular": "Signal restringe las capturas de pantalla para frenar el rastreo automatizado mediante IA",
+          "que_ha_pasado": "La aplicación de mensajería encriptada ha introducido limitaciones para bloquear la toma de capturas de pantalla en las plataformas Android e iOS. La dirección de la firma considera que el análisis de imágenes por algoritmos externos supone un riesgo estructural para la privacidad.",
+          "por_que_importa": "Con esta medida, Signal intenta contrarrestar las nuevas herramientas de vigilancia masiva capaces de procesar capturas y extraer metadatos sin consentimiento. La decisión acentúa la brecha entre las plataformas enfocadas en el anonimato estricto y el desarrollo de ecosistemas móviles impulsados por asistentes inteligentes integrados.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+            }
+          ]
+        },
+        {
+          "titular": "Amazon escala su pulso con el Ayuntamiento de Nueva York incluyendo avisos en los paquetes",
+          "que_ha_pasado": "El gigante del comercio electrónico ha comenzado a imprimir etiquetas informativas en los envíos dirigidos a Nueva York culpando a la regulación local de un aumento de hasta 5 dólares por pedido. El conflicto deriva de la aprobación de la Ley de Protección de Entregas.",
+          "por_que_importa": "La maniobra refleja la agresiva estrategia de presión pública que emplean las grandes tecnológicas para frenar la regulación municipal sobre el transporte y las condiciones laborales. Al trasladar el coste regulatorio directamente a la percepción del consumidor, Amazon busca movilizar a sus usuarios contra la normativa edilicia.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El Partido Popular endurece su campaña para frenar a Vox y asegurar una mayoría amplia",
+          "que_ha_pasado": "Alberto Núñez Feijóo ha intensificado sus actos públicos para concentrar el voto de la derecha tradicional en la recta final del periodo electoral. Las proyecciones de analistas y la cobertura de medios internacionales coinciden en señalar la elevada dependencia del PP de los escaños de Vox para gobernar.",
+          "por_que_importa": "El choque entre el voto útil y la fragmentación a la derecha determina la capacidad del PP para constituir un ejecutivo monocolor o bien asumir un acuerdo de coalición. El resultado marcará la estabilidad parlamentaria y el sesgo de las futuras reformas económicas y territoriales del Estado.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b01e33c21efa00a338b456d.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-11-22/1qrt-reverte-diferencia-pp-vox-feijoo-padre-aburrido-abascal-tio-simpatico_4468237/"
+            },
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/cd179793-2880-4c4c-8bdd-9924b2eac12a?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El PNV reafirma su perfil propio y descarta alianzas subordinadas a los bloques estatales",
+          "que_ha_pasado": "La dirigencia del Partido Nacionalista Vasco ha recalcado en sus intervenciones electorales su rechazo a colaborar con cualquier fórmula de gobierno apoyada por Vox. Paralelamente, ha criticado el alineamiento sistemático de EH Bildu con la estrategia parlamentaria del PSOE.",
+          "por_que_importa": "La postura del PNV subraya el papel decisivo pero cada vez más estrecho de las fuerzas nacionalistas moderadas en la gobernabilidad de España. Mantener un espacio propio resulta clave para su hegemonía en el ámbito autonómico vasco frente al auge de la izquierda abertzale.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b01ba10e9cf4a9d1f8b459c.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Institut Ramon Llull reúne a más de 140 traductores para impulsar la literatura catalana",
+          "que_ha_pasado": "Barcelona ha acogido la primera edición del Foro Internacional de Traductores de Literatura Catalana, un encuentro que ha convocado a especialistas e hispanistas internacionales dedicados a la proyección exterior de las letras catalanas.",
+          "por_que_importa": "La iniciativa busca profesionalizar las redes de traducción y ampliar la cuota de mercado del libro en catalán en editoriales extranjeras. El fomento de la traducción representa uno de los pilares de la diplomacia cultural y del desarrollo de las industrias creativas de la región.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/quadern/literatura/2026-11-23/vaig-passar-de-seguidor-del-barca-a-lletraferit-les-histories-darrere-els-traductors-de-catala-al-mon.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Rosendo Mercado rompe ocho años de silencio público con la edición de sus memorias",
+          "que_ha_pasado": "El veterano músico madrileño ha vuelto al foco mediático tras apartarse de los escenarios en 2018 para publicar una autobiografía en la que repasa su trayectoria vital y profesional desde su barrio de Carabanchel.",
+          "por_que_importa": "Rosendo es una figura fundamental en la evolución del rock en español, cuya sonoridad y poética urbana marcaron el rumbo de numerosas bandas posteriores. Su testimonio ofrece una visión sin artificios sobre la transformación de la industria musical independiente a lo largo de cinco décadas.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-22/rosendo-rompe-ocho-anos-de-silencio-toda-mi-vida-ha-sido-una-pelea-constante-conmigo-mismo.html"
+            }
+          ]
+        },
+        {
+          "titular": "Cineastas contemporáneos abordan la renovación del lenguaje flamenco en la pantalla",
+          "que_ha_pasado": "Nuevos proyectos cinematográficos dirigidos por realizadores como Isaki Lacuesta y Carla Simón exploran las intersecciones entre la tradición jonda y el cine documental vanguardista.",
+          "por_que_importa": "La confluencia entre el arte flamenco y el lenguaje audiovisual evidencia la vigencia de las expresiones populares como materia prima para el cine de autor. Esta relectura crítica contribuye a preservar la memoria patrimonial al tiempo que rompe con tópicos estéticos folclóricos.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-22/rito-y-geografia-del-cine-flamenco-nuevas-miradas-sobre-el-cruce-de-dos-artes-populares.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Vuelo hacia la calidad (Flight to quality)",
+    "explicacion": "El 'vuelo hacia la calidad' es un fenómeno financiero en el que los inversores mueven masivamente sus capitales desde activos percibidos como de alto riesgo o volátiles (como acciones tecnológicas de alta valoración, bonos corporativos especulativos o divisas emergentes) hacia activos considerados muy seguros (como deuda soberana de EE. UU. u oro). Este movimiento suele producirse de forma repentina durante episodios de elevada incertidumbre geopolítica, tensiones bélicas, crisis bancarias o señales de recesión global, provocando una rápida caída en las rentabilidades de los activos refugio y un encarecimiento del crédito para el resto del mercado.",
+    "ejemplo": "Ante las dudas sobre la rentabilidad de las inversiones masivas en Inteligencia Artificial y el encarecimiento de la deuda en empresas de centro de datos, diversos fondos internacionales redujeron su exposición a firmas tecnológicas para aumentar su peso en bonos del Tesoro estadounidense."
+  },
+  "fecha": "2026-11-22"
+}
