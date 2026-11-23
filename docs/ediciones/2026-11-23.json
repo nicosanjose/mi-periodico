@@ -1,0 +1,259 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Ucrania extiende el conflicto al Mediterráneo tras hundir un buque de guerra ruso en Libia",
+      "resumen": "Kiev confirma un ataque con drones marinos contra una corbeta del Kremlin atracada en Bengasi, en su operación naval más distante del Mar Negro."
+    },
+    {
+      "titular": "La cumbre del clima COP31 concluye en fracaso total tras encallar las negociaciones",
+      "resumen": "La cumbre de la ONU más larga de la historia finaliza sin acuerdo final debido a las profundas fracturas geopolíticas entre los bloques emisores y los países en desarrollo."
+    },
+    {
+      "titular": "El Gobierno de España plantea un tributo especial para patrimonios superiores a 100 millones",
+      "resumen": "La propuesta fiscal busca recaudar 2.000 millones de euros para financiar políticas públicas de vivienda, pensiones y apoyo a la crianza."
+    },
+    {
+      "titular": "Una secuencia de fallos sistémicos en infraestructuras críticas enciende las alarmas informáticas",
+      "resumen": "Interrupciones en aerolíneas, banca y sistemas corporativos reabren el debate sobre la extrema vulnerabilidad de la economía digital concentrada."
+    },
+    {
+      "titular": "Los mercados internacionales sufren correcciones tras las dudas sobre la rentabilidad del sector de la IA",
+      "resumen": "Las bolsas europeas y estadounidenses intentan estabilizarse tras caídas pronunciadas en las empresas de semiconductores y hardware en Asia."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Ucrania traslada la guerra al Mediterráneo con un ataque con drones marinos en Libia",
+          "que_ha_pasado": "El presidente Volodímir Zelenski ha confirmado la autoría ucraniana en el hundimiento de la corbeta rusa Merkury y los daños a un buque de carga en la base naval de Bengasi, en Libia. La operación se ejecutó utilizando siete embarcaciones no tripuladas de ataque mientras la nave rusa realizaba una escala técnica de repostaje.",
+          "por_que_importa": "El ataque marca una expansión geográfica sin precedentes de la capacidad operativa de Kiev, proyectando la guerra naval mucho más allá de la cuenca del Mar Negro. Demuestra además cómo el uso defensivo y asimétrico de drones de bajo coste permite golpear la logística y la presencia geopolítica de Moscú en escenarios estratégicos lejanos como el Norte de África.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-23/ucrania-asume-la-autoria-del-ataque-con-drones-que-hundio-en-libia-un-barco-de-guerra-ruso.html"
+            },
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/volodymyr-zelenskyy-claims-ukraine-sank-russia-warship-benghazi-libya/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La COP31 finaliza sin acuerdo y evidencia una profunda parálisis diplomática en la agenda climática",
+          "que_ha_pasado": "Las conversaciones sobre el clima de la ONU en Antalya han concluido de manera oficial sin la firma de un documento final, tras convertirse en la Cumbre de la Tierra más extensa de la historia. Las delegaciones no lograron consensuar compromisos de financiamiento ni metas de reducción de emisiones.",
+          "por_que_importa": "El colapso de la cumbre refleja cómo el deterioro del clima geopolítico mundial y las divergencias económicas entre el Global South y las potencias occidentales bloquean los consensos multilateralistas. Sin acuerdos vinculantes, la gobernanza climática global se encamina hacia una creciente fragmentación mediante pactos bilaterales o regionales.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "El Gobierno británico aboga por redefinir sus relaciones comerciales e institucionales con la Unión Europea",
+          "que_ha_pasado": "El primer ministro británico comparece ante el Parlamento para defender un nuevo esquema de colaboración con Bruselas, calificándolo como un avance indispensable para evitar el estancamiento económico del país. Sin embargo, la propuesta ha abierto intensos debates internos entre las corrientes laboristas y conservadoras.",
+          "por_que_importa": "Años después del consumo del Brexit, las rigideces comerciales y regulatorias siguen erosionando la competitividad británica. La búsqueda de un reacercamiento pragmático evidencia las tensiones entre la retórica de la soberanía nacional y la imperiosa necesidad de integrarse con el principal mercado vecino.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-23/el-entusiasmo-de-burnham-por-superar-el-brexit-choca-con-la-realidad-politica.html"
+            }
+          ]
+        },
+        {
+          "titular": "El precio del gas natural en Europa se encarece ante la amenaza de una ola de frío y suministros ajustados",
+          "que_ha_pasado": "Los precios de referencia del gas europeo se han disparado por encima del 6% debido a las previsiones meteorológicas de bajas temperaturas para las próximas semanas. La subida coincide con un menor volumen de envíos desde Qatar y con unos inventarios estivales mermados por las olas de calor del verano.",
+          "por_que_importa": "La volatilidad del mercado energético subraya la vulnerabilidad estructural que aún persiste en el continente europeo ante fluctuaciones de demanda. El encarecimiento del gas incrementa la presión inflacionaria sobre las industrias intensivas y sobre la factura energética de las familias durante el invierno.",
+          "fuentes": [
+            {
+              "nombre": "The Guardian World",
+              "url": "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Las dudas sobre el retorno de inversión en inteligencia artificial agitan las bolsas globales",
+          "que_ha_pasado": "Los mercados asiáticos registraron retrocesos del 3% en los fabricantes de semiconductores, arrastrando las valoraciones del sector tecnológico. A pesar del bache inicial, los futuros de los índices europeos y estadounidenses iniciaron una senda de recuperación moderada.",
+          "por_que_importa": "La fuerte dependencia del rally bursátil reciente en las infraestructuras de IA ha generado inquietud sobre posibles esquemas de financiación circular y sobrecapacidad. Los analistas e inversores demandan ahora evidencias concretas de monetización que justifiquen las elevadas valoraciones del sector de hardware.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-23/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "Técnicas Reunidas se adjudica un contrato de 1.500 millones para construir tres centrales energéticas en Alemania",
+          "que_ha_pasado": "La ingeniaría española ha sido seleccionada por la energética RWE para llevar a cabo el diseño, suministro de equipos, construcción y puesta en marcha de tres plantas de generación eléctrica en suelo alemán. El montante de la operación supera los 1.500 millones de euros.",
+          "por_que_importa": "El acuerdo consolida la posición de la ingeniería de matriz española en la transición y seguridad energética de Europa central. Para Alemania, estas infraestructuras suponen un elemento clave en la garantía de respaldo térmico mientras reestructura su matriz hacia fuentes de menor huella de carbono.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-11-23/tecnicas-reunidas-desarrollara-tres-centrales-electricas-para-rwe-en-alemania-por-mas-de-1500-millones.html"
+            }
+          ]
+        },
+        {
+          "titular": "La gran industria farmacéutica cuestiona las promesas de la IA en la curación acelerada de enfermedades complejas",
+          "que_ha_pasado": "El máximo directivo de la farmacéutica Novartis ha rechazado públicamente las previsiones de varios líderes de la industria tecnológica que prometen avances definitivos contra el cáncer mediante IA en plazos de cinco a diez años. Desde la perspectiva farmacéutica, los procesos biológicos exigen validaciones clínicas complejas que van más allá del cálculo computacional.",
+          "por_que_importa": "El choque de expectativas pone de manifiesto la diferencia entre el ritmo de innovación en el software y los plazos biológicos y regulatorios de la medicina. Muestra la necesidad de equilibrar el entusiasmo por los modelos predictivos con la cautela propia de la investigación científica empírica.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Una cadena de fallos informáticos en aerolíneas y banca evidencia la fragilidad de los sistemas críticos",
+          "que_ha_pasado": "Problemas de software en los sistemas de cálculo de peso y balance paralizaron las operaciones de la aerolínea Delta en el aeropuerto de Atlanta, generando retrasos masivos. Este incidente se suma a caídas recientes en plataformas corporativas como Outlook y servicios bancarios de JPMorgan Chase.",
+          "por_que_importa": "La acumulación de incidencias técnicas resalta los riesgos de concentración operativa derivados de infraestructuras digitales interconectadas pero frágiles. Las autoridades de inteligencia alertan de que las empresas deben reforzar la resiliencia y los planes de contingencia ante la inevitable repetición de colapsos sistémicos.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+            }
+          ]
+        },
+        {
+          "titular": "El debate sobre la gobernanza de la IA se traslada a la medición y límites de la velocidad de desarrollo",
+          "que_ha_pasado": "Representantes del equipo científico de OpenAI han señalado que cualquier intento de establecer pausados o límites en el avance de la inteligencia artificial requiere primero un acuerdo global sobre cómo medir dicha progresión técnica.",
+          "por_que_importa": "La falta de métricas estandarizadas para medir las capacidades de los modelos de IA dificulta la creación de marcos normativos eficientes. Sin consensos de medición, la regulación corre el riesgo de quedarse obsoleta o de imponer barreras arbitrarias al desarrollo tecnológico.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+            }
+          ]
+        },
+        {
+          "titular": "Los fármacos de última generación contra la obesidad muestran un impacto ambiental indirecto",
+          "que_ha_pasado": "Diversos estudios señalan que el uso generalizado de tratamientos supresores del apetito basados en GLP-1 podría reducir de forma significativa la demanda de alimentos, liberando hipotéticamente extensiones de suelo agrícola equivalentes a la superficie de Italia.",
+          "por_que_importa": "El análisis pone de relieve las ramificaciones secundarias que las innovaciones biotecnológicas tienen sobre los patrones de consumo global y el medio ambiente. Ilustra la interconexión entre la salud pública, la industria agroalimentaria y la huella de carbono de la cadena de suministro alimentaria.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El PSOE propone una figura impositiva sobre grandes fortunas superiores a 100 millones de euros",
+          "que_ha_pasado": "En el marco de la campaña política, el Ejecutivo ha anunciado la intención de crear un nuevo gravamen dirigido a patrimonios superiores a los 100 millones de euros con el objetivo de recaudar cerca de 2.000 millones. La iniciativa prevé eliminar exenciones fiscales para evitar reducciones en la base imponible.",
+          "por_que_importa": "El anuncio sitúa el debate sobre la redistribución y la equidad fiscal en el foco del discurso electoral. La recaudación proyectada se destinaría a reforzar partidas presupuestarias en materia de vivienda pública, sostenimiento de pensiones y políticas de apoyo familiar.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/campana-elecciones-29n-y-actualidad-politica-en-directo.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/23/6b03f692e85ece083e8b458b.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/espana/elecciones-generales/2026-11-23/campana-elecciones-29n-y-actualidad-politica-en-directo.html"
+            }
+          ]
+        },
+        {
+          "titular": "La recta final de la campaña electoral del 29-N consolida los bloques de debate económico y social",
+          "que_ha_pasado": "Las distintas formaciones políticas encaran los últimos días de campaña para los comicios del 29 de noviembre concentrando sus propuestas en el acceso a la vivienda, la presión fiscal y las reformas de los servicios públicos.",
+          "por_que_importa": "El resultado de las urnas determinará la gobernabilidad autonómica y medirá el apoyo a los modelos contrapuestos de gestión económica. El acceso al mercado inmobiliario se perfila como el factor clave de movilización del electorado joven y urbano.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/elecciones-generales/2026-11-20/lea-todas-las-entrevistas-a-los-candidatos-a-las-elecciones-del-29-n.html"
+            }
+          ]
+        },
+        {
+          "titular": "Investigación judicial en Albacete por el desalojo presuntamente ilegal de familias tras el temporal",
+          "que_ha_pasado": "Un juzgado investiga a tres personas por la expulsión presuntamente irregular de inquilinos que se encontraban al corriente de pago en Madrigueras, tras sufrir desperfectos por el reciente temporal de lluvia. Las familias afectadas requirieron asistencia municipal.",
+          "por_que_importa": "El caso evidencia las vulnerabilidades jurídicas y los abusos inmobiliarios que pueden surgir en contextos de emergencia meteorológica. Pone de manifiesto la necesidad de activar mecanismos inmediatos de protección habitacional y supervisión legal tras desastres naturales.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-11-23/guardia-civil-allanamiento-coacciones-inquilinos-1tna-1tps_4470469/"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El ensayo 'Feminismo gótico' reinterpreta la figura del monstruo femenino en la cultura de masas",
+          "que_ha_pasado": "La publicación del trabajo crítico 'Feminismo gótico' analiza el reciente auge de las producciones de terror centradas en personajes femeninos disidentes, desmitificando los arquetipos históricos de la abyección o la locura en el cine y la literatura.",
+          "por_que_importa": "El análisis ofrece una lectura sociocultural sobre cómo la ficción contemporánea utiliza la estética del horror para abordar la autonomía del cuerpo, la desobediencia y la subversión de roles tradicionales en el ámbito de la producción artística.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-23/de-la-desquiciada-de-obsession-a-la-sudasangre-de-sanguine-la-reconquista-cultural-de-la-monstrua.html"
+            }
+          ]
+        },
+        {
+          "titular": "El Ateneo de Madrid rinde homenaje a Almudena Grandes en el quinto aniversario de su muerte",
+          "que_ha_pasado": "Familiares, académicos y lectores se han reunido en el Ateneo madrileño para homenajear el legado literario de la escritora Almudena Grandes. Durante el acto se anunció la adaptación escénica de su obra 'Inés y la alegría' para el próximo otoño.",
+          "por_que_importa": "El acto subraya la vigencia de la narrativa de Grandes en el panorama cultural español y su papel clave en la reconstrucción de la memoria histórica a través de la ficción contemporánea.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-22/almudena-grandes-vuelve-a-reunir-a-los-suyos-cinco-anos-despues-de-su-muerte.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Riesgo operacional",
+    "explicacion": "El riesgo operacional es la probabilidad de sufrir pérdidas financieras o parálisis operativas debido a fallos en los sistemas tecnológicos, deficiencias en los procesos internos, errores humanos o eventos externos disruptivos. A diferencia del riesgo crediticio o de mercado, no proviene de la fluctuación de precios sino del quebranto del funcionamiento operativo diario. En economías altamente digitalizadas, la dependencia de infraestructuras informáticas centralizadas eleva este riesgo, convirtiendo pequeños errores de software o interrupciones en la nube en amenazas capaces de detener cadenas de suministro y servicios esenciales a escala global.",
+    "ejemplo": "Las masivas cancelaciones de vuelos de Delta Air Lines motivadas por un fallo en el software de cálculo de peso de las aeronaves."
+  },
+  "fecha": "2026-11-23"
+}
