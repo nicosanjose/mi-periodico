@@ -1,0 +1,246 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "Armenia plantea modificar su Constitución para sellar el histórico acuerdo de paz con Azerbaiyán",
+      "resumen": "El borrador preliminar elimina las referencias al proyecto de reunificación con Nagorno Karabaj, exigencia clave de Bakú para cerrar el conflicto."
+    },
+    {
+      "titular": "Sanofi acuerda la adquisición de Insmed por 37.600 millones de dólares",
+      "resumen": "Se trata de la mayor operación del sector farmacéutico en tres años, orientada a blindar la facturación del grupo tras el fin de patentes clave."
+    },
+    {
+      "titular": "El Gobierno aprueba ampliar las licencias por nacimiento y familiares hasta las 20 semanas",
+      "resumen": "La medida alarga el permiso retribuido para el cuidado de menores del que disponen las familias hasta que el hijo cumpla ocho años."
+    },
+    {
+      "titular": "Alarma en la OTAN tras conocerse informes sobre un posible satélite nuclear ruso",
+      "resumen": "Los servicios de inteligencia occidentales advierten del riesgo de que Moscú ponga en órbita capacidad atómica para inutilizar redes satelitales."
+    },
+    {
+      "titular": "La justicia de EE. UU. frena la ejecución del laudo de 380 millones de Telefónica contra Colombia",
+      "resumen": "Un tribunal estadounidense congela la indemnización a la espera de que el Ciadi decida sobre el recurso de anulación presentado por el Gobierno colombiano."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Armenia impulsa una reforma constitucional para afianzar la paz con Azerbaiyán",
+          "que_ha_pasado": "El Gobierno armenio ha presentado un borrador constitucional que elimina la mención implícita a la unión con Nagorno Karabaj. Si la ciudadanía rechaza la propuesta en referéndum, el primer ministro podría verse obligado a dimitir y convocar elecciones anticipadas.",
+          "por_que_importa": "Esta modificación atiende la condición de Bakú tras recuperar militarmente el enclave en 2023. Para Ereván, consumar el tratado de paz representa la culminación de su viraje estratégico lejos de la órbita de seguridad de Moscú para buscar un mayor acercamiento diplomático a la Unión Europea.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-24/armenia-propone-una-nueva-constitucion-para-afianzar-la-firma-de-la-paz-con-azerbaiyan.html"
+            }
+          ]
+        },
+        {
+          "titular": "La OTAN estrecha la vigilancia espacial ante la amenaza de satélites nucleares rusos",
+          "que_ha_pasado": "El secretario general de la OTAN ha reafirmado la determinación aliada de defender el dominio espacial. La declaración llega tras filtraciones sobre planes de Rusia para lanzar en las próximas semanas un satélite equipado con una carga atómica.",
+          "por_que_importa": "Poner armamento nuclear en la órbita terrestre quebrantaría el Tratado del Espacio Exterior de 1967. Un pulso electromagnético derivado de una detonación en el espacio inutilizaría tanto infraestructuras militares como constelaciones comerciales de telecomunicaciones y navegación esenciales para Occidente.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        },
+        {
+          "titular": "Polémica por la injerencia de Donald Trump en la cúpula directiva de Nvidia",
+          "que_ha_pasado": "El presidente Donald Trump afirmó haber intercedido para lograr el retorno de Jensen Huang como consejero delegado de Nvidia. Tras la noticia y la presión ejercida sobre el consejo corporativo, la cotización de la firma tecnológica registró notables subidas en los mercados.",
+          "por_que_importa": "El caso evidencia una creciente injerencia de la política ejecutiva estadounidense sobre los órganos de gobierno de las multinacionales tecnológicas. Dado que los microprocesadores avanzados son ya activos de seguridad nacional, las tensiones corporativas quedan expuestas a presiones geopolíticas directas.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.com/news/magazine/2026/11/24/donald-trump-jensen-huang-column-01180964?c=1795514431568&utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Ucrania recurre a drones aéreos para evacuar a soldados heridos en la línea de frente",
+          "que_ha_pasado": "El ejército de Ucrania ha logrado rescatar con éxito a cerca de diez combatientes heridos utilizando aeronaves no tripuladas en zonas inalcanzables para ambulancias y vehículos blindados.",
+          "por_que_importa": "La imposibilidad de efectuar rescates por tierra debido al constante rastreo de la artillería y los sensores enemigos ha acelerado la innovación operativa. El empleo de drones en tareas de evacuación médica marca un paso más hacia la robotización completa de la logística en zonas de combate.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-24/evacuado-del-frente-de-guerra-en-las-tripas-de-un-dron-aereo-era-mi-unica-opcion.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Sanofi acuerda la compra de Insmed por 37.600 millones para renovar su catálogo de fármacos",
+          "que_ha_pasado": "La multinacional Sanofi ha cerrado un acuerdo de adquisición sobre Insmed por 37.600 millones de dólares, firmando la mayor operación del sector farmacéutico de los últimos tres años.",
+          "por_que_importa": "Las grandes firmas farmacéuticas se enfrentan al vencimiento de patentes clave de sus medicamentos más lucrativos. Con este movimiento, Sanofi diversifica sus líneas de investigación e incorpora tratamientos en fase avanzada para mantener la rentabilidad a medio plazo.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-11-24/sanofi-cierra-un-acuerdo-para-comprar-insmed-por-37600-millones-en-la-mayor-operacion-del-sector-farmaceutico-en-tres-anos.html"
+            }
+          ]
+        },
+        {
+          "titular": "Singapur garantiza a EE. UU. que impedirá la evasión de sanciones de chips a China",
+          "que_ha_pasado": "El primer ministro de Singapur, Lawrence Wong, ha afirmado que el país asiático aplicará rigurosamente los controles de exportación impuestos por Washington. El compromiso busca evitar que empresas locales sirvan de puente a Pekín para adquirir semiconductores avanzados.",
+          "por_que_importa": "El control sobre la cadena de suministro de microchips de inteligencia artificial ha situado a los centros logísticos del sudeste asiático bajo extrema vigilancia geopolítica. Singapur pretende proteger su perfil de centro financiero internacional evitando exponerse a sanciones secundarias estadounidenses.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/6ca21b39-ff62-42e0-9695-9220b438f7eb?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La justicia estadounidense congela de forma cautelar la indemnización de Telefónica a Colombia",
+          "que_ha_pasado": "Un juzgado de EE. UU. ha suspendido provisionalmente la ejecución del laudo arbitral de 380 millones de dólares favorable a Telefónica, a la espera de que el Ciadi resuelva el recurso de anulación planteado por Bogotá.",
+          "por_que_importa": "El caso alarga una disputa legal iniciada tras las liquidaciones e infraestructuras del sector de telecomunicaciones en América Latina. Subraya la complejidad del sistema arbitral internacional de inversiones, donde la impugnación de laudos puede postergar el cobro efectivo durante años.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-11-24/ee-uu-frena-el-cobro-de-380-millones-de-dolares-de-telefonica-a-colombia.html"
+            }
+          ]
+        },
+        {
+          "titular": "Tensiones e irregularidades en el suministro de armamento y suministros a Ucrania",
+          "que_ha_pasado": "El Pentágono ha aplazado la firma para autorizar el envío de 60 misiles interceptores Patriot a Kiev. En paralelo, se ha sabido que el servicio de adquisiciones británico compró toneladas de falso explosivo C4 a un intermediario estadounidense.",
+          "por_que_importa": "Las trabas burocráticas e industriales en la entrega de defensa antiaérea vulneran la protección de infraestructuras ucranianas de cara al invierno. Asimismo, los fallos de verificación en las contratas ponen de relieve el riesgo operativo derivado de recurrir a intermediarios en compras militares urgentes.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/02db16f6-808f-44b4-98dc-fe47f6a04d33?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Anthropic automatiza la revisión de código informático con la herramienta Claude Ship",
+          "que_ha_pasado": "La compañía Anthropic ha lanzado un paquete de utilidades que permite a sus agentes de IA revisar, corregir y aprobar cambios en el código de desarrollo sin supervisión directa continua.",
+          "por_que_importa": "Con la prolífica generación de código mediante IA, el cuello de botella técnico ha pasado de la escritura a la auditoría del software. Automatizar la aprobación rutinaria modifica el trabajo en consultoría tecnológica, desplazando el foco humano hacia la arquitectura y la gobernanza de sistemas.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+            }
+          ]
+        },
+        {
+          "titular": "Sentenciado y puesto en libertad vigilada el autor de las filtraciones masivas de 'GTA VI'",
+          "que_ha_pasado": "El ciberdelincuente procesado por infiltrarse en las redes de Rockstar Games ha sido condenado a siete años de prisión, aunque cumplirá la pena en libertad condicional supervisada.",
+          "por_que_importa": "El cierre judicial de uno de los robos de información más sonados de la industria del videojuego evidencia los vacíos y dilemas en el enjuiciamiento de ciberdelincuentes jóvenes. Demuestra además la extrema vulnerabilidad del sector del entretenimiento frente al espionaje digital.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released"
+            }
+          ]
+        },
+        {
+          "titular": "Estados de EE. UU. demandan a SpaceX por la falta de control en las imágenes creadas con Grok",
+          "que_ha_pasado": "Varios fiscales generales han emprendido acciones legales contra la firma de Elon Musk para impedir que la herramienta Grok continúe generando contenidos audiovisuales explícitos no consentidos y abusivos.",
+          "por_que_importa": "La ofensiva judicial plantea la responsabilidad directa de las empresas tecnológicas en la generación sintética de imágenes. Refuerza la tendencia legislativa que exige moderación previa e insiste en la creación de salvaguardas efectivas en los modelos de IA generativa.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "El Gobierno amplía los permisos por nacimiento y cuidado de menores hasta las 20 semanas",
+          "que_ha_pasado": "El Consejo de Ministros ha aprobado ampliar el permiso parental de dos a tres semanas. Sumadas a las 17 semanas tras el parto o adopción, elevan a 20 semanas el total retribuido para cuidar a los hijos durante sus primeros ocho años de vida.",
+          "por_que_importa": "La reforma alinea la normativa nacional con la directiva europea sobre conciliación y corresponsabilidad. Implica un ajuste en la gestión de personal para el tejido empresarial, en un esfuerzo por mitigar los problemas demográficos y de fecundidad del país.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html"
+            }
+          ]
+        },
+        {
+          "titular": "Los grupos políticos acuerdan impulsar un Pacto de Estado por la Seguridad Ferroviaria",
+          "que_ha_pasado": "Las formaciones parlamentarias han firmado la propuesta para negociar un acuerdo estatal en materia de seguridad ferroviaria, tras una iniciativa promovida por colectivos de víctimas de accidentes.",
+          "por_que_importa": "La firma supone romper la confrontación partidista en torno a las infraestructuras tras los últimos incidentes. Articular un pacto plurianual permitirá planificar las inversiones de mantenimiento y modernización al margen de las dinámicas de la contienda política.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/11/24/6b055027e4d4d852258b45a8.html"
+            }
+          ]
+        },
+        {
+          "titular": "Incertidumbre por el anuncio de venta del suelo del colegio concertado Decroly en Madrid",
+          "que_ha_pasado": "Una inmobiliaria ha puesto en venta la parcela del colegio concertado Decroly por 16 millones de euros, tras la decisión de los propietarios del terreno de no renovar el concierto con la comunidad educativa.",
+          "por_que_importa": "El caso refleja la presión inmobiliaria sobre las parcelas dotacionales situadas en zonas céntricas de las capitales. Ilustra la indefensión de las familias usuarias de la red concertada frente a las operaciones de revalorización patrimonial en los núcleos urbanos.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/madrid/2026-11-24/una-inmobiliaria-anuncia-desde-hace-un-ano-la-venta-del-unico-colegio-laico-de-chamberi-madrid-por-16-millones-de-euros.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "El testamento de Antoni Gaudí se hace público un siglo después de su muerte",
+          "que_ha_pasado": "El Colegio de Notarios de Barcelona ha mostrado la herencia del arquitecto catalán, confirmando que dejó todos sus bienes personales para financiar la obra de la Sagrada Familia.",
+          "por_que_importa": "La publicación del documento notarial constata el perfil ascético y la entrega plena de Gaudí al templo al final de sus días. Además, aporta luz documental sobre la gestión patrimonial y los cimientos económicos de la basílica.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-24/una-casa-2991-pesetas-y-una-obsesion-el-testamento-de-antoni-gaudi-ve-la-luz-100-anos-despues-de-su-muerte.html"
+            }
+          ]
+        },
+        {
+          "titular": "Jacobo García analiza la impunidad endémica de la violencia en Latinoamérica en su libro 'Años luz'",
+          "que_ha_pasado": "El corresponsal de guerra y periodista ha abordado en su nuevo trabajo las causas que explican la persistencia de los elevados índices de criminalidad en México y Centroamérica.",
+          "por_que_importa": "La obra aleja el foco de la simple crónica de sucesos para incidir en la quiebra del sistema judicial como detonante de la violencia. Muestra cómo la ausencia de castigo debilita la confianza institucional y paraliza el desarrollo socioeconómico de la región.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-24/jacobo-garcia-autor-de-anos-luz-en-mexico-se-mata-porque-es-gratis-porque-nadie-va-a-perseguir-ese-crimen.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Descalce de plazos (Maturity mismatch)",
+    "explicacion": "El descalce de plazos se produce cuando una entidad financiera o empresa financia activos a largo plazo utilizando pasivos que vencen a corto plazo. Esta práctica permite aprovechar los menores tipos de interés de la deuda a corto plazo para maximizar márgenes, pero introduce un grave riesgo de liquidez. Si los acreedores o depositantes reclaman de forma imprevista la devolución de sus fondos antes de que las inversiones maduren o puedan liquidadas, la entidad corre el riesgo de caer en la insolvencia al no disponer de liquidez inmediata.",
+    "ejemplo": "El colapso de Silicon Valley Bank en 2023 se debió a un descalce de plazos: la entidad captó depósitos de clientes a corto plazo e invirtió esos fondos en bonos del Tesoro a muy largo plazo; al subir repentinamente los tipos de interés, los activos perdieron valor de mercado y el banco fue incapaz de responder a las retiradas masivas."
+  },
+  "fecha": "2026-11-24"
+}
