@@ -1,0 +1,250 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "La Comisión Europea proyecta un fondo de 50.000 millones para soberanía tecnológica",
+      "resumen": "Bruselas busca movilizar capital en el próximo presupuesto plurianual para financiar tecnologías estratégicas y cerrar la brecha con Estados Unidos y China."
+    },
+    {
+      "titular": "Los mercados globales se corrigen ante las dudas sobre la IA y nuevas amenazas arancelarias",
+      "resumen": "El Nasdaq y los selectivos europeos sufren caídas continuadas a medida que se desinfla el entusiasmo inversor y repuntan las fricciones comerciales."
+    },
+    {
+      "titular": "Crecen las dudas sobre la cúpula de Nvidia tras la intervención de la Casa Blanca",
+      "resumen": "La restitución del consejero delegado Jensen Huang aviva las críticas sobre gobernanza y el riesgo de responsabilidades legales para el consejo de administración."
+    },
+    {
+      "titular": "Washington congela los incentivos económicos previstos en las negociaciones con Rusia",
+      "resumen": "La administración estadounidense aparca los acuerdos comerciales al considerar que la cooperación bilateral no incentivará a Moscú a frenar la guerra."
+    },
+    {
+      "titular": "Tensión institucional y pulso judicial en el tramo final de la campaña del 29-N",
+      "resumen": "El Gobierno cuestiona la imparcialidad del bloque conservador del CGPJ en vísperas del debate electoral decisivo para la formación de mayorías."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "Bruselas propone un fondo de 50.000 millones de euros para resguardar la tecnología europea",
+          "que_ha_pasado": "La Comisión Europea trabaja en el lanzamiento del denominado 'Sovereign Tech Equity Fund', dotado con 50.000 millones de euros. El vehículo de inversión dependerá de las negociaciones del marco financiero plurianual de la Unión Europea. Su objetivo prioritario es inyectar capital en empresas continentales de sectores de alta tecnología para evitar que migren a otros mercados.",
+          "por_que_importa": "Europa acumula años de rezago respecto a las enormes inversiones públicas y privadas de Estados Unidos y China en sectores como la microelectrónica o la computación avanzada. La falta de escuderos financieros locales suele empujar a las empresas emergentes europeas a financiarse con fondos estadounidenses, perdiendo soberanía sobre la propiedad intelectual. Si la UE aprueba esta partida, marcará un giro hacia una política industrial más intervencionista y defensiva.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/kommission-will-50-milliarden-euro-fonds-zur-foerderung-europaeischer-schluesseltechnologie-aufsetzen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Un informe de Amnistía Internacional denuncia el impacto desproporcionado sobre mujeres en Gaza",
+          "que_ha_pasado": "Amnistía Internacional ha hecho público un informe donde documenta la destrucción sistemática de las condiciones básicas de vida para las mujeres y niñas en la Franja de Gaza. Según el organismo, este grupo representa más del 30% de las víctimas mortales acumuladas durante las operaciones bélicas. El estudio analiza el colapso del sistema sanitario, de cuidados y de salud reproductiva en el enclave.",
+          "por_que_importa": "El documento aporta pruebas sustanciales para las demandas presentadas ante tribunales internacionales respecto a violaciones del derecho internacional humanitario. El deterioro de la infraestructura civil básica no solo destruye el presente del territorio, sino que compromete la viabilidad demográfica y social de la población palestina a largo plazo. Este tipo de informes eleva la presión diplomática sobre los socios occidentales de Tel Aviv.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-25/israel-destruye-las-condiciones-para-concebir-nuevas-vidas-en-gaza-lo-he-perdido-todo-hasta-la-esperanza.html"
+            }
+          ]
+        },
+        {
+          "titular": "El SPD berlinés rechaza nacionalizar vivienda pese a las exigencias de sus socios de gobierno",
+          "que_ha_pasado": "El candidato socialdemócrata en Berlín, Steffen Krach, ha manifestado públicamente su oposición a la expropiación o nacionalización del parque de viviendas de la capital. La medida es uno de los ejes del programa de sus aliados electorales de Die Linke para articular el pacto de gobierno. Krach sostiene que esa estrategia no contribuirá a reducir el precio de los arrendamientos urbana.",
+          "por_que_importa": "Berlín encarna el gran laboratorio europeo en materia de políticas de control de vivienda tras años de tensión entre movimientos sociales y gran capital inmobiliario. La negativa del SPD pone de manifiesto la brecha doctrinal en la izquierda europea entre soluciones regulatorias severas y enfoques basados en el estímulo de la oferta. Además, anticipa complejidades de gobernanza interna en una de las mayores economías urbanas del continente.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-25/steffen-krach-lider-del-spd-en-berlin-no-creo-que-nacionalizar-viviendas-baje-los-alquileres-al-contrario.html"
+            }
+          ]
+        },
+        {
+          "titular": "Finaliza el litigio de extradición entre EE. UU. y España en un caso migratorio de alto impacto",
+          "que_ha_pasado": "El ciudadano salvadoreño Kilmar Ábrego García ha salido de Estados Unidos en dirección a España, concluyendo así una pugna judicial prolongada contra la administración estadounidense. La deportación inicial de Ábrego hacia El Salvador y su posterior retorno judicial habían generado una agria batalla procesal en los tribunales federales. El caso sirvió de ariete mediático en la disputa sobre la política fronteriza estadounidense.",
+          "por_que_importa": "La resolución del caso mediante el traslado a un tercer país europeo subraya las vías diplomáticas alternativas que se emplean para desbloquear conflictos judiciales complejos. Muestra asimismo la interacción entre la política interna estadounidense de inmigración y las coberturas que prestan países aliados en el marco de acuerdos bilatelares. Sienta un precedente procesal sobre el tratamiento de expulsiones controvertidas impulsadas por la Casa Blanca.",
+          "fuentes": [
+            {
+              "nombre": "BBC World",
+              "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Corrección bursátil generalizada por el agotamiento del rally de la IA y la amenaza arancelaria",
+          "que_ha_pasado": "Las principales bolsas internacionales encadenan jornadas en negativo con el Nasdaq 100 cediendo posiciones de forma prolongada y el Ibex 35 tambaleándose cerca de los 19.000 puntos. La tendencia bajista se contagió a las plazas asiáticas tras el anuncio de posibles nuevas restricciones comerciales por parte de Washington. El mercado muestra dudas crecientes sobre el retorno financiero inmediato de las inversiones masivas en tecnología.",
+          "por_que_importa": "El sector tecnológico ha sido el motor exclusivo del crecimiento de las bolsas en los últimos tres años, creando una alta concentración de riesgo en los índices globales. Un frenazo en la valoración del negocio de la inteligencia artificial puede desencadenar un ajuste patrimonial severo en fondos de pensiones e inversores minoristas. Si a esto se le suma la amenaza de una nueva oleada proteccionista, el escenario macroeconómico se complica sensiblemente.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-25/la-bolsa-y-el-ibex-35.html"
+            }
+          ]
+        },
+        {
+          "titular": "Estados Unidos congela sus planes de cooperación económica con Rusia para frenar la guerra",
+          "que_ha_pasado": "El Gobierno de Estados Unidos ha dejado en suspenso los proyectos de acuerdos y relaciones comerciales que mantenía en estudio con el Kremlin. La Administración norteamericana ha determinado que el ofrecimiento de incentivos económicos no resulta eficaz para instar a Moscú a concluir su invasión de Ucrania. La decisión modifica el enfoque negociador mantenido hasta la fecha.",
+          "por_que_importa": "El levantamiento selectivo de sanciones y el retorno del capital occidental eran vistos por la diplomacia como el principal cebo negociador frente al Kremlin. Al anular esta baza, Washington asume que el conflicto ha entrado en una fase estructural donde la coerción financiera directa supera a la diplomacia comercial. Esta postura empuja a Europa a replantearse la duración real del aislamiento económico ruso.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/36e342f2-17d4-48a7-80f6-2456dfdd6f91?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "Starbucks sopesa la desinversión total de su red de cafeterías en Japón",
+          "que_ha_pasado": "Starbucks ha iniciado negociaciones formales con Citigroup y Morgan Stanley para vender su negocio operativo en Japón, donde gestiona cerca de 2.000 locales. La dirección de la multinacional estadounidense ha empezado a tantear la disposición de fondos de capital riesgo y competidores estratégicos. El proceso se encuentra en fase de prospección inicial.",
+          "por_que_importa": "Japón representa uno de los mercados internacionales más antiguos y rentables de la firma, pero la pérdida de márgenes de consumo y los costes logísticos obligan a buscar liquidez. Esta venta encaja en una tendencia más amplia de gigantes del consumo masivo que externalizan sus divisiones asiáticas mediante licencias o franquicias a operadores locales. Permite a la matriz concentrar capital en la transformación de su modelo de negocio en su mercado originario.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/companias/2026-11-25/starbucks-se-vende-la-compania-esta-en-conversaciones-con-citi-y-morgan-stanley-para-deshacerse-de-su-negocio-en-japon.html"
+            }
+          ]
+        },
+        {
+          "titular": "La industria europea de defensa exige un frente común ante los sabotajes e incursiones híbridas",
+          "que_ha_pasado": "Ejecutivos del sector europeo de la defensa han hecho una llamada de alerta tras la ola de incendios provocado, ciberataques y actos de sabotaje sufridos en aeropuertos e instalaciones críticas. Las compañías han advertido a las autoridades de la UE de que no debe aceptarse la 'guerra híbrida' como una disrupción operativa habitual. Reclaman una respuesta gubernamental coordinada para blindar la cadena de suministro industrial.",
+          "por_que_importa": "Las tácticas de zona gris empleadas por actores estatales adversarios buscan erosionar la resiliencia europea sin llegar al umbral de una agresión armada directa. La falta de atribución legal clara dificulta activar las cláusulas de defensa mutua, dejando expuestas a firmas privadas estratégicas. Para la consultoría corporativa y de riesgos, esto supone un incremento inevitable en el gasto en seguridad privada, ciberdefensa e infraestructura redundante.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/7f57f64e-1f85-4be8-87ec-2db18830ebb2?syn-25a6b1a6=1"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Crece la marejada corporativa en Nvidia tras el respaldo de la Casa Blanca a Jensen Huang",
+          "que_ha_pasado": "El retorno apoyado por el Gobierno de Jensen Huang a la cúpula ejecutiva y al consejo de administración de Nvidia ha levantado agudas críticas académicas y corporativas. Analistas de la Universidad de Yale sostienen que este movimiento perjudica al tejido industrial estadounidense y deja expuestos a los consejeros a demandas civiles de alta cuantía. Paralelamente, el Departamento de Justicia elude aclarar el alcance de las investigaciones por supuestos desvíos ilegales de chips a China.",
+          "por_que_importa": "La intrusión directa de la política gubernamental en la gobernanza de la empresa cotizada más valiosa del mundo fractura la independencia corporativa tradicional en Silicon Valley. Si los consejeros asumen responsabilidad legal por priorizar directrices políticas sobre el interés de los accionistas, el modelo de administración del sector tecnológico acusará un severo golpe. El caso muestra el impacto real de las restricciones a la exportación de semiconductores en la geopolítica de los chips.",
+          "fuentes": [
+            {
+              "nombre": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/"
+            }
+          ]
+        },
+        {
+          "titular": "Tidal iniciará una purga masiva de 27 millones de pistas generadas íntegramente por IA",
+          "que_ha_pasado": "La plataforma de música en streaming Tidal ha anunciado que el próximo 9 de diciembre eliminará de su catálogo aproximadamente 27 millones de archivos musicales creados de forma automatizada. Según las métricas internas del servicio, el 96% de estas canciones no registró ni un solo oyente en los últimos tres meses. La medida pretende aliviar el servidor y priorizar el catálogo creado por artistas humanos.",
+          "por_que_importa": "La proliferación descontrolada de contenido sintético genera un problema agudo de saturación de infraestructura y dilución de ingresos en las plataformas de distribución. Las plataformas comienzan a aplicar barreras de entrada para evitar que granjas de bots moneticen royalties a costa de autores reales mediante esquemas automatizados. Sienta un precedente operativo que probablemente imitarán competidores como Spotify o Apple Music.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/musica/tidal-va-a-borrar-27-millones-canciones-hechas-ia-96-no-ha-sonado-vez-tres-meses"
+            }
+          ]
+        },
+        {
+          "titular": "Una caída histórica en la nube de Microsoft obliga a una reestructuración de ingeniería",
+          "que_ha_pasado": "Memorandos internos revelan que Microsoft ha activado un protocolo de crisis 'Código Rojo' tras sufrir un apagón masivo e inusual en sus servicios de infraestructura en la nube. La avería puso de relieve serios problemas de visibilidad e intervención durante las primeras fases del colapso del sistema. La compañía se ha fijado como objetivo prioritario garantizar recuperaciones operativas en menos de una hora.",
+          "por_que_importa": "La concentración de servicios corporativos e institucionales en unas pocas nubes hiperescalables convierte cualquier interrupción técnica en un riesgo sistémico global. Para el ámbito de la consultoría y las operaciones de TI, este episodio exige revisar las cláusulas de nivel de servicio (SLA) y diseñar estrategias multicloud reales para evitar puntos únicos de fallo en la arquitectura digital de las empresas.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "Sánchez ataca al bloque conservador del CGPJ en plena recta final de la campaña electoral",
+          "que_ha_pasado": "El presidente del Gobierno, Pedro Sánchez, ha acusado al sector conservador del Consejo General del Poder Judicial de actuar con un 'excesivo celo' selecivo en sus severas críticas hacia el Ejecutivo. En el contexto decisivo de la campaña del 29-N, Sánchez ha defendido la sostenibilidad del sistema de pensiones y ha prometido dotar a la hucha pública de 50.000 millones para 2030. La oposición le recrimina buscar la polarización para movilizar el voto de izquierda.",
+          "por_que_importa": "El deterioro del clima institucional entre el Poder Ejecutivo y la cúpula judicial se traslada de lleno a la contienda electoral, erosionando la percepción de independencia de los órganos de gobierno de los jueces. Con las encuestas apretadas de cara al debate decisivo, el discurso gubernamental busca blindar el electorado progresista mediante la apelación al riesgo de un pacto entre PP y Vox, mientras que la oposición centra la controversia en la calidad democrática.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/espana/elecciones-generales/2026-11-25/campana-electoral-29-n-y-actualidad-politica-en-directo.html"
+            },
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/25/6b069124fdddffdf2f8b45b0.html"
+            },
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-11-25/pedro-sanchez-extrevista-intxaurrondo_4472055/"
+            }
+          ]
+        },
+        {
+          "titular": "Feijóo vincula el control del absentismo laboral al sostenimiento futuro de las pensiones",
+          "que_ha_pasado": "El líder del Partido Popular, Alberto Núñez Feijóo, ha abogado por una estrategia firme de lucha contra el absentismo laboral como vía para generar ahorros estatales de hasta 12.000 millones de euros. Para ilustrar su propuesta, ha rememorado su gestión al frente de Correos, señalando que las ausencias no justificadas alcanzaban miles de trabajadores en jornadas clave. Propone esos recursos recuperados para garantizar la hucha de las pensiones.",
+          "por_que_importa": "El incremento de las bajas laborales se ha convertido en una preocupación prioritaria para las patronales y la gestión de recursos humanos en grandes empresas españolas. Vincular esta variable a la sostenibilidad del sistema de seguridad social traslada el foco del debate: de la subida de cotizaciones sociales a la mejora de la productividad y el control de la incapacidad temporal. Anticipa las reformas laborales que impulsaría la derecha en caso de llegar al Gobierno.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-11-25/feijoo-correos-absentismo-jordi-wild_4472118/"
+            }
+          ]
+        },
+        {
+          "titular": "El autoconsumo fotovoltaico alcanza el 5% de la producción eléctrica nacional en España",
+          "que_ha_pasado": "España ha superado la cifra de 600.000 instalaciones fotovoltaicas operativas en cubiertas y tejados residenciales e industriales, según los últimos balances energéticos. Este parque distribuido genera ya el equivalente al 5% de toda la electricidad consumida anualmente en el país. El hito llega tras completarse las reformas técnicas y los marcos normativos que facilitan el vertido a la red.",
+          "por_que_importa": "El modelo de generación distribuida consolida un cambio de paradigma en el sistema eléctrico español, que históricamente dependía de grandes plantas centralizadas. Esta descentralización reduce pérdidas en el transporte de energía y amortigua el impacto de los picos de precios mayoristas para familias y empresas. Sin embargo, impone importantes retos de gestión a las redes de distribución y exige mayores inversiones en capacidad de almacenamiento.",
+          "fuentes": [
+            {
+              "nombre": "El País",
+              "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-25/del-impuesto-al-sol-a-la-energia-ciudadana-el-tejado-deja-de-ser-el-limite-de-la-energia-solar.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "Fincher y Tarantino reviven la narrativa de Brad Pitt en un proyecto cinematográfico atípico",
+          "que_ha_pasado": "El director David Fincher ha estrenado 'Las desventuras de Cliff Booth', una película basada en un guion de Quentin Tarantino que da continuidad al personaje interpretado por Brad Pitt en 'Érase una vez en... Hollywood'. La colaboración fue promovida directamente por el propio actor. Fincher ha defendido el filme asegurando que el debate actual sobre la IA en el cine enmascara en realidad una disputa cultural sobre la industria.",
+          "por_que_importa": "El lanzamiento pone a prueba la vigencia del modelo de autor en la meca del cine frente al auge de la generación de contenidos por algoritmos. La disparidad de criterios entre la acogida crítica y la relevancia mediática de la cinta ejemplifica la encrucijada del cine de estudio tradicional. Demuestra además cómo las grandes estrellas siguen ejerciendo como verdaderos motores de producción para poner en marcha proyectos singulares.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/cine/2026-11-25/david-fincher-cineasta-el-debate-de-la-ia-esconde-una-guerra-de-culturas-no-tiene-nada-que-ver-con-las-peliculas.html"
+            }
+          ]
+        },
+        {
+          "titular": "China integra al primer astronauta pakistaní en la tripulación de la estación Tiangong",
+          "que_ha_pasado": "La agencia espacial china ha lanzado la misión tripulada Shenzhou-24 hacia la estación orbital Tiangong. La tripulación de tres miembros incluye a Muhammad Zeeshan Ali, quien se convierte en el primer astronauta de nacionalidad pakistaní y en el primer ciudadano extranjero en unirse a una misión espacial impulsada por Pekín.",
+          "por_que_importa": "El vuelo espacial tripulado trasciende el ámbito científico para convertirse en un importante vector de poder blando y proyección geopolítica en el Sur Global. Pekín consolida la estación Tiangong como una alternativa multinacional a la Estación Espacial Internacional (ISS), liderada por EE. UU. Este movimiento fortalece la alianza estratégica del corredor China-Pakistán en la pugna por la hegemonía aeroespacial.",
+          "fuentes": [
+            {
+              "nombre": "BBC Science",
+              "url": "https://www.bbc.co.uk/news/videos/c3702x9ejk5ro?at_medium=RSS&at_campaign=rss"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Espacio fiscal (Fiscal space)",
+    "explicacion": "El espacio fiscal se define como la capacidad real que posee un gobierno para incrementar su gasto público o recortar impuestos sin comprometer la sostenibilidad de sus finanzas públicas ni la solvencia crediticia ante el mercado. Depende de la carga de deuda existente, el volumen de ingresos fiscales recurrentes, el tipo de interés de financiación y la credibilidad macroeconómica del Estado. Un espacio fiscal amplio permite aplicar políticas anticíclicas en crisis, mientras que un espacio agotado aboca a la austeridad o al rescate externo.",
+    "ejemplo": "Las exigencias de consolidación presupuestaria impuestas por las reglas fiscales comunitarias han dejado sin espacio fiscal a los Estados del sur de Europa para financiar el fondo tecnológico de 50.000 millones propuesto por Bruselas."
+  },
+  "fecha": "2026-11-25"
+}
