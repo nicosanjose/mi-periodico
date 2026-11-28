@@ -1,0 +1,246 @@
+{
+  "titulares_portada": [
+    {
+      "titular": "España entra en la recta final del 29-N marcada por la incertidumbre de los pactos",
+      "resumen": "Las encuestas prevén un escenario fragmentado tras las elecciones generales de este domingo, con los mercados atentos a los posibles bloqueos parlamentarios y su impacto en sectores clave."
+    },
+    {
+      "titular": "EE. UU. presiona a Intel para ceder participación estatal a cambio de subsidios",
+      "resumen": "La administración estadounidense exige una participación del 10% en el fabricante de microchips para desbloquear los fondos de la Ley CHIPS, marcando un giro en la política industrial de Washington."
+    },
+    {
+      "titular": "Irán intensifica la presión sobre el tráfico marítimo en el estrecho de Ormuz",
+      "resumen": "Teherán recurre a la táctica del doble ataque contra cargueros para disuadir la navegación comercial en una ruta clave por la que transita una quinta parte del petróleo mundial."
+    },
+    {
+      "titular": "Malestar en la UE y Ucrania por el nombramiento de un alto cargo ruso en la agencia nuclear de la ONU",
+      "resumen": "El director del OIEA, Rafael Grossi, designa a Alexei Ferapontov para dirigir un departamento estratégico, en plena pugna por la sucesión en la secretaría general de Naciones Unidas."
+    },
+    {
+      "titular": "La corrección bursátil de Nvidia arrastra al sector de la inteligencia artificial",
+      "resumen": "La incertidumbre sobre la rentabilidad del desarrollo tecnológico dispara los costes de financiación para firmas como SoftBank y golpea las valoraciones de los fabricantes de chips."
+    }
+  ],
+  "bloques": [
+    {
+      "id": "geopolitica",
+      "noticias": [
+        {
+          "titular": "El OIEA nombra a un funcionario ruso en su cúpula directiva pese al rechazo europeo",
+          "que_ha_pasado": "El director general del Organismo Internacional de Energía Atómica, Rafael Grossi, ha asignado al ruso Alexei Ferapontov la jefatura de un departamento clave de la organización. La decisión ha provocado críticas inmediatas por parte de los Gobiernos de Ucrania y la Unión Europea.",
+          "por_que_importa": "El nombramiento evidencia las tensiones institucionales en el seno del sistema de Naciones Unidas en un momento en que Grossi aspira a la Secretaría General de la ONU. Mantener puentes diplomáticos con Moscú es vital para la supervisión de la central de Zaporiyia, pero la designación erosiona la cohesión con los socios occidentales y expone la creciente politización de las agencias técnicas internacionales.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-28/el-director-de-la-agencia-nuclear-de-la-onu-designa-a-un-alto-cargo-de-putin-para-dirigir-un-departamento-clave-de-la-organizacion.html"
+            }
+          ]
+        },
+        {
+          "titular": "Las declaraciones de Jared Kushner sobre Rusia desatan duras críticas en Europa",
+          "que_ha_pasado": "Diplomáticos y legisladores europeos han reaccionado con indignación ante los comentarios de Jared Kushner valorando la postura de Moscú en el conflicto ucraniano. Desde Kiev se ha solicitado formalmente su relevo como mediador de paz, mientras eurodiputados acusan al enviado estadounidense de replicar el relato del Kremlin.",
+          "por_que_importa": "El episodio refleja la desconfianza estructural entre la Unión Europea y los canales de diplomacia paralela desplegados por Washington. Las discrepancias sobre las condiciones de una eventual negociación de paz amenazan con fracturar la unidad transatlántica justo cuando se debate la arquitectura de seguridad europea posterior al conflicto.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/an-advocate-for-russia-jared-kushner-vladimir-putin-comments-spark-outrage-europe/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Polonia defiende un contrato militar de 300 millones de dólares con Palantir",
+          "que_ha_pasado": "El Ministerio de Defensa polaco ha justificado la adjudicación de un contrato de software de inteligencia artificial militar a la firma estadounidense Palantir por valor de 300 millones de dólares. Varsovia asegura que sería negligente rechazar una herramienta tecnológicamente superior en el contexto actual de seguridad.",
+          "por_que_importa": "El contrato subraya el dilema estratégico de los países del flanco oriental de la OTAN entre la adopción rápida de tecnologías de defensa punteras y el riesgo de dependencia tecnológica de proveedores estadounidenses. Aunque la UE fomenta la autonomía estratégica de la industria militar europea, la urgencia operativa de Polonia prioriza las capacidades inmediatas.",
+          "fuentes": [
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/wed-be-stupid-not-to-poland-defends-300m-military-ai-deal-with-palantir/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "La primera ministra danesa desata una crisis política por su discurso identitario",
+          "que_ha_pasado": "Mette Frederiksen ha generado una tormenta política en Dinamarca tras hacer suyos postulados sobre la identidad cristiana del país y deslizar conceptos próximos a la narrativa del Gran Reemplazo. La postura ha intensificado la fractura dentro de la coalición gubernamental y con sus socios parlamentarios tradicionalmente socialdemócratas.",
+          "por_que_importa": "El giro de Frederiksen ilustra cómo la frontera ideológica en torno a la inmigración y la identidad nacional se ha desplazado en el norte de Europa. Al asumir discursos antes restringidos a la extrema derecha, el centroizquierda danés busca neutralizar electoralmente el auge populista, marcando una tendencia que siguen otros líderes del continente.",
+          "fuentes": [
+            {
+              "nombre": "El País Internacional",
+              "url": "https://elpais.com/internacional/2026-11-28/la-socialdemocrata-frederiksen-coquetea-con-la-teoria-del-gran-reemplazo.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Geopolítica e internacional"
+    },
+    {
+      "id": "economia",
+      "noticias": [
+        {
+          "titular": "Irán aplica la táctica del doble ataque para disuadir la navegación en el estrecho de Ormuz",
+          "que_ha_pasado": "En los últimos dos meses al menos seis buques mercantes han sufrido ataques repetidos por parte de fuerzas iraníes en aguas del estrecho de Ormuz. El objetivo de golpear dos veces al mismo mercante busca disuadir a las navieras de transitar por este paso estratégico.",
+          "por_que_importa": "El estrecho de Ormuz es el punto de estrangulamiento energético más crítico del planeta, por donde circula cerca del 20% del suministro mundial de petróleo. El incremento de las primas de riesgo marítimo y la alteración de las rutas de flete amenazan con encarecer los costes logísticos globales e impulsar repuntes en los precios del crudo.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/f9c4da80-cc2c-4b0b-b083-b7acd0337790?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "La crisis de cotización de Nvidia arrastra al sector de los semiconductores y eleva costes en IA",
+          "que_ha_pasado": "Las bolsas internacionales han castigado con dureza a los fabricantes de microchips tras la corrección del valor bursátil de Nvidia. El enfriamiento de las expectativas sobre la rentabilidad a corto plazo de la inteligencia artificial ha elevado los costes de endeudamiento para conglomerados como SoftBank y frena valoraciones de firmas punteras como OpenAI.",
+          "por_que_importa": "El sector atraviesa una fase de reajuste en la que el mercado exige retornos financieros tangibles tras años de inversiones masivas en infraestructura computacional. Las elevadas necesidades de capital (CapEx) de las multinacionales tecnológicas colisionan con un entorno de tipos que encarece la financiación corporativa.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://elpais.com/economia/2026-11-28/la-crisis-de-nvidia-deja-en-shock-a-la-industria-tecnologica-global-bajo-la-sombra-de-una-grave-crisis-financiera.html"
+            }
+          ]
+        },
+        {
+          "titular": "Irlanda consolida su condición de eje fiscal para las multinacionales tecnológicas de EE. UU.",
+          "que_ha_pasado": "Nuevos datos económicos confirman que cinco de las mayores multinacionales de Estados Unidos abonan ya más impuestos sobre sociedades en Irlanda que en cualquier otro mercado mundial, incluido el estadounidense.",
+          "por_que_importa": "A pesar de las reformas fiscales internacionales orientadas a fijar un tipo mínimo global, Dublín continúa concentrando los beneficios contables de los gigantes corporativos gracias a su entramado de propiedad intelectual. Esto evidencia los límites de los acuerdos de la OCDE para redistribuir la base imponible de las empresas digitales.",
+          "fuentes": [
+            {
+              "nombre": "Financial Times",
+              "url": "https://www.ft.com/content/ec489542-0968-45d7-9dd7-985ad679f9b2?syn-25a6b1a6=1"
+            }
+          ]
+        },
+        {
+          "titular": "El BCE inicia ciclo directivo bajo el debate sobre la eficacia de su marco de inflación",
+          "que_ha_pasado": "La nueva cúpula directiva del Banco Central Europeo asume el mando prometiendo continuidad en la política monetaria, si bien diversos analistas cuestionan la excesiva dependencia de los modelos actuales respecto a las expectativas de inflación a corto plazo.",
+          "por_que_importa": "Guiar las decisiones de tipos únicamente mediante modelos retrospectivos de inflación puede derivar en errores de política monetaria en un entorno de choques de oferta recurrentes. El BCE se enfrenta al reto de flexibilizar sus herramientas sin perder credibilidad ante los mercados y sin reactivar las tensiones inflacionistas.",
+          "fuentes": [
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/opinion/2026-11-28/la-nueva-direccion-del-bce-hereda-un-manual-fallido.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Economía y mercados"
+    },
+    {
+      "id": "tecnologia",
+      "noticias": [
+        {
+          "titular": "Estados Unidos condiciona las ayudas a Intel a la cesión de un 10% del accionariado",
+          "que_ha_pasado": "El Gobierno de Estados Unidos ha incrementado la presión sobre Intel para que entregue una participación del 10% de su capital social al Estado como condición para liberar miles de millones de dólares en subvenciones ya prometidas dentro del programa federal de incentivos al chip.",
+          "por_que_importa": "La exigencia representa un paso inédito hacia el intervencionismo estatal directo en la industria tecnológica de Estados Unidos. La medida busca garantizar que los fondos públicos invertidos para relocalizar la fabricación estratégica de semiconductores reporten un retorno directo a las arcas federales, transformando la relación entre Washington y Silicon Valley.",
+          "fuentes": [
+            {
+              "nombre": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/"
+            }
+          ]
+        },
+        {
+          "titular": "BYD presenta un monovolumen eléctrico con 900 kilómetros de autonomía",
+          "que_ha_pasado": "El fabricante chino BYD ha anunciado el lanzamiento de un vehículo comercial ligero de alta gama capaz de recorrer unos 900 kilómetros con una sola carga, superando ampliamente los estándares del mercado europeo y estadounidense en movilidad eléctrica.",
+          "por_que_importa": "La ventaja competitiva de China en la densidad energética de las baterías y la eficiencia de producción pone de relieve la brecha tecnológica con los fabricantes tradicionales occidentales. Este avance aumenta la presión sobre el sector automotriz de la UE en plena fase de transición energética y proteccionismo arancelario.",
+          "fuentes": [
+            {
+              "nombre": "The Verge",
+              "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge"
+            }
+          ]
+        },
+        {
+          "titular": "La reintroducción del lince boreal en los Pirineos reabre el debate ambiental en España",
+          "que_ha_pasado": "Diversos colectivos conservacionistas han propuesto activar el plan de reintroducción del lince boreal en la cordillera pirenaica, apoyados en el éxito cosechado por el programa de recuperación del lince ibérico en el sur de la península.",
+          "por_que_importa": "Aunque la recuperación del lince ibérico es una de las grandes victorias de la conservación biológica en Europa, la viabilidad del lince boreal divide a la comunidad científica debido a los cambios en el ecosistema de los Pirineos y la posible fricción con actividades ganaderas locales.",
+          "fuentes": [
+            {
+              "nombre": "Xataka",
+              "url": "https://www.xataka.com/magnet/piden-retomar-plan-para-devolver-lince-boreal-a-pirineos-problema-buena-idea-reintroducir-esta-especie"
+            }
+          ]
+        }
+      ],
+      "titulo": "IA y tecnología"
+    },
+    {
+      "id": "espana",
+      "noticias": [
+        {
+          "titular": "España afronta las elecciones del 29-N con la mirada puesta en los escenarios de investidura",
+          "que_ha_pasado": "A pocas horas de que abran los colegios electorales este domingo 29 de noviembre, los análisis de mercado y coyuntura política anticipan una noche fragmentada donde los pactos posteriores definirán la viabilidad del próximo Gobierno.",
+          "por_que_importa": "Los mercados financieros y sectores como la banca, las energéticas y el inmobiliario evalúan con cautela los posibles bloques de alianzas. La rapidez para articular una mayoría condicionará los plazos de investidura y evitará un bloqueo institucional que afectaría a la ejecución de los fondos de recuperación europeos.",
+          "fuentes": [
+            {
+              "nombre": "El Confidencial",
+              "url": "https://www.elconfidencial.com/espana/2026-11-28/que-pasa-nadie-consigue-mayoria-29-elecciones-1qrt_4474536/"
+            },
+            {
+              "nombre": "Cinco Días",
+              "url": "https://cincodias.elpais.com/mercados-financieros/2026-11-28/la-bolsa-espanola-ante-el-29-n-ganadores-y-perdedores-de-un-posible-cambio-de-gobierno.html"
+            },
+            {
+              "nombre": "Politico Europe",
+              "url": "https://www.politico.eu/article/nine-things-you-need-to-read-spanish-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+            }
+          ]
+        },
+        {
+          "titular": "Renfe reajusta frecuencias en Cercanías tras advertencias por el desgaste en las ruedas de los trenes",
+          "que_ha_pasado": "Empresas encargadas del mantenimiento de la flota de Cercanías alertaron hace un año de que el desgaste en las pestañas de las ruedas alcanzaba límites críticos de seguridad. El operador ha tenido que reprogramar servicios para priorizar las revisiones técnicas.",
+          "por_que_importa": "El caso evidencia las carencias en la gestión y conservación de las infraestructuras ferroviarias tras años de alta densidad de uso. El deterioro del material rodante compromete la fiabilidad de la red de transporte público urbano e incrementa el descontento social por la calidad de los servicios básicos.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/2026/11/28/6b09cebbe9cf4a055a8b457a.html"
+            }
+          ]
+        },
+        {
+          "titular": "La renovada ofensiva arancelaria de EE. UU. contra China impacta en las cadenas globales",
+          "que_ha_pasado": "Washington ha anunciado un endurecimiento de los aranceles a productos chinos y ha ampliado el bloqueo a la exportación de chips de inteligencia artificial, a lo que Pekín ha respondido amenazando con restringir el suministro estratégico de tierras raras.",
+          "por_que_importa": "La reactivación de las tensiones comerciales entre las dos potencias repercute directamente en la economía europea y española, altamente expuesta a las interrupciones en la cadena de suministros industriales y al encarecimiento de los insumos tecnológicos clave.",
+          "fuentes": [
+            {
+              "nombre": "El Mundo",
+              "url": "https://www.elmundo.es/economia/macroeconomia/2026/11/28/6b080af9fc6c833c0c8b45a9.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "España"
+    },
+    {
+      "id": "cultura",
+      "noticias": [
+        {
+          "titular": "La FIL de Guadalajara arranca su 40º aniversario con Italia como potencia invitada",
+          "que_ha_pasado": "La Feria Internacional del Libro de Guadalajara celebra cuatro décadas de trayectoria convertida en el gran referente del sector editorial en español. Italia despliega en esta edición una delegación artística que abarca desde la literatura hasta la creación musical.",
+          "por_que_importa": "La cita mexicana actúa como el principal puente comercial y cultural entre la industria editorial europea y los mercados hispanoamericanos, sirviendo además de escaparate para la proyección exterior de la diplomacia cultural de los países participantes.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/mexico/2026-11-28/la-fil-de-guadalajara-se-abre-como-una-biblioteca-italiana-para-su-40-aniversario.html"
+            }
+          ]
+        },
+        {
+          "titular": "El sector teatral español se moviliza contra la injerencia política en las artes",
+          "que_ha_pasado": "Representantes del teatro y la cultura han protagonizado protestas en el municipio madrileño de Pinto para denunciar episodios de veto e injerencia institucional en la programación de espectáculos públicos.",
+          "por_que_importa": "La movilización pone de manifiesto la creciente tensión entre los creadores culturales y las administraciones locales gobernadas por alianzas de corte conservador, reactivando el debate constitucional sobre la libertad de expresión y los límites de la intervención política en la gestión cultural.",
+          "fuentes": [
+            {
+              "nombre": "El País Cultura",
+              "url": "https://elpais.com/cultura/2026-11-28/el-mundo-del-teatro-explota-contra-las-injerencias-politicas-la-censura-es-latente.html"
+            }
+          ]
+        }
+      ],
+      "titulo": "Cultura y ciencia"
+    }
+  ],
+  "concepto_del_dia": {
+    "termino": "Capitalismo de Estado",
+    "explicacion": "El capitalismo de Estado describe un modelo económico en el que el poder público asume una función empresarial directa, tomando participaciones accionariales o ejerciendo un control estratégico sobre compañías privadas clave. A diferencia del libre mercado tradicional o de la planificación centralizada, este esquema utiliza mecanismos de mercado para competir globalmente, pero subordina el capital corporativo a las prioridades políticas, industriales o de seguridad nacional marcadas por el Gobierno.",
+    "ejemplo": "La exigencia del Gobierno de EE. UU. a Intel para ceder un 10% de su capital social a cambio de desbloquear subsidios del programa de chips."
+  },
+  "fecha": "2026-11-28"
+}
